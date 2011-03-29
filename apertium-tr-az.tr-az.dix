@@ -5,7 +5,8 @@
     <sdef n="n"        c="Noun"/>
     <sdef n="num"      c="Numeral"/>
     <sdef n="v"        c="Verb"/>
-    <sdef n="cnjcoo"   c="Coordinating conjunction"/>
+    <sdef n="cnj"      c="Conjunction"/>
+    <!--<sdef n="cnjcoo"   c="Coordinating conjunction"/>-->
 
     <sdef n="guio"     c="Hyphen"/>
     <sdef n="cm"       c="Comma"/>
@@ -14,8 +15,8 @@
 
   <section id="main" type="standard">
     <!-- Conjunctions -->
-    <e><p><l>ve<s n="cnjcoo"/></l><r>və<s n="cnjcoo"/></r></p></e>
-    <e><p><l>ama<s n="cnjcoo"/></l><r>amma<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ve<s n="cnj"/></l><r>və<s n="cnj"/></r></p></e> <!-- CC -->
+    <e><p><l>ama<s n="cnj"/></l><r>amma<s n="cnj"/></r></p></e> <!-- CC -->
 
     <!-- Nouns -->
     <e><p><l>bira<s n="n"/></l><r>pivə<s n="n"/></r></p></e>
