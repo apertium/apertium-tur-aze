@@ -24,6 +24,10 @@
 
     <e><p><l>sen<s n="prn"/></l><r>sen<s n="prn"/></r></p></e> <!-- Pers -->
 
+    <!-- SECTION: Numerals -->
+
+    <e><p><l>iki<s n="num"/></l><r>iki<s n="num"/></r></p></e>
+
     <!-- SECTION: Nouns -->
     <e><p><l>bira<s n="n"/></l><r>pivə<s n="n"/></r></p></e>
     <e><p><l>kova<s n="n"/></l><r>vedrə<s n="n"/></r></p></e>
