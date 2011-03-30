@@ -46,7 +46,8 @@
     <e><p><l>kitap<s n="n"/></l><r>kitab<s n="n"/></r></p></e>
     <e><p><l>telefon<s n="n"/></l><r>telefon<s n="n"/></r></p></e>
     <e><p><l>altyapı<s n="n"/></l><r>infrastruktur<s n="n"/></r></p></e>
-    <e><p><l>ev<s n="n"/></l><r>ev<s n="n"/></r></p></e>
+    <e><p><l>hastane<s n="n"/></l><r>xəstəxana<s n="n"/></r></p></e>
+
 
     <!-- :: From wikipedia, automatically -->
     <e><p><l>anayasa<s n="n"/></l><r>konstitusiya<s n="n"/></r></p></e>
