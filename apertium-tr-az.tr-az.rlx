@@ -16,6 +16,7 @@ LIST V = (v) ;
 LIST A = (adj) ;
 LIST Det = (det) ;
 LIST Post = (postp) ;
+LIST Pron = (prn) ;
 
 LIST Acc = (acc) ;
 LIST Abs = (abs) ;
@@ -42,7 +43,10 @@ LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp)
 LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ;
 
+SET PERS = Sg1 | Sg2 | Sg3 | Pl1 | Pl2 | Pl3 ;
 SET POSS = PxSg1 | PxSg2 | PxSg3 | PxPl1 | PxPl2 | PxPl3 ;
+SET NOMINAL = N | A ;
+SET NOM-OR-PRO = NOMINAL | Pron ;
 
 SECTION
 
@@ -61,5 +65,6 @@ SELECT A (-1 A LINK -1 Det) (1 N LINK NOT 0 POSS) ;
 SELECT N + PxSg2 (-1 Sg2 + Gen) ;
     ##
 
-REMOVE N + Sg3 (1C* V + Sg3 BARRIER EOS) ;
+REMOVE NOM-OR-PRO + Sg3 (1C* V + PERS BARRIER EOS) ;
     ## Ondan sonraysa yüzde 6,75'e yükseliyor.
+    ## Eve girmekteyken, bir şey hatırladım.

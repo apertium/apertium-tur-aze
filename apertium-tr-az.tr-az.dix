@@ -31,6 +31,7 @@
     <e><p><l>onlar<s n="prn"/></l><r>onlar<s n="prn"/></r></p></e> <!-- Pers -->
 
 
+    <e><p><l>şey<s n="prn"/></l><r>şey<s n="prn"/></r></p></e> <!-- Ind -->
 
     <!-- SECTION: Numerals -->
 
@@ -50,6 +51,8 @@
     <e><p><l>dükkan<s n="n"/></l><r>dükan<s n="n"/></r></p></e>
     <e><p><l>şarap<s n="n"/></l><r>şərab<s n="n"/></r></p></e>
     <e><p><l>restoran<s n="n"/></l><r>restoran<s n="n"/></r></p></e>
+    <e><p><l>hatır<s n="n"/></l><r>xatır<s n="n"/></r></p></e>
+    <e><p><l>ev<s n="n"/></l><r>ev<s n="n"/></r></p></e>
 
 
     <!-- :: From wikipedia, automatically -->
@@ -95,6 +98,8 @@
     <e><p><l>bil<s n="v"/></l><r>bil<s n="v"/></r></p></e>
     <e><p><l>gel<s n="v"/></l><r>gəl<s n="v"/></r></p></e>
     <e><p><l>besle<s n="v"/></l><r>bəslə<s n="v"/></r></p></e>
+    <e><p><l>hatır<s n="v"/></l><r>xatır<s n="v"/></r></p></e>
+    <!--<e><p><l>hatırla<s n="v"/></l><r>xatırla<s n="v"/></r></p></e>-->
 
     <!-- : Automatically added -->
     <e><p><l>ada<s n="v"/></l><r>nəzir<b/>et<s n="v"/></r></p></e>
@@ -156,7 +161,6 @@
     <e><p><l>giy<s n="v"/></l><r>gey<s n="v"/></r></p></e>
     <e><p><l>gül<s n="v"/></l><r>gül<s n="v"/></r></p></e>
     <e><p><l>haşla<s n="v"/></l><r>xaşla<s n="v"/></r></p></e>
-    <e><p><l>hatırla<s n="v"/></l><r>xatırla<s n="v"/></r></p></e>
     <e><p><l>havla<s n="v"/></l><r>hür<s n="v"/></r></p></e>
     <e><p><l>hazırla<s n="v"/></l><r>hazırla<s n="v"/></r></p></e>
     <e><p><l>hırpala<s n="v"/></l><r>xırpala<s n="v"/></r></p></e>
