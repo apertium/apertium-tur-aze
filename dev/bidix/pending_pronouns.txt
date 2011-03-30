@@ -1,0 +1,13 @@
+     34 ^@bu<prn>$
+      6 ^@şu<prn>$
+      2 ^@bu<prn><gen>$
+      2 ^@böyle<prn><p3s>$
+      2 ^@başka<prn><p2s><acc>$
+      1 ^@şu<prn><p3p>$
+      1 ^@şey<prn><3s>$
+      1 ^@ne<prn><3s><dir>$?
+      1 ^@kim<prn><acc>$
+      1 ^@kendi<prn><p3s><acc>$
+      1 ^@kendi<prn><p3s>$
+      1 ^@kendi<prn><3s>$
+      1 ^@bu<prn><abl>$

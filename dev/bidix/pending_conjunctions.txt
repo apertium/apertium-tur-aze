@@ -1,0 +1,9 @@
+     32 ^@de<cnj>$
+     25 ^@da<cnj>$
+      7 ^@fakat<cnj>$
+      5 ^@ki<cnj>$
+      2 ^@yani<cnj>$
+      1 ^@ta<cnj>$
+      1 ^@ila<cnj>$
+      1 ^@gerek<cnj>$
+      1 ^@çünkü<cnj>$

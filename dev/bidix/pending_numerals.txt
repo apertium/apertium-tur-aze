@@ -1,0 +1,15 @@
+     84 ^@bir<num>$
+      7 ^@yüz<num><dmn0><n><loc>$
+      2 ^@yüz<num><dsar><adv>$
+      2 ^@üç<num><dmn0><n><loc>$
+      2 ^@üç<num>$
+      2 ^@milyon<num>$
+      2 ^@beş<num>$
+      2 ^@altı<num><dmn0><n><p2s><loc>$
+      1 ^@yüz<num><dmn0><n><abl>$
+      1 ^@sekiz<num>$
+      1 ^@bir<num><dmn0><n><p2s><loc>$
+      1 ^@bir<num><dmn0><n><dlik><n>$
+      1 ^@bir<num><dmn0><n><acc>$
+      1 ^@bin<num>$
+      1 ^@altı<num><dmn0><n><p2s><dat>$
