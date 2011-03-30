@@ -34,7 +34,11 @@
 
     <!-- SECTION: Numerals -->
 
+    <e><p><l>bir<s n="num"/></l><r>bir<s n="num"/></r></p></e>
     <e><p><l>iki<s n="num"/></l><r>iki<s n="num"/></r></p></e>
+    <e><p><l>üç<s n="num"/></l><r>üç<s n="num"/></r></p></e>
+    <e><p><l>dört<s n="num"/></l><r>dörd<s n="num"/></r></p></e>
+    <e><p><l>beş<s n="num"/></l><r>beş<s n="num"/></r></p></e>
 
     <!-- SECTION: Nouns -->
     <e><p><l>bira<s n="n"/></l><r>pivə<s n="n"/></r></p></e>
@@ -42,6 +46,7 @@
     <e><p><l>kitap<s n="n"/></l><r>kitab<s n="n"/></r></p></e>
     <e><p><l>telefon<s n="n"/></l><r>telefon<s n="n"/></r></p></e>
     <e><p><l>altyapı<s n="n"/></l><r>infrastruktur<s n="n"/></r></p></e>
+    <e><p><l>ev<s n="n"/></l><r>ev<s n="n"/></r></p></e>
 
     <!-- :: From wikipedia, automatically -->
     <e><p><l>anayasa<s n="n"/></l><r>konstitusiya<s n="n"/></r></p></e>
