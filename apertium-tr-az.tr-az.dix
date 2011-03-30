@@ -3,6 +3,7 @@
   <alphabet/>
   <sdefs>
     <sdef n="n"        c="Noun"/>
+    <sdef n="np"       c="Proper noun"/>
     <sdef n="num"      c="Numeral"/>
     <sdef n="prn"      c="Pronoun"/>
     <sdef n="adv"      c="Adverb"/>
@@ -58,6 +59,10 @@
     <e><p><l>sigara<s n="n"/></l><r>papiros<s n="n"/></r></p></e>
     <e><p><l>şura<s n="n"/></l><r>şura<s n="n"/></r></p></e>
     <e><p><l>vakıa<s n="n"/></l><r>vaqiə<s n="n"/></r></p></e>
+
+    <!-- SECTION: Proper nouns -->
+
+    <e><p><l>Ahmet<s n="np"/></l><r>Ahmet<s n="np"/></r></p></e> <!-- Ant.Msc.Sg -->
 
     <!-- SECTION: Adverbs -->
 
@@ -242,6 +247,7 @@
     <e><p><l>zıpla<s n="v"/></l><r>zıpla<s n="v"/></r></p></e>
     <e><p><l>zırla<s n="v"/></l><r>zırılda<s n="v"/></r></p></e>
     <e><p><l>zorla<s n="v"/></l><r>zorla<s n="v"/></r></p></e>
+
 
     <!-- SECTION: Punctuation -->
     <e><p>    <l>-<s n="guio"/></l>    <r>-<s n="guio"/></r>  </p>    </e>

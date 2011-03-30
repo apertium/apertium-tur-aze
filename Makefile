@@ -4,3 +4,6 @@ all:
 
 	apertium-validate-transfer apertium-tr-az.tr-az.t1x
 	apertium-preprocess-transfer apertium-tr-az.tr-az.t1x tr-az.t1x.bin
+
+	apertium-gen-modes modes.xml
+	cp *.mode modes/
