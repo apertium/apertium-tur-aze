@@ -23,7 +23,14 @@
 
     <!-- SECTION: Pronouns -->
 
-    <e><p><l>sen<s n="prn"/></l><r>sen<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>ben<s n="prn"/></l><r>mən<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>sen<s n="prn"/></l><r>sən<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>o<s n="prn"/></l><r>o<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>biz<s n="prn"/></l><r>biz<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>siz<s n="prn"/></l><r>siz<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>onlar<s n="prn"/></l><r>onlar<s n="prn"/></r></p></e> <!-- Pers -->
+
+
 
     <!-- SECTION: Numerals -->
 
