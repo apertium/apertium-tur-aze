@@ -1,0 +1,65 @@
+###############################################################################
+#
+#	A Constraint Grammar Disambiguator for Turkish
+#
+#
+#
+
+DELIMITERS = "<.>" "<!>" "<?>" ;
+SOFT-DELIMITERS = "<,>" ;
+
+LIST BOS = (>>>) ; # Beginning of sentence
+LIST EOS = (<<<) ; # End of sentence
+
+LIST N = (n) ;
+LIST V = (v) ;
+LIST A = (adj) ;
+LIST Det = (det) ;
+LIST Post = (postp) ;
+
+LIST Acc = (acc) ;
+LIST Abs = (abs) ;
+LIST Dat = (dat) ;
+LIST Gen = (gen) ;
+LIST Ins = (ins) ;
+LIST Abl = (abl) ;
+
+LIST Sg1 = (1s) ;
+LIST Sg2 = (2s) ;
+LIST Sg3 = (3s) ;
+LIST Pl1 = (1p) ;
+LIST Pl2 = (2p) ;
+LIST Pl3 = (3p) ;
+
+LIST PxSg1 = (p1s) ;
+LIST PxSg2 = (p2s) ;
+LIST PxSg3 = (p3s) ;
+LIST PxPl1 = (p1p) ;
+LIST PxPl2 = (p2p) ;
+LIST PxPl3 = (p3p) ;
+
+LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ;
+LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
+LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ;
+
+SET POSS = PxSg1 | PxSg2 | PxSg3 | PxPl1 | PxPl2 | PxPl3 ;
+
+SECTION
+
+REMOVE Acc IF (1C POST-ABS) ;
+    ##
+
+REMOVE Acc IF (NOT 0 POSS) (-1 Gen);
+    ##
+
+SELECT Abl IF (1C POST-ABL) ;
+    ##
+
+SELECT A (-1 A LINK -1 Det) (1 N LINK NOT 0 POSS) ;
+    ##
+
+SELECT N + PxSg2 (-1 Sg2 + Gen) ;
+    ##
+
+REMOVE N + Sg3 (1C* V + Sg3 BARRIER EOS) ;
+    ## Ondan sonraysa yüzde 6,75'e yükseliyor.
