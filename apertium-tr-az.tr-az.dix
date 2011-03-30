@@ -33,6 +33,8 @@
     <e><p><l>bira<s n="n"/></l><r>pivə<s n="n"/></r></p></e>
     <e><p><l>kova<s n="n"/></l><r>vedrə<s n="n"/></r></p></e>
     <e><p><l>kitap<s n="n"/></l><r>kitab<s n="n"/></r></p></e>
+    <e><p><l>telefon<s n="n"/></l><r>telefon<s n="n"/></r></p></e>
+    <e><p><l>altyapı<s n="n"/></l><r>infrastruktur<s n="n"/></r></p></e>
 
     <!-- :: From wikipedia, automatically -->
     <e><p><l>anayasa<s n="n"/></l><r>konstitusiya<s n="n"/></r></p></e>
@@ -68,6 +70,7 @@
     <!-- SECTION: Adverbs -->
 
     <e><p><l>yarın<s n="adv"/></l><r>yarın<s n="adv"/></r></p></e>
+    <e><p><l>çok<s n="adv"/></l><r>çox<s n="adv"/></r></p></e>
 
 
     <!-- SECTION: Verbs -->
