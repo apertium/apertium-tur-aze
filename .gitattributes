@@ -1,5 +1,6 @@
 * text=auto !eol
 /Makefile -text
+/README -text
 /apertium-tr-az.tr-az.dix -text
 /apertium-tr-az.tr-az.t1x -text
 /modes.xml -text
