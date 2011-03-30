@@ -9,7 +9,7 @@ dev/bidix/pending_conjunctions.txt -text
 dev/bidix/pending_determiners.txt -text
 dev/bidix/pending_nouns.txt -text
 dev/bidix/pending_numerals.txt -text
-dev/bidix/pending_prepositions.txt -text
+dev/bidix/pending_postpositions.txt -text
 dev/bidix/pending_pronouns.txt -text
 dev/bidix/pending_proper_nouns.txt -text
 dev/bidix/pending_verbs.txt -text
