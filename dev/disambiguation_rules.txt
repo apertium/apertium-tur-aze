@@ -1,0 +1,17 @@
+
+
+==
+From: http://acl.ldc.upenn.edu/W/W96/W96-0207.pdf
+==
+
+* Remove the first of two consecutive verb parses
+* Remove an accusative case marked noun parse before a postposition that subcategorises
+    for nominative
+* Remove the accusative case marked parse without any possessive marker if the previous 
+    form has genitive case marking (signalling a genitive possessive NP construction).
+* Select a parse with case feature ablative if the following postposition unambiguously
+    governs the ablative
+* Select an adjective parse following a determiner-adjective sequence and before a noun
+    without a possessive marker.
+* Select a nominal form with a Sg2 marker following a pronoun with Sg2 agreement and 
+    genitive case.

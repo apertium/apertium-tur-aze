@@ -3,6 +3,7 @@
 /README -text
 /apertium-tr-az.tr-az.dix -text
 /apertium-tr-az.tr-az.t1x -text
+dev/disambiguation_rules.txt -text
 /modes.xml -text
 /pending-tests.sh -text
 /tr-az.prob -text svneol=unset#unset
