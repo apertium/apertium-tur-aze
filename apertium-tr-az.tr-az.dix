@@ -54,6 +54,9 @@
     <e><p><l>seksen<s n="num"/></l><r>səksən<s n="num"/></r></p></e>
     <e><p><l>doksan<s n="num"/></l><r>doxsan<s n="num"/></r></p></e>
     <e><p><l>yüz<s n="num"/></l><r>yüz<s n="num"/></r></p></e>
+    <e><p><l>bin<s n="num"/></l><r>min<s n="num"/></r></p></e>
+    <e><p><l>milyon<s n="num"/></l><r>milyon<s n="num"/></r></p></e>
+    <e><p><l>milyar<s n="num"/></l><r>milyard<s n="num"/></r></p></e>
 
     <!-- SECTION: Nouns -->
     <e><p><l>bira<s n="n"/></l><r>pivə<s n="n"/></r></p></e>
