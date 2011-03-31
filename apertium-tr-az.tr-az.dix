@@ -6,6 +6,7 @@
     <sdef n="np"       c="Proper noun"/>
     <sdef n="num"      c="Numeral"/>
     <sdef n="prn"      c="Pronoun"/>
+    <sdef n="postp"    c="Postposition"/>
     <sdef n="adv"      c="Adverb"/>
     <sdef n="v"        c="Verb"/>
     <sdef n="cnj"      c="Conjunction"/>
@@ -20,6 +21,15 @@
     <!-- SECTION: Conjunctions -->
     <e><p><l>ve<s n="cnj"/></l><r>və<s n="cnj"/></r></p></e> <!-- CC -->
     <e><p><l>ama<s n="cnj"/></l><r>amma<s n="cnj"/></r></p></e> <!-- CC -->
+
+    <!-- SECTION: Postpositions -->
+
+    <e><p><l>değin<s n="postp"/></l><r>qədər<s n="postp"/></r></p></e>
+    <!--<e><p><l>değin<s n="postp"/></l><r>dək<s n="postp"/></r></p></e>-->
+    <e><p><l>kadar<s n="postp"/></l><r>qədər<s n="postp"/></r></p></e>
+    <!--<e><p><l>kadar<s n="postp"/></l><r>kimi<s n="postp"/></r></p></e>-->
+    <e><p><l>ötürü<s n="postp"/></l><r>ötürü<s n="postp"/></r></p></e>
+    <e><p><l>rağmen<s n="postp"/></l><r>rəğmən<s n="postp"/></r></p></e>
 
     <!-- SECTION: Pronouns -->
 
