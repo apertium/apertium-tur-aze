@@ -40,6 +40,20 @@
     <e><p><l>üç<s n="num"/></l><r>üç<s n="num"/></r></p></e>
     <e><p><l>dört<s n="num"/></l><r>dörd<s n="num"/></r></p></e>
     <e><p><l>beş<s n="num"/></l><r>beş<s n="num"/></r></p></e>
+    <e><p><l>altı<s n="num"/></l><r>altı<s n="num"/></r></p></e>
+    <e><p><l>yedi<s n="num"/></l><r>yeddi<s n="num"/></r></p></e>
+    <e><p><l>sekiz<s n="num"/></l><r>səkkiz<s n="num"/></r></p></e>
+    <e><p><l>dokuz<s n="num"/></l><r>doqquz<s n="num"/></r></p></e>
+    <e><p><l>on<s n="num"/></l><r>on<s n="num"/></r></p></e>
+    <e><p><l>yirmi<s n="num"/></l><r>iyirmi<s n="num"/></r></p></e>
+    <e><p><l>otuz<s n="num"/></l><r>otuz<s n="num"/></r></p></e>
+    <e><p><l>kırk<s n="num"/></l><r>qırx<s n="num"/></r></p></e>
+    <e><p><l>elli<s n="num"/></l><r>əlli<s n="num"/></r></p></e>
+    <e><p><l>altmış<s n="num"/></l><r>altmış<s n="num"/></r></p></e>
+    <e><p><l>yetmiş<s n="num"/></l><r>yetmiş<s n="num"/></r></p></e>
+    <e><p><l>seksen<s n="num"/></l><r>səksən<s n="num"/></r></p></e>
+    <e><p><l>doksan<s n="num"/></l><r>doxsan<s n="num"/></r></p></e>
+    <e><p><l>yüz<s n="num"/></l><r>yüz<s n="num"/></r></p></e>
 
     <!-- SECTION: Nouns -->
     <e><p><l>bira<s n="n"/></l><r>pivə<s n="n"/></r></p></e>
