@@ -70,6 +70,11 @@
     <e><p><l>restoran<s n="n"/></l><r>restoran<s n="n"/></r></p></e>
     <e><p><l>hatır<s n="n"/></l><r>xatır<s n="n"/></r></p></e>
     <e><p><l>ev<s n="n"/></l><r>ev<s n="n"/></r></p></e>
+    <e><p><l>halk<s n="n"/></l><r>xalg<s n="n"/></r></p></e>
+    <e><p><l>ülke<s n="n"/></l><r>ölkə<s n="n"/></r></p></e>
+    <e c="  0"><p><l>gösterge<s n="n"/></l><r>indikator<s n="n"/></r></p></e>
+    <!--<e c="  1"><p><l>gösterge<s n="n"/></l><r>nişan<s n="n"/></r></p></e>-->
+    <e><p><l>haber<s n="n"/></l><r>xəbər<s n="n"/></r></p></e>
 
 
     <!-- :: From wikipedia, automatically -->
@@ -107,6 +112,7 @@
 
     <e><p><l>yarın<s n="adv"/></l><r>yarın<s n="adv"/></r></p></e>
     <e><p><l>çok<s n="adv"/></l><r>çox<s n="adv"/></r></p></e>
+    <e><p><l>en<s n="adv"/></l><r>ən<s n="adv"/></r></p></e>
 
 
     <!-- SECTION: Verbs -->
