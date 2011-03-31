@@ -87,7 +87,6 @@
      87 ^@yok<adv><dan0><n><2s>$
      87 ^@yok<adv>$.
      87 ^@yıllarca<adv>$
-     87 ^@bir<num><dsar><adv>$
      86 ^@neden<adv><dan0><n><pl><abl>$
      86 ^@birden<adv>$
      85 ^@hayır<adv>$
@@ -133,7 +132,6 @@
      38 ^@yukarı<adv>$
      38 ^@saatlerce<adv>$
      38 ^@öte<adv><dan0><n><p3s><dat>$
-     38 ^@on<num><dsar><adv><dan0><n><1s>$
      37 ^@temsilen<adv>$
      37 ^@gayet<adv>$
      36 ^@baştan<adv>$
@@ -178,7 +176,6 @@
      16 ^@tekrar<adv><dan0><n><p2s><acc>$
      16 ^@ivedilikle<adv>$
      16 ^@bugün<adv><dan0><n><abl>$
-     15 ^@on<num><dsar><adv><dan0><n><p1s><acc>$
      15 ^@ilk<adv><dan0><n><p2s><acc>$
      15 ^@geceleri<adv>$
      15 ^@bari<adv>$
@@ -205,10 +202,8 @@
      11 ^@yok<adv>$."
      11 ^@kabaca<adv>$
      11 ^@bugün<adv><dan0><n><cplsa><3s>$
-     11 ^@beş<num><dsar><adv>$
      11 ^@açık<adv>$.
      10 ^@yukarı<adv><dan0><n><loc>$
-     10 ^@üç<num><dsar><adv>$
      10 ^@sonra<adv><dan0><n><dat>$
      10 ^@öte<adv><dan0><n><dat>$
      10 ^@neden<adv><dan0><n><p3p><gen>$
@@ -229,7 +224,6 @@
       8 ^@mutlaka<adv>$
       8 ^@çoğun<adv><dlik><n><p3s><ins>$
       8 ^@bugün<adv><dan0><n><gen>$
-      8 ^@bin<num><dsar><adv>$
       8 ^@az<adv>$.
       7 ^@yok<adv><dlik><n><p2s><loc>$
       7 ^@sonra<adv><dan0><n><p3p>$
@@ -242,7 +236,6 @@
       7 ^@gene<adv><dan0><n><dli><adj><djn0><n><p2s><dat>$
       7 ^@fır<adv><dan0><n><p2s><acc>$
       7 ^@epey<adv>$
-      6 ^@yüz<num><dsar><adv>$
       6 ^@sonra<adv><dan0><n><cplsa><3s>$
       6 ^@sahi<adv><dan0><n><dli><adj>$
       6 ^@kuşkusuz<adv>$
@@ -291,7 +284,6 @@
       4 ^@bugün<adv><dan0><n><acc>$
       4 ^@birlikte<adv><dlik><n><acc>$
       4 ^@apaçık<adv>$
-      4 ^@altı<num><dsar><adv>$
       3 ^@yukarı<adv><dan0><n><p3s><loc>$
       3 ^@yok<adv><dlik><n><p2s><dat>$
       3 ^@yine<adv><dan0><n><3p><cplken>$
@@ -299,7 +291,6 @@
       3 ^@tekrar<adv><dan0><n><p2s><loc>$
       3 ^@sonra<adv><dan0><n><p3s><gen>$
       3 ^@şimdi<adv><dan0><n><gen>$
-      3 ^@sekiz<num><dsar><adv>$
       3 ^@sahi<adv><dlik><n><acc>$
       3 ^@öyle<adv>$.
       3 ^@nerdeyse<adv>$
@@ -320,7 +311,6 @@
       3 ^@çoğun<adv><dlik><n><p2s><abl>$
       3 ^@çoğun<adv><dlik><n><loc><ki>$
       3 ^@birdenbire<adv>$
-      3 ^@beş<num><dsar><adv><dan0><n><acc>$
       3 ^@beraber<adv><dlik><n><dat>$
       3 ^@aslen<adv>$
       3 ^@aşağı<adv><dan0><n><p3s><loc>$
@@ -337,7 +327,6 @@
       2 ^@yok<adv><dan0><n><3s><cplken>$
       2 ^@yok<adv><dan0><n><2s>$.
       2 ^@yok<adv>$ 
-      2 ^@yedi<num><dsar><adv>$
       2 ^@toptan<adv><dan0><n><dci><adj><djn0><n><p3s>$
       2 ^@tıpatıp<adv>$
       2 ^@tesadüfen<adv>$
@@ -360,8 +349,6 @@
       2 ^@resen<adv>$
       2 ^@öte<adv><dan0><n><p3s><ins>$
       2 ^@öte<adv><dan0><n><p3s><acc>$
-      2 ^@on<num><dsar><adv><dan0><n><p1s><abl>$
-      2 ^@on<num><dsar><adv><dan0><n><cpldi><3s>$.
       2 ^@öldüresiye<adv>$
       2 ^@nerde<adv><dan0><n><p2s>$
       2 ^@neden<adv><dan0><n><p3p><ins>$
@@ -389,7 +376,6 @@
       2 ^@en<adv><dan0><n><p2s><dat>$
       2 ^@en<adv><dan0><n><dat>$
       2 ^@en<adv><dan0><n><cpldi><3s>$
-      2 ^@dört<num><dsar><adv>$
       2 ^@daha<adv>$ 
       2 ^@çoğun<adv><dlik><n><pl><ins>$
       2 ^@çoğun<adv><dlik><n><loc><cpldi><3s>$.
@@ -406,7 +392,6 @@
       2 ^@akabinde<adv>$
       1 ^@zımnen<adv>$
       1 ^@zihnen<adv>$
-      1 ^@yüz<num><dsar><adv><dan0><n><3s><cplken>$
       1 ^@yukarı<adv><dan0><n><p3s><dat>$
       1 ^@yukarı<adv><dan0><n><p3s><acc>$
       1 ^@yukarı<adv><dan0><n><loc><ki>$
@@ -446,12 +431,6 @@
       1 ^@peşinen<adv>$
       1 ^@öte<adv><dan0><n><pl><dat>$
       1 ^@öte<adv><dan0><n><loc><ki>$
-      1 ^@on<num><dsar><adv><dan0><n><p1s><loc>$
-      1 ^@on<num><dsar><adv><dan0><n><p1s><dat>$
-      1 ^@on<num><dsar><adv><dan0><n><cpldi><3s>$
-      1 ^@on<num><dsar><adv><dan0><n><cpldi><3p>$.
-      1 ^@on<num><dsar><adv><dan0><n><3s><cplken>$
-      1 ^@on<num><dsar><adv>$
       1 ^@önce<adv>$.
       1 ^@olabildiğince<adv>$
       1 ^@nice<adv><dlik><n><acc>$

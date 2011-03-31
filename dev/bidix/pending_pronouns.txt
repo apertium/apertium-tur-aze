@@ -7,7 +7,6 @@
     877 ^@bu<prn><dat>$
     823 ^@bu<prn><acc>$
     640 ^@bu<prn><abl>$
-    508 ^@şey<prn><3s>$
     482 ^@kendi<prn><p3s><acc>$
     458 ^@kendi<prn><p3s><dat>$
     297 ^@bu<prn><p2s><ins>$
@@ -15,8 +14,6 @@
     209 ^@bu<prn><p3p>$
     171 ^@kendi<prn><p3p><acc>$
     152 ^@kendi<prn><p3p><dat>$
-    144 ^@şey<prn><gen>$
-    144 ^@şey<prn><acc>$
     134 ^@kendi<prn><p3s><gen>$
     118 ^@kim<prn><cplsa><3s>$
     111 ^@kim<prn><gen>$
@@ -31,12 +28,9 @@
      43 ^@kendi<prn><p3s><abl>$
      39 ^@kendi<prn><p3p>$
      29 ^@kim<prn><acc>$
-     27 ^@şey<prn><dat>$
      27 ^@kendi<prn><p3p><gen>$
      25 ^@şu<prn><acc>$
      25 ^@bu<prn><ins>$
-     23 ^@şey<prn><abl>$
-     22 ^@şey<prn><p3p>$
      19 ^@başka<prn><p3p><gen>$
      19 ^@başka<prn><gen>$
      18 ^@kendi<prn><p3p><ins>$
@@ -59,31 +53,22 @@
      10 ^@kendi<prn><p2s><abl>$
      10 ^@bu<prn><ca>$
      10 ^@başka<prn><p2s><acc>$.
-      9 ^@şey<prn><ins>$
       8 ^@ne<prn><3s><dir>$
       8 ^@başka<prn><p2s><dat>$
-      7 ^@şey<prn><3s><dir>$
-      7 ^@şey<prn><3s>$.
       7 ^@başka<prn><p3p><acc>$
       6 ^@hangi<prn><p3s><gen>$
       6 ^@bu<prn><cpldi><3s>$.
-      5 ^@şey<prn><3s>$."
       5 ^@ne<prn><cplsa><3s>$
       5 ^@kendi<prn><p3p><abl>$
       5 ^@kendi<prn><p1p>$
       5 ^@bu<prn><loc><ki>$
       5 ^@bu<prn>$.
       5 ^@başka<prn><p2s><acc><cpldi><3s>$.
-      4 ^@şey<prn><3s><dir>$.
       4 ^@kim<prn><p2s><ins>$
       4 ^@böyle<prn><p3s><dat>$
       4 ^@başka<prn><p3p><ins>$
       4 ^@başka<prn><p2s><abl>$
       3 ^@şu<prn><dat>$
-      3 ^@şey<prn><p1p>$
-      3 ^@şey<prn><loc>$
-      3 ^@şey<prn><cplsa><3s>$
-      3 ^@şey<prn><3s><dir>$."
       3 ^@nere<prn><loc>$
       3 ^@ne<prn><gen>$
       3 ^@kim<prn><loc>$
@@ -92,7 +77,6 @@
       3 ^@başka<prn><p3s><ins>$
       2 ^@şu<prn><abl>$
       2 ^@şöyle<prn><3s><dir>$
-      2 ^@şey<prn><cpldi><3s>$.
       2 ^@öyle<prn><p3s><dat>$
       2 ^@nere<prn><p3s><loc>$
       2 ^@nere<prn><loc><1p>$
@@ -107,10 +91,6 @@
       2 ^@başka<prn><p3s><dat>$
       2 ^@başka<prn><p3p><abl>$
       2 ^@başka<prn><p2s><acc><cpldi><3s>$
-      1 ^@şey<prn><p3p><acc>$
-      1 ^@şey<prn><cplmis><3s>$
-      1 ^@şey<prn><cpldi><3s>$
-      1 ^@şey<prn><1s>$
       1 ^@öteki<prn><p2s><dat>$
       1 ^@ne<prn><p1s>$
       1 ^@ne<prn><loc>$
