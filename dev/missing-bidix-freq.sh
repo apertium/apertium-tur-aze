@@ -15,9 +15,9 @@ cat $INPUT | grep '@' | grep '<post' | grep -v '<v' | sh ~/scripts/lowercase.sh 
 
 cat $INPUT | grep '@' | grep '<adj>'  | sed 's/<attr>//g' | sed 's/<pred>//g' | sh ~/scripts/lowercase.sh  | sed 's/[ανρχί]/\n/g' | sed 's/^\W*\^/^/g' | sort -f | uniq -c  | sort -gr  | grep -v '[0-9] $' | grep '<adj>' | grep '@' > $DEV/pending_adjectives.txt
 
-cat $INPUT | grep '@' | grep '<n>'  | sed 's/<sg>//g' | sed 's/<pl>//g' | sh ~/scripts/lowercase.sh  | sed 's/^\W*\^/^/g' | sort -f | uniq -c  | sort -gr  | grep -v '[0-9] $'  > $DEV/pending_nouns.txt
+cat $INPUT | grep '@' | grep '<n>'  | sed 's/\(<sg>\|<ins>\|<acc>\|<dat>\|<loc>\|<gen>\|<nom>\|<abs>\|<p1s>\|<p2s>\|<p3s>\|<p1p>\|<p2p>\|<p3p\)//g' | sed 's/<pl>//g' | sh ~/scripts/lowercase.sh  | sed 's/^\W*\^/^/g' | sort -f | uniq -c  | sort -gr  | grep -v '[0-9] $'  > $DEV/pending_nouns.txt
 
-cat $INPUT | grep '@' | grep '<prn>'  | sed 's/<sg>//g' | sed 's/<pl>//g' | sh ~/scripts/lowercase.sh  | sed 's/^\W*\^/^/g' | sort -f | uniq -c  | sort -gr  | grep -v '[0-9] $'  > $DEV/pending_pronouns.txt
+cat $INPUT | grep '@' | grep '<prn>'  | sed 's/\(<sg>\|<ins>\|<acc>\|<dat>\|<loc>\|<gen>\|<nom>\|<abs>\|<p1s>\|<p2s>\|<p3s>\|<p1p>\|<p2p>\|<p3p\)//g' | sed 's/<pl>//g' | sh ~/scripts/lowercase.sh  | sed 's/^\W*\^/^/g' | sort -f | uniq -c  | sort -gr  | grep -v '[0-9] $'  > $DEV/pending_pronouns.txt
 
 cat $INPUT | grep '@' | grep '<num>'  | sed 's/<sg>//g' | sed 's/<pl>//g' | sh ~/scripts/lowercase.sh  | sed 's/^\W*\^/^/g' | sort -f | uniq -c  | sort -gr  | grep -v '[0-9] $' > $DEV/pending_numerals.txt
 

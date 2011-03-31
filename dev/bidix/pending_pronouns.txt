@@ -1,100 +1,50 @@
-  18155 ^@bu<prn>$
-   6944 ^@başka<prn><p2s><acc>$
-   2592 ^@bu<prn><gen>$
+  22815 ^@bu<prn>$
+   8259 ^@başka<prn>$
+   1573 ^@kendi<prn>$
    1319 ^@kendi<prn><3s>$
-   1239 ^@başka<prn><p2s>$
-   1218 ^@şu<prn>$
-    877 ^@bu<prn><dat>$
-    823 ^@bu<prn><acc>$
+   1246 ^@şu<prn>$
     640 ^@bu<prn><abl>$
-    482 ^@kendi<prn><p3s><acc>$
-    458 ^@kendi<prn><p3s><dat>$
-    297 ^@bu<prn><p2s><ins>$
-    242 ^@kendi<prn><p3s>$
-    209 ^@bu<prn><p3p>$
-    171 ^@kendi<prn><p3p><acc>$
-    152 ^@kendi<prn><p3p><dat>$
-    134 ^@kendi<prn><p3s><gen>$
+    409 ^@kendi<prn>>$
+    209 ^@bu<prn>>$
+    162 ^@kim<prn>$
     118 ^@kim<prn><cplsa><3s>$
-    111 ^@kim<prn><gen>$
-    105 ^@şu<prn><p3p>$
+    105 ^@şu<prn>>$
      92 ^@hangi<prn><3s>$
-     91 ^@kendi<prn><p2s><acc>$
-     67 ^@böyle<prn><p3s>$
-     60 ^@kendi<prn><p3s><ins>$
-     57 ^@kendi<prn><p2s><dat>$
+     71 ^@böyle<prn>$
+     58 ^@başka<prn>>$
+     54 ^@kendi<prn><abl>$
      52 ^@kim<prn><3s>$
-     46 ^@bu<prn><loc>$
-     43 ^@kendi<prn><p3s><abl>$
-     39 ^@kendi<prn><p3p>$
-     29 ^@kim<prn><acc>$
-     27 ^@kendi<prn><p3p><gen>$
-     25 ^@şu<prn><acc>$
-     25 ^@bu<prn><ins>$
-     19 ^@başka<prn><p3p><gen>$
-     19 ^@başka<prn><gen>$
-     18 ^@kendi<prn><p3p><ins>$
+     22 ^@nere<prn>$
+     18 ^@ne<prn>$
      17 ^@şu<prn><3p>$
-     17 ^@nere<prn><dat>$
-     17 ^@başka<prn><p3s>$
-     16 ^@başka<prn><p3p>$
-     15 ^@kim<prn><dat>$
      14 ^@ne<prn><3s><dir>$?
      13 ^@kim<prn><abl>$
-     13 ^@başka<prn><p3s><gen>$
      12 ^@öteki<prn><3s>$
-     12 ^@kendi<prn><p3s><loc>$
-     12 ^@kendi<prn><p1p><acc>$
-     12 ^@başka<prn><p3s><acc>$
-     12 ^@başka<prn><p3p><dat>$
-     11 ^@kendi<prn><p1s><acc>$
      10 ^@nere<prn><abl>$
-     10 ^@ne<prn><acc>$
-     10 ^@kendi<prn><p2s><abl>$
      10 ^@bu<prn><ca>$
-     10 ^@başka<prn><p2s><acc>$.
+     10 ^@başka<prn>$.
       8 ^@ne<prn><3s><dir>$
-      8 ^@başka<prn><p2s><dat>$
-      7 ^@başka<prn><p3p><acc>$
-      6 ^@hangi<prn><p3s><gen>$
+      8 ^@hangi<prn>$
       6 ^@bu<prn><cpldi><3s>$.
+      6 ^@başka<prn><cpldi><3s>$.
       5 ^@ne<prn><cplsa><3s>$
-      5 ^@kendi<prn><p3p><abl>$
-      5 ^@kendi<prn><p1p>$
-      5 ^@bu<prn><loc><ki>$
+      5 ^@kendi<prn>><abl>$
+      5 ^@hangi<prn>>$
+      5 ^@bu<prn><ki>$
       5 ^@bu<prn>$.
-      5 ^@başka<prn><p2s><acc><cpldi><3s>$.
-      4 ^@kim<prn><p2s><ins>$
-      4 ^@böyle<prn><p3s><dat>$
-      4 ^@başka<prn><p3p><ins>$
-      4 ^@başka<prn><p2s><abl>$
-      3 ^@şu<prn><dat>$
-      3 ^@nere<prn><loc>$
-      3 ^@ne<prn><gen>$
-      3 ^@kim<prn><loc>$
-      3 ^@kendi<prn><p2p>$
-      3 ^@hangi<prn><p3p><gen>$
-      3 ^@başka<prn><p3s><ins>$
+      4 ^@başka<prn><abl>$
       2 ^@şu<prn><abl>$
       2 ^@şöyle<prn><3s><dir>$
-      2 ^@öyle<prn><p3s><dat>$
-      2 ^@nere<prn><p3s><loc>$
-      2 ^@nere<prn><loc><1p>$
-      2 ^@ne<prn><p3s>$
+      2 ^@öyle<prn>$
+      2 ^@nere<prn><1p>$
       2 ^@ne<prn><abl><cplsa><3s>$
       2 ^@kim<prn><3p>$
-      2 ^@kendi<prn><p3s><3s><dir>$
-      2 ^@kendi<prn><p3p><loc>$
-      2 ^@kendi<prn><p1p><dat>$
+      2 ^@kendi<prn><3s><dir>$
       2 ^@bu<prn>$."
       2 ^@böyle<prn><cplsa><3s>$
-      2 ^@başka<prn><p3s><dat>$
-      2 ^@başka<prn><p3p><abl>$
-      2 ^@başka<prn><p2s><acc><cpldi><3s>$
-      1 ^@öteki<prn><p2s><dat>$
-      1 ^@ne<prn><p1s>$
-      1 ^@ne<prn><loc>$
-      1 ^@ne<prn><ins>$
+      2 ^@başka<prn><cpldi><3s>$
+      2 ^@başka<prn>><abl>$
+      1 ^@öteki<prn>$
       1 ^@ne<prn><cpldi><3s>$
       1 ^@ne<prn><abl><cpldi><3s>$.
       1 ^@ne<prn><abl><3s><dir>$
@@ -103,32 +53,20 @@
       1 ^@ne<prn><abl><1s>$
       1 ^@ne<prn><3s><dir>$?"
       1 ^@ne<prn><3p><dir>$?
-      1 ^@kendi<prn><p3s><loc><3s><dir>$.
-      1 ^@kendi<prn><p3p><gen><ki><p2s><dat>$
-      1 ^@kendi<prn><p3p><gen><cplmis><3s>$
-      1 ^@kendi<prn><p3p><ca>$
-      1 ^@kendi<prn><p2s><acc>$.
-      1 ^@kendi<prn><p2p><dat>$
-      1 ^@kendi<prn><p2p><acc>$
-      1 ^@kendi<prn><p1s><dat>$
-      1 ^@kendi<prn><p1s><abl>$
-      1 ^@kendi<prn><ins>$
+      1 ^@kendi<prn>><ki>$
+      1 ^@kendi<prn>><cplmis><3s>$
+      1 ^@kendi<prn>><ca>$
       1 ^@kendi<prn><ca>$
-      1 ^@hangi<prn><p3s><cpldi><3s>$
-      1 ^@hangi<prn><p3s><acc>$
-      1 ^@hangi<prn><p3s>$
-      1 ^@hangi<prn><p3p><acc>$
-      1 ^@hangi<prn><p3p>$
-      1 ^@bu<prn><gen><cplsa><3s>$
+      1 ^@kendi<prn><3s><dir>$.
+      1 ^@kendi<prn>$.
+      1 ^@hangi<prn><cpldi><3s>$
+      1 ^@bu<prn><cplsa><3s>$
       1 ^@bu<prn><cpldi><3s>$
       1 ^@bu<prn><abl><cplsa><3s>$
       1 ^@bu<prn><3p><dir>$
       1 ^@böyle<prn><cpldi><3s>$.
-      1 ^@başka<prn><p3s><loc>$
-      1 ^@başka<prn><p3p><cplsa><3s>$
-      1 ^@başka<prn><p3p><ca>$
-      1 ^@başka<prn><p2s><ins>$
-      1 ^@başka<prn><p2s><cpldi><3s>$.
-      1 ^@başka<prn><p2s><acc><3s><dir>$.
-      1 ^@başka<prn><p2s><acc><3s><cplken>$
-      1 ^@başka<prn><p2s><acc>$]
+      1 ^@başka<prn>><cplsa><3s>$
+      1 ^@başka<prn>><ca>$
+      1 ^@başka<prn><3s><dir>$.
+      1 ^@başka<prn><3s><cplken>$
+      1 ^@başka<prn>$]
