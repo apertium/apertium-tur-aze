@@ -1,5 +1,4 @@
    7837 ^@daha<adv>$
-   6430 ^@en<adv>$
    4638 ^@ancak<adv>$
    4420 ^@karşı<adv>$
    4043 ^@sonra<adv>$
@@ -209,7 +208,6 @@
      10 ^@neden<adv><dan0><n><p3p><gen>$
      10 ^@hayli<adv>$
      10 ^@gene<adv><dan0><n><dli><adj><djn0><n><p2s><loc><ki>$
-     10 ^@en<adv><dan0><n><acc>$
      10 ^@direkt<adv>$
      10 ^@beraber<adv><dlik><n>$
       9 ^@yok<adv><dan0><n><cpldi><3s>$
@@ -241,7 +239,6 @@
       6 ^@kuşkusuz<adv>$
       6 ^@geri<adv><dan0><n><dli><adj><djn0><n><p1s><gen>$
       6 ^@geç<adv><dan0><n><cpldi><3p>$
-      6 ^@en<adv><dan0><n><p2s><loc>$
       6 ^@cup<adv>$
       6 ^@alenen<adv>$
       5 ^@yok<adv><dlik><n><p2s><gen>$
@@ -373,9 +370,6 @@
       2 ^@geç<adv><dan0><n><cpldi><1s>$
       2 ^@fır<adv><dan0><n><p2s><gen>$
       2 ^@evet<adv>$.
-      2 ^@en<adv><dan0><n><p2s><dat>$
-      2 ^@en<adv><dan0><n><dat>$
-      2 ^@en<adv><dan0><n><cpldi><3s>$
       2 ^@daha<adv>$ 
       2 ^@çoğun<adv><dlik><n><pl><ins>$
       2 ^@çoğun<adv><dlik><n><loc><cpldi><3s>$.

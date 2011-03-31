@@ -2,7 +2,6 @@
   23081 ^@iç<adj><djn0><n>$
   19232 ^@ab<n>$
   15076 ^@il<n>$
-  13586 ^@ülke<n>$
   12266 ^@yıl<n>$
   12034 ^@ara<adj><djn0><n>$
   11220 ^@üzer<n>$
@@ -24,7 +23,6 @@
    6537 ^@üye<n><dlik><n>$
    6493 ^@uluslararası<n>$
    6361 ^@taraf<n><abl>$
-   6122 ^@haber<n>$
    6037 ^@il<n><dgil><n>$
    5910 ^@çarşamba<n>$
    5822 ^@sal<n>$
@@ -63,7 +61,6 @@
    3934 ^@pazar<n>$
    3851 ^@parlamento<n>$
    3829 ^@karar<adj><djn0><n>$
-   3730 ^@ol<v><dma><n>$
    3710 ^@bölge<n>$
    3704 ^@mart<n>$
    3670 ^@arnavut<n>$
@@ -106,7 +103,6 @@
    2784 ^@katı<n><dli><adj><djn0><n>$
    2758 ^@yaklaşık<n>$
    2748 ^@cumhuriyet<n>$
-   2741 ^@halk<n>$
    2704 ^@sahip<n>$
    2691 ^@ek<adj><djn0><n><1s>$
    2675 ^@merkez<n>$
@@ -132,7 +128,6 @@
    2391 ^@ifade<n>$
    2366 ^@seçim<n>$
    2366 ^@proje<n>$
-   2323 ^@ülke<n>>$
    2320 ^@yardım<n><dci><adj><djn0><n>$
    2296 ^@sır<n>$
    2286 ^@yasa<n>$
@@ -301,7 +296,6 @@
    1082 ^@ön<n><dca><adj><djn0><n>$
    1076 ^@yönetim<n>$
    1067 ^@milletvekil<n>>$
-   1063 ^@ülke<n><ki>$
    1056 ^@çocuk<n>$
    1053 ^@serbest<n>$
    1049 ^@anket<n>$
@@ -345,7 +339,6 @@
     939 ^@getir<v><dma><n>$
     934 ^@kaçak<adj><djn0><n><dci><adj><dlik><n>$
     933 ^@uz<n><dlas><v><dma><n>$
-    932 ^@ülke<n><abl>$
     928 ^@konu<n><ki>$
     923 ^@yardım<n>$
     923 ^@kor<n>$
@@ -483,7 +476,6 @@
     661 ^@madde<n>$
     659 ^@asker<n>>$
     657 ^@idare<n>$
-    657 ^@haber<n>>$
     655 ^@baş<n><dla><v><caus><vnma>$
     652 ^@vatandaş<n>>$
     651 ^@kal<v><dma><n>$
@@ -682,7 +674,6 @@
     430 ^@stratejik<n>$
     430 ^@sav<n><dci><adj><dlik><n>$
     429 ^@kongre<n>$
-    428 ^@ol<v><dma><n><abl>$
     428 ^@ihale<n>$
     428 ^@grev<n>$
     428 ^@başkan<n>>$
@@ -854,7 +845,6 @@
     330 ^@basın<n>$
     329 ^@tutum<n>$
     329 ^@gör<v><dyis><n><cpldi><3s>$
-    328 ^@haber<n><dlas><v><dma><n>$
     328 ^@bun<n>$
     328 ^@aday<n><dlik><n>$
     327 ^@başkan<n>$
@@ -911,7 +901,6 @@
     305 ^@bayram<n>$
     304 ^@tamam<adj><dla><v><dma><n>$
     303 ^@ön<n><dla><v><dma><n>$
-    303 ^@ol<v><dma><n>>$
     302 ^@uzman<n>>$
     302 ^@erte<n><dla><v><dma><n>$
     302 ^@demokrat<n>$
@@ -1349,7 +1338,6 @@
     172 ^@ses<n>$
     172 ^@sahip<n>>$
     172 ^@kul<n><dlan><v><pass><partyan>$
-    171 ^@ülke<n>><abl>$
     171 ^@şart<n><dli><adj>$
     171 ^@organizasyon<n>$
     171 ^@oğul<n>$
@@ -1507,7 +1495,6 @@
     145 ^@öğreti<n>$
     145 ^@mevzuat<n>$
     145 ^@gün<n>>$
-    145 ^@gösterge<n>$
     145 ^@emlak<n>$
     145 ^@eleştiri<n>>$
     144 ^@tecavüz<n>$
@@ -1783,7 +1770,6 @@
     112 ^@dink<n>$
     112 ^@ayrıntı<n>>$
     111 ^@yarar<n>$
-    111 ^@ülke<n>><ki>$
     111 ^@teftiş<n>$
     111 ^@taraf<n><dnnsiz><adj>$
     111 ^@sinema<n>$
@@ -1918,7 +1904,6 @@
     100 ^@yazı<n><dli><adj><djn0><n>$
     100 ^@yayın<n><dlan><v><dma><n>$
     100 ^@süre<n><dci><adj><djn0><n><ki>$
-    100 ^@ol<v><dyis><n>$
     100 ^@öğret<v><dma><n>$
     100 ^@kul<n><dlan><v><partyan>$
     100 ^@kilometre<n><dlik><n>$
@@ -2155,7 +2140,6 @@
      84 ^@iz<n><dla><v><vnacak>$
      84 ^@imza<n><dla><v><tpast><3p>$
      84 ^@hız<n><dla><v><timp><2s>$
-     84 ^@halk<n><abl>$
      84 ^@fırt<n>$
      84 ^@başarı<n>>$
      84 ^@at<n><cpldi><3p>$.
@@ -2701,7 +2685,6 @@
      58 ^@ilet<v><dyis><n>$
      58 ^@iflas<n>$
      58 ^@havaalan<n>>$
-     58 ^@halk<n>>$
      58 ^@gider<n>>$
      58 ^@gergin<adj><dlik><n><3p>$
      58 ^@geçit<n>$
@@ -3185,7 +3168,6 @@
      43 ^@radar<n>$
      43 ^@plan<n><dla><v><partyan>$
      43 ^@pazar<n><dla><v><dma><n>$
-     43 ^@ol<v><dyis><n><1s>$
      43 ^@kurs<n>$
      43 ^@kul<n><dlan><v><pass><abil><vnacak>$
      43 ^@kömür<n>$
@@ -3360,7 +3342,6 @@
      39 ^@popüler<n><dlik><n>$
      39 ^@pek<adj><djn0><n>$
      39 ^@ordu<n><ki>$
-     39 ^@ol<v><dma><n>$.
      39 ^@öğle<n><abl>$
      39 ^@norm<n>>$
      39 ^@mevki<n>>$
@@ -3409,7 +3390,6 @@
      38 ^@yaka<n><dlan><v><vndik>$
      38 ^@verim<n><dnnsiz><adj>$
      38 ^@umut<n><dli><adj>$
-     38 ^@ülke<n>$.
      38 ^@transit<n>$
      38 ^@trajedi<n>$
      38 ^@teminat<n>$
@@ -3476,7 +3456,6 @@
      37 ^@otoban<n>$
      37 ^@organizatör<n>$
      37 ^@ön<n><dla><v><dvnyici><adj>$
-     37 ^@ol<v><dma><n><dli><adj><djn0><n><3s><dir>$
      37 ^@öğren<v><dma><n>$
      37 ^@öd<n>$
      37 ^@nişan<n>$
@@ -3640,7 +3619,6 @@
      34 ^@ihale<n>>$
      34 ^@hoşnut<n><dnnsiz><adj><dlik><n>$
      34 ^@hissedar<n>$
-     34 ^@halk<n><dla><v><timp><2s>$
      34 ^@giz<n><dlan><v><cvmis>$
      34 ^@düzen<n><dlan><v><vndik>$
      34 ^@doğ<v><dma><n>$
@@ -4069,7 +4047,6 @@
      27 ^@pas<n>$
      27 ^@örnek<n>>$
      27 ^@onay<n><dla><v><dma><n>>$
-     27 ^@ol<v><dma><n><dli><adj>$
      27 ^@öğretmen<n>>$
      27 ^@niyet<n><dli><adj>$
      27 ^@nakliyat<n>$
@@ -4780,7 +4757,6 @@
      20 ^@erte<n><dla><v><vndik>$
      20 ^@erte<n><dlan><v><vnacak>$
      20 ^@engel<n><dla><v><abil><vnacak>$
-     20 ^@en<adv><dan0><n>$
      20 ^@emisyon<n>>$
      20 ^@el<n><dla><v><timp><2s>$
      20 ^@elektrik<n><dnnsiz><adj>$
@@ -5146,7 +5122,6 @@
      17 ^@hat<n><abl>$
      17 ^@hasta<adj><djn0><n>>$
      17 ^@halter<n><dci><adj>$
-     17 ^@haber<n><abl>$
      17 ^@gurbet<n><dci><adj><djn0><n>$
      17 ^@grup<n><ki>$
      17 ^@grev<n>>$
@@ -5268,7 +5243,6 @@
      16 ^@opsiyon<n>$
      16 ^@ön<n>>$
      16 ^@om<n><1p>$
-     16 ^@ol<v><dma><n><2s>$
      16 ^@olanak<n><dli><adj>$
      16 ^@oil<n>$
      16 ^@numara<n>>$
@@ -5668,7 +5642,6 @@
      14 ^@ora<n><ki>$
      14 ^@onur<n><dli><adj>$
      14 ^@omuz<n>$
-     14 ^@ol<v><dma><n><dli><adj>$.
      14 ^@ölüm<n>>$
      14 ^@olimpiyat<n><abl>$
      14 ^@olimpik<n>$
@@ -5727,7 +5700,6 @@
      14 ^@hanedan<n>$
      14 ^@hakimiyet<n>$
      14 ^@hafta<n>>$
-     14 ^@haber<n><dci><adj><dlik><n>$
      14 ^@güreş<n><dci><adj><djn0><n>$
      14 ^@grup<n><dla><v><timp><2s>$
      14 ^@gözetle<v><dma><n>$
@@ -5876,7 +5848,6 @@
      13 ^@ön<n>><ki>$
      13 ^@onay<n><dla><v><vndik>>$
      13 ^@onay<n><dlan><v><tnarr><cpldi><3s>$.
-     13 ^@ol<v><dma><n><dli><adj><djn0><n><1p>$
      13 ^@öfke<n><dli><adj>$
      13 ^@odak<n><dlan><v><vndik>$
      13 ^@nüsha<n>$
@@ -5936,7 +5907,6 @@
      13 ^@gündem<n>>$
      13 ^@güç<n><dlik><n><abl>$
      13 ^@güç<n>><ca>$
-     13 ^@gösterge<n>$.
      13 ^@görün<v><dyis><n>$
      13 ^@görünür<n>$
      13 ^@görünüm<n><dla><v><timp><2s>$
@@ -6129,7 +6099,6 @@
      12 ^@ön<n><dla><v><partyan>$
      12 ^@ön<n><dci><adj>$
      12 ^@onay<n><dlan><v><vnacak>$.
-     12 ^@ol<v><dma><n>><abl>$
      12 ^@ölçüt<n>$
      12 ^@öğren<v><dci><n><abl>$
      12 ^@oda<n><abl>$
@@ -6206,7 +6175,6 @@
      12 ^@hapis<n><dla><v><timp><2s>$
      12 ^@hakaret<n><dla><v><timp><2s>$
      12 ^@haddehane<n>$
-     12 ^@haber<n><dci><adj><djn0><n>$
      12 ^@gün<n><cplsa><3s>$
      12 ^@gündem<n><abl>$
      12 ^@günah<n>$
@@ -6504,7 +6472,6 @@
      11 ^@güven<n><dca><adj><djn0><n>>$
      11 ^@güncel<n>$
      11 ^@gücü<n><abl>$
-     11 ^@gösterge<n>>$
      11 ^@gönder<n>$
      11 ^@gök<n>$
      11 ^@göğüs<n><dla><v><dma><n>$
@@ -6722,8 +6689,6 @@
      10 ^@önyargı<n><dli><adj>$
      10 ^@önem<n><dli><adj>$.
      10 ^@onay<n><dli><adj>$
-     10 ^@ol<v><dma><n><dli><adj><djn0><n><3s><dir>$.
-     10 ^@ol<v><dma><n><3s><dir>$
      10 ^@olay<n>$.
      10 ^@okyanus<n>$
      10 ^@oku<v><dma><n>>$
@@ -6816,7 +6781,6 @@
      10 ^@havaalan<n><ki>$
      10 ^@halef<n>$
      10 ^@haki<adj><djn0><n><abl>$
-     10 ^@haber<n>><abl>$
      10 ^@gürültü<n>$
      10 ^@gün<n><ki>$
      10 ^@gündelik<n>$
@@ -6994,7 +6958,6 @@
       9 ^@uygu<n><dla><v><abil><vnacak>$
       9 ^@üst<n><dlan><v><taor><3s><cplken>$
       9 ^@üniversite<n><abl>$
-      9 ^@ülke<n><3s><dir>$
       9 ^@uğraş<n>$
       9 ^@ucuz<adj><djn0><n>$
       9 ^@tüzel<n>$
@@ -7393,8 +7356,6 @@
       8 ^@üret<v><dvnyici><adj><djn0><n>><abl>$
       8 ^@unsur<n><abl>$
       8 ^@ün<n><dli><adj><djn0><n>$
-      8 ^@ülke<n><dli><adj>$
-      8 ^@ülke<n><cpldi><3s>$.
       8 ^@ulaş<v><dma><n><ki>$
       8 ^@uğra<v><dma><n><abl>$
       8 ^@tütün<n>$
@@ -7984,7 +7945,6 @@
       7 ^@önceki<adj><djn0><n><abl>$
       7 ^@onay<n><dla><v><vndik><abl>$
       7 ^@omuz<n><abl>$
-      7 ^@ol<v><dyis><n><cpldi><3s>$.
       7 ^@olgu<n>$
       7 ^@olası<n><dlik><n><dli><adj>$
       7 ^@öğe<n>>$
@@ -8599,10 +8559,6 @@
       6 ^@onay<n><dlan><v><neg><taor><3s>$
       6 ^@onay<n><dlan><v><abil><vnma>$
       6 ^@onay<n>>$
-      6 ^@ol<v><dyis><n><abl>$
-      6 ^@ol<v><dma><n><ki>$
-      6 ^@ol<v><dma><n><3p>$
-      6 ^@ol<v><dma><n>>$.
       6 ^@olumsuz<n><abl>$
       6 ^@olimpiyat<n>><abl>$
       6 ^@oku<v><dvnyici><adj><djn0><n>>$
@@ -8807,7 +8763,6 @@
       6 ^@hal<n><3s><cplken>$
       6 ^@hal<n>$.
       6 ^@haf<n>$ 
-      6 ^@haber<n><cplsa><3s>$
       6 ^@güzel<adj><dlik><n>>$
       6 ^@güvercin<n>$
       6 ^@güvenoy<n><dla><v><dma><n>$
@@ -8824,7 +8779,6 @@
       6 ^@göz<n><ki>$
       6 ^@götür<v><dma><n>>$
       6 ^@gösterim<n>>$
-      6 ^@gösterge<n><3s><dir>$
       6 ^@gör<v><dyis><n><abl>$
       6 ^@görü<n><cplsa><3s>$
       6 ^@görev<n><dlan><v><caus><vnacak>$.
@@ -9157,7 +9111,6 @@
       5 ^@üretim<n>>$
       5 ^@unut<v><dma><n>$
       5 ^@ün<n><abl>$
-      5 ^@ülke<n><cplsa><3s>$
       5 ^@ulema<n>$
       5 ^@uç<n><cpldi><3s>$
       5 ^@uç<n><abl>$
@@ -9382,7 +9335,6 @@
       5 ^@önder<n>$
       5 ^@onay<n><dla><v><timp><2s>$
       5 ^@onay<n><dlan><v><neg><vnma>$
-      5 ^@ol<v><dma><n><dli><adj><djn0><n><3s><dir>$."
       5 ^@öl<v><dma><n><abl>$
       5 ^@ölü<adj><djn0><n>$
       5 ^@olay<n>><ki>$
@@ -9637,8 +9589,6 @@
       5 ^@hakim<n>><abl>$
       5 ^@haki<adj><djn0><n><cpldi><3s>$.
       5 ^@haham<n>$
-      5 ^@haber<n><dnnsiz><adj>$
-      5 ^@haber<n>$.
       5 ^@güzel<adj><dlik><n><3p>$
       5 ^@güven<n><dnnsiz><adj>$
       5 ^@gurur<n><dli><adj>$
@@ -10051,8 +10001,6 @@
       4 ^@üniversite<n>><abl>$
       4 ^@umut<n><dnnsiz><adj><dlik><n>$
       4 ^@umu<n>$
-      4 ^@ülke<n><ca>$
-      4 ^@ülke<n><3s><dir>$.
       4 ^@uğra<v><dma><n>>$
       4 ^@ücret<n><ki>$
       4 ^@tüzük<n>>$
@@ -10349,8 +10297,6 @@
       4 ^@onay<n><dlan><v><neg><tnarr><3s>$
       4 ^@onay<n><3p><cplsa>$
       4 ^@omuz<n>>$
-      4 ^@ol<v><dyis><n><cpldi><3s>$
-      4 ^@ol<v><dma><n>><3s><dir>$
       4 ^@olumsuz<n><dlik><n>$
       4 ^@oluk<n>$
       4 ^@öl<n><cpldi><3s>$ 
@@ -10720,7 +10666,6 @@
       4 ^@haki<adj><djn0><n>$.
       4 ^@hakem<n>>$
       4 ^@hacim<n>>$
-      4 ^@haber<n><3s><dir>$
       4 ^@güz<n>$
       4 ^@güvenoy<n><dla><v><dma><n><abl>$
       4 ^@güneş<n><dli><adj>$
@@ -11374,8 +11319,6 @@
       3 ^@ümit<n><dnnsiz><adj>$
       3 ^@ümit<n><dli><adj>$
       3 ^@ulus<n><dla><v><timp><2s>$
-      3 ^@ülke<n><3p><cplsa>$
-      3 ^@ülke<n><1p>$
       3 ^@ulaş<v><dma><n><abl>$
       3 ^@uğra<n>$
       3 ^@üçgen<adj><djn0><n>$
@@ -11849,7 +11792,6 @@
       3 ^@onay<n><dlan><v><dma><n>>$
       3 ^@onarım<n>>$
       3 ^@omurga<n>$
-      3 ^@ol<v><dma><n><3s><dir>$.
       3 ^@oluşum<n><abl>$
       3 ^@ölü<n>$
       3 ^@olimpiyat<n><ki>$
@@ -12356,7 +12298,6 @@
       3 ^@hal<n><cplsa><3s>$
       3 ^@hal<n><1p>$
       3 ^@hallet<v><dma><n>>$
-      3 ^@halk<n><cplsa><3s>$
       3 ^@halkev<n>$
       3 ^@halay<n>$
       3 ^@hala<adv><dan0><n>$
@@ -12399,8 +12340,6 @@
       3 ^@göster<v><dvnyici><adj><djn0><n><abl>$
       3 ^@gösteri<n><cpldi><3s>$.
       3 ^@gösteri<n>><abl>$
-      3 ^@gösterge<n><cpldi><3s>$.
-      3 ^@gösterge<n><3s><dir>$.
       3 ^@gör<v><dyis><n><cpldi><3p>$ 
       3 ^@gör<v><dyis><n><3s><dir>$
       3 ^@gör<v><dyis><n><1p>$
@@ -13423,9 +13362,6 @@
       2 ^@ulu<adj><djn0><n><dsal><adj><djn0><n><dci><adj>$
       2 ^@ultraviyole<n>$
       2 ^@ultrason<n>$
-      2 ^@ülke<n><dlik><n>$
-      2 ^@ülke<n>><cpldi><3s>$.
-      2 ^@ülke<n><2s>$
       2 ^@ulaşım<n><abl>$
       2 ^@ulaşım<n>>$
       2 ^@uğur<n><dli><adj>$
@@ -14341,11 +14277,6 @@
       2 ^@omuz<n>><ki>$
       2 ^@omurilik<n>$
       2 ^@oma<n>$
-      2 ^@ol<v><dyis><n><cplmis><3s>$
-      2 ^@ol<v><dma><n><dli><adj><dla><v><taor><3s>$
-      2 ^@ol<v><dma><n><cpldi><3s>$.
-      2 ^@ol<v><dma><n><3s><dir>$."
-      2 ^@ol<v><dma><n><2s>$?
       2 ^@öl<v><dma><n>>$
       2 ^@olur<n>$
       2 ^@olumlu<n><abl>$
@@ -15322,8 +15253,6 @@
       2 ^@hal<n><3p>$
       2 ^@hal<n><1s>$
       2 ^@halkoy<n>$
-      2 ^@halk<n><3s><dir>$
-      2 ^@halk<n><1s>$
       2 ^@hak<n><dnnsiz><adj><dlik><n><3s><dir>$
       2 ^@hak<n><dnnsiz><adj><dlik><n>$
       2 ^@hak<n>><3s><dir>$
@@ -15336,9 +15265,6 @@
       2 ^@haç<n>>$
       2 ^@haciz<n>$
       2 ^@hacı<n>$
-      2 ^@haber<n><dla><v><timp><2s>$
-      2 ^@haber<n><dlas><v><dma><n><abl>$
-      2 ^@haber<n><1s>$
       2 ^@güvenilir<n><dlik><n><abl>$
       2 ^@güvenilir<n><dlik><n>>$
       2 ^@güve<n><dlik><n>$
@@ -15395,8 +15321,6 @@
       2 ^@göster<v><dma><n><dli><adj><djn0><n><1p>$
       2 ^@göster<v><dma><n>><abl>$
       2 ^@gösterim<n><dlan><v><vnacak>$
-      2 ^@gösterge<n>><abl>$
-      2 ^@gösterge<n><abl>$
       2 ^@gör<v><rec><dma><n><cpldi><3s>$.
       2 ^@gör<v><dyis><n><cpldi><1s>$
       2 ^@gör<v><dyis><n><3s><dir>$.
@@ -15682,7 +15606,6 @@
       2 ^@endişe<n><dlan><v><caus><partyan>$
       2 ^@endişe<n><dlan><v><caus><cviyor>$.
       2 ^@endeks<n><dla><v><dma><n>$
-      2 ^@en<adv><dan0><n><cpldi><3s>$
       2 ^@em<n><1s>$."
       2 ^@emlak<n><dci><adj><dla><v><taor><3s>$
       2 ^@emanet<n><dci><adj>$
@@ -17868,16 +17791,6 @@
       1 ^@uluslararası<n><abl>$
       1 ^@ülkü<n><abl>$
       1 ^@ülkü<n>$
-      1 ^@ülke<n><dnnsiz><adj>$
-      1 ^@ülke<n>><cplsa><3s>$
-      1 ^@ülke<n><cplmis><3s><cvcesine>$
-      1 ^@ülke<n><cpldi><3s>$
-      1 ^@ülke<n>><ca>$
-      1 ^@ülke<n><3s><dir>$...
-      1 ^@ülke<n><3s><cplken>$
-      1 ^@ülke<n>$."
-      1 ^@ülke<n>$...
-      1 ^@ülke<n>>$.
       1 ^@ulaş<v><dma><n><dli><adj><djn0><n><1p>$
       1 ^@ukrayna<np><dli><adj><djn0><n><abl>$
       1 ^@uğur<n><dnnsiz><adj><dlik><n>$
@@ -20698,19 +20611,6 @@
       1 ^@omuz<n>><3s><dir>$
       1 ^@ömür<n>>$
       1 ^@om<n>$
-      1 ^@ol<v><dyis><n><cplsa><3s>$
-      1 ^@ol<v><dyis><n>$.
-      1 ^@ol<v><dyis><n>>$
-      1 ^@ol<v><dma><n><dli><adj><djn0><n><dir><3p>$
-      1 ^@ol<v><dma><n><dli><adj><djn0><n><cpldi><3p>$
-      1 ^@ol<v><dma><n><dli><adj><djn0><n><cpldi><1p>$."
-      1 ^@ol<v><dma><n><dli><adj><djn0><n><1s>$
-      1 ^@ol<v><dma><n><dli><adj><djn0><n><1p>$."
-      1 ^@ol<v><dma><n><cpldi><3s>$
-      1 ^@ol<v><dma><n><abl><cplsa><3s>$
-      1 ^@ol<v><dma><n><2s>$."
-      1 ^@ol<v><dma><n><1p>$
-      1 ^@ol<v><dma><n>$ ...
       1 ^@oluş<v><dma><n><dli><adj>$
       1 ^@oluş<v><dma><n><abl>$
       1 ^@oluşum<n>><ki>$
@@ -23893,8 +23793,6 @@
       1 ^@hal<n><1s>$.
       1 ^@hal<n><1p>$.
       1 ^@hallet<v><dma><n>><abl>$
-      1 ^@halk<n><dci><adj>$
-      1 ^@halk<n>><abl>$
       1 ^@halka<n><cpldi><3s>$.
       1 ^@halka<n>><cpldi><3p>$.
       1 ^@halka<n>><abl>$
@@ -23928,11 +23826,6 @@
       1 ^@hacim<n><ki>$
       1 ^@hacim<n><abl>$
       1 ^@habip<n>$
-      1 ^@haber<n><dli><adj><djn0><n>$
-      1 ^@haber<n><dlas><v><vndik>$
-      1 ^@haber<n><dci><adj><dlik><n>>$
-      1 ^@haber<n><3s><dir>$.
-      1 ^@haber<n>$"
       1 ^@haberdar<adj><djn0><n><cpldi><3s>$.
       1 ^@haberdar<adj><djn0><n><cpldi><3s>$
       1 ^@güzergah<n>>$
@@ -24140,8 +24033,6 @@
       1 ^@gösteri<n>><cplsa><3s>$
       1 ^@gösterim<n><dlan><v><taor><3s><cplken>$
       1 ^@gösterim<n><dlan><v><partyan>$
-      1 ^@gösterge<n><cpldi><3s>$
-      1 ^@gösterge<n>$".
       1 ^@gör<v><rec><dma><n><dli><adj><djn0><n><3s><dir>$
       1 ^@gör<v><rec><dma><n><dla><v><timp><2s>$
       1 ^@gör<v><rec><dma><n><dci><adj><djn0><n>$
@@ -27854,7 +27745,3 @@
       1 ^@abe<n><dca><adj><djn0><n>$
       1 ^@abe<n>$
       1 ^@abaküs<n>$
-      1 ^@6.701.825<num><apos><n>$
-      1 ^@3.794.029<num><apos><n>$
-      1 ^@1.500.269<num><apos><n>$
-      1 ^@1.111.307<num><apos><n>$
