@@ -17,6 +17,8 @@ LIST A = (adj) ;
 LIST Det = (det) ;
 LIST Post = (postp) ;
 LIST Pron = (prn) ;
+LIST CC = (cnjcoo) ;
+LIST CS = (cnjsub) ;
 
 LIST Acc = (acc) ;
 LIST Abs = (abs) ;
@@ -47,6 +49,7 @@ SET PERS = Sg1 | Sg2 | Sg3 | Pl1 | Pl2 | Pl3 ;
 SET POSS = PxSg1 | PxSg2 | PxSg3 | PxPl1 | PxPl2 | PxPl3 ;
 SET NOMINAL = N | A ;
 SET NOM-OR-PRO = NOMINAL | Pron ;
+SET WORD = N | A | V | Det | Post | Pron | CC | CS ;
 
 SECTION
 
@@ -59,12 +62,15 @@ REMOVE Acc IF (NOT 0 POSS) (-1 Gen);
 SELECT Abl IF (1C POST-ABL) ;
     ##
 
-SELECT A (-1 A LINK -1 Det) (1 N LINK NOT 0 POSS) ;
+SELECT A IF (-1 A LINK -1 Det) (1 N LINK NOT 0 POSS) ;
     ##
 
-SELECT N + PxSg2 (-1 Sg2 + Gen) ;
+SELECT N + PxSg2 IF (-1 Sg2 + Gen) ;
     ##
 
-REMOVE NOM-OR-PRO + Sg3 (1C* V + PERS BARRIER EOS) ;
+REMOVE NOM-OR-PRO + Sg3 IF (1C* V + PERS BARRIER EOS) ;
     ## Ondan sonraysa yüzde 6,75'e yükseliyor.
     ## Eve girmekteyken, bir şey hatırladım.
+
+REMOVE N IF (0 N) (0 V) (NOT -1* WORD BARRIER BOS) (NOT 1* WORD BARRIER EOS);
+    ## Içerler

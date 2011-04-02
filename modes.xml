@@ -5,6 +5,9 @@
       <program name="hfst-proc">
         <file name="tr-az.automorf.hfst"/>
       </program>
+      <program name="cg-proc">
+        <file name="tr-az.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="tr-az.prob"/>
       </program>
@@ -28,10 +31,24 @@
     </pipeline>
   </mode>
 
+  <mode name="tr-az-cg" install="no">
+    <pipeline>
+      <program name="hfst-proc">
+        <file name="tr-az.automorf.hfst"/>
+      </program>
+      <program name="cg-proc">
+        <file name="tr-az.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
   <mode name="tr-az-tagger" install="no">
     <pipeline>
       <program name="hfst-proc">
         <file name="tr-az.automorf.hfst"/>
+      </program>
+      <program name="cg-proc">
+        <file name="tr-az.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
         <file name="tr-az.prob"/>
@@ -44,6 +61,9 @@
     <pipeline>
       <program name="hfst-proc">
         <file name="tr-az.automorf.hfst"/>
+      </program>
+      <program name="cg-proc">
+        <file name="tr-az.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
         <file name="tr-az.prob"/>
@@ -60,6 +80,9 @@
     <pipeline>
       <program name="hfst-proc">
         <file name="tr-az.automorf.hfst"/>
+      </program>
+      <program name="cg-proc">
+        <file name="tr-az.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
         <file name="tr-az.prob"/>
