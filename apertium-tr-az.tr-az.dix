@@ -9,8 +9,7 @@
     <sdef n="postp"    c="Postposition"/>
     <sdef n="adv"      c="Adverb"/>
     <sdef n="v"        c="Verb"/>
-    <sdef n="cnj"      c="Conjunction"/>
-    <!--<sdef n="cnjcoo"   c="Coordinating conjunction"/>-->
+    <sdef n="cnjcoo"   c="Coordinating conjunction"/>
 
     <sdef n="guio"     c="Hyphen"/>
     <sdef n="cm"       c="Comma"/>
@@ -19,8 +18,8 @@
 
   <section id="main" type="standard">
     <!-- SECTION: Conjunctions -->
-    <e><p><l>ve<s n="cnj"/></l><r>və<s n="cnj"/></r></p></e> <!-- CC -->
-    <e><p><l>ama<s n="cnj"/></l><r>amma<s n="cnj"/></r></p></e> <!-- CC -->
+    <e><p><l>ve<s n="cnjcoo"/></l><r>və<s n="cnjcoo"/></r></p></e> 
+    <e><p><l>ama<s n="cnjcoo"/></l><r>amma<s n="cnjcoo"/></r></p></e> 
 
     <!-- SECTION: Postpositions -->
 
