@@ -30,6 +30,9 @@
     <!--<e><p><l>kadar<s n="postp"/></l><r>kimi<s n="postp"/></r></p></e>-->
     <e><p><l>ötürü<s n="postp"/></l><r>ötürü<s n="postp"/></r></p></e>
     <e><p><l>rağmen<s n="postp"/></l><r>rəğmən<s n="postp"/></r></p></e>
+    <e><p><l>için<s n="postp"/></l><r>üçün<s n="postp"/></r></p></e>
+
+
 
     <!-- SECTION: Pronouns -->
 
@@ -42,9 +45,11 @@
 
 
     <e><p><l>şey<s n="prn"/></l><r>şey<s n="prn"/></r></p></e> <!-- Ind -->
+    <e><p><l>bu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e> <!-- Det -->
 
     <!-- SECTION: Numerals -->
 
+    <e><p><l>sıfır<s n="num"/></l><r>sıfır<s n="num"/></r></p></e>
     <e><p><l>bir<s n="num"/></l><r>bir<s n="num"/></r></p></e>
     <e><p><l>iki<s n="num"/></l><r>iki<s n="num"/></r></p></e>
     <e><p><l>üç<s n="num"/></l><r>üç<s n="num"/></r></p></e>
@@ -292,6 +297,7 @@
     <e><p><l>hatır<s n="v"/></l><r>xatır<s n="v"/></r></p></e>
     <!--<e><p><l>hatırla<s n="v"/></l><r>xatırla<s n="v"/></r></p></e>-->
     <e><p><l>ol<s n="v"/></l><r>ol<s n="v"/></r></p></e>
+    <e><p><l>de<s n="v"/></l><r>de<s n="v"/></r></p></e>
 
     <!-- : Automatically added -->
     <e><p><l>ada<s n="v"/></l><r>nəzir<b/>et<s n="v"/></r></p></e>
