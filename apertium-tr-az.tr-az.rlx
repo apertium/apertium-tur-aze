@@ -41,6 +41,8 @@ LIST PxPl1 = (p1p) ;
 LIST PxPl2 = (p2p) ;
 LIST PxPl3 = (p3p) ;
 
+LIST CV-MARKER = (cv) ;
+
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ;
 LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ;
@@ -74,3 +76,6 @@ REMOVE NOM-OR-PRO + Sg3 IF (1C* V + PERS BARRIER EOS) ;
 
 REMOVE N IF (0 N) (0 V) (NOT -1* WORD BARRIER BOS) (NOT 1* WORD BARRIER EOS);
     ## Içerler
+
+REMOVE CV-MARKER IF (NOT 1* WORD BARRIER EOS) ;
+    ## Ahmet dersine çalışıyor.
