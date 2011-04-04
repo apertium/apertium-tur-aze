@@ -10,6 +10,7 @@
     <sdef n="adv"      c="Adverb"/>
     <sdef n="v"        c="Verb"/>
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
+    <sdef n="cnjadv"   c="Adverbial conjunction"/>
 
     <sdef n="guio"     c="Hyphen"/>
     <sdef n="cm"       c="Comma"/>
@@ -20,6 +21,7 @@
     <!-- SECTION: Conjunctions -->
     <e><p><l>ve<s n="cnjcoo"/></l><r>və<s n="cnjcoo"/></r></p></e> 
     <e><p><l>ama<s n="cnjcoo"/></l><r>amma<s n="cnjcoo"/></r></p></e> 
+    <e><p><l>ama<s n="cnjadv"/></l><r>amma<s n="cnjadv"/></r></p></e> 
 
     <!-- SECTION: Postpositions -->
 
