@@ -17,7 +17,7 @@
     <sdef n="sent"     c="Sentence marker"/>
     <sdef n="exist"    c="Existence"/>
     <sdef n="nexist"    c="nexıst"/>
-    <sdef n="not"    c="Not Existence"/>
+    <sdef n="not"    c="IS NOT"/>
   </sdefs>
 
   <section id="main" type="standard">
