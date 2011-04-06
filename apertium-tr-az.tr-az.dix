@@ -16,10 +16,15 @@
     <sdef n="cm"       c="Comma"/>
     <sdef n="sent"     c="Sentence marker"/>
     <sdef n="exist"    c="Existence"/>
+    <sdef n="nexist"    c="nexıst"/>
+    <sdef n="not"    c="Not Existence"/>
   </sdefs>
 
   <section id="main" type="standard">
+    <!-- SECTION: Existence -->
     <e><p><l>var<s n="exist"/></l><r>var<s n="exist"/></r></p></e> 
+    <e><p><l>değil<s n="not"/></l><r>deyil<s n="not"/></r></p></e>
+
     <!-- SECTION: Conjunctions -->
     <e><p><l>ve<s n="cnjcoo"/></l><r>və<s n="cnjcoo"/></r></p></e> 
     <e><p><l>ama<s n="cnjcoo"/></l><r>amma<s n="cnjcoo"/></r></p></e> 

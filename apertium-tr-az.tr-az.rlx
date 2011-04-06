@@ -19,6 +19,7 @@ LIST Post = (postp) ;
 LIST Pron = (prn) ;
 LIST CC = (cnjcoo) ;
 LIST CS = (cnjsub) ;
+LIST NOT = (not) ;
 
 LIST Acc = (acc) ;
 LIST Abs = (abs) ;
@@ -76,6 +77,8 @@ REMOVE NOM-OR-PRO + Sg3 IF (1C* V + PERS BARRIER EOS) ;
 
 REMOVE N IF (0 N) (0 V) (NOT -1* WORD BARRIER BOS) (NOT 1* WORD BARRIER EOS);
     ## Içerler
+
+REMOVE V IF (0 V) (0 NOT) (NOT -1* WORD BARRIER BOS) (NOT 1* WORD  BARRIER EOS);
 
 REMOVE CV-MARKER IF (NOT 1* WORD BARRIER EOS) ;
     ## Ahmet dersine çalışıyor.
