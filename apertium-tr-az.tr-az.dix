@@ -24,6 +24,8 @@
     <!-- SECTION: Existence -->
     <e><p><l>var<s n="exist"/></l><r>var<s n="exist"/></r></p></e> 
     <e><p><l>değil<s n="not"/></l><r>deyil<s n="not"/></r></p></e>
+    <e><p><l>yok<s n="nexist"/></l><r>yox<s n="nexist"/></r></p></e>
+
 
     <!-- SECTION: Conjunctions -->
     <e><p><l>ve<s n="cnjcoo"/></l><r>və<s n="cnjcoo"/></r></p></e> 
@@ -353,6 +355,7 @@
     <e><p><l>yarın<s n="adv"/></l><r>yarın<s n="adv"/></r></p></e>
     <e><p><l>çok<s n="adv"/></l><r>çox<s n="adv"/></r></p></e>
     <e><p><l>en<s n="adv"/></l><r>ən<s n="adv"/></r></p></e>
+    <e><p><l>yok<s n="adv"/></l><r>yox<s n="adv"/></r></p></e>
 
 
     <!-- SECTION: Verbs -->
