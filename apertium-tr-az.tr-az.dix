@@ -91,6 +91,47 @@
     <e c="  0"><p><l>gösterge<s n="n"/></l><r>indikator<s n="n"/></r></p></e>
     <!--<e c="  1"><p><l>gösterge<s n="n"/></l><r>nişan<s n="n"/></r></p></e>-->
     <e><p><l>haber<s n="n"/></l><r>xəbər<s n="n"/></r></p></e>
+    <e><p><l>abide<s n="n"/></l><r>abidə<s n="n"/></r></p></e>
+    <e><p><l>abluka<s n="n"/></l><r>mühasirə<s n="n"/></r></p></e>
+    <e><p><l>abone<s n="n"/></l><r>abunə<s n="n"/></r></p></e>
+    <e><p><l>acemi<s n="n"/></l><r>əcəmi<s n="n"/></r></p></e>
+    <e><p><l>aç<s n="n"/></l><r>ac<s n="n"/></r></p></e>
+    <e><p><l>acı<s n="n"/></l><r>acı<s n="n"/></r></p></e>
+    <e><p><l>adi<s n="n"/></l><r>bayağı<s n="n"/></r></p></e>
+    <e><p><l>açık<s n="n"/></l><r>açıg<s n="n"/></r></p></e>
+    <e><p><l>ada<s n="n"/></l><r>ada<s n="n"/></r></p></e>
+    <e><p><l>adalet<s n="n"/></l><r>ədalət<s n="n"/></r></p></e>
+    <e><p><l>adam<s n="n"/></l><r>adam<s n="n"/></r></p></e>
+    <e><p><l>adaş<s n="n"/></l><r>adaş<s n="n"/></r></p></e>
+    <e><p><l>aday<s n="n"/></l><r>namizəd<s n="n"/></r></p></e>
+    <e><p><l>adet<s n="n"/></l><r>adet<s n="n"/></r></p></e>
+    <e><p><l>ad<s n="n"/></l><r>ad<s n="n"/></r></p></e>
+    <e><p><l>adil<s n="n"/></l><r>adil<s n="n"/></r></p></e>
+    <e><p><l>adres<s n="n"/></l><r>unvan<s n="n"/></r></p></e>
+    <e><p><l>afet<s n="n"/></l><r>afət<s n="n"/></r></p></e>
+    <e><p><l>af<s n="n"/></l><r>əfv<s n="n"/></r></p></e>
+    <e><p><l>afiş<s n="n"/></l><r>afişa<s n="n"/></r></p></e>
+    <e><p><l>afyon<s n="n"/></l><r>tiryək<s n="n"/></r></p></e>
+    <e><p><l>ağaç<s n="n"/></l><r>ağac<s n="n"/></r></p></e>
+    <e><p><l>ağ<s n="n"/></l><r>tor<s n="n"/></r></p></e>
+    <e><p><l>ağıt<s n="n"/></l><r>ağı<s n="n"/></r></p></e>
+    <e><p><l>ağız<s n="n"/></l><r>ağız<s n="n"/></r></p></e>
+    <e><p><l>ağustos<s n="n"/></l><r>avgust<s n="n"/></r></p></e>
+    <e><p><l>ahlak<s n="n"/></l><r>əxlag<s n="n"/></r></p></e>
+    <e><p><l>aile<s n="n"/></l><r>ailə<s n="n"/></r></p></e>
+    <e><p><l>ait<s n="n"/></l><r>aid<s n="n"/></r></p></e>
+    <e><p><l>ajan<s n="n"/></l><r>agent<s n="n"/></r></p></e>
+    <e><p><l>ajans<s n="n"/></l><r>agentlik<s n="n"/></r></p></e>
+    <e><p><l>ak<s n="n"/></l><r>ağ<s n="n"/></r></p></e>
+    <e><p><l>akıbet<s n="n"/></l><r>ağibət<s n="n"/></r></p></e>
+    <e><p><l>akıl<s n="n"/></l><r>ağıl<s n="n"/></r></p></e>
+    <e><p><l>akım<s n="n"/></l><r>cərəyan<s n="n"/></r></p></e>
+    <e><p><l>akın<s n="n"/></l><r>ahın<s n="n"/></r></p></e>
+    <e><p><l>akraba<s n="n"/></l><r>əğraba<s n="n"/></r></p></e>
+    <e><p><l>akşam<s n="n"/></l><r>axşam<s n="n"/></r></p></e>
+    <e><p><l>aktim<s n="n"/></l><r>fəal<s n="n"/></r></p></e>
+    <e><p><l>aktör<s n="n"/></l><r>aktyor<s n="n"/></r></p></e>
+
 
     <!-- :: From wikipedia, automatically -->
     <e><p><l>anayasa<s n="n"/></l><r>konstitusiya<s n="n"/></r></p></e>
@@ -291,6 +332,7 @@
 
     <!-- SECTION: Verbs -->
     <e><p><l>iç<s n="v"/></l><r>iç<s n="v"/></r></p></e>
+    <e><p><l>al<s n="v"/></l><r>al<s n="v"/></r></p></e>
     <e><p><l>ver<s n="v"/></l><r>ver<s n="v"/></r></p></e>
     <e><p><l>bil<s n="v"/></l><r>bil<s n="v"/></r></p></e>
     <e><p><l>gel<s n="v"/></l><r>gəl<s n="v"/></r></p></e>
