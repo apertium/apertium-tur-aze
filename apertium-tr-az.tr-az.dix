@@ -97,6 +97,7 @@
     <e><p><l>acemi<s n="n"/></l><r>əcəmi<s n="n"/></r></p></e>
     <e><p><l>aç<s n="n"/></l><r>ac<s n="n"/></r></p></e>
     <e><p><l>acı<s n="n"/></l><r>acı<s n="n"/></r></p></e>
+    <e><p><l>açı<s n="n"/></l><r>bucag<s n="n"/></r></p></e>
     <e><p><l>adi<s n="n"/></l><r>bayağı<s n="n"/></r></p></e>
     <e><p><l>açık<s n="n"/></l><r>açıg<s n="n"/></r></p></e>
     <e><p><l>ada<s n="n"/></l><r>ada<s n="n"/></r></p></e>
@@ -108,6 +109,7 @@
     <e><p><l>ad<s n="n"/></l><r>ad<s n="n"/></r></p></e>
     <e><p><l>adil<s n="n"/></l><r>adil<s n="n"/></r></p></e>
     <e><p><l>adres<s n="n"/></l><r>unvan<s n="n"/></r></p></e>
+<!--<e c="  1"><p><l>adres<s n="n"/></l><r>adres<s n="n"/></r></p></e>-->
     <e><p><l>afet<s n="n"/></l><r>afət<s n="n"/></r></p></e>
     <e><p><l>af<s n="n"/></l><r>əfv<s n="n"/></r></p></e>
     <e><p><l>afiş<s n="n"/></l><r>afişa<s n="n"/></r></p></e>
@@ -131,6 +133,22 @@
     <e><p><l>akşam<s n="n"/></l><r>axşam<s n="n"/></r></p></e>
     <e><p><l>aktim<s n="n"/></l><r>fəal<s n="n"/></r></p></e>
     <e><p><l>aktör<s n="n"/></l><r>aktyor<s n="n"/></r></p></e>
+    <e><p><l>aktif<s n="n"/></l><r>aktiv<s n="n"/></r></p></e>
+    <e><p><l>aktris<s n="n"/></l><r>aktrisa<s n="n"/></r></p></e>
+    <e><p><l>akvaryum<s n="n"/></l><r>akvarium<s n="n"/></r></p></e>
+    <e><p><l>alacak<s n="n"/></l><r>alacag<s n="n"/></r></p></e>
+    <e><p><l>alaka<s n="n"/></l><r>əlağa<s n="n"/></r></p></e>
+    <e><p><l>alamet<s n="n"/></l><r>əlamət<s n="n"/></r></p></e>
+    <e><p><l>alan<s n="n"/></l><r>meydan<s n="n"/></r></p></e>
+    <e><p><l>alarm<s n="n"/></l><r>həyəcan<s n="n"/></r></p></e>
+    <e><p><l>alay<s n="n"/></l><r>alay<s n="n"/></r></p></e>
+    <e><p><l>alçı<s n="n"/></l><r>gips<s n="n"/></r></p></e>
+    <e><p><l>alem<s n="n"/></l><r>aləm<s n="n"/></r></p></e>
+    <e><p><l>alet<s n="n"/></l><r>alət<s n="n"/></r></p></e>
+    <e><p><l>alev<s n="n"/></l><r>alov<s n="n"/></r></p></e>
+    <e><p><l>alfabe<s n="n"/></l><r>əlifba<s n="n"/></r></p></e>
+    <e><p><l>alim<s n="n"/></l><r>alim<s n="n"/></r></p></e>
+    <e><p><l>alın<s n="n"/></l><r>alın<s n="n"/></r></p></e>
 
 
     <!-- :: From wikipedia, automatically -->
