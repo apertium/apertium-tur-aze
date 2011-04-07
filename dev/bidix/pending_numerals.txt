@@ -1,20 +1,13 @@
-     76 ^@sıfır<num>$
      17 ^@yüzbin<num><dmn0><n><ca>$
      12 ^@oniki<num>$
      11 ^@onbir<num>$
      11 ^@onbin<num><dmn0><n><ca>$
       6 ^@trilyon<num>$
-      5 ^@sıfır<num><dmn0><n><dat>$
-      4 ^@sıfır<num><dmn0><n><gen>$
-      3 ^@sıfır<num><dmn0><n><dli><adj>$
       2 ^@yüzmilyon<num><dmn0><n><ca>$
-      2 ^@sıfır<num><dmn0><n><abl>$
       2 ^@ondokuz<num>$
       1 ^@yüzbin<num><dmn0><n><p3p>$
       1 ^@yüzbin<num><dmn0><n><dat>$
       1 ^@yirmibeş<num>$
-      1 ^@sıfır<num><dmn0><n><dla><v><dma><n><acc>$
-      1 ^@sıfır<num><dmn0><n><acc>$
       1 ^@onsekiz<num><dinci><adj><djn0><n><p3s><cpldi><3s>$.
       1 ^@onsekiz<num>$
       1 ^@oniki<num><dmn0><n><p3s>$

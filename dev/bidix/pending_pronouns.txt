@@ -1,38 +1,27 @@
-  22815 ^@bu<prn>$
    8259 ^@başka<prn>$
    1573 ^@kendi<prn>$
-   1319 ^@kendi<prn><3s>$
    1246 ^@şu<prn>$
-    640 ^@bu<prn><abl>$
     409 ^@kendi<prn>>$
-    209 ^@bu<prn>>$
-    162 ^@kim<prn>$
-    118 ^@kim<prn><cplsa><3s>$
+    211 ^@kim<prn>$
     105 ^@şu<prn>>$
-     92 ^@hangi<prn><3s>$
      71 ^@böyle<prn>$
      58 ^@başka<prn>>$
      54 ^@kendi<prn><abl>$
-     52 ^@kim<prn><3s>$
+     53 ^@kendi<prn><3s>$
      22 ^@nere<prn>$
      18 ^@ne<prn>$
      17 ^@şu<prn><3p>$
      14 ^@ne<prn><3s><dir>$?
      13 ^@kim<prn><abl>$
-     12 ^@öteki<prn><3s>$
      10 ^@nere<prn><abl>$
-     10 ^@bu<prn><ca>$
      10 ^@başka<prn>$.
       8 ^@ne<prn><3s><dir>$
       8 ^@hangi<prn>$
-      6 ^@bu<prn><cpldi><3s>$.
-      6 ^@başka<prn><cpldi><3s>$.
-      5 ^@ne<prn><cplsa><3s>$
       5 ^@kendi<prn>><abl>$
       5 ^@hangi<prn>>$
-      5 ^@bu<prn><ki>$
-      5 ^@bu<prn>$.
+      4 ^@kim<prn><cplsa><3s>$
       4 ^@başka<prn><abl>$
+      3 ^@kim<prn><3s>$
       2 ^@şu<prn><abl>$
       2 ^@şöyle<prn><3s><dir>$
       2 ^@öyle<prn>$
@@ -40,10 +29,9 @@
       2 ^@ne<prn><abl><cplsa><3s>$
       2 ^@kim<prn><3p>$
       2 ^@kendi<prn><3s><dir>$
-      2 ^@bu<prn>$."
       2 ^@böyle<prn><cplsa><3s>$
-      2 ^@başka<prn><cpldi><3s>$
       2 ^@başka<prn>><abl>$
+      1 ^@öteki<prn><3s>$
       1 ^@öteki<prn>$
       1 ^@ne<prn><cpldi><3s>$
       1 ^@ne<prn><abl><cpldi><3s>$.
@@ -60,13 +48,7 @@
       1 ^@kendi<prn><3s><dir>$.
       1 ^@kendi<prn>$.
       1 ^@hangi<prn><cpldi><3s>$
-      1 ^@bu<prn><cplsa><3s>$
-      1 ^@bu<prn><cpldi><3s>$
-      1 ^@bu<prn><abl><cplsa><3s>$
-      1 ^@bu<prn><3p><dir>$
+      1 ^@hangi<prn><3s>$
       1 ^@böyle<prn><cpldi><3s>$.
-      1 ^@başka<prn>><cplsa><3s>$
       1 ^@başka<prn>><ca>$
-      1 ^@başka<prn><3s><dir>$.
-      1 ^@başka<prn><3s><cplken>$
       1 ^@başka<prn>$]
