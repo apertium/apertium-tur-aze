@@ -11,7 +11,7 @@
     <sdef n="v"        c="Verb"/>
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
     <sdef n="cnjadv"   c="Adverbial conjunction"/>
-
+    <sdef n="adj"      c="Adjective"/>
     <sdef n="guio"     c="Hyphen"/>
     <sdef n="cm"       c="Comma"/>
     <sdef n="sent"     c="Sentence marker"/>
@@ -82,8 +82,15 @@
     <e><p><l>bin<s n="num"/></l><r>min<s n="num"/></r></p></e>
     <e><p><l>milyon<s n="num"/></l><r>milyon<s n="num"/></r></p></e>
     <e><p><l>milyar<s n="num"/></l><r>milyard<s n="num"/></r></p></e>
+ 
 
-    <!-- SECTION: Nouns -->
+<!-- SECTION: Adjectives -->
+    <e><p><l>çok<s n="adj"/></l><r>çox<s n="adj"/></r></p></e>
+   
+
+ <!-- SECTION: Nouns -->
+
+
     <e><p><l>bira<s n="n"/></l><r>pivə<s n="n"/></r></p></e>
     <e><p><l>kova<s n="n"/></l><r>vedrə<s n="n"/></r></p></e>
     <e><p><l>kitap<s n="n"/></l><r>kitab<s n="n"/></r></p></e>
@@ -556,6 +563,7 @@
     <e><p><l>otla<s n="v"/></l><r>otla<s n="v"/></r></p></e>
     <e><p><l>ovala<s n="v"/></l><r>ovxala<s n="v"/></r></p></e>
     <e><p><l>oyla<s n="v"/></l><r>səsə qoy<s n="v"/></r></p></e>
+    <e><p><l>oyna<s n="v"/></l><r>oyna<s n="v"/></r></p></e>
     <e><p><l>öde<s n="v"/></l><r>ödə<s n="v"/></r></p></e>
     <e><p><l>ölç<s n="v"/></l><r>ölç<s n="v"/></r></p></e>
     <e><p><l>ör<s n="v"/></l><r>hör<s n="v"/></r></p></e>
@@ -616,6 +624,7 @@
     <e><p><l>yavaşla<s n="v"/></l><r>yavaşla<s n="v"/></r></p></e>
     <e><p><l>yay<s n="v"/></l><r>yay<s n="v"/></r></p></e>
     <e><p><l>yaz<s n="v"/></l><r>yaz<s n="v"/></r></p></e>
+    <e><p><l>ye<s n="v"/></l><r>ye<s n="v"/></r></p></e>
     <e><p><l>yen<s n="v"/></l><r>yen<s n="v"/></r></p></e>
     <e><p><l>yığ<s n="v"/></l><r>yığ<s n="v"/></r></p></e>
     <e><p><l>yık<s n="v"/></l><r>yıx<s n="v"/></r></p></e>
