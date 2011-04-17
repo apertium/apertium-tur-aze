@@ -29,6 +29,8 @@
 
     <!-- SECTION: Conjunctions -->
     <e><p><l>ve<s n="cnjcoo"/></l><r>və<s n="cnjcoo"/></r></p></e> 
+    <e><p><l>ve<s n="cnjadv"/></l><r>və<s n="cnjadv"/></r></p></e> 
+    <e><p><l>veya<s n="cnjadv"/></l><r>vəya<s n="cnjadv"/></r></p></e> 
     <e><p><l>ama<s n="cnjcoo"/></l><r>amma<s n="cnjcoo"/></r></p></e> 
     <e><p><l>ama<s n="cnjadv"/></l><r>amma<s n="cnjadv"/></r></p></e> 
 
@@ -990,7 +992,8 @@
     <e><p><l>ilgi<s n="n"/></l><r>əlaxə<s n="n"/></r></p></e> 
     <e><p><l>ilginç<s n="n"/></l><r>maraglı<s n="n"/></r></p></e> 
     <e><p><l>ilhak<s n="n"/></l><r>ilhag<s n="n"/></r></p></e> 
-    <e><p><l>ilham<s n="n"/></l><r>ilham<s n="n"/></r></p></e> 
+    <e><p><l>ilham<s n="n"/></l><r>ilham<s n="n"/></r></p></e>
+    <e><p><l>il<s n="n"/></l><r>vilayət<s n="n"/></r></p></e> 
     <e><p><l>il<s n="n"/></l><r>vilayət<s n="n"/></r></p></e> 
     <e><p><l>ilik<s n="n"/></l><r>ilik<s n="n"/></r></p></e> 
     <e><p><l>ilişik<s n="n"/></l><r>ilişik<s n="n"/></r></p></e> 
@@ -1172,6 +1175,13 @@
     <e><p><l>kaygan<s n="n"/></l><r>sürüşkən<s n="n"/></r></p></e> 
     <e><p><l>kaygı<s n="n"/></l><r>gaygı<s n="n"/></r></p></e> 
     <e><p><l>kayık<s n="n"/></l><r>gayıg<s n="n"/></r></p></e> 
+    <e><p><l>parlamento<s n="n"/></l><r>parlament<s n="n"/></r></p></e> 
+    <e><p><l>kol<s n="n"/></l><r>gol<s n="n"/></r></p></e> 
+    <e><p><l>sahip<s n="n"/></l><r>sahib<s n="n"/></r></p></e> 
+    <e><p><l>hükümet<s n="n"/></l><r>hökumət<s n="n"/></r></p></e> 
+    <e><p><l>medya<s n="n"/></l><r>daşıyıcılar<s n="n"/></r></p></e> 
+    <e><p><l>parça<s n="n"/></l><r>parça<s n="n"/></r></p></e> 
+    <e><p><l>güç<s n="n"/></l><r>güc<s n="n"/></r></p></e> 
 
 
 
@@ -1207,7 +1217,10 @@
 
     <!-- SECTION: Proper nouns -->
 
-    <e><p><l>Abhazya<s n="np"/></l><r>Abxaziya<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>Soner<s n="np"/></l><r>Soner<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>Yalçın<s n="np"/></l><r>Yalçın<s n="np"/></r></p></e> <!-- Top -->
+ 
+   <e><p><l>Abhazya<s n="np"/></l><r>Abxaziya<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Afganistan<s n="np"/></l><r>Əfqanıstan<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Afrika<s n="np"/></l><r>Afrika<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Amerika<s n="np"/></l><r>Amerika<s n="np"/></r></p></e> <!-- Top -->
@@ -1380,6 +1393,7 @@
 
 
     <!-- SECTION: Verbs -->
+    <e><p><l>savun<s n="v"/></l><r>qoru<s n="v"/></r></p></e>
     <e><p><l>iç<s n="v"/></l><r>iç<s n="v"/></r></p></e>
     <e><p><l>al<s n="v"/></l><r>al<s n="v"/></r></p></e>
     <e><p><l>ver<s n="v"/></l><r>ver<s n="v"/></r></p></e>
