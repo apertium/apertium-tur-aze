@@ -42,6 +42,8 @@ LIST PxPl1 = (p1p) ;
 LIST PxPl2 = (p2p) ;
 LIST PxPl3 = (p3p) ;
 
+LIST Imper = (t_imp) ; 
+
 LIST CV-MARKER = (cv) ;
 
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ;
@@ -82,3 +84,5 @@ REMOVE V IF (0 V) (0 NOT)  (NOT 1* WORD  BARRIER EOS);
 
 REMOVE CV-MARKER IF (NOT 1* WORD BARRIER EOS) ;
     ## Ahmet dersine çalışıyor.
+
+REMOVE Imper IF (NOT 1* ("!")) ;
