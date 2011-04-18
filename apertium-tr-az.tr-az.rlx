@@ -46,6 +46,8 @@ LIST Imper = (t_imp) ;
 
 LIST CV-MARKER = (cv) ;
 
+LIST Der0/A→N = (adj Djn_0 n) ;
+
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ;
 LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ;
@@ -86,3 +88,6 @@ REMOVE CV-MARKER IF (NOT 1* WORD BARRIER EOS) ;
     ## Ahmet dersine çalışıyor.
 
 REMOVE Imper IF (NOT 1* ("!")) ;
+
+REMOVE Der0/A→N IF (0 Der0/A→N) (0 N);
+    ## içindekiler
