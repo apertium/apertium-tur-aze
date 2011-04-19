@@ -19,7 +19,12 @@
     <sdef n="nexist"    c="nexıst"/>
     <sdef n="not"    c="IS NOT"/>
   </sdefs>
-
+  <pardefs>
+    <pardef n="nominal">
+      <e><p><l><s n="n"/></l><r><s n="n"/></r></p></e>
+      <e><p><l><s n="adj"/></l><r><s n="adj"/></r></p></e>
+    </pardef>
+  </pardefs>
   <section id="main" type="standard">
     <!-- SECTION: Existence -->
     <e><p><l>var<s n="exist"/></l><r>var<s n="exist"/></r></p></e> 
@@ -1187,6 +1192,7 @@
 
 
 
+    <e><p><l>kız</l><r>qız</r></p><par n="nominal"/></e>
 
 
 
