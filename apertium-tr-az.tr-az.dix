@@ -93,6 +93,8 @@
 
 <!-- SECTION: Adjectives -->
     <e><p><l>çok<s n="adj"/></l><r>çox<s n="adj"/></r></p></e>
+    <e><p><l>güzel<s n="adj"/></l><r>gözəl<s n="adj"/></r></p></e>
+
    
 
  <!-- SECTION: Nouns -->
@@ -1204,7 +1206,7 @@
     <e><p><l>banka<s n="n"/></l><r>bank<s n="n"/></r></p></e>
     <e><p><l>coğrafya<s n="n"/></l><r>coğrafiya<s n="n"/></r></p></e>
     <e><p><l>dalga<s n="n"/></l><r>dalğa<s n="n"/></r></p></e>
-    <e><p><l>dünya<s n="n"/></l><r>yer<s n="n"/></r></p></e>
+    <e><p><l>dünya<s n="n"/></l><r>dünya<s n="n"/></r></p></e>
     <e><p><l>elma<s n="n"/></l><r>alma<s n="n"/></r></p></e>
     <e><p><l>enbiya<s n="n"/></l><r>ənbiya<s n="n"/></r></p></e>
     <e><p><l>fatiha<s n="n"/></l><r>fatihə<s n="n"/></r></p></e>
