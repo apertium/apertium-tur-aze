@@ -558,7 +558,6 @@
       1 ^@hergün<adv>$
       1 ^@hep<adv><dan0><n><p2p><dat>$
       1 ^@hemen<adv>$.
-      1 ^@hazır<adj><dlik><n><dnnsiz><adv><dan0><n><cpldi><3s>$
       1 ^@hayır<adv><dan0><n><3s><dir>$
       1 ^@hayır<adv>$."
       1 ^@hani<adv>$

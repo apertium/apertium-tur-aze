@@ -16,4 +16,3 @@
       1 ^@onaltı<num>$
       1 ^@ikiyüz<num><dmn0><n><dli><adj><dlik><n><ins>$
       1 ^@birbuçuk<num>$
-      1 ^@37,.9<num>$
