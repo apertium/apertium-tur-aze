@@ -61,9 +61,10 @@
     <e><p><l>onlar<s n="prn"/></l><r>onlar<s n="prn"/></r></p></e> <!-- Pers -->
 
 
+
     <e><p><l>şey<s n="prn"/></l><r>şey<s n="prn"/></r></p></e> <!-- Ind -->
     <e><p><l>bu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e> <!-- Det -->
-
+    <e><p><l>başka<s n="prn"/></l><r>başqa<s n="prn"/></r></p></e>
     <!-- SECTION: Numerals -->
 
     <e><p><l>sıfır<s n="num"/></l><r>sıfır<s n="num"/></r></p></e>
@@ -94,12 +95,13 @@
 <!-- SECTION: Adjectives -->
     <e><p><l>çok<s n="adj"/></l><r>çox<s n="adj"/></r></p></e>
     <e><p><l>güzel<s n="adj"/></l><r>gözəl<s n="adj"/></r></p></e>
+    <e><p><l>başka<s n="adj"/></l><r>başqa<s n="adj"/></r></p></e>
 
    
 
  <!-- SECTION: Nouns -->
 
-
+    <e><p><l>şey<s n="n"/></l><r>şey2<s n="n"/></r></p></e>
     <e><p><l>bira<s n="n"/></l><r>pivə<s n="n"/></r></p></e>
     <e><p><l>kova<s n="n"/></l><r>vedrə<s n="n"/></r></p></e>
     <e><p><l>kitap<s n="n"/></l><r>kitab<s n="n"/></r></p></e>
@@ -1190,6 +1192,15 @@
     <e><p><l>parça<s n="n"/></l><r>parça<s n="n"/></r></p></e> 
     <e><p><l>güç<s n="n"/></l><r>güc<s n="n"/></r></p></e> 
     <e><p><l>gücü<s n="n"/></l><r>gücü<s n="n"/></r></p></e> 
+    <e><p><l>kaynak</l><r>gaynag</r></p><par n="nominal"/></e>
+    <e><p><l>kaypak</l><r>e'tibarsız</r></p><par n="nominal"/></e>
+    <e><p><l>kaza</l><r>qəza</r></p><par n="nominal"/></e>
+    <e><p><l>kaz</l><r>gaz</r></p><par n="nominal"/></e>
+    <e><p><l>kazı</l><r>gazı</r></p><par n="nominal"/></e>
+    <e><p><l>kazık</l><r>gazıg</r></p><par n="nominal"/></e>
+    <e><p><l>keder</l><r>kədər</r></p><par n="nominal"/></e>
+    <e><p><l>kedi</l><r>pişik</r></p><par n="nominal"/></e>
+    
 
 
 
