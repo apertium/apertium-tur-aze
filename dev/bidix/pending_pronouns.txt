@@ -7,7 +7,7 @@
      71 ^@böyle<prn>$
      58 ^@başka<prn>>$
      54 ^@kendi<prn><abl>$
-     53 ^@kendi<prn><3s>$
+     52 ^@kendi<prn><3s>$
      22 ^@nere<prn>$
      18 ^@ne<prn>$
      17 ^@şu<prn><3p>$

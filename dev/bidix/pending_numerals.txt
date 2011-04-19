@@ -14,6 +14,6 @@
       1 ^@onbir<num><dmn0><n><p2s><loc>$
       1 ^@onbeş<num>$
       1 ^@onaltı<num>$
-      1 ^@ikiyüz<num><dmn0><n><dli><adj><dlik><n><dla><v><timp><2s>$
+      1 ^@ikiyüz<num><dmn0><n><dli><adj><dlik><n><ins>$
       1 ^@birbuçuk<num>$
       1 ^@37,.9<num>$

@@ -1,10 +1,8 @@
-  74697 ^@ve<cnjadv>$
   19860 ^@için<cnjcoo>$
   16945 ^@da<cnjadv>$
   16705 ^@de<cnjadv>$
   14561 ^@ile<cnjcoo>$
    2796 ^@ya<cnjadv>$
-   2316 ^@veya<cnjadv>$
    1828 ^@ta<cnjadv>$
     828 ^@fakat<cnjadv>$
     639 ^@ki<cnjadv>$
