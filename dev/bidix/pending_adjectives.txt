@@ -224,7 +224,6 @@
     116 ^@sanat<n><dci><adj>$
     115 ^@sağ<adj><dlan><v><cv>$
     114 ^@zayıf<adj>$
-    114 ^@kır<n><dsal><adj>$
     112 ^@sağ<adj><dlan><v><part>$
     111 ^@taraf<n><dnnsiz><adj>$
     111 ^@ön<n><dca><adj><dlik><n><dli><adj>$
@@ -235,7 +234,6 @@
     107 ^@yarı<adj>$
     107 ^@sorum<n><dli><adj><dlik><n><acc>$
     107 ^@oyun<n><dci><adj>$
-    107 ^@köken<n><dli><adj>$
     107 ^@kırık<adj><dlik><n><p2s><dat>$
     107 ^@bor<n><dci><adj>$
     106 ^@yaş<adj>$
@@ -382,7 +380,6 @@
      55 ^@kısmi<adj>$
      54 ^@yeni<n><dlik><n><dci><adj>$
      54 ^@ters<adj>$
-     54 ^@kent<n><dsal><adj>$
      54 ^@faal<adj>$
      54 ^@doğru<adj><dla><v><tpast><3p>$.
      53 ^@iyimser<adj><dlik><n><p2s><acc>$
@@ -511,7 +508,6 @@
      37 ^@ön<n><dla><v><dvnyici><adj>$
      37 ^@ön<n><dca><adj><dlik><n><gen>$
      37 ^@masum<adj>$
-     37 ^@kolay<n><dca><adj>$
      37 ^@hasta<adj><dlik><n><acc>$
      37 ^@gergin<adj><dlik><n><p3p>$
      37 ^@gergin<adj><dlik><n><gen>$
@@ -1232,7 +1228,6 @@
       9 ^@kumanda<n><dli><adj>$
       9 ^@korsan<adj><dlik><n><acc>$
       9 ^@korsan<adj><dlik><n>$
-      9 ^@kira<n><dci><adj><dlik><n>$
       9 ^@kayıt<n><dnnsiz><adj>$
       9 ^@karış<v><caus><dvnyici><adj>$
       9 ^@kalın<adj>$
@@ -1334,10 +1329,8 @@
       8 ^@kundak<n><dci><adj><dlik><n>$
       8 ^@kıyasıya<adj>$
       8 ^@kır<v><dvnyici><adj>$
-      8 ^@kıdem<n><dli><adj>$
       8 ^@kesinti<n><dnnsiz><adj>$
       8 ^@kenar<adj>$
-      8 ^@keman<n><dci><adj>$
       8 ^@kati<adj>$
       8 ^@kaotik<adj>$
       8 ^@iyi<adj><dlas><v><dma><n><gen>$
@@ -1444,7 +1437,6 @@
       7 ^@koordine<n><dli><adj>$
       7 ^@kontrol<n><dnnsiz><adj>$
       7 ^@komik<adj>$
-      7 ^@kolay<n><dlas><v><caus><dvnyici><adj>$
       7 ^@kızgın<adj><dlik><n><ins>$
       7 ^@kızgın<adj><dlik><n>$
       7 ^@kir<n><dli><adj><dlik><n><p2s><acc>$
@@ -2330,14 +2322,7 @@
       3 ^@korsan<adj><dlik><n><gen>$
       3 ^@kokteyl<n><dli><adj>$
       3 ^@kızgın<adj><dlik><n><dat>$
-      3 ^@kıta<n><dsal><adj>$
-      3 ^@kin<n><dci><adj>$
-      3 ^@kilit<n><dli><adj>$
       3 ^@kifayet<n><dnnsiz><adj>$
-      3 ^@keyif<n><dnnsiz><adj>$
-      3 ^@keyif<n><dli><adj>$
-      3 ^@kesim<n><dli><adj>$
-      3 ^@kent<n><dli><adj>$
       3 ^@kayıt<n><dnnsiz><adj><dlik><n><acc>$
       3 ^@kavur<v><dvnyici><adj>$
       3 ^@kasvet<n><dli><adj>$
@@ -4936,11 +4921,9 @@
       1 ^@komisyon<n><dci><adj>$
       1 ^@komisyon<n><dca><adj>$
       1 ^@koleksiyon<n><dci><adj>$
-      1 ^@koku<n><dli><adj>$
       1 ^@kökten<n><dci><adj><dlik><n><dat>$
       1 ^@kökten<n><dci><adj><dlik><n>$
       1 ^@kökten<n><dci><adj>$
-      1 ^@köken<n><dsal><adj>$
       1 ^@kök<adj><dlas><v><dma><n><p3s>$.
       1 ^@kök<adj><dlas><v><dma><n><p3s>$
       1 ^@kök<adj><dlas><v><cv>$
@@ -4949,9 +4932,6 @@
       1 ^@kod<n><dli><adj>$
       1 ^@kızgın<adj><dlik><n><p3p><acc>$
       1 ^@kızgın<adj><dlik><n><gen>$
-      1 ^@kıyafet<n><dli><adj>$
-      1 ^@kıvılcım<n><dli><adj>$
-      1 ^@kıvanç<n><dli><adj>$
       1 ^@kışkırtı<n><dci><adj><dlik><n>$
       1 ^@kıskanç<adj><dlik><n><abl>$
       1 ^@kısıt<n><dnnsiz><adj>$
@@ -4959,9 +4939,6 @@
       1 ^@kısıt<n><dla><v><dma><n><dnnsiz><adj>$
       1 ^@kişi<n><dsal><adj><dlik><n><abl>$
       1 ^@kişi<n><dsal><adj><djn0><n><cpldi><3s>$
-      1 ^@kır<n><dsal><adj><djn0><n><p3p>$
-      1 ^@kır<n><dsal><adj><djn0><n><gen>$
-      1 ^@kır<n><dsal><adj><djn0><n><dat>$
       1 ^@kir<n><dli><adj><dlik><n><p3s><ins>$
       1 ^@kir<n><dli><adj><dlik><n><abl>$
       1 ^@kırmızı<adj><djn0><n><dat>$
@@ -4978,17 +4955,14 @@
       1 ^@kırık<adj><djn0><n><p3s><ins>$
       1 ^@kırık<adj><djn0><n><p3p><gen>$
       1 ^@kırık<adj><djn0><n><acc>$
-      1 ^@kira<n><dci><adj>$
       1 ^@kına<v><dvnyici><adj>$
       1 ^@kimlik<n><dli><adj>$
-      1 ^@kılıç<n><dci><adj>$
       1 ^@kibar<adj><dlik><n>$
       1 ^@kibar<adj>$
       1 ^@keskin<adj><dlas><v><cv><p3s><acc>$
       1 ^@kesinti<n><dli><adj>$
       1 ^@kerpiç<adj>$
       1 ^@kepenk<n><dli><adj>$
-      1 ^@kemer<n><dli><adj>$
       1 ^@kelep<n><dca><adj><dlan><v><cv>$
       1 ^@kelepir<adj>$
       1 ^@kefalet<n><dnnsiz><adj>$
