@@ -1506,6 +1506,7 @@
     <e><p><l>daha<s n="adv"/></l><r>daha<s n="adv"/></r></p></e>
     <e><p><l>ancak<s n="adv"/></l><r>ancaq<s n="adv"/></r></p></e>
     <e><p><l>önce<s n="adv"/></l><r>öncə<s n="adv"/></r></p></e>
+    <e><p><l>birlikte<s n="adv"/></l><r>birgə<s n="adv"/></r></p></e>
 
 
     <!-- SECTION: Verbs -->
@@ -1520,8 +1521,11 @@
     <!--<e><p><l>hatırla<s n="v"/></l><r>xatırla<s n="v"/></r></p></e>-->
     <e><p><l>ol<s n="v"/></l><r>ol<s n="v"/></r></p></e>
     <e><p><l>de<s n="v"/></l><r>de<s n="v"/></r></p></e>
+    <e><p><l>şükret<s n="v"/></l><r>şükret<s n="v"/></r></p></e>
+    <e><p><l>planla<s n="v"/></l><r>planlaşdır<s n="v"/></r></p></e>
 
     <!-- : Automatically added -->
+
     <e><p><l>ada<s n="v"/></l><r>nəzir<b/>et<s n="v"/></r></p></e>
     <e><p><l>ağla<s n="v"/></l><r>ağla<s n="v"/></r></p></e>
     <e><p><l>alkışla<s n="v"/></l><r>alqışla<s n="v"/></r></p></e>
@@ -1535,13 +1539,13 @@
     <e><p><l>benimse<s n="v"/></l><r>mənimsə<s n="v"/></r></p></e>
     <e><p><l>benze<s n="v"/></l><r>bənzə<s n="v"/></r></p></e>
     <e><p><l>bez<s n="v"/></l><r>bez<s n="v"/></r></p></e>
-    <e><p><l>bık<s n="v"/></l><r>təngə gəl<s n="v"/></r></p></e>
+    <e><p><l>bık<s n="v"/></l><r>təngə<b/>gəl<s n="v"/></r></p></e>
     <e><p><l>biç<s n="v"/></l><r>biç<s n="v"/></r></p></e>
     <e><p><l>bin<s n="v"/></l><r>min<s n="v"/></r></p></e>
     <e><p><l>boğ<s n="v"/></l><r>boğ<s n="v"/></r></p></e>
     <e><p><l>bula<s n="v"/></l><r>bula<s n="v"/></r></p></e>
     <e><p><l>buyur<s n="v"/></l><r>buyur<s n="v"/></r></p></e>
-    <e><p><l>bölmek<s n="v"/></l><r>bölmək<s n="v"/></r></p></e>
+    <e><p><l>böl<s n="v"/></l><r>böl<s n="v"/></r></p></e>
     <e><p><l>bük<s n="v"/></l><r>bük<s n="v"/></r></p></e>
     <e><p><l>büz<s n="v"/></l><r>büz<s n="v"/></r></p></e>
     <e><p><l>coş<s n="v"/></l><r>coş<s n="v"/></r></p></e>
@@ -1556,7 +1560,7 @@
     <e><p><l>dala<s n="v"/></l><r>dala<s n="v"/></r></p></e>
     <e><p><l>dal<s n="v"/></l><r>cum<s n="v"/></r></p></e>
     <e><p><l>damla<s n="v"/></l><r>damcıla<s n="v"/></r></p></e>
-    <e><p><l>değin<s n="v"/></l><r>təmas et<s n="v"/></r></p></e>
+    <e><p><l>değin<s n="v"/></l><r>təmas<b/>et<s n="v"/></r></p></e>
     <e><p><l>del<s n="v"/></l><r>dəl<s n="v"/></r></p></e>
     <e><p><l>derle<s n="v"/></l><r>topla<s n="v"/></r></p></e>
     <e><p><l>devir<s n="v"/></l><r>devir<s n="v"/></r></p></e>
@@ -1595,7 +1599,7 @@
     <e><p><l>in<s n="v"/></l><r>en<s n="v"/></r></p></e>
     <e><p><l>iste<s n="v"/></l><r>istə<s n="v"/></r></p></e>
     <e><p><l>işle<s n="v"/></l><r>naxışla<s n="v"/></r></p></e>
-    <e><p><l>izle<s n="v"/></l><r>təqib et<s n="v"/></r></p></e>
+    <e><p><l>izle<s n="v"/></l><r>təqib<b/>et<s n="v"/></r></p></e>
     <e><p><l>kan<s n="v"/></l><r>aldan<s n="v"/></r></p></e>
     <e><p><l>kap<s n="v"/></l><r>qap<s n="v"/></r></p></e>
     <e><p><l>karala<s n="v"/></l><r>qarala<s n="v"/></r></p></e>
@@ -1608,7 +1612,7 @@
     <e><p><l>kırk<s n="v"/></l><r>qırx<s n="v"/></r></p></e>
     <e><p><l>kırp<s n="v"/></l><r>qırp<s n="v"/></r></p></e>
     <e><p><l>kıs<s n="v"/></l><r>azalt<s n="v"/></r></p></e>
-    <e><p><l>kıy<s n="v"/></l><r>fəda et<s n="v"/></r></p></e>
+    <e><p><l>kıy<s n="v"/></l><r>fəda<b/>et<s n="v"/></r></p></e>
     <e><p><l>kız<s n="v"/></l><r>qız<s n="v"/></r></p></e>
     <e><p><l>kokla<s n="v"/></l><r>qoxla<s n="v"/></r></p></e>
     <e><p><l>kovala<s n="v"/></l><r>qovala<s n="v"/></r></p></e>
@@ -1627,8 +1631,8 @@
     <e><p><l>ör<s n="v"/></l><r>hör<s n="v"/></r></p></e>
     <e><p><l>öt<s n="v"/></l><r>öt<s n="v"/></r></p></e>
     <e><p><l>öv<s n="v"/></l><r>tə'riflə<s n="v"/></r></p></e>
-    <e><p><l>özetle<s n="v"/></l><r>xülasə et<s n="v"/></r></p></e>
-    <e><p><l>özle<s n="v"/></l><r>xəsrətini çək<s n="v"/></r></p></e>
+    <e><p><l>özetle<s n="v"/></l><r>xülasə<b/>et<s n="v"/></r></p></e>
+    <e><p><l>özle<s n="v"/></l><r>xəsrətini<b/>çək<s n="v"/></r></p></e>
     <e><p><l>parala<s n="v"/></l><r>parala<s n="v"/></r></p></e>
     <e><p><l>parla<s n="v"/></l><r>parla<s n="v"/></r></p></e>
     <e><p><l>patla<s n="v"/></l><r>partla<s n="v"/></r></p></e>
@@ -1640,8 +1644,8 @@
     <e><p><l>sal<s n="v"/></l><r>burax<s n="v"/></r></p></e>
     <e><p><l>sap<s n="v"/></l><r>sap<s n="v"/></r></p></e>
     <e><p><l>sark<s n="v"/></l><r>sallan<s n="v"/></r></p></e>
-    <e><p><l>sav<s n="v"/></l><r>başdan et<s n="v"/></r></p></e>
-    <e><p><l>say<s n="v"/></l><r>hörmət et<s n="v"/></r></p></e>
+    <e><p><l>sav<s n="v"/></l><r>başdan<b/>et<s n="v"/></r></p></e>
+    <!--<e><p><l>say<s n="v"/></l><r>hörmət<b/>et<s n="v"/></r></p></e>-->
     <e><p><l>seç<s n="v"/></l><r>seç<s n="v"/></r></p></e>
     <e><p><l>sek<s n="v"/></l><r>sək<s n="v"/></r></p></e>
     <e><p><l>serinle<s n="v"/></l><r>sərinlə<s n="v"/></r></p></e>
@@ -1659,7 +1663,7 @@
     <e><p><l>sür<s n="v"/></l><r>sür<s n="v"/></r></p></e>
     <e><p><l>süsle<s n="v"/></l><r>süslə<s n="v"/></r></p></e>
     <e><p><l>süz<s n="v"/></l><r>süz<s n="v"/></r></p></e>
-    <e><p><l>şaşala<s n="v"/></l><r>mat qal<s n="v"/></r></p></e>
+    <e><p><l>şaşala<s n="v"/></l><r>mat<b/>qal<s n="v"/></r></p></e>
     <e><p><l>şaş<s n="v"/></l><r>çaş<s n="v"/></r></p></e>
     <e><p><l>şiş<s n="v"/></l><r>şiş<s n="v"/></r></p></e>
     <e><p><l>tamamla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
@@ -1668,11 +1672,11 @@
     <e><p><l>tavla<s n="v"/></l><r>tovla<s n="v"/></r></p></e>
     <e><p><l>tep<s n="v"/></l><r>təp<s n="v"/></r></p></e>
     <e><p><l>terle<s n="v"/></l><r>tərlə<s n="v"/></r></p></e>
-    <e><p><l>tut<s n="v"/></l><r>tərəfdar ol<s n="v"/></r></p></e>
+    <e><p><l>tut<s n="v"/></l><r>tərəfdar<b/>ol<s n="v"/></r></p></e>
     <e><p><l>tüt<s n="v"/></l><r>tüstülə<s n="v"/></r></p></e>
     <e><p><l>tüy<s n="v"/></l><r>yayın<s n="v"/></r></p></e>
     <e><p><l>uç<s n="v"/></l><r>uç<s n="v"/></r></p></e>
-    <e><p><l>uğurla<s n="v"/></l><r>yola sal<s n="v"/></r></p></e>
+    <e><p><l>uğurla<s n="v"/></l><r>yola<b/>sal<s n="v"/></r></p></e>
     <e><p><l>um<s n="v"/></l><r>um<s n="v"/></r></p></e>
     <e><p><l>ürk<s n="v"/></l><r>ürk<s n="v"/></r></p></e>
     <e><p><l>ver<s n="v"/></l><r>ver<s n="v"/></r></p></e>
@@ -1694,9 +1698,6 @@
     <e><p><l>zıpla<s n="v"/></l><r>zıpla<s n="v"/></r></p></e>
     <e><p><l>zırla<s n="v"/></l><r>zırılda<s n="v"/></r></p></e>
     <e><p><l>zorla<s n="v"/></l><r>zorla<s n="v"/></r></p></e>
-
-    <e><p><l>şükret<s n="v"/></l><r>şükret<s n="v"/></r></p></e>
-    <e><p><l>planla<s n="v"/></l><r>planlaşdır<s n="v"/></r></p></e>
 
 
     <!-- SECTION: Punctuation -->
