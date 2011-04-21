@@ -67,13 +67,27 @@ SET OBL-CASE = Acc | Dat | Gen | Ins | Abl ;
 
 SECTION
 
-REMOVE Acc IF (1C POST-ABS) ;
-    ##
+###############################################################################
+## Remove redundant derivations 
+###############################################################################
+
+REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 N);
+    ## içindekiler
+
+REMOVE Der/0/Adv→N IF (0 Der/0/Adv→N) (0 Adv);
+    ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
+
+REMOVE Der/CI IF (0 N) (0 Der/CI) ;
+    ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
+
+###############################################################################
+## NP internal
+###############################################################################
+
+REMOVE Dat IF (1C Dat) ; 
+    ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
 
 REMOVE Acc IF (NOT 0 POSS) (-1 Gen);
-    ##
-
-SELECT Abl IF (1C POST-ABL) ;
     ##
 
 SELECT A IF (-1 A LINK -1 Det) (1 N LINK NOT 0 POSS) ;
@@ -81,6 +95,21 @@ SELECT A IF (-1 A LINK -1 Det) (1 N LINK NOT 0 POSS) ;
 
 SELECT N + PxSg2 IF (-1 Sg2 + Gen) ;
     ##
+
+###############################################################################
+## Disambiguate postpositions 
+###############################################################################
+
+REMOVE Acc IF (1C POST-ABS) ;
+    ##
+
+SELECT Abl IF (1C POST-ABL) ;
+    ##
+
+REMOVE POST-ABS IF (-1C OBL-CASE);
+    ## Hepiniz bundan için!
+
+###############################################################################
 
 REMOVE NOM-OR-PRO + Sg3 IF (1C* V + PERS BARRIER EOS) ;
     ## Ondan sonraysa yüzde 6,75'e yükseliyor.
@@ -102,17 +131,3 @@ REMOVE CV-MARKER IF (0 N) (0 CV-MARKER) ;
 REMOVE VN IF (0 N) (0 VN) ;
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
 
-REMOVE Dat IF (1C Dat) ; 
-    ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
-
-REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 N);
-    ## içindekiler
-
-REMOVE Der/0/Adv→N IF (0 Der/0/Adv→N) (0 Adv);
-    ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
-
-REMOVE Der/CI IF (0 N) (0 Der/CI) ;
-    ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
-
-REMOVE POST-ABS IF (-1C OBL-CASE);
-    ## Hepiniz bundan için!
