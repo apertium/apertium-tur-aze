@@ -1291,6 +1291,9 @@
 
 
     <e><p><l>kız</l><r>qız</r></p><par n="nominal"/></e>
+    <e><p><l>proje</l><r>proyekt</r></p><par n="nominal"/></e>
+    <e><p><l>plan</l><r>plan</r></p><par n="nominal"/></e>
+    <!--<e><p><l>proje</l><r>lahiyə</r></p><par n="nominal"/></e>-->
 
 
 

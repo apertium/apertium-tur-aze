@@ -50,11 +50,14 @@ LIST VN = (vn) ;
 
 LIST Der/0/Adv→N = (adv Dan_0 n) ;
 LIST Der/0/A→N = (adj Djn_0 n) ;
+LIST Der/lAn = (n D_lAn v) ;
 LIST Der/CI = (v D_CI n) ;
 
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ("için"i postp);
 LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ;
+
+LIST FINITE = t_narr t_aor ; 
 
 SET PERS = Sg1 | Sg2 | Sg3 | Pl1 | Pl2 | Pl3 ;
 SET POSS = PxSg1 | PxSg2 | PxSg3 | PxPl1 | PxPl2 | PxPl3 ;
@@ -79,6 +82,9 @@ REMOVE Der/0/Adv→N IF (0 Der/0/Adv→N) (0 Adv);
 
 REMOVE Der/CI IF (0 N) (0 Der/CI) ;
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
+
+REMOVE Der/lAn IF (0 V + $$FINITE) (0 Der/lAn + $$FINITE) ;
+    ## Aslında MKK'nin iki yıllık bir proje olması planlanmış.
 
 ###############################################################################
 ## NP internal
