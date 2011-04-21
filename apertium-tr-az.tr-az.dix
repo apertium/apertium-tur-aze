@@ -1292,8 +1292,9 @@
 
     <e><p><l>kız</l><r>qız</r></p><par n="nominal"/></e>
     <e><p><l>proje</l><r>proyekt</r></p><par n="nominal"/></e>
-    <e><p><l>plan</l><r>plan</r></p><par n="nominal"/></e>
     <!--<e><p><l>proje</l><r>lahiyə</r></p><par n="nominal"/></e>-->
+    <e><p><l>plan</l><r>plan</r></p><par n="nominal"/></e>
+    <e><p><l>yıl</l><r>il</r></p><par n="nominal"/></e>
 
 
 
@@ -1690,7 +1691,9 @@
     <e><p><l>zıpla<s n="v"/></l><r>zıpla<s n="v"/></r></p></e>
     <e><p><l>zırla<s n="v"/></l><r>zırılda<s n="v"/></r></p></e>
     <e><p><l>zorla<s n="v"/></l><r>zorla<s n="v"/></r></p></e>
+
     <e><p><l>şükret<s n="v"/></l><r>şükret<s n="v"/></r></p></e>
+    <e><p><l>planla<s n="v"/></l><r>planlaşdır<s n="v"/></r></p></e>
 
 
     <!-- SECTION: Punctuation -->
