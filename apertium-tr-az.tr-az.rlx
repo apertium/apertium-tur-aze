@@ -45,6 +45,7 @@ LIST PxPl3 = (p3p) ;
 LIST Imper = (t_imp) ; 
 
 LIST CV-MARKER = (cv) ;
+LIST VN = (vn) ;
 
 LIST Der0/A→N = (adj Djn_0 n) ;
 LIST Der/CI = (v D_CI n) ;
@@ -97,4 +98,7 @@ REMOVE Der/CI IF (0 N) (0 Der/CI) ;
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
 
 REMOVE CV-MARKER IF (0 N) (0 CV-MARKER) ; 
+    ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
+
+REMOVE VN IF (0 N) (0 VN) ;
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
