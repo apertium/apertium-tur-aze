@@ -33,13 +33,14 @@
     <e><p><l>yok<s n="nexist"/></l><r>yox<s n="nexist"/></r></p></e>
     <e><p><l><s n="q"/></l><r><s n="q"/></r></p></e>
 
-
+    
     <!-- SECTION: Conjunctions -->
     <e><p><l>ve<s n="cnjcoo"/></l><r>və<s n="cnjcoo"/></r></p></e> 
     <e><p><l>ve<s n="cnjadv"/></l><r>və<s n="cnjadv"/></r></p></e> 
     <e><p><l>veya<s n="cnjadv"/></l><r>vəya<s n="cnjadv"/></r></p></e> 
     <e><p><l>ama<s n="cnjcoo"/></l><r>amma<s n="cnjcoo"/></r></p></e> 
     <e><p><l>ama<s n="cnjadv"/></l><r>amma<s n="cnjadv"/></r></p></e> 
+    <e><p><l>için<s n="cnjadv"/></l><r>üçün<s n="cnjadv"/></r></p></e> 
 
     <!-- SECTION: Postpositions -->
 
@@ -104,7 +105,8 @@
 
  <!-- SECTION: Nouns -->
 
-    <e><p><l>şey</l><r>şey2</r></p><par n="nominal"/></e>
+    <e><p><l>yemek</l><r>yemək</r></p><par n="nominal"/></e>
+    <e><p><l>şey</l><r>şey</r></p><par n="nominal"/></e>
     <e><p><l>bira</l><r>pivə</r></p><par n="nominal"/></e>
     <e><p><l>kova</l><r>vedrə</r></p><par n="nominal"/></e>
     <e><p><l>kitap</l><r>kitab</r></p><par n="nominal"/></e>
@@ -1282,6 +1284,7 @@
     <e><p><l>komplo</l><r>qəsd</r></p><par n="nominal"/></e>
     <e><p><l>komposto</l><r>kompot</r></p><par n="nominal"/></e>
     <e><p><l>kol</l><r>gol</r></p><par n="nominal"/></e>
+    <e><p><l>öğrenci</l><r>tələbə</r></p><par n="nominal"/></e>
     
 
 
@@ -1339,6 +1342,7 @@
     <e><p><l>Azerbaycan<s n="np"/></l><r>Azərbaycan<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Bağdat<s n="np"/></l><r>Bağdad<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Bakü<s n="np"/></l><r>Bakı<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>İsa<s n="np"/></l><r>İsa<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Bangladeş<s n="np"/></l><r>Banqladeş<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Barcelona<s n="np"/></l><r>Barselona<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Basra<s n="np"/></l><r>Bəsrə<s n="np"/></r></p></e> <!-- Top -->
@@ -1492,6 +1496,8 @@
     <e><p><l>çok<s n="adv"/></l><r>çox<s n="adv"/></r></p></e>
     <e><p><l>en<s n="adv"/></l><r>ən<s n="adv"/></r></p></e>
     <e><p><l>yok<s n="adv"/></l><r>yox<s n="adv"/></r></p></e>
+    <e><p><l>hep<s n="adv"/></l><r>həmişə<s n="adv"/></r></p></e>
+    <e><p><l>sonra<s n="adv"/></l><r>sonra<s n="adv"/></r></p></e>
 
 
     <!-- SECTION: Verbs -->
@@ -1527,6 +1533,7 @@
     <e><p><l>boğ<s n="v"/></l><r>boğ<s n="v"/></r></p></e>
     <e><p><l>bula<s n="v"/></l><r>bula<s n="v"/></r></p></e>
     <e><p><l>buyur<s n="v"/></l><r>buyur<s n="v"/></r></p></e>
+    <e><p><l>bölmek<s n="v"/></l><r>bölmək<s n="v"/></r></p></e>
     <e><p><l>bük<s n="v"/></l><r>bük<s n="v"/></r></p></e>
     <e><p><l>büz<s n="v"/></l><r>büz<s n="v"/></r></p></e>
     <e><p><l>coş<s n="v"/></l><r>coş<s n="v"/></r></p></e>
