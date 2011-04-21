@@ -95,3 +95,6 @@ REMOVE Der0/A→N IF (0 Der0/A→N) (0 N);
 
 REMOVE Der/CI IF (0 N) (0 Der/CI) ;
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
+
+REMOVE CV-MARKER IF (0 N) (0 CV-MARKER) ; 
+    ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
