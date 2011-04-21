@@ -14,6 +14,7 @@ LIST EOS = (<<<) ; # End of sentence
 LIST N = (n) ;
 LIST V = (v) ;
 LIST A = (adj) ;
+LIST Adv = (adv) ;
 LIST Det = (det) ;
 LIST Post = (postp) ;
 LIST Pron = (prn) ;
@@ -47,7 +48,8 @@ LIST Imper = (t_imp) ;
 LIST CV-MARKER = (cv) ;
 LIST VN = (vn) ;
 
-LIST Der0/A→N = (adj Djn_0 n) ;
+LIST Der/0/Adv→N = (adv Dan_0 n) ;
+LIST Der/0/A→N = (adj Djn_0 n) ;
 LIST Der/CI = (v D_CI n) ;
 
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ;
@@ -91,14 +93,22 @@ REMOVE CV-MARKER IF (NOT 1* WORD BARRIER EOS) ;
 
 REMOVE Imper IF (NOT 1* ("!")) ;
 
-REMOVE Der0/A→N IF (0 Der0/A→N) (0 N);
-    ## içindekiler
-
-REMOVE Der/CI IF (0 N) (0 Der/CI) ;
-    ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
-
 REMOVE CV-MARKER IF (0 N) (0 CV-MARKER) ; 
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
 
 REMOVE VN IF (0 N) (0 VN) ;
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
+
+REMOVE Dat IF (1C Dat) ; 
+    ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
+
+REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 N);
+    ## içindekiler
+
+REMOVE Der/0/Adv→N IF (0 Der/0/Adv→N) (0 Adv);
+    ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
+
+REMOVE Der/CI IF (0 N) (0 Der/CI) ;
+    ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
+
+
