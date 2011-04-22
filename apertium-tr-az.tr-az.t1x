@@ -6,7 +6,11 @@
     <def-cat n="nom">
       <cat-item tags="n"/>
     </def-cat>
-   
+    
+    <def-cat n="np_apos">
+      <cat-item tags="np.apos.*"/>
+    </def-cat>
+    
   </section-def-cats>
   
   <section-def-attrs>
@@ -22,6 +26,9 @@
       <attr-item tags="acc"/>
       <attr-item tags="dat"/>
       <attr-item tags="ins"/>
+      <attr-item tags="gen"/>
+      <attr-item tags="abl"/>
+      <attr-item tags="loc"/>
     </def-attr>
     
     <def-attr n="nbr">
@@ -34,10 +41,12 @@
       <attr-item tags="n"/>
       <attr-item tags="n.acr"/>
       <attr-item tags="n.unc"/>
+      <attr-item tags="np"/>
       <attr-item tags="np.top"/>
       <attr-item tags="np.al"/>
       <attr-item tags="np.org"/>
       <attr-item tags="np.ant"/>
+      <attr-item tags="np.apos"/>
     </def-attr>
     
     <def-attr n="pers">
@@ -54,7 +63,7 @@
 
   <section-rules>
     
-    <rule>
+    <rule comment="regla: nom">
       <pattern>
         <pattern-item n="nom"/>
       </pattern>
@@ -67,6 +76,23 @@
             <clip pos="1" side="tl" part="nbr"/>
             <clip pos="1" side="tl" part="cas"/>
             <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="regla: np_apos">
+      <pattern>
+        <pattern-item n="np_apos"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" side="tl" part="a_nom"/>
+          <lit-tag v="np"/>
+        </let>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
           </lu>
         </out>
       </action>
