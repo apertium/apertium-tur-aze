@@ -46,13 +46,19 @@ LIST PxPl3 = (p3p) ;
 LIST Imper = (t_imp) ; 
 
 LIST CV-MARKER = (cv) ;
-LIST VN = (vn) ;
+
+LIST VN/acak = (vn_acak) ;
+LIST VN/dik = (vn_dik) ;
+LIST VN/ma = (vn_ma) ;
+LIST VN/mak = (vn_mak) ;
+LIST VN/yis = (vn_yis) ;
 
 LIST Der/0/Adv→N = (adv Dan_0 n) ;
 LIST Der/0/A→N = (adj Djn_0 n) ;
 LIST Der/lAn = (n D_lAn v) ;
 LIST Der/CI = (v D_CI n) ;
 LIST Der/yIS = (v D_yIS n) ;
+LIST Der/lIk = (n D_lIK n) ; 
 
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ("için"i postp);
 LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
@@ -65,6 +71,8 @@ SET POSS = PxSg1 | PxSg2 | PxSg3 | PxPl1 | PxPl2 | PxPl3 ;
 SET NOMINAL = N | A ;
 SET NOM-OR-PRO = NOMINAL | Pron ;
 SET WORD = N | A | V | Det | Post | Pron | CC | CS ;
+
+SET VN = VN/acak | VN/dik | VN/ma | VN/mak | VN/yis ; 
 
 SET OBL-CASE = Acc | Dat | Gen | Ins | Abl ;
 
@@ -89,6 +97,10 @@ REMOVE Der/lAn IF (0 V + $$FINITE) (0 Der/lAn + $$FINITE) ;
 
 REMOVE Der/yIS IF (0 N) (0 Der/yIS) ;
     ## Bilişim ve haberleşe teknolijlerinin asıl altyapı göstergelerinde biri olan telefon iletişimi ülke halkının en çok istifade ettiği iletişim aracı olmaya devam etmektedir. 
+
+REMOVE Der/lIk IF (0 N) (0 Der/lIk) ;
+    ## 
+
 
 
 

@@ -819,7 +819,8 @@
     <e><p><l>grup</l><r>grup</r></p><par n="nominal"/></e>  
     <e><p><l>gri</l><r>boz</r></p><par n="nominal"/></e>  
     <e><p><l>gübre</l><r>gübrə</r></p><par n="nominal"/></e>  
-    <e><p><l>güç</l><r>güç</r></p><par n="nominal"/></e>  
+    <!--<e><p><l>güç</l><r>güç</r></p><par n="nominal"/></e>  -->
+    <e><p><l>güç</l><r>güc</r></p><par n="nominal"/></e> 
     <e><p><l>guguk</l><r>gugu</r></p><par n="nominal"/></e>  
     <e><p><l>gül</l><r>gızıgül</r></p><par n="nominal"/></e>  
     <e><p><l>gümrük</l><r>gömrük</r></p><par n="nominal"/></e>  
@@ -1212,7 +1213,6 @@
     <e><p><l>hükümet</l><r>hökumət</r></p><par n="nominal"/></e> 
     <e><p><l>medya</l><r>daşıyıcılar</r></p><par n="nominal"/></e> 
     <e><p><l>parça</l><r>parça</r></p><par n="nominal"/></e> 
-    <e><p><l>güç</l><r>güc</r></p><par n="nominal"/></e> 
     <e><p><l>gücü</l><r>gücü</r></p><par n="nominal"/></e> 
     <e><p><l>kaynak</l><r>gaynag</r></p><par n="nominal"/></e>
     <e><p><l>kaypak</l><r>e'tibarsız</r></p><par n="nominal"/></e>
@@ -1358,6 +1358,7 @@
     <e><p><l>Amsterdam<s n="np"/></l><r>Amsterdam<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Angola<s n="np"/></l><r>Anqola<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Ankara<s n="np"/></l><r>Ankara<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>Asya<s n="np"/></l><r>Asiya<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Antarktika<s n="np"/></l><r>Antarktida<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Antartika<s n="np"/></l><r>Antarktida<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Arabistan<s n="np"/></l><r>Ərəbistan<s n="np"/></r></p></e> <!-- Top -->
