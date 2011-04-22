@@ -94,7 +94,23 @@
     <e><p><l>bin<s n="num"/></l><r>min<s n="num"/></r></p></e>
     <e><p><l>milyon<s n="num"/></l><r>milyon<s n="num"/></r></p></e>
     <e><p><l>milyar<s n="num"/></l><r>milyard<s n="num"/></r></p></e>
+
  
+<!-- SECTION: Nmerals to be removed later -->
+
+    <e><p><l>yüzbin<s n="num"/></l><r>yüzmin<s n="num"/></r></p></e>
+    <e><p><l>oniki<s n="num"/></l><r>oniki<s n="num"/></r></p></e>
+    <e><p><l>onbir<s n="num"/></l><r>onbir<s n="num"/></r></p></e>
+    <e><p><l>onbin<s n="num"/></l><r>onmin<s n="num"/></r></p></e>
+    <e><p><l>trilyon<s n="num"/></l><r>trilyon<s n="num"/></r></p></e>
+    <e><p><l>yüzmilyon<s n="num"/></l><r>yüzmilyon<s n="num"/></r></p></e>
+    <e><p><l>ondokuz<s n="num"/></l><r>ondoqquz<s n="num"/></r></p></e>
+    <e><p><l>yirmibeş<s n="num"/></l><r>iyirmibeş<s n="num"/></r></p></e>
+    <e><p><l>onsekiz<s n="num"/></l><r>onsəkkiz<s n="num"/></r></p></e>
+    <e><p><l>onbeş<s n="num"/></l><r>onbeş<s n="num"/></r></p></e>
+    <e><p><l>onaltı<s n="num"/></l><r>onaltı<s n="num"/></r></p></e>
+    <e><p><l>ikiyüz<s n="num"/></l><r>ikiyüz<s n="num"/></r></p></e>
+    <e><p><l>birbuçuk<s n="num"/></l><r>biryarım<s n="num"/></r></p></e>
 
 <!-- SECTION: Adjectives -->
     <e><p><l>çok<s n="adj"/></l><r>çox<s n="adj"/></r></p></e>
