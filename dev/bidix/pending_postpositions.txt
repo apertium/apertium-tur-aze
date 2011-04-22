@@ -1,10 +1,12 @@
    2448 ^@gibi<postp>$
    1002 ^@dair<postp>$
     706 ^@doğru<postp><abl>$
-    162 ^@dair<postp><dat>$
+    161 ^@dair<postp><dat>$
+     86 ^@üzerine<postp>$
      37 ^@anki<postp>$
      17 ^@göre<postp><cplsa><3s>$
      14 ^@doğru<postp><3p>$
+      9 ^@yukarı<postp><loc>$
       8 ^@gibi<postp>$.
       6 ^@sonra<postp><cplsa><3s>$
       6 ^@önce<postp><cplsa><3s>$
@@ -14,6 +16,7 @@
       5 ^@başka<postp><p2s><acc><cpldi><3s>$.
       5 ^@ait<postp><3s><dir>$
       4 ^@doğru<postp><p3s>$
+      3 ^@yukarı<postp><p3s><loc>$
       3 ^@üzere<postp><3s><cplken>$
       3 ^@halinde<postp><cplsa><3s>$
       3 ^@halinde<postp><3s><cplken>$
@@ -26,6 +29,9 @@
       2 ^@halde<postp><cpldi><3s>$.
       2 ^@doğru<postp><loc>$
       2 ^@başka<postp><p2s><acc><cpldi><3s>$
+      1 ^@yukarı<postp><p3s><dat>$
+      1 ^@yukarı<postp><p3s><acc>$
+      1 ^@yukarı<postp><loc><ki>$
       1 ^@yana<postp><3s><cplken>$
       1 ^@üzere<postp><cplsa><3s>$
       1 ^@takdirde<postp><cplsa><3s>$
