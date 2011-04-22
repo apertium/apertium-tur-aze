@@ -1002,7 +1002,8 @@
     <e><p><l>ilan</l><r>elanbildiriş</r></p><par n="nominal"/></e> 
     <e><p><l>ilave</l><r>əlavə</r></p><par n="nominal"/></e> 
     <e><p><l>ilçe</l><r>rayon</r></p><par n="nominal"/></e> 
-    <e><p><l>iletişim</l><r>ünsiyyət</r></p><par n="nominal"/></e> 
+    <e><p><l>iletişim</l><r>rabitə</r></p><par n="nominal"/></e>
+    <!--<e><p><l>iletişim</l><r>ünsiyyət</r></p><par n="nominal"/></e>-->
     <e><p><l>ilgi</l><r>əlaxə</r></p><par n="nominal"/></e> 
     <e><p><l>ilginç</l><r>maraglı</r></p><par n="nominal"/></e> 
     <e><p><l>ilhak</l><r>ilhag</r></p><par n="nominal"/></e> 
@@ -1295,6 +1296,11 @@
     <!--<e><p><l>proje</l><r>lahiyə</r></p><par n="nominal"/></e>-->
     <e><p><l>plan</l><r>plan</r></p><par n="nominal"/></e>
     <e><p><l>yıl</l><r>il</r></p><par n="nominal"/></e>
+    <e><p><l>istifade</l><r>istifadə</r></p><par n="nominal"/></e>
+    <e><p><l>deva</l><r>dava</r></p><par n="nominal"/></e>
+    <e><p><l>devam</l><r>davam</r></p><par n="nominal"/></e>
+    <e><p><l>asıl</l><r>əsas</r></p><par n="nominal"/></e>
+    <e><p><l>bilişim</l><r>informasiya</r></p><par n="nominal"/></e> <!-- i → İ -->
 
 
 
@@ -1523,6 +1529,7 @@
     <e><p><l>de<s n="v"/></l><r>de<s n="v"/></r></p></e>
     <e><p><l>şükret<s n="v"/></l><r>şükret<s n="v"/></r></p></e>
     <e><p><l>planla<s n="v"/></l><r>planlaşdır<s n="v"/></r></p></e>
+    <e><p><l>et<s n="v"/></l><r>et<s n="v"/></r></p></e>
 
     <!-- : Automatically added -->
 
