@@ -3,11 +3,13 @@ DEV=/home/fran/source/apertium/incubator/apertium-tr-az/dev/bidix/
 
 echo "SECTION
 
-SELECT (inf);" > /tmp/temp_cg ;
+SELECT (t_imp 2s);
+REMOVE (n v);
+SELECT (v);" > /tmp/temp_cg ;
 
 cg-comp /tmp/temp_cg /tmp/temp_cg.bin ;
 
-cat $INPUT | grep '<v>' | grep '@' | cut -f2 -d'@' | cut -f1 -d'<' | lt-proc -w $DEV/../../tr-az.automorf.bin  | cg-proc /tmp/temp_cg.bin  | cut -f2- -d'/' | sed 's/<pres><p3><sg>//g' | grep '<v>' | cut -f1 -d'$' | sort -f | uniq -c | sort -gr  | grep -v '[0-9] $' > $DEV/pending_verbs.txt
+cat $INPUT | grep '<v>' | grep '@' | cut -f2 -d'@' | cut -f1 -d'<' | hfst-proc -w $DEV/../../tr-az.automorf.hfst | cg-proc /tmp/temp_cg.bin  | cut -f2- -d'/' | sed 's/<pres><p3><sg>//g' | grep '<v>' | cut -f1 -d'$' | sort -f | uniq -c | sort -gr  | grep -v '[0-9] $' > $DEV/pending_verbs.txt
 
 cat $INPUT | grep '@' | grep '<adv>' | grep -v '<v' | sh ~/scripts/lowercase.sh  | sort -f | sed 's/^\W*\^/^/g' | sort -f | uniq -c | sort -gr  | grep -v '[0-9] $' > $DEV/pending_adverbs.txt
 
