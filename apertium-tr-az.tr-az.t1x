@@ -10,6 +10,15 @@
     <def-cat n="np_apos">
       <cat-item tags="np.apos.*"/>
     </def-cat>
+
+<def-cat n="v_pres">
+      <cat-item tags="v.t_cont.1s"/>
+      <cat-item tags="v.t_cont.2s"/>
+      <cat-item tags="v.t_cont.3s"/>
+      <cat-item tags="v.t_cont.1p"/>
+      <cat-item tags="v.t_cont.2p"/>
+      <cat-item tags="v.t_cont.3p"/>
+    </def-cat>
     
   </section-def-cats>
   
@@ -20,13 +29,18 @@
       <attr-item tags="f"/>
       <attr-item tags="GD"/>
     </def-attr>
+
+<def-attr n="tense">
+      <attr-item tags="t_cont"/>
+      <attr-item tags="t_aor"/>
+      <attr-item tags="t_fut"/>
+    </def-attr>
  
     <def-attr n="cas">
       <attr-item tags="nom"/>
       <attr-item tags="acc"/>
       <attr-item tags="dat"/>
       <attr-item tags="ins"/>
-      <attr-item tags="gen"/>
       <attr-item tags="abl"/>
       <attr-item tags="loc"/>
     </def-attr>
@@ -89,6 +103,24 @@
         <let>
           <clip pos="1" side="tl" part="a_nom"/>
           <lit-tag v="np"/>
+        </let>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+
+  <rule comment="regla: move t_cont to t_aor">
+      <pattern>
+        <pattern-item n="v_pres"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" side="tl" part="tense"/>
+          <lit-tag v="t_aor"/>
         </let>
         <out>
           <lu>
