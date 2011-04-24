@@ -69,6 +69,21 @@
     <e><p><l>bu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e> <!-- Det -->
     <e><p><l>başka<s n="prn"/></l><r>başqa<s n="prn"/></r></p></e> <!-- ? -->
 
+    <e><p><l>kim<s n="prn"/></l><r>kim<s n="prn"/></r></p></e> <!-- Itg -->
+    <e><p><l>ne<s n="prn"/></l><r>nə<s n="prn"/></r></p></e>
+    <e><p><l>öteki<s n="prn"/></l><r>digər<s n="prn"/></r></p></e> <!-- Ind 'other' -->
+    <e><p><l>şu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e> <!-- Dem -->
+
+<!--
+    <e><p><l>böyle<s n="prn"/></l><r>böyle<s n="prn"/></r></p></e>
+    <e><p><l>hangi<s n="prn"/></l><r>hangi<s n="prn"/></r></p></e>
+    <e><p><l>kendi<s n="prn"/></l><r>kendi<s n="prn"/></r></p></e>
+    <e><p><l>nere<s n="prn"/></l><r>nere<s n="prn"/></r></p></e>
+    <e><p><l>öyle<s n="prn"/></l><r>öyle<s n="prn"/></r></p></e>
+    <e><p><l>şöyle<s n="prn"/></l><r>şöyle<s n="prn"/></r></p></e>
+-->
+
+
     <!-- SECTION: Numerals -->
 
     <e><p><l>sıfır<s n="num"/></l><r>sıfır<s n="num"/></r></p></e>
