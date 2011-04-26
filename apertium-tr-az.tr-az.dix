@@ -11,6 +11,7 @@
     <sdef n="v"        c="Verb"/>
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
     <sdef n="cnjadv"   c="Adverbial conjunction"/>
+    <sdef n="cnjsub"   c="Adverbial sub"/>
     <sdef n="adj"      c="Adjective"/>
     <sdef n="guio"     c="Hyphen"/>
     <sdef n="cm"       c="Comma"/>
@@ -1593,6 +1594,7 @@
 
     <e><p><l>Hegel<s n="np"/></l><r>Hegel<s n="np"/></r></p></e> <!-- Cog.Sg -->
     <e><p><l>Hitler<s n="np"/></l><r>Hitler<s n="np"/></r></p></e> <!-- Cog.Sg -->
+    <e><p><l>Sezgi<s n="np"/></l><r>Sezgi<s n="np"/></r></p></e> <!-- Cog.Sg -->    
     <e><p><l>Kaddafi<s n="np"/></l><r>Qəzzafi<s n="np"/></r></p></e> <!-- Cog.Sg -->
     <e><p><l>Putin<s n="np"/></l><r>Putin<s n="np"/></r></p></e> <!-- Cog.Sg -->
     <e><p><l>Reagan<s n="np"/></l><r>Reyqan<s n="np"/></r></p></e> <!-- Cog.Sg -->
