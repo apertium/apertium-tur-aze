@@ -125,6 +125,8 @@
 
     <!-- SECTION: Pronouns -->
 
+    <e><p><l>kendi<s n="prn"/></l><r>özü<s n="prn"/></r></p></e> <!-- Reflexive -->
+
     <e><p><l>ben<s n="prn"/></l><r>mən<s n="prn"/></r></p></e> <!-- Pers -->
     <e><p><l>sen<s n="prn"/></l><r>sən<s n="prn"/></r></p></e> <!-- Pers -->
     <e><p><l>o<s n="prn"/></l><r>o<s n="prn"/></r></p></e> <!-- Pers -->
