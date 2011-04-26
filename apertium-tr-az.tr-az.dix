@@ -51,11 +51,11 @@
     <e><p><l>ila<s n="cnjcoo"/></l><r>ila<s n="cnjcoo"/></r></p></e>  
     <e><p><l>bile<s n="cnjadv"/></l><r>belə<s n="cnjadv"/></r></p></e>  
     <e><p><l>gerek<s n="cnjcoo"/></l><r>gerək<s n="cnjcoo"/></r></p></e>  
-    <e><p><l>ya da<s n="cnjadv"/></l><r>ya da<s n="cnjadv"/></r></p></e>  
+    <e><p><l>ya<b/>da<s n="cnjadv"/></l><r>ya<b/>da<s n="cnjadv"/></r></p></e>  
     <e><p><l>sonra<s n="cnjadv"/></l><r>sonra<s n="cnjadv"/></r></p></e>  
     <e><p><l>zira<s n="cnjadv"/></l><r>çünki<s n="cnjadv"/></r></p></e>  
     <e><p><l>yani<s n="cnjadv"/></l><r>yəni<s n="cnjadv"/></r></p></e>  
-    <e><p><l>ne var ki<s n="cnjadv"/></l><r>nə var ki<s n="cnjadv"/></r></p></e>  
+    <e><p><l>ne<b/>var<b/>ki<s n="cnjadv"/></l><r>nə<b/>var<b/>ki<s n="cnjadv"/></r></p></e>  
     <e><p><l>olsun<s n="cnjadv"/></l><r>olsun<s n="cnjadv"/></r></p></e>  
     <e><p><l>örneğin<s n="cnjadv"/></l><r>məsələn<s n="cnjadv"/></r></p></e>  
     <e><p><l>çünkü<s n="cnjadv"/></l><r>çünki<s n="cnjadv"/></r></p></e>  
@@ -69,28 +69,28 @@
     <e><p><l>olarak<s n="cnjadv"/></l><r>olaraq<s n="cnjadv"/></r></p></e>  
     <e><p><l>ne<s n="cnjcoo"/></l><r>nə<s n="cnjcoo"/></r></p></e>  
     <e><p><l>aksine<s n="cnjadv"/></l><r>əksine<s n="cnjadv"/></r></p></e>  
-    <e><p><l>başka bir deyişle<s n="cnjadv"/></l><r>başqa bir sözlə<s n="cnjadv"/></r></p></e>  <!-- CHECK -->
-    <e><p><l>zaten<s n="cnjadv"/></l><r>onsuz da<s n="cnjadv"/></r></p></e>  
+    <e><p><l>başka<b/>bir<b/>deyişle<s n="cnjadv"/></l><r>başqa<b/>bir<b/>sözlə<s n="cnjadv"/></r></p></e>  <!-- CHECK -->
+    <e><p><l>zaten<s n="cnjadv"/></l><r>onsuz<b/>da<s n="cnjadv"/></r></p></e>  
     <e><p><l>hem<s n="cnjadv"/></l><r>həm<s n="cnjadv"/></r></p></e>  
     <e><p><l>tersine<s n="cnjadv"/></l><r>tərsinə<s n="cnjadv"/></r></p></e>  
     <e><p><l>şayet<s n="cnjsub"/></l><r>əgər<s n="cnjadv"/></r></p></e>  
     <e><p><l>neyse<s n="cnjadv"/></l><r>nəysə<s n="cnjadv"/></r></p></e>  
     <e><p><l>üstelik<s n="cnjadv"/></l><r>üstəlik<s n="cnjadv"/></r></p></e>  
-    <e><p><l>bundan dolayı<s n="cnjadv"/></l><r>bundan ötəri<s n="cnjadv"/></r></p></e>  <!-- CHECK -->
-    <e><p><l>ne de olsa<s n="cnjadv"/></l><r>hələ də<s n="cnjadv"/></r></p></e>  <!-- CHECK -->
+    <e><p><l>bundan<b/>dolayı<s n="cnjadv"/></l><r>bundan<b/>ötəri<s n="cnjadv"/></r></p></e>  <!-- CHECK -->
+    <e><p><l>ne<b/>de<b/>olsa<s n="cnjadv"/></l><r>hələ<b/>də<s n="cnjadv"/></r></p></e>  <!-- CHECK -->
     <e><p><l>oysa<s n="cnjadv"/></l><r>halbuki<s n="cnjadv"/></r></p></e>  
     <e><p><l>keza<s n="cnjadv"/></l><r>həmçinin<s n="cnjadv"/></r></p></e>  
     <e><p><l>hani<s n="cnjadv"/></l><r>hazırda<s n="cnjadv"/></r></p></e>  
-    <e><p><l>daha doğrusu<s n="cnjadv"/></l><r>daha doğrusu<s n="cnjadv"/></r></p></e>  <!-- CHECK -->
+    <e><p><l>daha<b/>doğrusu<s n="cnjadv"/></l><r>daha<b/>doğrusu<s n="cnjadv"/></r></p></e>  <!-- CHECK -->
     <e><p><l>belki<s n="cnjadv"/></l><r>bəlkə<s n="cnjadv"/></r></p></e>  
     <e><p><l>adeta<s n="cnjadv"/></l><r>sanki<s n="cnjadv"/></r></p></e>  
     <e><p><l>peki<s n="cnjadv"/></l><r>yaxşı<s n="cnjadv"/></r></p></e>  
-    <e><p><l>oysa ki<s n="cnjadv"/></l><r>halbuki<s n="cnjadv"/></r></p></e>  
-    <e><p><l>nitekim<s n="cnjadv"/></l><r>nəcə ki<s n="cnjadv"/></r></p></e>  <!-- CHECK -->
-    <e><p><l>ne var ki<s n="cnjadv"/></l><r>nə var ki<s n="cnjadv"/></r></p></e>  <!-- PROBABLY mistake -->
+    <e><p><l>oysa<b/>ki<s n="cnjadv"/></l><r>halbuki<s n="cnjadv"/></r></p></e>  
+    <e><p><l>nitekim<s n="cnjadv"/></l><r>nəcə<b/>ki<s n="cnjadv"/></r></p></e>  <!-- CHECK -->
+    <e><p><l>ne<b/>var<b/>ki<s n="cnjadv"/></l><r>nə<b/>var<b/>ki<s n="cnjadv"/></r></p></e>  <!-- PROBABLY mistake -->
     <e><p><l>kısacası<s n="cnjadv"/></l><r>qısaca<s n="cnjadv"/></r></p></e>  
     <e><p><l>işte<s n="cnjadv"/></l><r>işde<s n="cnjadv"/></r></p></e>  
-    <e><p><l>hiç olmazsa<s n="cnjadv"/></l><r>ən azından<s n="cnjadv"/></r></p></e>  
+    <e><p><l>hiç<b/>olmazsa<s n="cnjadv"/></l><r>ən<b/>azından<s n="cnjadv"/></r></p></e>  
     <e><p><l>halbuki<s n="cnjadv"/></l><r>halbuki<s n="cnjadv"/></r></p></e>  
     <e><p><l>demek<s n="cnjadv"/></l><r>demək<s n="cnjadv"/></r></p></e>  
     <e><p><l>aksine<s n="cnjadv"/></l><r>əksinə<s n="cnjadv"/></r></p></e>  
