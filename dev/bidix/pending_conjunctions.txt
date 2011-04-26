@@ -1,77 +1,11 @@
-  19860 ^@için<cnjcoo>$
-  16702 ^@de<cnjadv>$
-  16559 ^@da<cnjadv>$
-  14561 ^@ile<cnjcoo>$
-   2380 ^@ya<cnjadv>$
-   1828 ^@ta<cnjadv>$
     828 ^@fakat<cnjadv>$
-    493 ^@gerek<cnjcoo>$
-    483 ^@ila<cnjcoo>$
-    481 ^@bile<cnjadv>$
     468 ^@ki<cnjadv>$
-    386 ^@ya da<cnjadv>$
-    287 ^@sonra<cnjadv>$
-    235 ^@zira<cnjadv>$
-    184 ^@yani<cnjadv>$
-    178 ^@olsun<cnjadv>$
-    170 ^@ne var ki<cnjadv>$
-    149 ^@örneğin<cnjadv>$
-    144 ^@çünkü<cnjadv>$
-    135 ^@hatta<cnjadv>$
-    128 ^@dolayısıyla<cnjadv>$
-    107 ^@dahası<cnjadv>$
-     65 ^@bile<cnjadv>$.
-     52 ^@ister<cnjadv>$
-     25 ^@yok<cnjadv>$
      21 ^@bunun üzerine<cnjadv>$
-     19 ^@yok<cnjadv>$.
-     19 ^@ancak<cnjcoo>$
-     18 ^@demek<cnjadv>$
      17 ^@olarak<cnjsub>$
-     12 ^@ne<cnjcoo>$
-     12 ^@aksine<cnjadv>$
-     11 ^@başka bir deyişle<cnjadv>$
-     10 ^@zaten<cnjadv>$
       9 ^@hem<cnjcoo>$
-      9 ^@demek<cnjadv>$.
-      7 ^@tersine<cnjadv>$
-      7 ^@için<cnjcoo>$.
-      7 ^@gerek<cnjcoo>$.
-      5 ^@şayet<cnjsub>$
-      5 ^@neyse<cnjadv>$
-      5 ^@da<cnjadv>$.
-      4 ^@üstelik<cnjadv>$
-      4 ^@bundan dolayı<cnjadv>$
-      3 ^@ne de olsa<cnjadv>$
       3 ^@ki<cnjadv>$?"
       3 ^@ha<cnjcoo>$
-      3 ^@de<cnjadv>$.
-      2 ^@yok<cnjadv>$."
-      2 ^@oysa<cnjadv>$
       2 ^@ki<cnjadv>$.
-      2 ^@keza<cnjadv>$
-      2 ^@hani<cnjadv>$
-      2 ^@daha doğrusu<cnjadv>$
-      2 ^@belki<cnjadv>$
-      2 ^@adeta<cnjadv>$
       1 ^@yok mu<cnjadv>$?
-      1 ^@ta<cnjadv>$]
-      1 ^@peki<cnjadv>$
-      1 ^@oysa ki<cnjadv>$
-      1 ^@nitekim<cnjadv>$
-      1 ^@ne var ki<cnjadv>$.
-      1 ^@kısacası<cnjadv>$
       1 ^@ki<cnjadv>$...
       1 ^@ki<cnjadv>$?
-      1 ^@ister<cnjadv>$."
-      1 ^@işte<cnjadv>$
-      1 ^@için<cnjcoo>$ ...
-      1 ^@hiç olmazsa<cnjadv>$
-      1 ^@halbuki<cnjadv>$
-      1 ^@demek<cnjadv>$."
-      1 ^@de<cnjadv>$."
-      1 ^@de<cnjadv>$ 
-      1 ^@da<cnjadv>$."
-      1 ^@da<cnjadv>$...
-      1 ^@çünkü<cnjadv>$ ...
-      1 ^@aksine<cnjadv>$."
