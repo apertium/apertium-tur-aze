@@ -109,6 +109,9 @@
 
     <!-- SECTION: Postpositions -->
 
+
+    <e><p><l>aşağı<s n="postp"/></l><r>aşağı<s n="postp"/></r></p></e>
+    <e><p><l>boyunca<s n="postp"/></l><r>boyunca<s n="postp"/></r></p></e>
     <e><p><l>değin<s n="postp"/></l><r>qədər<s n="postp"/></r></p></e>
     <!--<e><p><l>değin<s n="postp"/></l><r>dək<s n="postp"/></r></p></e>-->
     <e><p><l>kadar<s n="postp"/></l><r>qədər<s n="postp"/></r></p></e>
