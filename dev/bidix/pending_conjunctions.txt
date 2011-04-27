@@ -1,11 +1,2 @@
-    828 ^@fakat<cnjadv>$
-    468 ^@ki<cnjadv>$
-     21 ^@bunun üzerine<cnjadv>$
-     17 ^@olarak<cnjsub>$
-      9 ^@hem<cnjcoo>$
-      3 ^@ki<cnjadv>$?"
       3 ^@ha<cnjcoo>$
-      2 ^@ki<cnjadv>$.
       1 ^@yok mu<cnjadv>$?
-      1 ^@ki<cnjadv>$...
-      1 ^@ki<cnjadv>$?

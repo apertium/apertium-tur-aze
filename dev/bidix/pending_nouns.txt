@@ -1,5 +1,4 @@
   19235 ^@ab<n>$
-  10659 ^@yen<n>$
    9377 ^@son<n>$
    8330 ^@taraf<n>$
    8274 ^@suç<n>$
@@ -1445,7 +1444,7 @@
      73 ^@kütüphane<n>$
      73 ^@kit<n>$
      73 ^@araştırma<n><dci><adj>$
-     72 ^@yeni<n><dlik><n>$
+     72 ^@yeni<adj><dlik><n>$
      72 ^@yapı<n><dlan><v><caus><pass><cv>$
      72 ^@tekne<n>$
      72 ^@özerk<n>$
@@ -1489,7 +1488,7 @@
      68 ^@bak<v><dma><n>$
      68 ^@atlet<n>$
      68 ^@akaryakıt<n>$
-     67 ^@yeni<n><dla><v><dma><n>$
+     67 ^@yeni<adj><dla><v><dma><n>$
      67 ^@yayın<n><dlan><v><tpast>$.
      67 ^@tepe<n>$
      67 ^@süt<n>$
@@ -1542,7 +1541,7 @@
      64 ^@bünye<n><ki>$
      64 ^@bariz<n>$
      63 ^@yüksel<v><dma><n>$
-     63 ^@yeni<n><dlan><v><dma><n>$
+     63 ^@yeni<adj><dlan><v><dma><n>$
      63 ^@yavaş<adj><dla><v><dma><n>$
      63 ^@yarımada<n>$
      63 ^@tutuk<n><dla><v><tpast>$.
@@ -2924,7 +2923,6 @@
      16 ^@zede<n><dla><v><dma><n>$
      16 ^@yüzlerce<n>$
      16 ^@yuna<n><ca>$
-     16 ^@yeni<n><dlan><v><partyan>$
      16 ^@yeğen<n>$
      16 ^@yayım<n><dci><adj><dlik><n>$
      16 ^@yara<n><dla><v><partdik>$
@@ -3589,7 +3587,6 @@
      10 ^@yüzey<n>$
      10 ^@yorum<n><dla><v><tpast>$.
      10 ^@yoğun<adj><dlik><n><dli><adj>$
-     10 ^@yeni<n><dla><v><vnmak>$
      10 ^@yayım<n><dla><v><cv>$
      10 ^@yarımada<n><ki>$
      10 ^@yarar<n><dlan><v><partyan>$
@@ -4392,6 +4389,7 @@
       6 ^@yorum<n><dlan><v><partdik>$
       6 ^@yönel<v><dma><n>$
       6 ^@yetki<n><dli><n><cpldi>$.
+      6 ^@yen<n>$
       6 ^@yazar<n><dlik><n>$
       6 ^@yaya<n>$
       6 ^@yavuz<n>$
@@ -4695,7 +4693,6 @@
       5 ^@yer<n><dlas><v><caus><tpast>$.
       5 ^@yer<n><dlas><v><caus><partyan>$
       5 ^@yer<n><ca>$
-      5 ^@yeni<n><dlan><v><partdik>$
       5 ^@yemin<n>$
       5 ^@yayın<n><dlan><v><cv>$.
       5 ^@yatay<n>$
@@ -5110,9 +5107,6 @@
       4 ^@yıkıntı<n>$
       4 ^@yer<n><dlas><v><cv>$
       4 ^@yerküre<n>$
-      4 ^@yeni<n><dla><v><partacak>$
-      4 ^@yeni<n><dlas><v><caus><cv>$
-      4 ^@yeni<n><dlan><v><partacak>$
       4 ^@yelpaze<n><ki>$
       4 ^@yayın<n><dlan><v><taor>$
       4 ^@yayım<n><dci><n>$
@@ -6565,9 +6559,6 @@
       2 ^@yer<n><dlas><v><neg><partdik>$
       2 ^@yer<n><dlas><v><caus><pass><tcont>$.
       2 ^@yer<n><dlas><v><caus><partacak>$.
-      2 ^@yeni<n><dla><v><tpast>$.
-      2 ^@yeni<n><dla><v><tpast>$
-      2 ^@yeni<n><dla><v><cv>$
       2 ^@yenge<n>$
       2 ^@yelken<n><dli><n>$
       2 ^@yaz<n><cpldi>$
@@ -8200,16 +8191,7 @@
       1 ^@yergi<n>$
       1 ^@yerel<n><dlik><n>$
       1 ^@yen<n><dlik><n><dci><adj>$
-      1 ^@yen<n>$.
-      1 ^@yeni<n><dla><v><tobl>$.
-      1 ^@yeni<n><dla><v><partyan>$
-      1 ^@yeni<n><dla><v><dvnyici><adj>$
-      1 ^@yeni<n><dla><v><abil><vnmak>$
-      1 ^@yeni<n><dlas><v><caus><vnmak>$
-      1 ^@yeni<n><dlan><v><vnmak>$
-      1 ^@yeni<n><dlan><v><dma><n><ki>$
-      1 ^@yeni<n><dlan><v><cv>$
-      1 ^@yeni<n><dca><adj>$
+      1 ^@yeni<adj><dlan><v><dma><n><ki>$
       1 ^@yengeç<n>$
       1 ^@yem<n><dla><v><cv>$
       1 ^@yemekhane<n>$

@@ -277,7 +277,7 @@
      54 kavur<v><t_imp><2s>
      54 affet<v><t_imp><2s>
      52 rastla<v><t_imp><2s>
-     51 yenile<v><t_imp><2s>
+     50 yeni<adj><D_lA><v><t_imp><2s>/yenile<v><t_imp><2s>
      50 kana<v><t_imp><2s>
      50 fırla<v><t_imp><2s>
      49 ısıt<v><t_imp><2s>

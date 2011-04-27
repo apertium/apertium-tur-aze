@@ -1,4 +1,4 @@
-   4423 ^@karşı<adv>$
+   4420 ^@karşı<adv>$
    4036 ^@ilk<adv>$
    2693 ^@ayrıca<adv>$
    2618 ^@yeniden<adv>$
@@ -35,8 +35,8 @@
     349 ^@önceden<adv>$
     337 ^@neredeyse<adv>$
     333 ^@nasıl<adv>$
-    329 ^@hızlı<adv>$
     328 ^@itibaren<adv>$
+    328 ^@hızlı<adv>$
     299 ^@derhal<adv>$
     281 ^@şimdi<adv><dan0><n><dat>$
     259 ^@bugün<adv>$
