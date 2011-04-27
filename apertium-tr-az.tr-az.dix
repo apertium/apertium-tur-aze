@@ -1682,6 +1682,54 @@
     <e><p><l>itibaren<s n="adv"/></l><r>etibarən<s n="adv"/></r></p></e>
     <e><p><l>hızlı<s n="adv"/></l><r>sürətli<s n="adv"/></r></p></e>
     <e><p><l>derhal<s n="adv"/></l><r>dərhal<s n="adv"/></r></p></e>
+    <e><p><l>hiç<s n="adv"/></l><r>heç<s n="adv"/></r></p></e>
+    <e><p><l>asla<s n="adv"/></l><r>əsla<s n="adv"/></r></p></e>
+    <e><p><l>yıllardır<s n="adv"/></l><r>illərdir<s n="adv"/></r></p></e>
+    <e><p><l>çabuk<s n="adv"/></l><r>tez<s n="adv"/></r></p></e>
+    <e><p><l>gerçekten<s n="adv"/></l><r>həqiqətdə<s n="adv"/></r></p></e>
+    <e><p><l>ortaklaşa<s n="adv"/></l><r>müştərək<s n="adv"/></r></p></e>
+    <e><p><l>yavaş<s n="adv"/></l><r>yavaş<s n="adv"/></r></p></e>
+    <e><p><l>kısmen<s n="adv"/></l><r>qismən<s n="adv"/></r></p></e>
+    <e><p><l>biraz<s n="adv"/></l><r>illərdir<s n="adv"/></r></p></e>
+    <e><p><l>sık<s n="adv"/></l><r>tez<s n="adv"/></r></p></e>
+    <e><p><l>halen<s n="adv"/></l><r>hal-hazırda<s n="adv"/></r></p></e>
+    <e><p><l>genelde<s n="adv"/></l><r>ümumiyyətlə<s n="adv"/></r></p></e>
+    <e><p><l>nerede<s n="adv"/></l><r>harada<s n="adv"/></r></p></e>
+    <e><p><l>şimdilik<s n="adv"/></l><r>hələlik<s n="adv"/></r></p></e>
+    <e><p><l>böylelikle<s n="adv"/></l><r>beləliklə<s n="adv"/></r></p></e>
+    <e><p><l>zaten<s n="adv"/></l><r>illərdir<s n="adv"/></r></p></e>
+    <e><p><l>salt<s n="adv"/></l><r>tam<s n="adv"/></r></p></e>
+    <e><p><l>gayrı<s n="adv"/></l><r>qeyri<s n="adv"/></r></p></e>  
+    <e><p><l>yıllarca<s n="adv"/></l><r>illərlə<s n="adv"/></r></p></e>  <!-- check -->
+    <e><p><l>birden<s n="adv"/></l><r>birdən<s n="adv"/></r></p></e>  <!-- check -->
+    <e><p><l>hayır<s n="adv"/></l><r>xeyr<s n="adv"/></r></p></e>  
+    <e><p><l>böylece<s n="adv"/></l><r>beləcə<s n="adv"/></r></p></e>  
+    <e><p><l>nispeten<s n="adv"/></l><r>nisbətən<s n="adv"/></r></p></e>  
+    <e><p><l>gücün<s n="adv"/></l><r>güclə<s n="adv"/></r></p></e>  
+    <e><p><l>muhtemelen<s n="adv"/></l><r>ehtimalla<s n="adv"/></r></p></e>  
+    <e><p><l>belki<s n="adv"/></l><r>bəlkə<s n="adv"/></r></p></e>  
+    <e><p><l>aylarca<s n="adv"/></l><r>aylarla<s n="adv"/></r></p></e>  
+    <e><p><l>evet<s n="adv"/></l><r>bəli<s n="adv"/></r></p></e>  
+    <e><p><l>aksine<s n="adv"/></l><r>əksinə<s n="adv"/></r></p></e>  
+    <e><p><l>aylarca<s n="adv"/></l><r>aylarla<s n="adv"/></r></p></e>  
+    <e><p><l>gıyaben<s n="adv"/></l><r>onsuz<s n="adv"/></r></p></e>  <!-- CHECK -->
+    <e><p><l>eskiden<s n="adv"/></l><r>keçmişdə<s n="adv"/></r></p></e>  <!-- CHECK -->
+    <e><p><l>bizzat<s n="adv"/></l><r>şəxsən<s n="adv"/></r></p></e>  
+    <e><p><l>toptan<s n="adv"/></l><r>tam<s n="adv"/></r></p></e>  <!-- CHECK! -->
+    <e><p><l>bazen<s n="adv"/></l><r>bəzən<s n="adv"/></r></p></e>  
+    <e><p><l>sonradan<s n="adv"/></l><r>sonradan<s n="adv"/></r></p></e>  
+    <e><p><l>yalnız<s n="adv"/></l><r>yalnız<s n="adv"/></r></p></e>  
+
+
+
+    <e><p><l>yanısıra<s n="adv"/></l><r>hem<b/>de<s n="adv"/></r></p></e>  
+    <e><p><l>gayrı<s n="adv"/></l><r>qeyri<b/>az<s n="adv"/></r></p></e>  
+
+    <e><p><l>resmen<s n="adv"/></l><r>resmi<b/>olaraq<s n="adv"/></r></p></e>  <!-- CHECK -->
+    <e><p><l>hitaben<s n="adv"/></l><r>xitab<b/>olaraq<s n="adv"/></r></p></e>  <!-- CHECK -->
+    <e><p><l>neredeyse<s n="adv"/></l><r>az<b/>qala<s n="adv"/></r></p></e>  <!-- CHECK -->
+    <e><p><l>zaten<s n="adv"/></l><r>onsuz<b/>da<s n="adv"/></r></p></e>  <!-- CHECK -->
+    <e><p><l>bugün<s n="adv"/></l><r>bu<b/>gün<s n="adv"/></r></p></e>  <!-- CHECK -->
 
 
 
