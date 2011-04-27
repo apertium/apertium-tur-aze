@@ -1,21 +1,7 @@
     835 ^@açık<adv>$
     100 ^@aylardır<adv>$
      62 ^@aşağı<adv>$
-     38 ^@yukarı<adv>$
-     38 ^@saatlerce<adv>$
-     37 ^@temsilen<adv>$
-     37 ^@gayet<adv>$
-     36 ^@baştan<adv>$
-     33 ^@istinaden<adv>$
      32 ^@yazın<adv>$
-     32 ^@tersine<adv>$
-     32 ^@şahsen<adv>$
-     31 ^@genellikle<adv>$
-     31 ^@beraber<adv>$
-     27 ^@gerçekte<adv>$
-     27 ^@acele<adv>$
-     26 ^@acilen<adv>$
-     25 ^@nice<adv>$
      25 ^@fiilen<adv>$
      25 ^@aniden<adv>$
      24 ^@cevaben<adv>$
@@ -23,7 +9,6 @@
      23 ^@denli<adv>$
      22 ^@kasten<adv>$
      21 ^@bertaraf<adv>$
-     21 ^@acele<adv><dan0><n><dat>$
      18 ^@peki<adv>$
      18 ^@öyle<adv>$
      18 ^@önceleri<adv>$
@@ -52,10 +37,8 @@
      10 ^@oysa<adv>$
      10 ^@hayli<adv>$
      10 ^@direkt<adv>$
-     10 ^@beraber<adv><dlik><n>$
       9 ^@tahminen<adv>$
       9 ^@kazara<adv>$
-      9 ^@acele<adv><dan0><n><ins>$
       8 ^@mutlaka<adv>$
       7 ^@sanki<adv>$
       7 ^@ille<adv>$
@@ -77,7 +60,6 @@
       4 ^@ilerde<adv>$
       4 ^@gitgide<adv>$
       4 ^@fazlaca<adv>$
-      4 ^@beraber<adv><dlik><n><ins>$
       4 ^@bağım<n><dnnsiz><adv><dan0><n><3s><dir>$
       4 ^@apaçık<adv>$
       3 ^@tercihen<adv>$
@@ -89,7 +71,6 @@
       3 ^@gene<adv>$
       3 ^@çokça<adv>$
       3 ^@birdenbire<adv>$
-      3 ^@beraber<adv><dlik><n><dat>$
       3 ^@aslen<adv>$
       3 ^@adilane<adv>$
       3 ^@acaba<adv>$
@@ -111,15 +92,12 @@
       2 ^@geceleyin<adv>$
       2 ^@cebren<adv>$
       2 ^@çabucak<adv>$
-      2 ^@beraber<adv><dlik><n><loc>$
       2 ^@azıcık<adv>$
       2 ^@atfen<adv>$
       2 ^@akabinde<adv>$
       2 ^@açık<adv><dan0><n><dat>$
-      2 ^@acele<adv><dan0><n><p3s>$
       1 ^@zımnen<adv>$
       1 ^@zihnen<adv>$
-      1 ^@yukarı<adv><dan0><n><loc>$
       1 ^@yol<n><dnnsiz><adv><dan0><n><pl><gen>$
       1 ^@uluorta<adv>$
       1 ^@ücret<n><dnnsiz><adv><dan0><n><cpldi><3s>$.
@@ -132,7 +110,6 @@
       1 ^@peşinen<adv>$
       1 ^@önem<n><dnnsiz><adv><dan0><n><3s><dir>$
       1 ^@olabildiğince<adv>$
-      1 ^@nice<adv><dlik><n><acc>$
       1 ^@nazaran<adv>$ ...
       1 ^@münhasıran<adv>$
       1 ^@münferiden<adv>$
@@ -153,8 +130,6 @@
       1 ^@büsbütün<adv>$
       1 ^@birazcık<adv>$
       1 ^@besbelli<adv>$
-      1 ^@beraber<adv><dlik><n><cpldi><3s>$.
-      1 ^@beraber<adv><dlik><n><acc>$
       1 ^@bari<adv><dan0><n><dca><adj>$
       1 ^@bağım<n><dnnsiz><adv><dan0><n><pl><dat>$
       1 ^@bağım<n><dnnsiz><adv><dan0><n><gen>$

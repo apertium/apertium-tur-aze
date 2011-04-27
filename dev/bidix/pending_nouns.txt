@@ -2187,7 +2187,6 @@
      32 ^@baş<n><dla><v><caus><partyan>$
      32 ^@azaltım<n>$
      32 ^@akciğer<n>$
-     32 ^@acele<adv><dan0><n>$
      31 ^@yumurta<n>$
      31 ^@yetişkin<n>$
      31 ^@yat<n>$
@@ -2691,7 +2690,6 @@
      20 ^@cins<n>$
      20 ^@çevre<n><dci><n>$
      20 ^@cephane<n><dlik><n>$
-     20 ^@beraber<adv><dlik><n>$
      20 ^@bek<n><cplken>$
      20 ^@beğeni<n>$
      20 ^@baş<n><dla><v><neg><partacak>$
@@ -8092,7 +8090,6 @@
       1 ^@yük<n><dlan><v><abil><neg><partacak>$
       1 ^@yük<n><dlan><v><abil><cv>$
       1 ^@yük<n><cplsa>$
-      1 ^@yukarı<adv><dan0><n>$
       1 ^@yuha<n><dla><v><tnarr>$
       1 ^@yuha<n><dla><v><partyan>$
       1 ^@yuha<n><dla><v><dma><n>$
@@ -10254,7 +10251,6 @@
       1 ^@nimet<n>$.
       1 ^@nikah<n><dli><adj>$
       1 ^@nifak<n>$
-      1 ^@nice<adv><dlik><n>$
       1 ^@nezarethane<n>$
       1 ^@nezaket<n>$
       1 ^@nezaketen<n>$
@@ -12120,7 +12116,6 @@
       1 ^@berri<n>$
       1 ^@beri<n>$
       1 ^@bereket<n><dli><adj>$.
-      1 ^@beraber<adv><dlik><n><cpldi>$.
       1 ^@benlik<n>$
       1 ^@benek<n><dli><adj>$
       1 ^@belirti<n><ca>$
