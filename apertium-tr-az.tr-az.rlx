@@ -20,6 +20,7 @@ LIST Post = (postp) ;
 LIST Pron = (prn) ;
 LIST CC = (cnjcoo) ;
 LIST CS = (cnjsub) ;
+LIST Num = (num) ;
 LIST NOT = (not) ;
 
 LIST Abs = (abs) ;
@@ -157,3 +158,5 @@ REMOVE CV-MARKER IF (0 N) (0 CV-MARKER) ;
 REMOVE VN IF (0 N) (0 VN) ;
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
 
+REMOVE N IF (0 N) (0 A) (1 Num) ; 
+    ## yeni bir araba
