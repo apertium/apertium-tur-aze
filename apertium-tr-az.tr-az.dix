@@ -228,6 +228,9 @@
     <e><p><l>ev</l><r>ev</r></p><par n="nominal"/></e>
     <e><p><l>halk</l><r>xalg</r></p><par n="nominal"/></e>
     <e><p><l>ülke</l><r>ölkə</r></p><par n="nominal"/></e>
+    <e><p><l>parti</l><r>partiya</r></p><par n="nominal"/></e>
+    <e><p><l>konu</l><r>mövzu</r></p><par n="nominal"/></e>
+    <e><p><l>üzer</l><r>üzər</r></p><par n="nominal"/></e>
     <e c="  0"><p><l>gösterge</l><r>indikator</r></p><par n="nominal"/></e>
     <!--<e c="  1"><p><l>gösterge</l><r>nişan</r></p><par n="nominal"/></e>-->
     <e><p><l>haber</l><r>xəbər</r></p><par n="nominal"/></e>
