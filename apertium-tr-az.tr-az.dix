@@ -121,6 +121,16 @@
     <e><p><l>önce<s n="postp"/></l><r>öncə<s n="postp"/></r></p></e>
     <e><p><l>ait<s n="postp"/></l><r>aid<s n="postp"/></r></p></e>
     <e><p><l>sonra<s n="postp"/></l><r>sonra<s n="postp"/></r></p></e>
+    <e><p><l>ilgili<s n="postp"/></l><r>ələqəli<s n="postp"/></r></p></e>
+    <e><p><l>halinde<s n="postp"/></l><r>halında<s n="postp"/></r></p></e> <!---CHECK sounds üeird -->
+    <e><p><l>halde<s n="postp"/></l><r>halda<s n="postp"/></r></p></e>
+    <e><p><l>başka<s n="postp"/></l><r>başqa<s n="postp"/></r></p></e>
+    <e><p><l>karşı<s n="postp"/></l><r>qarşı<s n="postp"/></r></p></e>
+    <e><p><l>üzere<s n="postp"/></l><r>üzre<s n="postp"/></r></p></e>
+    <e><p><l>yana<s n="postp"/></l><r>yana<s n="postp"/></r></p></e>
+    <e><p><l>üzere<s n="postp"/></l><r>üzre<s n="postp"/></r></p></e>
+    <e><p><l>takdirde<s n="postp"/></l><r>təqdirdə<s n="postp"/></r></p></e>
+    <e><p><l>birlikte<s n="postp"/></l><r>birlikdə<s n="postp"/></r></p></e>
 
 
     <!-- SECTION: Pronouns -->
