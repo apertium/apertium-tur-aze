@@ -456,7 +456,6 @@
     455 ^@piyasa<n>$
     455 ^@car<n>$
     454 ^@yorum<n>$
-    453 ^@şimdi<adv><dan0><n>$
     452 ^@istihbarat<n>$
     452 ^@er<v><dma><n>$
     451 ^@sun<v><dma><n>$
@@ -516,7 +515,6 @@
     400 ^@bazı<adj><djn0><n>$
     397 ^@zam<n>$
     397 ^@enstitü<n>$
-    396 ^@fazla<adv><dan0><n>$
     395 ^@grip<n>$
     393 ^@birbir<n>$
     392 ^@skandal<n>$
@@ -1974,7 +1972,6 @@
      39 ^@tezkere<n>$
      39 ^@teknolojik<n>$
      39 ^@sunu<n>$
-     39 ^@şimdi<adv><dan0><n><cplsa>$
      39 ^@seyir<n>$
      39 ^@serbest<n><dlas><v><caus><pass><cv>$
      39 ^@raf<n>$
@@ -5671,7 +5668,6 @@
       3 ^@yok<n><cplsa>$
       3 ^@yok<n>$.
       3 ^@yiyecek<n>$
-      3 ^@yine<adv><dan0><n><dlan><v><dma><n>$
       3 ^@yıka<v><ref><dma><n>$
       3 ^@yetkin<n><dnnsiz><adj><dlik><n>$
       3 ^@yetke<n>$
@@ -7646,7 +7642,6 @@
       2 ^@fesih<n>$
       2 ^@federe<n><dlas><v><dma><n>$
       2 ^@faz<n><cpldi>$.
-      2 ^@fazla<adv><dan0><n>$.
       2 ^@fauna<n>$
       2 ^@farmakoloji<n>$
       2 ^@fantezi<n>$
@@ -11472,7 +11467,6 @@
       1 ^@geri<n><dla><v><caus><partdik>$
       1 ^@geri<n><dla><v><caus><partacak>$
       1 ^@geri<n><dla><v><caus><abil><partacak>$
-      1 ^@geri<adv><dlik><n>$
       1 ^@gerçekdış<n><cpldi>$
       1 ^@gen<n><dlas><v><dma><n>$
       1 ^@gen<n><dci><adj>$.
@@ -11569,7 +11563,6 @@
       1 ^@faz<n><dlan><v><timp>$
       1 ^@faz<n><cpldi>$
       1 ^@faz<n>$
-      1 ^@fazla<adv><dan0><n>$."
       1 ^@fazla<adj><dlik><n><dli><adj>$
       1 ^@fazilet<n><dli><adj>$
       1 ^@fay<n>$.
@@ -12340,7 +12333,6 @@
       1 ^@azar<n><dla><v><partacak>$
       1 ^@azar<n><dlan><v><dma><n>$
       1 ^@azamet<n>$
-      1 ^@az<adv><dan0><n><cplken>$
       1 ^@ayrımsa<v><dma><n>$
       1 ^@ayrım<n><dci><adj><dlik><n><dnnsiz><adj>$
       1 ^@ayrıl<v><dma><n>$.
