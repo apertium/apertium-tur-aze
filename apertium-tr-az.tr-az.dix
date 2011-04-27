@@ -36,6 +36,9 @@
 
     
     <!-- SECTION: Conjunctions -->
+    <e><p><l>fakat<s n="cnjadv"/></l><r>lakin<s n="cnjadv"/></r></p></e> 
+    <e><p><l>hem<s n="cnjcoo"/></l><r>həm<s n="cnjcoo"/></r></p></e>
+    <e><p><l>olarak<s n="cnjsub"/></l><r>olaraq<s n="cnjsub"/></r></p></e>  
     <e><p><l>ve<s n="cnjcoo"/></l><r>və<s n="cnjcoo"/></r></p></e> 
     <e><p><l>ve<s n="cnjadv"/></l><r>və<s n="cnjadv"/></r></p></e> 
     <e><p><l>veya<s n="cnjadv"/></l><r>vəya<s n="cnjadv"/></r></p></e> 
@@ -94,6 +97,8 @@
     <e><p><l>halbuki<s n="cnjadv"/></l><r>halbuki<s n="cnjadv"/></r></p></e>  
     <e><p><l>demek<s n="cnjadv"/></l><r>demək<s n="cnjadv"/></r></p></e>  
     <e><p><l>aksine<s n="cnjadv"/></l><r>əksinə<s n="cnjadv"/></r></p></e>  
+    <e><p><l>ki<s n="cnjadv"/></l><r>ki<s n="cnjadv"/></r></p></e>  
+    <e><p><l>bunun<b/>üzerine<s n="cnjadv"/></l><r>bunun<b/>üzərinə<s n="cnjadv"/></r></p></e>  <!-- CHECK -->
 
 
 
@@ -161,14 +166,14 @@
     <e><p><l>öteki<s n="prn"/></l><r>digər<s n="prn"/></r></p></e> <!-- Ind 'other' -->
     <e><p><l>şu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e> <!-- Dem -->
 
-<!--
+
     <e><p><l>böyle<s n="prn"/></l><r>böyle<s n="prn"/></r></p></e>
     <e><p><l>hangi<s n="prn"/></l><r>hangi<s n="prn"/></r></p></e>
     <e><p><l>kendi<s n="prn"/></l><r>kendi<s n="prn"/></r></p></e>
     <e><p><l>nere<s n="prn"/></l><r>nere<s n="prn"/></r></p></e>
     <e><p><l>öyle<s n="prn"/></l><r>öyle<s n="prn"/></r></p></e>
     <e><p><l>şöyle<s n="prn"/></l><r>şöyle<s n="prn"/></r></p></e>
--->
+
 
 
     <!-- SECTION: Numerals -->
