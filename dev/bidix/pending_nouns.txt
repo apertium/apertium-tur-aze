@@ -1684,7 +1684,6 @@
      53 ^@tutuk<n><dla><v><vnmak>$
      53 ^@tutukev<n>$
      53 ^@tedarik<n><dci><n>$
-     53 ^@sık<adv><dlik><n>$
      53 ^@şarkı<n><dci><n>$
      53 ^@piyade<n>$
      53 ^@otomatik<n>$
@@ -8229,7 +8228,6 @@
       1 ^@yayılma<n><dci><adj>$
       1 ^@yaygı<n><cpldi>$.
       1 ^@yaygın<adj><dlik><n>$
-      1 ^@yavaş<adv><dan0><n><cpldi>$
       1 ^@yat<n><cpldi>$
       1 ^@yatır<n><cplsa>$
       1 ^@yatır<n>$."
@@ -11619,7 +11617,6 @@
       1 ^@eskrim<n><dci><n>$
       1 ^@eskort<n><dli><adj>$
       1 ^@eskiz<n>$
-      1 ^@eskiden<adv><dan0><n><cpldi>$.
       1 ^@esinti<n>$
       1 ^@esin<n><dli><adj>$
       1 ^@esin<n><dlan><v><partdik>$
