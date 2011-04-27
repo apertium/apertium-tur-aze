@@ -174,8 +174,8 @@
     <e><p><l>hangi<s n="prn"/></l><r>hangi<s n="prn"/></r></p></e>
 
     <e><p><l>nere<s n="prn"/></l><r>nere<s n="prn"/></r></p></e>
-    <e><p><l>öyle<s n="prn"/></l><r>öyle<s n="prn"/></r></p></e>
-    <e><p><l>şöyle<s n="prn"/></l><r>şöyle<s n="prn"/></r></p></e>
+    <e><p><l>öyle<s n="prn"/></l><r>belə<s n="prn"/></r></p></e>
+    <e><p><l>şöyle<s n="prn"/></l><r>belə<s n="prn"/></r></p></e>
 
 
 
@@ -1644,6 +1644,49 @@
     <e><p><l>ancak<s n="adv"/></l><r>ancaq<s n="adv"/></r></p></e>
     <e><p><l>önce<s n="adv"/></l><r>öncə<s n="adv"/></r></p></e>
     <e><p><l>birlikte<s n="adv"/></l><r>birgə<s n="adv"/></r></p></e>
+    <e><p><l>karşı<s n="adv"/></l><r>qarşı<s n="adv"/></r></p></e>
+    <e><p><l>ilk<s n="adv"/></l><r>ilk<s n="adv"/></r></p></e>
+    <e><p><l>ayrıca<s n="adv"/></l><r>ayrıca<s n="adv"/></r></p></e>
+    <e><p><l>yeniden<s n="adv"/></l><r>yenidən<s n="adv"/></r></p></e> <!-- not sure it is an adv -->
+    <e><p><l>geri<s n="adv"/></l><r>geri<s n="adv"/></r></p></e>
+    <e><p><l>fazla<s n="adv"/></l><r>çox<s n="adv"/></r></p></e>
+    <e><p><l>öte<s n="adv"/></l><r>kənar<s n="adv"/></r></p></e>
+    <e><p><l>ne<s n="adv"/></l><r>nə<s n="adv"/></r></p></e>
+    <e><p><l>yalnızca<s n="adv"/></l><r>yalnız<s n="adv"/></r></p></e>
+    <e><p><l>yine<s n="adv"/></l><r>yenə<s n="adv"/></r></p></e>
+    <e><p><l>az<s n="adv"/></l><r>az<s n="adv"/></r></p></e>
+    <e><p><l>hem<s n="adv"/></l><r>həm<s n="adv"/></r></p></e>
+    <e><p><l>ileri<s n="adv"/></l><r>irəli<s n="adv"/></r></p></e>
+    <e><p><l>erken<s n="adv"/></l><r>erkən<s n="adv"/></r></p></e>
+    <e><p><l>sonunda<s n="adv"/></l><r>sonunda<s n="adv"/></r></p></e>
+    <e><p><l>pek<s n="adv"/></l><r>çox<s n="adv"/></r></p></e>
+    <e><p><l>tekrar<s n="adv"/></l><r>təkrar<s n="adv"/></r></p></e>
+    <e><p><l>başlıca<s n="adv"/></l><r>başlıca<s n="adv"/></r></p></e>
+    <e><p><l>henüz<s n="adv"/></l><r>hələ<s n="adv"/></r></p></e>
+    <e><p><l>sadece<s n="adv"/></l><r>sadəcə<s n="adv"/></r></p></e>
+    <e><p><l>hala<s n="adv"/></l><r>hələ<s n="adv"/></r></p></e>
+    <e><p><l>artık<s n="adv"/></l><r>artıq<s n="adv"/></r></p></e>
+    <e><p><l>beri<s n="adv"/></l><r>bəri<s n="adv"/></r></p></e>
+
+    <e><p><l>neden<s n="adv"/></l><r>niyə<s n="adv"/></r></p></e>
+    <e><p><l>şimdi<s n="adv"/></l><r>indi<s n="adv"/></r></p></e>
+    <e><p><l>sürekli<s n="adv"/></l><r>daimi<s n="adv"/></r></p></e>
+    <e><p><l>tamamen<s n="adv"/></l><r>tamamilə<s n="adv"/></r></p></e>
+    <e><p><l>şöyle<s n="adv"/></l><r>belə<s n="adv"/></r></p></e>
+    <e><p><l>böyle<s n="adv"/></l><r>belə<s n="adv"/></r></p></e>
+    <e><p><l>geç<s n="adv"/></l><r>gec<s n="adv"/></r></p></e>
+    <e><p><l>hemen<s n="adv"/></l><r>dərhal<s n="adv"/></r></p></e>
+    <e><p><l>önceden<s n="adv"/></l><r>öncədən<s n="adv"/></r></p></e>
+
+    <e><p><l>nasıl<s n="adv"/></l><r>necə<s n="adv"/></r></p></e>
+    <e><p><l>itibaren<s n="adv"/></l><r>etibarən<s n="adv"/></r></p></e>
+    <e><p><l>hızlı<s n="adv"/></l><r>sürətli<s n="adv"/></r></p></e>
+    <e><p><l>derhal<s n="adv"/></l><r>dərhal<s n="adv"/></r></p></e>
+
+
+
+
+
 
 
     <!-- SECTION: Verbs -->
