@@ -4893,7 +4893,6 @@
       5 ^@metropol<n>$
       5 ^@memnuniyet<n><dnnsiz><adj>$
       5 ^@melek<n>$
-      5 ^@mel<adv><dan0><n>$
       5 ^@megavat<n><dlik><n>$
       5 ^@medar<n>$
       5 ^@meç<n>$
@@ -5931,7 +5930,6 @@
       3 ^@sakın<n><dca><n>$
       3 ^@şaka<n>$
       3 ^@sahne<n><dla><v><dma><n>$
-      3 ^@sahi<adv><dlik><n>$
       3 ^@şaheser<n>$
       3 ^@sağır<n>$
       3 ^@sağ<adj><dla><v><dma><n><dli><adj>$
@@ -7215,7 +7213,6 @@
       2 ^@neşriyat<n>$
       2 ^@nesnel<n><dlik><n>$
       2 ^@neşe<n>$
-      2 ^@nerde<adv><dan0><n>$
       2 ^@negatif<n>$
       2 ^@nefret<n><cpldi>$
       2 ^@nefis<n>$
@@ -7987,7 +7984,6 @@
       2 ^@acı<v><dma><n><dnnsiz><adj><dca><adj>$
       2 ^@açılış<n><ki>$
       2 ^@açıkhava<n>$
-      2 ^@açık<adv><dan0><n>$
       2 ^@aceleci<n><dlik><n>$
       2 ^@acar<n>$
       2 ^@açacak<n>$.
@@ -9542,7 +9538,6 @@
       1 ^@şaraphane<n><ki>$
       1 ^@şarapev<n>$.
       1 ^@şarampol<n>$
-      1 ^@şar<adv><dan0><n><dli><adj>$
       1 ^@sapta<v><dma><n>$
       1 ^@sap<n><dla><v><dma><n>$
       1 ^@sap<n><dlan><v><partdik>$
@@ -11847,7 +11842,6 @@
       1 ^@desibel<n>$
       1 ^@derya<n>$
       1 ^@depozit<n>$
-      1 ^@denli<adv><dan0><n>$."
       1 ^@denizat<n>$
       1 ^@dengele<v><dvnyici><adj><djn0><n>$
       1 ^@denet<n><dla><v><tcont>$.
@@ -12281,7 +12275,6 @@
       1 ^@bariz<n>$.
       1 ^@bariton<n>$
       1 ^@barış<v><dma><n>$
-      1 ^@bari<adv><dan0><n><dca><adj>$
       1 ^@bank<n><cplsa>$
       1 ^@bandrol<n><dnnsiz><adj>$
       1 ^@bandaj<n>$

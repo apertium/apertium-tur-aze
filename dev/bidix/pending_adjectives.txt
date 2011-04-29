@@ -4056,7 +4056,6 @@
       1 ^@şart<n><dli><adj><dlik><n>$
       1 ^@sarı<adj><djn0><n><p3s>$
       1 ^@sarı<adj><djn0><n><acc>$
-      1 ^@şar<adv><dan0><n><dli><adj>$
       1 ^@şapka<n><dnnsiz><adj>$
       1 ^@şapka<n><dli><adj>$
       1 ^@sapa<adj>$
@@ -5482,7 +5481,6 @@
       1 ^@basit<adj><djn0><n><3s><dir>$
       1 ^@başbaşa<adj>$
       1 ^@barış<np><dci><adj>$
-      1 ^@bari<adv><dan0><n><dca><adj>$
       1 ^@barbar<adj><dlik><n><p3p>$
       1 ^@barbar<adj><dlik><n><ins>$
       1 ^@barbar<adj><dlik><n>$
