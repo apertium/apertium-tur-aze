@@ -1,1 +1,3 @@
-     37 ^@anki<postp>$
+      2 ^@öte<postp><loc><cpldi><3s>$
+      1 ^@yerde<postp><cplmis><3s>$
+      1 ^@yerde<postp><cpldi><3s>$

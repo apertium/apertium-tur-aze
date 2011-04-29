@@ -1,2 +1,23 @@
-      3 ^@ha<cnjcoo>$
-      1 ^@yok mu<cnjadv>$?
+     83 ^@ha<cnjcoo>$
+     38 ^@ha<cnjcoo>$­
+     18 ^@hele<cnjadv>$
+     12 ^@demek ki<cnjadv>$
+     10 ^@yok mu<cnjadv>$
+      7 ^@bari<cnjadv>$
+      6 ^@kah<cnjcoo>$
+      4 ^@yok mu<cnjadv>$?"
+      3 ^@var ya<cnjadv>$
+      3 ^@öyleyse<cnjadv>$
+      2 ^@o halde<cnjadv>$
+      2 ^@nasılsa<cnjadv>$
+      2 ^@mesela<cnjadv>$
+      2 ^@kah<cnjcoo>$­
+      2 ^@ha<cnjcoo>$?"
+      2 ^@ha<cnjcoo>$-
+      1 ^@keşke<cnjadv>$
+      1 ^@kah<cnjcoo>$!"
+      1 ^@hele<cnjadv>$!"
+      1 ^@ha<cnjcoo>$...
+      1 ^@ha<cnjcoo>$!"
+      1 ^@ha<cnjcoo>$!
+      1 ^@bari<cnjadv>$..."
