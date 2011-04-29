@@ -22,4 +22,4 @@ You need to make two symlinks from the analyser/generator:
 Now test the translator with:
 
  echo "Ahmet biralarını var." | apertium -d . tr-az
- Ahmet pivələrini @var.
+ Ahmet pivələrini var.
