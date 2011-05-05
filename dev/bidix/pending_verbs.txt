@@ -329,7 +329,6 @@
      30 hesapla<v><t_imp><2s>
      30 birik<v><t_imp><2s>
      29 sok<v><pass><t_imp><2s>/sokul<v><t_imp><2s>
-     29 sal<v><t_imp><2s>
      29 kayır<v><t_imp><2s>
      29 ilgile<v><t_imp><2s>
      29 boşa<v><t_imp><2s>
@@ -432,7 +431,6 @@
      12 bilgilen<v><t_imp><2s>
      12 aş<v><caus><t_imp><2s>/aşır<v><t_imp><2s>
      11 zayıf<adj><D_lA><v><t_imp><2s>/zayıfla<v><t_imp><2s>
-     11 yol<v><t_imp><2s>
      11 yeşer<v><t_imp><2s>
      11 tap<v><t_imp><2s>
      11 sıva<v><t_imp><2s>
@@ -524,6 +522,7 @@
       6 ban<v><t_imp><2s>
       6 atfet<v><t_imp><2s>
       6 acı<v><t_imp><2s>
+      5 yol<v><t_imp><2s>
       5 yapış<v><t_imp><2s>
       5 tek<adj><D_lA><v><t_imp><2s>/tekle<v><t_imp><2s>
       5 taçlan<v><t_imp><2s>

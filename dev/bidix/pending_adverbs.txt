@@ -4,9 +4,7 @@
       2 ^@yer<n><dnnsiz><adv><dan0><n><3s><dir>$
       2 ^@sabahları<adv>$
       2 ^@resen<adv>$
-      1 ^@yol<n><dnnsiz><adv><dan0><n><pl><gen>$
       1 ^@ücret<n><dnnsiz><adv><dan0><n><cpldi><3s>$.
-      1 ^@taraf<n><dnnsiz><adv><dan0><n><3s><dir>$.
       1 ^@ses<n><dnnsiz><adv><dan0><n><cpldi><3s>$.
       1 ^@önem<n><dnnsiz><adv><dan0><n><3s><dir>$
       1 ^@hazırlık<n><dnnsiz><adv><dan0><n><cpldi><3s>$
