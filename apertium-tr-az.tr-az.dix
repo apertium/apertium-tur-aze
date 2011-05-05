@@ -1794,7 +1794,38 @@
     <e><p><l>muvafık</l><r>müvafix</r></p><par n="nominal"/></e>
     <e><p><l>muvazene</l><r>müvazinət</r></p><par n="nominal"/></e>
     <e><p><l>müvekkil</l><r>müvəkkil</r></p><par n="nominal"/></e>
-    <e><p><l>muvafık</l><r>müvafix</r></p><par n="nominal"/></e>
+    <e><p><l>son</l><r>son</r></p><par n="nominal"/></e>
+    <e><p><l>taraf</l><r>tərəf</r></p><par n="nominal"/></e>
+    <e><p><l>suç</l><r>cinayət</r></p><par n="nominal"/></e>
+    <e><p><l>söz</l><r>söz</r></p><par n="nominal"/></e>
+    <e><p><l>yan</l><r>yan</r></p><par n="nominal"/></e>
+    <e><p><l>cumhurbaşkan</l><r>prezident</r></p><par n="nominal"/></e>
+    <e><p><l>abd</l><r>abş</r></p><par n="nominal"/></e> <!-- İTs NP -->
+    <e><p><l>polis</l><r>polis</r></p><par n="nominal"/></e>
+    <e><p><l>savaş</l><r>müharibə</r></p><par n="nominal"/></e>
+    <e><p><l>üye</l><r>üzv</r></p><par n="nominal"/></e> <!-- CHECK DECL -->
+    <e><p><l>pazartesi</l><r>bazar</b>ertesi</r></p><par n="nominal"/></e>
+    <e><p><l>yetki</l><r>səlahiyyət</r></p><par n="nominal"/></e>
+    <e><p><l>uluslararası</l><r>beynəlxalq</r></p><par n="nominal"/></e>
+    <e><p><l>müzakere</l><r>müzakirə</r></p><par n="nominal"/></e>
+    <e><p><l>çarşamba</l><r>çərşənbə</r></p><par n="nominal"/></e>
+    <e><p><l>sal</l><r>sal</r></p><par n="nominal"/></e>
+    <e><p><l>reform</l><r>islahat</r></p><par n="nominal"/></e>
+    <e><p><l>yol</l><r>yol</r></p><par n="nominal"/></e>
+    <e><p><l>güven</l><r>inam</r></p><par n="nominal"/></e>
+    <e><p><l>dışişleri</l><r>xarici</b>işlər</r></p><par n="nominal"/></e>
+    <e><p><l>perşembe</l><r>cümə</b>axşamı</r></p><par n="nominal"/></e>
+    <e><p><l>işbirlik</l><r>işbirliyi</r></p><par n="nominal"/></e>
+    <e><p><l>siyasi</l><r>siyasi</r></p><par n="nominal"/></e>
+    <e><p><l>seçim</l><r>seçki</r></p><par n="nominal"/></e>
+    <e><p><l>ziyaret</l><r>zirayət</r></p><par n="nominal"/></e>
+    <e><p><l>toplantı</l><r>mitinq</r></p><par n="nominal"/></e>
+    <e><p><l>komisyon</l><r>komissiya</r></p><par n="nominal"/></e>
+    <e><p><l>baş</l><r>baş</r></p><par n="nominal"/></e>
+    <e><p><l>kişi</l><r>adam</r></p><par n="nominal"/></e>
+    
+
+
     
 
 
