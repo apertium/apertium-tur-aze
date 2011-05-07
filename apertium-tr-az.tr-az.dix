@@ -2152,6 +2152,72 @@
     <e><p><l>sayı</l><r>say</r></p><par n="nominal"/></e>
     <e><p><l>saz</l><r>saz</r></p><par n="nominal"/></e>
     <e><p><l>sebat</l><r>səbat</r></p><par n="nominal"/></e>
+    <e><p><l>sebep</l><r>səbəb</r></p><par n="nominal"/></e>
+    <e><p><l>sebze</l><r>səbzə</r></p><par n="nominal"/></e>
+    <e><p><l>seçenek</l><r>al'ternativ</r></p><par n="nominal"/></e>
+    <e><p><l>seci</l><r>nəsr</r></p><par n="nominal"/></e>
+    <e><p><l>seçim</l><r>seçgi</r></p><par n="nominal"/></e>
+    <e><p><l>seçkin</l><r>seçkin</r></p><par n="nominal"/></e>
+    <e><p><l>seçmen</l><r>seçici</r></p><par n="nominal"/></e>
+    <e><p><l>sebat</l><r>səbat</r></p><par n="nominal"/></e>
+    <e><p><l>seda</l><r>səda</r></p><par n="nominal"/></e>
+    <e><p><l>sefahat</l><r>səfahət</r></p><par n="nominal"/></e>
+    <e><p><l>sefa</l><r>səfa</r></p><par n="nominal"/></e>
+    <e><p><l>sefalet</l><r>səfalet</r></p><par n="nominal"/></e>
+    <e><p><l>sefer</l><r>səfər</r></p><par n="nominal"/></e>
+    <e><p><l>sefil</l><r>səfil</r></p><par n="nominal"/></e>
+    <e><p><l>şefkat</l><r>şəfqət</r></p><par n="nominal"/></e>
+    <e><p><l>şeftali</l><r>şəftəli</r></p><par n="nominal"/></e>
+    <e><p><l>seher</l><r>səhər</r></p><par n="nominal"/></e>
+    <e><p><l>şehir</l><r>şəhər</r></p><par n="nominal"/></e>
+    <e><p><l>şehit</l><r>şəhid</r></p><par n="nominal"/></e>
+    <e><p><l>şeker</l><r>şəkər</r></p><par n="nominal"/></e>
+    <e><p><l>şekil</l><r>şəkil</r></p><par n="nominal"/></e>
+    <e><p><l>sekte</l><r>duruş</r></p><par n="nominal"/></e>
+    <e><p><l>şelale</l><r>şəlalə</r></p><par n="nominal"/></e>
+    <e><p><l>selam</l><r>salam</r></p><par n="nominal"/></e>
+    <e><p><l>selef</l><r>sələf</r></p><par n="nominal"/></e>
+    <e><p><l>sel</l><r>sel</r></p><par n="nominal"/></e>
+    <e><p><l>şema</l><r>şqem</r></p><par n="nominal"/></e>
+    <e><p><l>sembol</l><r>rəmz</r></p><par n="nominal"/></e>
+    <e><p><l>semere</l><r>səmərə</r></p><par n="nominal"/></e>
+    <e><p><l>şemsiye</l><r>çetir</r></p><par n="nominal"/></e>
+
+    <e><p><l>semt</l><r>səmt</r></p><par n="nominal"/></e>
+    <e><p><l>sene</l><r>il</r></p><par n="nominal"/></e>
+    <e><p><l>senet</l><r>sənəd</r></p><par n="nominal"/></e>
+    <e><p><l>serbest</l><r>sərbəst</r></p><par n="nominal"/></e>
+    <e><p><l>şeref</l><r>şərəf</r></p><par n="nominal"/></e>
+    <e><p><l>sergi</l><r>sergi</r></p><par n="nominal"/></e>
+    <e><p><l>şer</l><r>şər</r></p><par n="nominal"/></e>
+    <e><p><l>şeriat</l><r>şəriət</r></p><par n="nominal"/></e>
+    <e><p><l>şerit</l><r>zolag</r></p><par n="nominal"/></e>
+    <e><p><l>serkeş</l><r>gayda-ganuna</r></p><par n="nominal"/></e>
+    <e><p><l>sermaye</l><r>sərmayə</r></p><par n="nominal"/></e>
+    <e><p><l>servet</l><r>sərvət</r></p><par n="nominal"/></e>
+    <e><p><l>servi</l><r>sərv</r></p><par n="nominal"/></e>
+    <e><p><l>ses</l><r>səs</r></p><par n="nominal"/></e>
+    <e><p><l>set</l><r>sədd</r></p><par n="nominal"/></e>
+    <e><p><l>sevgi</l><r>sevgi</r></p><par n="nominal"/></e>
+    <e><p><l>sevinç</l><r>sevinc</r></p><par n="nominal"/></e>
+    <e><p><l>seviye</l><r>səviyyə</r></p><par n="nominal"/></e>
+    <e><p><l>şevk</l><r>şövg</r></p><par n="nominal"/></e>
+    <e><p><l>seyahat</l><r>səyahət</r></p><par n="nominal"/></e>
+    <e><p><l>şeyh</l><r>şeyq</r></p><par n="nominal"/></e>
+    <e><p><l>şey</l><r>şey</r></p><par n="nominal"/></e>
+    <e><p><l>seyirci</l><r>seyirci</r></p><par n="nominal"/></e>
+    <e><p><l>seyir</l><r>sehr</r></p><par n="nominal"/></e>
+    <e><p><l>şeytan</l><r>şeytan</r></p><par n="nominal"/></e>
+    <e><p><l>sicil</l><r>xeyd</r></p><par n="nominal"/></e>
+    <e><p><l>şiddet</l><r>şiddət</r></p><par n="nominal"/></e>
+    <e><p><l>şifa</l><r>şəfa</r></p><par n="nominal"/></e>
+    <e><p><l>sıfat</l><r>sifət</r></p><par n="nominal"/></e>
+    <e><p><l>sıfır</l><r>sıfır</r></p><par n="nominal"/></e>
+    <e><p><l>sığınak</l><r>sığınag</r></p><par n="nominal"/></e>
+    <e><p><l>sığır</l><r>sığır</r></p><par n="nominal"/></e>
+
+
+
 
 
 
