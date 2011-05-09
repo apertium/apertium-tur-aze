@@ -160,3 +160,6 @@ REMOVE VN IF (0 N) (0 VN) ;
 
 REMOVE N IF (0 N) (0 A) (1 Num) ; 
     ## yeni bir araba
+
+SELECT Adv IF (0 ("en"i)) (1 A OR Adv) ; 
+    ## Dünyanın en güzel kızı evime geldi. 
