@@ -163,3 +163,9 @@ REMOVE N IF (0 N) (0 A) (1 Num) ;
 
 SELECT Adv IF (0 ("en"i)) (1 A OR Adv) ; 
     ## Dünyanın en güzel kızı evime geldi. 
+
+SELECT PxSg3 IF (0 Acc OR PxSg3)  (NOT -1* POSS BARRIER Gen) ; # (-1* Gen BARRIER BOS) ;
+    ## Dünyanın en güzel kızı evime geldi. 
+
+REMOVE PxSg2 IF (0 ("dünya"i)) (0C Gen) (1 ("en"i)) ;
+    ## Dünyanın en güzel kızı evime geldi. 
