@@ -4,316 +4,314 @@
    5399 ^@perşembe<n>$
    5066 ^@gör<v><rec><dma><n>$
    4513 ^@haf<n>$
-   4510 ^@kişi<n>$
-   4301 ^@kabul<n>$
-   4280 ^@sonra<n>$
-   4239 ^@bakanlık<n>$
-   3951 ^@yerel<n>$
-   3723 ^@arnavut<n>$
-   3704 ^@mart<n>$
-   3646 ^@yer<n>$
-   3481 ^@çağrı<n>$
-   3288 ^@iç<n>$
-   3169 ^@bas<n>$
-   3119 ^@konsey<n>$
-   3095 ^@rapor<n>$
-   2972 ^@seçi<n>$
-   2869 ^@çalış<v><dma><n>$
+
+
+
+
+
+
+
+
+
+
+   3169 ^@bas<n>$ <CHECK NONSENSE>
+
+
+
+
    2810 ^@düzen<n><dlan><v><partyan>$
-   2722 ^@ek<n>$
-   2651 ^@statü<n>$
-   2643 ^@aralık<n>$
-   2446 ^@konuş<v><dma><n>$
-   2434 ^@eylül<n>$
-   2341 ^@ilerle<v><dma><n>$
-   2317 ^@ede<n>$
-   2314 ^@bağım<n><dnnsiz><adj><dlik><n>$
-   2285 ^@koalisyon<n>$
-   2264 ^@etnik<n>$
-   2201 ^@neden<n>$
-   2197 ^@program<n>$
-   2135 ^@ekonomi<n>$
-   2081 ^@avro<n>$
-   2051 ^@internet<n>$
+
+
+
+
+
+   2341 ^@ilerle<v><dma><n>$ <CANNOT FİND>
+   2317 ^@ede<n>$ <NONSENSE>
+
+
+
+
+
+
+
+
    1959 ^@ama<n><dci><n>$
    1916 ^@milletvekil<n>$
-   1905 ^@yönelik<n>$
-   1903 ^@cumhurbaşkanlığı<n>$
-   1891 ^@sistem<n>$
+
+
+
    1867 ^@beta<n>$
-   1865 ^@öneri<n>$
+
    1842 ^@site<n>$
-   1823 ^@ortaklık<n>$
-   1811 ^@terör<n>$
-   1789 ^@gazete<n>$
-   1764 ^@balkan<n>$
-   1754 ^@günlük<n>$
-   1713 ^@yap<v><dma><n>$
-   1698 ^@ede<n><dcak><n>$
+
+
+
+
+
+
+
    1667 ^@soruştur<v><dma><n>$
    1658 ^@çöz<n>$
+
    1646 ^@bek<n><dlan><v><cv>$.
-   1642 ^@enerji<n>$
-   1632 ^@operasyon<n>$
-   1629 ^@büyükelçi<n>$
-   1628 ^@demokratik<n>$
-   1588 ^@uygu<n><dla><v><dma><n>$
-   1563 ^@general<n>$
-   1530 ^@mali<n>$
-   1527 ^@dan<n>$
-   1505 ^@dahil<n>$
-   1502 ^@faaliyet<n>$
-   1491 ^@standart<n>$
-   1439 ^@vatandaş<n>$
-   1433 ^@misyon<n>$
-   1427 ^@art<n>$
-   1406 ^@komuta<n>$
-   1406 ^@eyalet<n>$
-   1391 ^@sekreter<n>$
-   1374 ^@hizmet<n>$
-   1352 ^@yatır<n>$
-   1338 ^@silah<n>$
-   1310 ^@rol<n>$
-   1308 ^@geniş<adj><dla><v><dma><n>$
-   1307 ^@sektör<n>$
-   1286 ^@tur<n>$
-   1282 ^@kendi<n>$
-   1265 ^@ulu<adj><djn0><n><dsal><adj>$
-   1241 ^@kes<n>$
-   1225 ^@kalk<v><ref><dma><n>$
-   1208 ^@anlaşmazlık<n>$
-   1195 ^@organize<n>$
-   1193 ^@sosyalist<n>$
-   1193 ^@etkin<adj><dlik><n>$
-   1192 ^@sağlık<n>$
-   1183 ^@komite<n>$
-   1173 ^@olimpiyat<n>$
-   1146 ^@kampanya<n>$
-   1136 ^@avaz<n>$
-   1122 ^@firma<n>$
-   1119 ^@topla<n>$
-   1119 ^@demokrasi<n>$
+  
+
+
+
+
+
+
+
+   1527 ^@dan<n>$ NONSENSE
+
+
+
+
+
+   1427 ^@art<n>$ NONSENSE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    1109 ^@başsavcı<n>$
-   1102 ^@referandum<n>$
-   1092 ^@öncelik<n>$
-   1091 ^@film<n>$
-   1087 ^@par<n>$
-   1078 ^@kabine<n>$
-   1069 ^@ihtilaf<n>$
+
+
+
+   1087 ^@par<n>$ NONSENSE
+
+
    1055 ^@uygu<n><dlan><v><dma><n>$
-   1052 ^@katıl<v><dma><n>$
-   1050 ^@gazete<n><dci><n>$
-   1035 ^@euro<n>$
+
+
+
    1024 ^@şek<n><dli><n>$
-   1020 ^@getir<v><dma><n>$
-   1014 ^@festival<n>$
-    982 ^@ora<n>$
-    972 ^@radyo<n>$
-    969 ^@do<n>$
-    948 ^@düzen<n><dla><v><partdik>$
-    944 ^@baskı<n>$
-    943 ^@uz<n><dlas><v><dma><n>$
-    941 ^@sav<n><dci><n>$
-    937 ^@iade<n>$
-    927 ^@protesto<n>$
-    920 ^@yaş<n><ki>$
-    897 ^@geliş<v><dma><n>$
-    896 ^@tartış<v><dma><n>$
-    884 ^@recep<n>$
+
+
+
+
+    969 ^@do<n>$ ANOTHER NONSENSE FUCK YOU CAGRİ
+
+    948 ^@düzen<n><dla><v><partdik>$ NONSENSE VERB
+
+
+
+
+
+
+    920 ^@yaş<n><ki>$ NONSENSE
+
+
     878 ^@avro<n><dlik><n>$
-    871 ^@yasadış<n>$
-    870 ^@dış<n>$
-    856 ^@bağım<n><dnnsiz><adj>$
-    851 ^@silah<n><dli><adj>$
-    849 ^@entegrasyon<n>$
-    846 ^@alın<v><dma><n>$
-    845 ^@elektrik<n>$
-    833 ^@ekip<n>$
-    825 ^@sorum<n><dli><adj><dlik><n>$
-    818 ^@uyarı<n>$
-    799 ^@televizyon<n>$
-    792 ^@uygu<n>$
-    792 ^@turizm<n>$
-    782 ^@güve<n><ca>$
-    781 ^@ısrar<n>$
-    773 ^@çatış<v><dma><n>$
-    768 ^@düzen<n><dla><v><dma><n>$
-    767 ^@gösteri<n>$
-    762 ^@katkı<n>$
-    762 ^@işaret<n>$
-    759 ^@vize<n>$
-    759 ^@karşılık<n><dli><adj>$
-    752 ^@federasyon<n>$
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    759 ^@karşılık<n><dli><adj>$ this is not a N
+
+
     745 ^@satı<n>$
-    744 ^@yakı<n>$
+
     740 ^@olası<n>$
-    738 ^@röportaj<n>$
-    735 ^@pat<adj><dla><v><dma><n>$
-    728 ^@yanıt<n>$
-    723 ^@bütün<adj><dlas><v><dma><n>$
-    722 ^@girişim<n>$
-    720 ^@hav<n>$
-    712 ^@bulun<v><dma><n>$
-    706 ^@kal<v><dma><n>$
-    699 ^@personel<n>$
-    692 ^@gündem<n>$
-    691 ^@gözalt<n>$
-    688 ^@tutuk<n><dla><v><dma><n>$
+
+
+
+
+
+    720 ^@hav<n>$ PROBABLY HAVA
+
+
+
+
+    691 ^@gözalt<n>$ RİLLİ GARİP
+
     686 ^@bili<n>$
-    684 ^@terörist<n>$
+
     679 ^@tak<n>$
-    679 ^@düşük<n>$
-    678 ^@kabin<n>$
-    669 ^@etki<n>$
-    668 ^@zor<adj><djn0><n>$
-    662 ^@bek<n><dla><v><partdik>$
-    661 ^@spor<n>$
+
+
+
+
+
+
+
+
     661 ^@diplomat<n>$
-    651 ^@hazırlık<n>$
-    644 ^@kamuoy<n>$
-    643 ^@ofis<n>$
-    642 ^@bank<n>$
-    641 ^@sanık<n>$
-    641 ^@kriter<n>$
-    640 ^@taslak<n>$
-    628 ^@duruşma<n>$
-    627 ^@nine<n>$
-    626 ^@nokta<n>$
-    610 ^@katılım<n>$
-    604 ^@kayıp<n>$
-    603 ^@tesis<n>$
-    603 ^@tar<n>$
-    601 ^@görüşme<n>$
-    599 ^@başvuru<n>$
-    596 ^@göster<v><dma><n>$
-    593 ^@potansiyel<n>$
-    588 ^@ede<n><dcak><n>$.
-    582 ^@verdi<n>$.
-    574 ^@satış<n>$
-    574 ^@aç<v><dma><n>$
-    568 ^@bugün<n>$
-    565 ^@geçir<v><dma><n>$
-    558 ^@ali<n>$
-    552 ^@çıkar<n>$
-    552 ^@blok<n>$
-    550 ^@kimlik<n>$
-    544 ^@yüküm<n><dli><adj><dlik><n>$
-    544 ^@araştır<v><dma><n>$
-    542 ^@büyükelçi<n><dlik><n>$
-    542 ^@acil<n>$
-    541 ^@muadil<adj><djn0><n>$
-    538 ^@dav<n>$
-    538 ^@bor<n>$
-    537 ^@sorum<n><dli><n>$
-    535 ^@üniversite<n>$
-    535 ^@onay<n>$
-    535 ^@adım<n>$
-    532 ^@yakın<adj><djn0><n>$
-    529 ^@bakış<n>$
-    527 ^@bomba<n>$
-    526 ^@strateji<n>$
-    526 ^@aleyh<n>$
-    524 ^@güve<n>$
-    519 ^@avukat<n>$
-    516 ^@teknoloji<n>$
-    510 ^@gaz<n>$
-    506 ^@açılış<n>$
-    505 ^@gönder<v><dma><n>$
-    502 ^@komiser<n>$
-    498 ^@yakın<adj><djn0><n><ki>$
-    498 ^@katliam<n>$
-    497 ^@forum<n>$
-    494 ^@sav<n><dci><adj><dlik><n>$
-    494 ^@onay<n><dlan><v><dma><n>$
-    490 ^@bul<v><dma><n>$
-    486 ^@net<n>$
-    484 ^@bek<n><dlan><v><partyan>$
-    483 ^@karşılık<n>$
-    482 ^@soykırım<n>$
-    480 ^@tutuk<n><dlan><v><dma><n>$
-    475 ^@imza<n><dlan><v><partyan>$
-    474 ^@aşırı<n>$
-    473 ^@diplomatik<n>$
-    470 ^@tamam<adj><dlan><v><dma><n>$
-    469 ^@ihale<n>$
-    465 ^@uyarı<n><ca>$
-    464 ^@şef<n>$
-    461 ^@grev<n>$
-    461 ^@al<n><cpldi>$.
-    459 ^@nükleer<n>$
-    459 ^@imza<n><dlan><v><dma><n>$
-    457 ^@dolar<n><dlik><n>$
-    456 ^@imza<n><dla><v><tpast>$.
-    455 ^@piyasa<n>$
-    455 ^@car<n>$
-    452 ^@istihbarat<n>$
-    452 ^@er<v><dma><n>$
+
+    644 ^@kamuoy<n>$ NON EXİSTİNG ÜORD probably kamuoyu
+
+    642 ^@bank<n>$ PROBABLY BANKA 
+
+
+
+
+
+
+
+
+    603 ^@tar<n>$ NOT A ÜORD
+
+
+
+
+
+
+
+
+
+    568 ^@bugün<n>$ NOUN LOL it is an adverb
+
+
+
+
+
+
+
+
+
+
+    538 ^@dav<n>$ probably DAVA
+BOR PROBABLY BORA
+
+
+
+
+
+
+
+
+
+
+    524 ^@güve<n>$ PROBABLY ÜRONG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    455 ^@car<n>$ VEİRD
+
+
     451 ^@sun<v><dma><n>$
-    451 ^@koru<v><dma><n>$
-    447 ^@teşvik<n>$
-    447 ^@eleştiri<n>$
-    445 ^@kullanım<n>$
-    445 ^@diyalog<n>$
-    443 ^@prosedür<n>$
-    443 ^@müdahale<n>$
-    436 ^@mayın<n>$
-    436 ^@kongre<n>$
-    433 ^@diğer<adj><djn0><n>$
-    432 ^@katılım<n><dci><n>$
-    432 ^@kanıt<n>$
-    431 ^@sendika<n>$
-    430 ^@stratejik<n>$
-    428 ^@yarı<n>$
-    425 ^@terk<n>$
-    424 ^@yıldönüm<n>$
-    423 ^@denet<n>$
-    423 ^@çek<n>$
-    419 ^@kur<n>$
-    417 ^@demokrat<n>$
-    416 ^@saygı<n>$
-    416 ^@federal<n>$
-    415 ^@trafik<n>$
-    414 ^@onay<n><dla><v><dma><n>$
-    413 ^@kapasite<n>$
-    410 ^@mesaj<n>$
-    408 ^@amerikan<n>$
-    406 ^@ürün<n>$
-    406 ^@gecik<v><dma><n>$
-    405 ^@köy<n>$
-    405 ^@kazan<v><dma><n>$
-    405 ^@imza<n><dla><v><dma><n>$
-    402 ^@analist<n>$
-    400 ^@bazı<adj><djn0><n>$
-    397 ^@enstitü<n>$
-    395 ^@grip<n>$
-    393 ^@birbir<n>$
-    388 ^@meslektaş<n>$
-    388 ^@bölüm<n>$
-    388 ^@başlangıç<n>$
-    386 ^@turist<n>$
-    385 ^@para<n>$
-    385 ^@kayıt<n>$
-    384 ^@geçmiş<n>$
-    383 ^@roman<n>$
-    382 ^@em<n>$
-    380 ^@fabrika<n>$
-    379 ^@çöz<v><dma><n>$
-    378 ^@iddianame<n>$
-    378 ^@hasar<n>$
-    376 ^@büyü<v><dma><n>$
-    375 ^@bek<n><dlan><v><cv>$
-    373 ^@performans<n>$
-    372 ^@düzen<n><dlan><v><partacak>$
-    372 ^@alışveriş<n>$
-    371 ^@yarış<v><dma><n>$
-    368 ^@belirle<v><dma><n>$
-    368 ^@aleyh<n><ki>$
-    367 ^@cali<n>$
-    367 ^@boykot<n>$
-    366 ^@rejim<n>$
-    364 ^@çek<v><dma><n>$
-    362 ^@tavır<n>$
-    362 ^@öte<n>$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    424 ^@yıldönüm<n>$ VEİRD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    382 ^@em<n>$ CHECK MAKES NO FUCKİNG SENSE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     361 ^@ayrıl<v><dma><n>$
     360 ^@tespit<n>$
     360 ^@çıkar<v><dma><n>$

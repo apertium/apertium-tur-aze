@@ -230,7 +230,16 @@
    
 
  <!-- SECTION: Nouns -->
-
+    <e><p><l>yer</l><r>yer</r></p><par n="nominal"/></e>
+    <e><p><l>ön</l><r>ön</r></p><par n="nominal"/></e>
+    <e><p><l>mart</l><r>mart</r></p><par n="nominal"/></e>
+    <e><p><l>arnavut</l><r>arnaut</r></p><par n="nominal"/></e>
+    <e><p><l>yerel</l><r>yerli</r></p><par n="nominal"/></e>
+    <e><p><l>zaman</l><r>vatx</r></p><par n="nominal"/></e>
+    <e><p><l>pazar</l><r>bazar</r></p><par n="nominal"/></e>
+    <e><p><l>bakanlık</l><r>nazirlik</r></p><par n="nominal"/></e>
+    <e><p><l>sonra</l><r>sonra</r></p><par n="nominal"/></e>
+    <e><p><l>kabul</l><r>qəbul</r></p><par n="nominal"/></e>
     <e><p><l>yemek</l><r>yemək</r></p><par n="nominal"/></e>
     <e><p><l>şey</l><r>şey</r></p><par n="nominal"/></e>
     <e><p><l>bira</l><r>pivə</r></p><par n="nominal"/></e>
@@ -2797,6 +2806,295 @@
     <e><p><l>zümrüt</l><r>zümrüd</r></p><par n="nominal"/></e>
     <e><p><l>zürafa</l><r>zürafə</r></p><par n="nominal"/></e>
     <e><p><l>zurna</l><r>zurna</r></p><par n="nominal"/></e>
+    <e><p><l>kişi</l><r>adam</r></p><par n="nominal"/></e>
+    <e><p><l>kabul</l><r>qəbul</r></p><par n="nominal"/></e>
+    <e><p><l>sonra</l><r>sonra</r></p><par n="nominal"/></e>
+    <e><p><l>bakanlık</l><r>nazirlik</r></p><par n="nominal"/></e>
+    <e><p><l>yerel</l><r>yerli</r></p><par n="nominal"/></e>
+    <e><p><l>arnavut</l><r>alban</r></p><par n="nominal"/></e>
+    <e><p><l>mart</l><r>mart</r></p><par n="nominal"/></e>
+    <e><p><l>yer</l><r>yer</r></p><par n="nominal"/></e>
+    <e><p><l>çağrı</l><r>çağırış</r></p><par n="nominal"/></e>
+    <e><p><l>iç</l><r>iç</r></p><par n="nominal"/></e> <!-- ALSO DAXİLİ -->
+    <e><p><l>konsey</l><r>şura</r></p><par n="nominal"/></e>
+    <e><p><l>rapor</l><r>hesabat</r></p><par n="nominal"/></e>
+    <e><p><l>seçi</l><r>seçim</r></p><par n="nominal"/></e>
+    <e><p><l>çalışma</l><r>çalışma</r></p><par n="nominal"/></e>
+    <e><p><l>ek</l><r>əlavə</r></p><par n="nominal"/></e>
+    <e><p><l>statü</l><r>status</r></p><par n="nominal"/></e>
+    <e><p><l>aralık</l><r>aralıq</r></p><par n="nominal"/></e>
+    <e><p><l>konuşma</l><r>danışma</r></p><par n="nominal"/></e>
+    <e><p><l>eylül</l><r>sentyabr</r></p><par n="nominal"/></e>
+    <e><p><l>bağımsızlık</l><r>müstəqillik</r></p><par n="nominal"/></e>
+    <e><p><l>koalisyon</l><r>koalisiya</r></p><par n="nominal"/></e>
+    <e><p><l>etnik</l><r>etnik</r></p><par n="nominal"/></e>
+    <e><p><l>neden</l><r>səbəb</r></p><par n="nominal"/></e>
+    <e><p><l>program</l><r>proqram</r></p><par n="nominal"/></e>
+    <e><p><l>ekonomi</l><r>iqtisadiyyat</r></p><par n="nominal"/></e>
+    <e><p><l>avro</l><r>avro</r></p><par n="nominal"/></e>
+    <e><p><l>internet</l><r>internet</r></p><par n="nominal"/></e>
+    <e><p><l>yönelik</l><r>istiqamətli</r></p><par n="nominal"/></e>
+    <e><p><l>cumhurbaşkanlığı</l><r>prezidentlik</r></p><par n="nominal"/></e>
+    <e><p><l>sistem</l><r>sistem</r></p><par n="nominal"/></e>
+    <e><p><l>öneri</l><r>təklif</r></p><par n="nominal"/></e>
+    <e><p><l>site</l><r>yer</r></p><par n="nominal"/></e>
+    <e><p><l>ortaklık</l><r>ortaqlıq</r></p><par n="nominal"/></e>
+    <e><p><l>terör</l><r>terrorçuluq</r></p><par n="nominal"/></e>
+    <e><p><l>gazete</l><r>qəzet</r></p><par n="nominal"/></e>
+    <e><p><l>balkan</l><r>balkan</r></p><par n="nominal"/></e>
+    <e><p><l>günlük</l><r>gündelik</r></p><par n="nominal"/></e>
+    <e><p><l>yapma</l><r>etme</r></p><par n="nominal"/></e>
+    <e><p><l>soruşturma</l><r>istintaq</r></p><par n="nominal"/></e>
+    <e><p><l>enerji</l><r>enerji</r></p><par n="nominal"/></e>
+    <e><p><l>operasyon</l><r>əməliyyat</r></p><par n="nominal"/></e>
+    <e><p><l>büyükelçi</l><r>səfir</r></p><par n="nominal"/></e>
+    <e><p><l>demokratik</l><r>demokratik</r></p><par n="nominal"/></e>
+    <e><p><l>uygulama</l><r>tətbiq</r></p><par n="nominal"/></e>
+    <e><p><l>general</l><r>general</r></p><par n="nominal"/></e>
+    <e><p><l>mali</l><r>maliyye</r></p><par n="nominal"/></e>
+    <e><p><l>dahil</l><r>daxil</r></p><par n="nominal"/></e>
+    <e><p><l>faaliyet</l><r>fəaliyyət</r></p><par n="nominal"/></e>
+    <e><p><l>standart</l><r>standart</r></p><par n="nominal"/></e>
+    <e><p><l>vatandaş</l><r>vətəndaş</r></p><par n="nominal"/></e>
+    <e><p><l>misyon</l><r>missiya</r></p><par n="nominal"/></e>
+    <e><p><l>komuta</l><r>komandalıq</r></p><par n="nominal"/></e>
+    <e><p><l>eyalet</l><r>əyalət</r></p><par n="nominal"/></e>
+    <e><p><l>sekreter</l><r>katib</r></p><par n="nominal"/></e>
+    <e><p><l>hizmet</l><r>xidmət</r></p><par n="nominal"/></e>
+    <e><p><l>yatır</l><r>yatır</r></p><par n="nominal"/></e>
+    <e><p><l>silah</l><r>silah</r></p><par n="nominal"/></e>
+    <e><p><l>rol</l><r>rol</r></p><par n="nominal"/></e>
+    <e><p><l>genişleme</l><r>genişlenme</r></p><par n="nominal"/></e>
+    <e><p><l>sektör</l><r>sektor</r></p><par n="nominal"/></e>
+    <e><p><l>kendi</l><r>öz</r></p><par n="nominal"/></e>
+    <e><p><l>ulusal</l><r>milli</r></p><par n="nominal"/></e>
+    <e><p><l>kes</l><r>kəs</r></p><par n="nominal"/></e>
+    <e><p><l>kalkma</l><r>qalxma</r></p><par n="nominal"/></e>
+    <e><p><l>anlaşmazlık</l><r>anlaşılmazlıq</r></p><par n="nominal"/></e>
+    <e><p><l>organize</l><r>teşkil</r></p><par n="nominal"/></e>
+    <e><p><l>sosyalist</l><r>sosialist</r></p><par n="nominal"/></e>
+    <e><p><l>etkinlik</l><r>fəaliyyət</r></p><par n="nominal"/></e>
+    <e><p><l>sağlık</l><r>sağlamlıq</r></p><par n="nominal"/></e>
+    <e><p><l>komite</l><r>komitə</r></p><par n="nominal"/></e>
+    <e><p><l>olimpiyat</l><r>olimpiada</r></p><par n="nominal"/></e>
+    <e><p><l>kampanya</l><r>kampaniya</r></p><par n="nominal"/></e>
+    <e><p><l>avaz</l><r>avaz</r></p><par n="nominal"/></e>
+    <e><p><l>firma</l><r>firma</r></p><par n="nominal"/></e>
+    <e><p><l>topla</l><r>yığıncaq</r></p><par n="nominal"/></e>
+    <e><p><l>demokrasi</l><r>demokratiya</r></p><par n="nominal"/></e>
+    <e><p><l>referandum</l><r>referendum</r></p><par n="nominal"/></e>
+    <e><p><l>öncelik</l><r>prioritet</r></p><par n="nominal"/></e>
+    <e><p><l>film</l><r>film</r></p><par n="nominal"/></e>
+    <e><p><l>kabine</l><r>kabinet</r></p><par n="nominal"/></e>
+    <e><p><l>ihtilaf</l><r>ixtilaf</r></p><par n="nominal"/></e>
+    <e><p><l>katilma</l><r>qoşulma</r></p><par n="nominal"/></e>
+    <e><p><l>gazeteci</l><r>jurnalist</r></p><par n="nominal"/></e>
+    <e><p><l>euro</l><r>euro</r></p><par n="nominal"/></e>
+    <e><p><l>getirme</l><r>gətirmə</r></p><par n="nominal"/></e>
+    <e><p><l>festival</l><r>festival</r></p><par n="nominal"/></e>
+    <e><p><l>ora</l><r>ora</r></p><par n="nominal"/></e>
+    <e><p><l>radyo</l><r>radio</r></p><par n="nominal"/></e>
+    <e><p><l>baskı</l><r>təzyiq</r></p><par n="nominal"/></e>
+    <e><p><l>uzlaşma</l><r>uzlaşma</r></p><par n="nominal"/></e>
+    <e><p><l>savcı</l><r>prokuror</r></p><par n="nominal"/></e>
+
+    <e><p><l>iade</l><r>qaytarma</r></p><par n="nominal"/></e>
+    <e><p><l>protesto</l><r>ediraz</r></p><par n="nominal"/></e>
+    <e><p><l>gelişme</l><r>inkişaf</r></p><par n="nominal"/></e>
+    <e><p><l>tartışma</l><r>mübahisə</r></p><par n="nominal"/></e>
+    <e><p><l>recep</l><r>zurna</r></p><par n="nominal"/></e>
+    <e><p><l>yasadış</l><r>qanunsuz</r></p><par n="nominal"/></e>
+    <e><p><l>yasadışı</l><r>qanunsuz</r></p><par n="nominal"/></e>
+    <e><p><l>dış</l><r>xarici</r></p><par n="nominal"/></e>
+
+    <e><p><l>bağımsız</l><r>müstəqil</r></p><par n="nominal"/></e>
+    <e><p><l>entegrasyon</l><r>inteqrasiya</r></p><par n="nominal"/></e>
+    <e><p><l>alınma</l><r>alınma</r></p><par n="nominal"/></e>
+    <e><p><l>elektrik</l><r>elektrik</r></p><par n="nominal"/></e>
+    <e><p><l>ekip</l><r>qrup</r></p><par n="nominal"/></e>
+    <e><p><l>sorumluluk</l><r>məsuliyyət</r></p><par n="nominal"/></e>
+    <e><p><l>uyarı</l><r>xəbərdarlıq</r></p><par n="nominal"/></e>
+    <e><p><l>televizyon</l><r>televiziya</r></p><par n="nominal"/></e>
+    <e><p><l>uygu</l><r>uyğun</r></p><par n="nominal"/></e>
+    <e><p><l>turizm</l><r>turizm</r></p><par n="nominal"/></e>
+    <e><p><l>güvence</l><r>zəmanət</r></p><par n="nominal"/></e>
+    <e><p><l>ısrar</l><r>israr</r></p><par n="nominal"/></e>
+    <e><p><l>çatışma</l><r>qarşıdurma</r></p><par n="nominal"/></e>
+    <e><p><l>düzenleme</l><r>tənzimləmə</r></p><par n="nominal"/></e>
+    <e><p><l>gösteri</l><r>nümayiş</r></p><par n="nominal"/></e>
+    <e><p><l>katki</l><r>qatqı</r></p><par n="nominal"/></e>
+    <e><p><l>işaret</l><r>işare</r></p><par n="nominal"/></e>
+    <e><p><l>vize</l><r>viza</r></p><par n="nominal"/></e>
+    <e><p><l>federasyon</l><r>federasya</r></p><par n="nominal"/></e>
+    <e><p><l>yakı</l><r>yaxın</r></p><par n="nominal"/></e>
+    <e><p><l>röportaj</l><r>reportaj</r></p><par n="nominal"/></e>
+    <e><p><l>patlama</l><r>partlayış</r></p><par n="nominal"/></e>
+    <e><p><l>yanıt</l><r>cavab</r></p><par n="nominal"/></e>
+    <e><p><l>bütünleşme</l><r>inteqrasiya</r></p><par n="nominal"/></e>
+    <e><p><l>girişim</l><r>cəhd</r></p><par n="nominal"/></e>
+    <e><p><l>bulunma</l><r>olma</r></p><par n="nominal"/></e>
+    <e><p><l>kalma</l><r>qalma</r></p><par n="nominal"/></e>
+    <e><p><l>personel</l><r>işçilər</r></p><par n="nominal"/></e> <!-- DECİDE HOÜ TO HANDL -->
+    <e><p><l>gündem</l><r>gündəm</r></p><par n="nominal"/></e>
+    <e><p><l>tutuklama</l><r>həbs</r></p><par n="nominal"/></e>
+    <e><p><l>terörist</l><r>terrorçu</r></p><par n="nominal"/></e>
+    <e><p><l>düşük</l><r>aşağı</r></p><par n="nominal"/></e>
+    <e><p><l>kabin</l><r>kabinə</r></p><par n="nominal"/></e>
+    <e><p><l>etki</l><r>təsir</r></p><par n="nominal"/></e>
+    <e><p><l>zor</l><r>çetin</r></p><par n="nominal"/></e>
+    <e><p><l>spor</l><r>idman</r></p><par n="nominal"/></e>
+
+    <e><p><l>hazırlık</l><r>hazırlıq</r></p><par n="nominal"/></e>
+    <e><p><l>ofis</l><r>ofis</r></p><par n="nominal"/></e>
+    <e><p><l>bank</l><r>zurna</r></p><par n="nominal"/></e>
+    <e><p><l>sanık</l><r>şübhəli</r></p><par n="nominal"/></e>
+
+    <e><p><l>taslak</l><r>qaralama</r></p><par n="nominal"/></e>
+    <e><p><l>duruşma</l><r>məhkəmə</r></p><par n="nominal"/></e>
+    <e><p><l>nine</l><r>nənə</r></p><par n="nominal"/></e>
+    <e><p><l>nokta</l><r>nöqtə</r></p><par n="nominal"/></e>
+    <e><p><l>katılım</l><r>qoşulma</r></p><par n="nominal"/></e>
+    <e><p><l>kayıp</l><r>itkin</r></p><par n="nominal"/></e>
+    <e><p><l>tesis</l><r>təsis</r></p><par n="nominal"/></e>
+    <e><p><l>göruşme</l><r>diskussiya</r></p><par n="nominal"/></e>
+    <e><p><l>başvuru</l><r>müraciət</r></p><par n="nominal"/></e>
+    <e><p><l>gösterme</l><r>göstərmə</r></p><par n="nominal"/></e>
+    <e><p><l>potansiyel</l><r>potensial</r></p><par n="nominal"/></e>
+    <e><p><l>satış</l><r>satış</r></p><par n="nominal"/></e>
+    <e><p><l>açma</l><r>açma</r></p><par n="nominal"/></e>
+    <e><p><l>geçirme</l><r>keçirmə</r></p><par n="nominal"/></e>
+    <e><p><l>ali</l><r>ali</r></p><par n="nominal"/></e>
+    <e><p><l>çıkar</l><r>çıxar</r></p><par n="nominal"/></e>
+    <e><p><l>blok</l><r>blok</r></p><par n="nominal"/></e>
+    <e><p><l>kimlik</l><r>şəxsiyyət</r></p><par n="nominal"/></e>
+    <e><p><l>yükümlülük</l><r>öhdəçilik</r></p><par n="nominal"/></e>
+    <e><p><l>araştırma</l><r>araşdırma</r></p><par n="nominal"/></e>
+    <e><p><l>büyükelçilik</l><r>səfirlik</r></p><par n="nominal"/></e>
+    <e><p><l>acil</l><r>təcili</r></p><par n="nominal"/></e>
+    <e><p><l>muadil</l><r>tən</r></p><par n="nominal"/></e>
+    <e><p><l>dava</l><r>dava</r></p><par n="nominal"/></e>
+    <e><p><l>dav</l><r>antilop</r></p><par n="nominal"/></e>
+    <e><p><l>bor</l><r>bor</r></p><par n="nominal"/></e>
+    <e><p><l>sorumlu</l><r>məsul</r></p><par n="nominal"/></e>
+    <e><p><l>üniversite</l><r>universitet</r></p><par n="nominal"/></e>
+    <e><p><l>onay</l><r>təsdiq</r></p><par n="nominal"/></e>
+    <e><p><l>adım</l><r>addım</r></p><par n="nominal"/></e>
+    <e><p><l>yakın</l><r>yaxın</r></p><par n="nominal"/></e>
+    <e><p><l>bakış</l><r>baxış</r></p><par n="nominal"/></e>
+    <e><p><l>bomba</l><r>bomba</r></p><par n="nominal"/></e>
+    <e><p><l>strateji</l><r>strategiya</r></p><par n="nominal"/></e>
+    <e><p><l>aleyh</l><r>əleyh</r></p><par n="nominal"/></e>
+    <e><p><l>güvə</l><r>güvə</r></p><par n="nominal"/></e>
+    <e><p><l>avukat</l><r>vəkil</r></p><par n="nominal"/></e>
+    <e><p><l>teknoloji</l><r>texnologiya</r></p><par n="nominal"/></e>
+    <e><p><l>gaz</l><r>qaz</r></p><par n="nominal"/></e>
+    <e><p><l>açılış</l><r>açılış</r></p><par n="nominal"/></e>
+    <e><p><l>gönderme</l><r>göndərmə</r></p><par n="nominal"/></e>
+    <e><p><l>komiser</l><r>komissar</r></p><par n="nominal"/></e>
+    <e><p><l>katliam</l><r>qətl</r></p><par n="nominal"/></e>
+    <e><p><l>savcılık</l><r>prokurorluq</r></p><par n="nominal"/></e>
+    <e><p><l>onaylanma</l><r>tanıma</r></p><par n="nominal"/></e>
+    <e><p><l>bulma</l><r>tapma</r></p><par n="nominal"/></e>
+    <e><p><l>net</l><r>dəqiq</r></p><par n="nominal"/></e>
+    <e><p><l>karşılık</l><r>qarşılıq</r></p><par n="nominal"/></e>
+    <e><p><l>soykırım</l><r>soyqırım</r></p><par n="nominal"/></e>
+    <e><p><l>tutuklanma</l><r>həbs</r></p><par n="nominal"/></e>
+    <e><p><l>aşırı</l><r>ifrat</r></p><par n="nominal"/></e>
+    <e><p><l>diplomatik</l><r>diplomatik</r></p><par n="nominal"/></e>
+    <e><p><l>tamamlama</l><r>tamamlama</r></p><par n="nominal"/></e>
+    <e><p><l>ihale</l><r>təklif</r></p><par n="nominal"/></e>
+    <e><p><l>şef</l><r>şef</r></p><par n="nominal"/></e>
+    <e><p><l>grev</l><r>tətil</r></p><par n="nominal"/></e>
+    <e><p><l>nükleer</l><r>nüvə</r></p><par n="nominal"/></e>
+    <e><p><l>imza</l><r>imza</r></p><par n="nominal"/></e>
+    <e><p><l>piyasa</l><r>bazar</r></p><par n="nominal"/></e>
+    <e><p><l>istihbarat</l><r>kəşfiyyat</r></p><par n="nominal"/></e>
+    <e><p><l>erme</l><r>çatma</r></p><par n="nominal"/></e>
+    <e><p><l>koruma</l><r>qoruma</r></p><par n="nominal"/></e>
+    <e><p><l>teşvik</l><r>teşviq</r></p><par n="nominal"/></e>
+    <e><p><l>eleştiri</l><r>tənqid</r></p><par n="nominal"/></e>
+    <e><p><l>kullanım</l><r>istifadə</r></p><par n="nominal"/></e>
+    <e><p><l>diyalog</l><r>dialoq</r></p><par n="nominal"/></e>
+    <e><p><l>prosedür</l><r>prosedür</r></p><par n="nominal"/></e>
+    <e><p><l>müdahale</l><r>müdaxilə</r></p><par n="nominal"/></e>
+    <e><p><l>mayın</l><r>mina</r></p><par n="nominal"/></e>
+    <e><p><l>kongre</l><r>konqres</r></p><par n="nominal"/></e>
+    <e><p><l>katılımcı</l><r>iştirakçı</r></p><par n="nominal"/></e>
+    <e><p><l>kanıt</l><r>dəlil</r></p><par n="nominal"/></e>
+    <e><p><l>sendika</l><r>peşə</r></p><par n="nominal"/></e>
+    <e><p><l>stratejik</l><r>strateji</r></p><par n="nominal"/></e>
+    <e><p><l>yarı</l><r>yarı</r></p><par n="nominal"/></e>
+    <e><p><l>terk</l><r>tərk</r></p><par n="nominal"/></e>
+    <e><p><l>denet</l><r>nəzarət</r></p><par n="nominal"/></e>
+    <e><p><l>çek</l><r>çek</r></p><par n="nominal"/></e>
+    <e><p><l>kur</l><r>məzənnə</r></p><par n="nominal"/></e>
+    <e><p><l>demokrat</l><r>demokrat</r></p><par n="nominal"/></e>
+    <e><p><l>saygı</l><r>hörmət</r></p><par n="nominal"/></e>
+    <e><p><l>federal</l><r>federal</r></p><par n="nominal"/></e>
+    <e><p><l>trafik</l><r>hərəkət</r></p><par n="nominal"/></e>
+    <e><p><l>kapasite</l><r>tutum</r></p><par n="nominal"/></e>
+    <e><p><l>mesaj</l><r>müzakirəsi</r></p><par n="nominal"/></e>
+    <e><p><l>amerikan</l><r>amerikan</r></p><par n="nominal"/></e>
+    <e><p><l>ürün</l><r>məhsul</r></p><par n="nominal"/></e>
+    <e><p><l>gecikme</l><r>gecikmə</r></p><par n="nominal"/></e>
+    <e><p><l>köy</l><r>kend</r></p><par n="nominal"/></e>
+    <e><p><l>kazanma</l><r>qazanma</r></p><par n="nominal"/></e>
+    <e><p><l>imzalama</l><r>əmalət</r></p><par n="nominal"/></e> <!-- CHECK -->
+    <e><p><l>analist</l><r>analitiki</r></p><par n="nominal"/></e>
+    <e><p><l>enstitü</l><r>institut</r></p><par n="nominal"/></e>
+    <e><p><l>grip</l><r>qrip</r></p><par n="nominal"/></e>
+    <e><p><l>birbir</l><r>bir-bir</r></p><par n="nominal"/></e> <!-- NOT A NOUN -->
+    <e><p><l>meslektaş</l><r>həmkarı</r></p><par n="nominal"/></e>
+    <e><p><l>bölüm</l><r>bölüm</r></p><par n="nominal"/></e>
+    <e><p><l>başlangıç</l><r>başlangıç</r></p><par n="nominal"/></e>
+    <e><p><l>turist</l><r>turist</r></p><par n="nominal"/></e>
+    <e><p><l>para</l><r>pul</r></p><par n="nominal"/></e>
+    <e><p><l>kayıt</l><r>qeyd</r></p><par n="nominal"/></e>
+    <e><p><l>geçmiş</l><r>keçmiş</r></p><par n="nominal"/></e>
+    <e><p><l>roman</l><r>roman</r></p><par n="nominal"/></e>
+    <e><p><l>fabrika</l><r>fabrik</r></p><par n="nominal"/></e>
+    <e><p><l>hasar</l><r>ziyan</r></p><par n="nominal"/></e>
+    <e><p><l>büyüme</l><r>böyümə</r></p><par n="nominal"/></e>
+    <e><p><l>performans</l><r>fəallıq</r></p><par n="nominal"/></e>
+    <e><p><l>alışveriş</l><r>pazarlıq</r></p><par n="nominal"/></e>
+    <e><p><l>boykot</l><r>boykot</r></p><par n="nominal"/></e>
+    <e><p><l>yarışma</l><r>müsabiqə</r></p><par n="nominal"/></e>
+    <e><p><l>rejim</l><r>rejim</r></p><par n="nominal"/></e>
+    <e><p><l>çekme</l><r>çəkmə</r></p><par n="nominal"/></e>
+    <e><p><l>tavır</l><r>rəftar</r></p><par n="nominal"/></e>
+    
+
+
+
+
+
+
+
+    
+<!-- More likely to be adjectives from now on -->
+
+    <e><p><l>yeni</l><r>yeni</r></p><par n="nominal"/></e>
+    <e><p><l>eski</l><r>köhnə</r></p><par n="nominal"/></e>
+    <e><p><l>diğer</l><r>digər</r></p><par n="nominal"/></e>
+    <e><p><l>büyük</l><r>böyük</r></p><par n="nominal"/></e>
+    <e><p><l>yüksek</l><r>yüksək</r></p><par n="nominal"/></e>
+    <e><p><l>önemli</l><r>önəmli</r></p><par n="nominal"/></e>
+    <e><p><l>bütün</l><r>bütün</r></p><par n="nominal"/></e>
+    <e><p><l>askeri</l><r>hərbi</r></p><par n="nominal"/></e>
+    <e><p><l>ortak</l><r>ortaq</r></p><par n="nominal"/></e>
+    <e><p><l>ekonomik</l><r>iqtisadi</r></p><par n="nominal"/></e>
+    <e><p><l>demokrat</l><r>demokrat</r></p><par n="nominal"/></e>
+    <e><p><l>ana</l><r>ana</r></p><par n="nominal"/></e>
+    <e><p><l>bosnalı</l><r>bosniyalı</r></p><par n="nominal"/></e>
+    <e><p><l>sorumlu</l><r>məsul</r></p><par n="nominal"/></e>
+    <e><p><l>iyi</l><r>yaxşı</r></p><par n="nominal"/></e>
+    <e><p><l>tek</l><r>tək</r></p><par n="nominal"/></e>
+    <e><p><l>tam</l><r>tam</r></p><par n="nominal"/></e>
+    <e><p><l>günkü</l><r>günkü</r></p><par n="nominal"/></e>
+    <e><p><l>ulusal</l><r>milli</r></p><par n="nominal"/></e>
+    
+
+
   
 
 
@@ -2866,6 +3164,10 @@
     <e><p><l>sigara<s n="n"/></l><r>papiros<s n="n"/></r></p></e>
     <e><p><l>şura<s n="n"/></l><r>şura<s n="n"/></r></p></e>
     <e><p><l>vakıa<s n="n"/></l><r>vaqiə<s n="n"/></r></p></e>
+
+
+  
+
 
     <!-- SECTION: Proper nouns -->
 
