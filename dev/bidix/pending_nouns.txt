@@ -312,53 +312,43 @@ BOR PROBABLY BORA
 
 
 
-    361 ^@ayrıl<v><dma><n>$
-    360 ^@tespit<n>$
-    360 ^@çıkar<v><dma><n>$
-    357 ^@tamam<adj><dla><v><dma><n>$
-    356 ^@çete<n>$
-    352 ^@vaka<n>$
-    352 ^@imza<n>$
-    352 ^@doğalgaz<n>$
-    351 ^@büro<n>$
-    348 ^@gergin<adj><dlik><n>$
-    347 ^@direktör<n>$
-    345 ^@telekom<n>$
-    344 ^@etki<n><dli><adj>$
-    336 ^@tasar<n>$
-    336 ^@maç<n>$
-    336 ^@komünist<n>$
-    336 ^@kişilik<n>$
-    336 ^@bildirge<n>$
-    335 ^@havaalan<n>$
-    328 ^@geri<n>$
-    328 ^@bun<n>$
-    327 ^@çift<n>$
-    326 ^@tiyatro<n>$
-    325 ^@finansman<n>$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    328 ^@bun<n>$  REALLY VEİRD
+
+
+
     324 ^@bek<n><dlan><v><partdik>$
-    322 ^@pasaport<n>$
-    318 ^@yaş<n>$
-    318 ^@vatandaş<n><dlik><n>$
-    317 ^@erişim<n>$
-    316 ^@protokol<n>$
-    314 ^@yönet<v><dma><n>$
-    314 ^@erte<n><dla><v><dma><n>$
-    313 ^@gelişim<n>$
-    310 ^@vade<n><dli><adj>$
+
+
+
+
+
+
+
+
+
     310 ^@uygu<n><dlan><v><partyan>$
-    310 ^@bayram<n>$
-    308 ^@memnun<n>$
-    308 ^@bölü<n>$
-    307 ^@üstün<adj><dlik><n>$
-    306 ^@adem<n>$
-    305 ^@diplomasi<n>$
-    304 ^@ulaş<v><dma><n>$
-    304 ^@şek<n><dli><n><ki>$
-    302 ^@baz<n>$
-    301 ^@sonbahar<n>$
-    300 ^@öl<n>$
-    300 ^@konser<n>$
+
+
+
+
+
+
+   
     300 ^@işadam<n>$
     299 ^@harekat<n>$
     296 ^@test<n>$
