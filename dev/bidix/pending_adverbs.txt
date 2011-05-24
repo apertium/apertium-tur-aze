@@ -4,13 +4,11 @@
       7 ^@sanki<adv>$
       7 ^@kimi<adv><dan0><n><p3p>$
       4 ^@bağım<n><dnnsiz><adv><dan0><n><3s><dir>$
-      2 ^@yer<n><dnnsiz><adv><dan0><n><3s><dir>$
       2 ^@sabahları<adv>$
       2 ^@resen<adv>$
       2 ^@kimi<adv><dan0><n><p3p><dat>$
       1 ^@kimi<adv><dan0><n><pl><p1p><gen>$
       1 ^@kimi<adv><dan0><n><p3p><gen>$
-      1 ^@hazırlık<n><dnnsiz><adv><dan0><n><cpldi><3s>$
       1 ^@bağım<n><dnnsiz><adv><dan0><n><pl><dat>$
       1 ^@bağım<n><dnnsiz><adv><dan0><n><gen>$
       1 ^@bağım<n><dnnsiz><adv><dan0><n><dat>$

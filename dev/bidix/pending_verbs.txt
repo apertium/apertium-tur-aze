@@ -25,7 +25,7 @@
    1957 tanı<v><t_imp><2s>
    1907 soruştur<v><t_imp><2s>
    1892 yürü<v><t_imp><2s>
-   1891 çek<v><t_imp><2s>
+   1890 çek<v><t_imp><2s>
    1889 belirle<v><t_imp><2s>
    1843 öl<v><t_imp><2s>
    1805 duyur<v><t_imp><2s>
@@ -75,7 +75,6 @@
     771 yara<v><t_imp><2s>
     771 ata<v><t_imp><2s>
     733 kapa<v><t_imp><2s>
-    677 etki<v><t_imp><2s>
     672 yaklaş<v><t_imp><2s>
     665 yüksel<v><t_imp><2s>
     640 aktar<v><t_imp><2s>
@@ -116,13 +115,11 @@
     331 destekle<v><t_imp><2s>
     329 yalan<adj><D_lA><v><t_imp><2s>/yalanla<v><t_imp><2s>
     321 bas<v><t_imp><2s>
-    314 dene<v><caus><t_imp><2s>
     314 değ<v><t_imp><2s>
     313 kavuş<v><t_imp><2s>
     312 ertele<v><t_imp><2s>
     302 yansı<v><t_imp><2s>
     297 kurtar<v><t_imp><2s>
-    297 ek<v><t_imp><2s>
     296 üre<v><caus><t_imp><2s>/üret<v><t_imp><2s>
     295 dönüş<v><t_imp><2s>
     291 san<v><t_imp><2s>
@@ -146,7 +143,6 @@
     214 uygula<v><t_imp><2s>
     207 yat<v><t_imp><2s>
     206 kapa<v><caus><t_imp><2s>/kapat<v><t_imp><2s>
-    201 yer<v><t_imp><2s>
     201 yakala<v><t_imp><2s>
     195 tüket<v><t_imp><2s>
     194 bulaş<v><t_imp><2s>
@@ -213,7 +209,6 @@
     110 seyret<v><t_imp><2s>
     109 tırman<v><t_imp><2s>
     109 naklet<v><t_imp><2s>
-    107 yakın<v><t_imp><2s>
     106 kışkır<v><t_imp><2s>
     106 ez<v><t_imp><2s>
     105 yerleş<v><t_imp><2s>
@@ -385,8 +380,10 @@
      17 kop<v><t_imp><2s>
      17 kastet<v><t_imp><2s>
      17 iv<v><t_imp><2s>
+     17 ek<v><t_imp><2s>
      17 aldat<v><t_imp><2s>
      16 yayımla<v><t_imp><2s>
+     16 yakın<v><t_imp><2s>
      16 tanış<v><t_imp><2s>
      16 savla<v><t_imp><2s>
      16 kaynaş<v><t_imp><2s>
@@ -593,7 +590,6 @@
       3 sabitle<v><t_imp><2s>
       3 puanla<v><t_imp><2s>
       3 mühürle<v><t_imp><2s>
-      3 kur<v><t_imp><2s>
       3 kok<v><t_imp><2s>
       3 kıpırda<v><t_imp><2s>
       3 kara<v><t_imp><2s>
@@ -801,7 +797,6 @@
       1 ayart<v><t_imp><2s>
       1 avun<v><t_imp><2s>
       1 arızalan<v><t_imp><2s>
-      1 an<v><t_opt><3s>
       1 anlamlan<v><t_imp><2s>
       1 aldan<v><t_imp><2s>
       1 aksa<v><caus><t_imp><2s>/aksat<v><t_imp><2s>

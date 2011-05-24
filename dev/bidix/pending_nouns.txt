@@ -4,351 +4,116 @@
    5399 ^@perşembe<n>$
    5066 ^@gör<v><rec><dma><n>$
    4513 ^@haf<n>$
-
-
-
-
-
-
-
-
-
-
-   3169 ^@bas<n>$ <CHECK NONSENSE>
-
-
-
-
+   3169 ^@bas<n>$
+   2869 ^@çalış<v><dma><n>$
    2810 ^@düzen<n><dlan><v><partyan>$
-
-
-
-
-
-   2341 ^@ilerle<v><dma><n>$ <CANNOT FİND>
-   2317 ^@ede<n>$ <NONSENSE>
-
-
-
-
-
-
-
-
+   2446 ^@konuş<v><dma><n>$
+   2341 ^@ilerle<v><dma><n>$
+   2317 ^@ede<n>$
+   2314 ^@bağım<n><dnnsiz><adj><dlik><n>$
    1959 ^@ama<n><dci><n>$
    1916 ^@milletvekil<n>$
-
-
-
    1867 ^@beta<n>$
-
-   1842 ^@site<n>$
-
-
-
-
-
-
-
+   1713 ^@yap<v><dma><n>$
+   1698 ^@ede<n><dcak><n>$
    1667 ^@soruştur<v><dma><n>$
    1658 ^@çöz<n>$
-
    1646 ^@bek<n><dlan><v><cv>$.
-  
-
-
-
-
-
-
-
-   1527 ^@dan<n>$ NONSENSE
-
-
-
-
-
-   1427 ^@art<n>$ NONSENSE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   1527 ^@dan<n>$
+   1427 ^@art<n>$
+   1308 ^@geniş<adj><dla><v><dma><n>$
+   1286 ^@tur<n>$
+   1265 ^@ulu<adj><djn0><n><dsal><adj>$
+   1225 ^@kalk<v><ref><dma><n>$
+   1193 ^@etkin<adj><dlik><n>$
    1109 ^@başsavcı<n>$
-
-
-
-   1087 ^@par<n>$ NONSENSE
-
-
-   1055 ^@uygu<n><dlan><v><dma><n>$
-
-
-
+   1087 ^@par<n>$
+   1052 ^@katıl<v><dma><n>$
    1024 ^@şek<n><dli><n>$
-
-
-
-
-    969 ^@do<n>$ ANOTHER NONSENSE FUCK YOU CAGRİ
-
-    948 ^@düzen<n><dla><v><partdik>$ NONSENSE VERB
-
-
-
-
-
-
-    920 ^@yaş<n><ki>$ NONSENSE
-
-
-    878 ^@avro<n><dlik><n>$
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    759 ^@karşılık<n><dli><adj>$ this is not a N
-
-
+   1020 ^@getir<v><dma><n>$
+    969 ^@do<n>$
+    948 ^@düzen<n><dla><v><partdik>$
+    943 ^@uz<n><dlas><v><dma><n>$
+    941 ^@sav<n><dci><n>$
+    897 ^@geliş<v><dma><n>$
+    896 ^@tartış<v><dma><n>$
+    856 ^@bağım<n><dnnsiz><adj>$
+    846 ^@alın<v><dma><n>$
+    825 ^@sorum<n><dli><adj><dlik><n>$
+    782 ^@güve<n><ca>$
+    773 ^@çatış<v><dma><n>$
+    768 ^@düzen<n><dla><v><dma><n>$
+    762 ^@katkı<n>$
     745 ^@satı<n>$
-
     740 ^@olası<n>$
-
-
-
-
-
-    720 ^@hav<n>$ PROBABLY HAVA
-
-
-
-
-    691 ^@gözalt<n>$ RİLLİ GARİP
-
+    735 ^@pat<adj><dla><v><dma><n>$
+    720 ^@hav<n>$
+    712 ^@bulun<v><dma><n>$
+    706 ^@kal<v><dma><n>$
+    691 ^@gözalt<n>$
+    688 ^@tutuk<n><dla><v><dma><n>$
     686 ^@bili<n>$
-
     679 ^@tak<n>$
-
-
-
-
-
-
-
-
+    662 ^@bek<n><dla><v><partdik>$
     661 ^@diplomat<n>$
-
-    644 ^@kamuoy<n>$ NON EXİSTİNG ÜORD probably kamuoyu
-
-    642 ^@bank<n>$ PROBABLY BANKA 
-
-
-
-
-
-
-
-
-    603 ^@tar<n>$ NOT A ÜORD
-
-
-
-
-
-
-
-
-
-    568 ^@bugün<n>$ NOUN LOL it is an adverb
-
-
-
-
-
-
-
-
-
-
-    538 ^@dav<n>$ probably DAVA
-BOR PROBABLY BORA
-
-
-
-
-
-
-
-
-
-
-    524 ^@güve<n>$ PROBABLY ÜRONG
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    455 ^@car<n>$ VEİRD
-
-
+    644 ^@kamuoy<n>$
+    641 ^@kriter<n>$
+    603 ^@tar<n>$
+    601 ^@görüşme<n>$
+    596 ^@göster<v><dma><n>$
+    588 ^@ede<n><dcak><n>$.
+    582 ^@verdi<n>$.
+    574 ^@aç<v><dma><n>$
+    568 ^@bugün<n>$
+    565 ^@geçir<v><dma><n>$
+    544 ^@yüküm<n><dli><adj><dlik><n>$
+    544 ^@araştır<v><dma><n>$
+    537 ^@sorum<n><dli><n>$
+    524 ^@güve<n>$
+    505 ^@gönder<v><dma><n>$
+    497 ^@forum<n>$
+    494 ^@sav<n><dci><adj><dlik><n>$
+    490 ^@bul<v><dma><n>$
+    484 ^@bek<n><dlan><v><partyan>$
+    480 ^@tutuk<n><dlan><v><dma><n>$
+    470 ^@tamam<adj><dlan><v><dma><n>$
+    461 ^@al<n><cpldi>$.
+    457 ^@dolar<n><dlik><n>$
+    455 ^@car<n>$
+    452 ^@er<v><dma><n>$
     451 ^@sun<v><dma><n>$
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    424 ^@yıldönüm<n>$ VEİRD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    382 ^@em<n>$ CHECK MAKES NO FUCKİNG SENSE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    328 ^@bun<n>$  REALLY VEİRD
-
-
-
+    451 ^@koru<v><dma><n>$
+    424 ^@yıldönüm<n>$
+    406 ^@gecik<v><dma><n>$
+    405 ^@kazan<v><dma><n>$
+    400 ^@bazı<adj><djn0><n>$
+    382 ^@em<n>$
+    379 ^@çöz<v><dma><n>$
+    378 ^@iddianame<n>$
+    376 ^@büyü<v><dma><n>$
+    375 ^@bek<n><dlan><v><cv>$
+    372 ^@düzen<n><dlan><v><partacak>$
+    371 ^@yarış<v><dma><n>$
+    368 ^@belirle<v><dma><n>$
+    367 ^@cali<n>$
+    364 ^@çek<v><dma><n>$
+    362 ^@öte<n>$
+    361 ^@ayrıl<v><dma><n>$
+    360 ^@çıkar<v><dma><n>$
+    357 ^@tamam<adj><dla><v><dma><n>$
+    348 ^@gergin<adj><dlik><n>$
+    328 ^@bun<n>$
     324 ^@bek<n><dlan><v><partdik>$
-
-
-
-
-
-
-
-
-
-    310 ^@uygu<n><dlan><v><partyan>$
-
-
-
-
-
-
-   
+    314 ^@yönet<v><dma><n>$
+    314 ^@erte<n><dla><v><dma><n>$
+    310 ^@vade<n><dli><adj>$
+    308 ^@bölü<n>$
+    307 ^@üstün<adj><dlik><n>$
+    306 ^@adem<n>$
+    304 ^@ulaş<v><dma><n>$
+    304 ^@şek<n><dli><n><ki>$
+    302 ^@baz<n>$
+    300 ^@öl<n>$
     300 ^@işadam<n>$
     299 ^@harekat<n>$
     296 ^@test<n>$
@@ -370,14 +135,11 @@ BOR PROBABLY BORA
     275 ^@tanı<v><dma><n>$
     274 ^@nü<n>$
     273 ^@imha<n>$
-    273 ^@gazete<n><dci><adj>$
     270 ^@otoyol<n>$
     270 ^@hayal<n>$
     269 ^@modernizasyon<n>$
     268 ^@cep<n>$
     267 ^@not<n>$
-    267 ^@iç<n><ki>$
-    265 ^@sektör<n><ki>$
     265 ^@ama<n><dci><adj>$
     262 ^@art<v><dma><n>$
     261 ^@kimse<n>$
@@ -397,7 +159,6 @@ BOR PROBABLY BORA
     254 ^@reji<n>$
     254 ^@gensoru<n>$
     253 ^@tamam<adj><djn0><n>$
-    251 ^@eyalet<n><ki>$
     249 ^@zer<n>$
     249 ^@reddet<v><dma><n>$
     249 ^@demiryol<n>$
@@ -406,7 +167,6 @@ BOR PROBABLY BORA
     246 ^@yoksul<adj><dlik><n>$
     246 ^@kaldır<v><dma><n>$
     246 ^@haki<n>$
-    245 ^@euro<n><dlik><n>$
     244 ^@san<n><cpldi>$
     244 ^@dokunulmazlık<n>$
     242 ^@çekil<v><dma><n>$
@@ -430,7 +190,6 @@ BOR PROBABLY BORA
     227 ^@stratej<n>$
     226 ^@müzik<n>$
     226 ^@herkes<n>$
-    226 ^@bomba<n><dli><adj>$
     225 ^@tutu<n>$
     225 ^@hukuki<n>$
     225 ^@bayrak<n>$
@@ -441,7 +200,6 @@ BOR PROBABLY BORA
     222 ^@şebeke<n>$
     221 ^@tutuk<n><dlan><v><partdik>$
     221 ^@doğrultu<n>$
-    219 ^@kişi<n><dsal><adj>$
     218 ^@hepsi<n>$
     218 ^@bağlılık<n>$
     217 ^@sav<n><dci><adj>$
@@ -459,8 +217,6 @@ BOR PROBABLY BORA
     209 ^@yangı<n>$
     208 ^@müdürlük<n>$
     207 ^@hastalık<n>$
-    207 ^@aşırı<n><dlik><n>$
-    206 ^@imza<n><dla><v><partdik>$
     204 ^@sav<n>$
     203 ^@kesinti<n>$
     202 ^@virüs<n>$
@@ -474,7 +230,6 @@ BOR PROBABLY BORA
     198 ^@doğu<n>$
     197 ^@platform<n>$
     197 ^@otomobil<n>$
-    197 ^@gösteri<n><dci><n>$
     197 ^@finanse<n>$
     197 ^@azal<v><dma><n>$
     196 ^@vakıf<n>$
@@ -506,7 +261,6 @@ BOR PROBABLY BORA
     180 ^@erte<n><dlan><v><dma><n>$
     179 ^@üste<n>$
     179 ^@kuzey<n>$
-    179 ^@bütün<adj><dlik><n>$
     178 ^@bünye<n>$
     177 ^@zimmet<n>$
     177 ^@organizasyon<n>$
@@ -521,7 +275,6 @@ BOR PROBABLY BORA
     174 ^@mekanizma<n>$
     174 ^@ayrım<n><dci><adj><dlik><n>$
     174 ^@arz<n>$
-    173 ^@zor<adj><dlik><n>$
     173 ^@yönet<v><dvnyici><adj><djn0><n>$
     173 ^@terörizm<n>$
     170 ^@paralel<n>$
@@ -539,12 +292,10 @@ BOR PROBABLY BORA
     164 ^@antik<n>$
     163 ^@kadı<n>$
     163 ^@dağıtım<n>$
-    162 ^@kayıt<n><dli><adj>$
     162 ^@düzen<n><dli><adj>$
     162 ^@ara<v><dma><n>$
     161 ^@sabit<n>$
     161 ^@istem<n>$
-    161 ^@dış<n><ki>$
     161 ^@bulgu<n>$
     160 ^@rom<n>$
     160 ^@dosya<n>$
@@ -553,7 +304,6 @@ BOR PROBABLY BORA
     158 ^@tutar<n>$
     158 ^@mafya<n>$
     157 ^@saye<n>$
-    157 ^@denet<n><dla><v><dma><n>$
     157 ^@akis<n>$
     156 ^@verdi<n>$
     156 ^@döviz<n>$
@@ -562,13 +312,10 @@ BOR PROBABLY BORA
     154 ^@şampiyon<n>$
     154 ^@sak<n><dlan><v><partdik>$
     153 ^@troyka<n>$
-    153 ^@onay<n><dla><v><partdik>$
     153 ^@korgeneral<n>$
     153 ^@akademi<n>$
     152 ^@yaşa<v><dma><n>$
     152 ^@kategori<n>$
-    152 ^@iyi<adj><dlas><v><dma><n>$
-    151 ^@tartışma<n>$
     150 ^@yarat<v><dma><n>$
     150 ^@elektronik<n>$
     149 ^@teşhis<n>$
@@ -581,7 +328,6 @@ BOR PROBABLY BORA
     147 ^@hıristiyan<n>$
     146 ^@emlak<n>$
     146 ^@belde<n>$
-    145 ^@onay<n><dlan><v><partyan>$
     145 ^@manastır<n>$
     145 ^@fotoğraf<n>$
     145 ^@bek<n><dlan><v><tcont>$.
@@ -596,12 +342,10 @@ BOR PROBABLY BORA
     140 ^@yeter<adj><djn0><n><dnnsiz><adj>$
     140 ^@anlaşma<n>$
     139 ^@dayalı<n>$
-    137 ^@bomba<n><dla><v><dma><n>$
     136 ^@profesör<n>$
     136 ^@kalıntı<n>$
     136 ^@istasyon<n>$
     135 ^@yok<n><dla><v><dma><n>$
-    135 ^@uygu<n><dla><v><partdik>$
     135 ^@havaliman<n>$
     135 ^@dolaşım<n>$
     135 ^@al<n><cpldi>$
@@ -638,8 +382,6 @@ BOR PROBABLY BORA
     122 ^@bul<v><rec><dma><n>$
     121 ^@ithal<n>$
     120 ^@uzat<v><dma><n>$
-    120 ^@bor<n><dci><n>$
-    119 ^@uygu<n><dla><v><vnmak>$
     119 ^@kovuştur<v><dma><n>$
     119 ^@dönüşüm<n>$
     118 ^@ilk<n>$
@@ -648,10 +390,8 @@ BOR PROBABLY BORA
     117 ^@haf<n><ki>$
     117 ^@bek<n><dla><v><tcont>$.
     117 ^@arap<n>$
-    116 ^@uygu<n><dlan><v><partacak>$
     116 ^@sürtüş<v><dma><n>$
     116 ^@söyle<v><dma><n>$
-    115 ^@spor<n><dci><n>$
     115 ^@gereksinim<n>$
     115 ^@erte<n>$
     115 ^@arkeolog<n>$
@@ -668,7 +408,6 @@ BOR PROBABLY BORA
     112 ^@dink<n>$
     111 ^@türban<n>$
     111 ^@seks<n>$
-    111 ^@öncelik<n><dli><adj>$
     111 ^@mil<n>$
     111 ^@kuru<v><dci><n>$
     111 ^@gol<n>$
@@ -693,7 +432,6 @@ BOR PROBABLY BORA
     106 ^@sakin<adj><djn0><n>$
     106 ^@endeks<n>$
     106 ^@ekonomist<n>$
-    106 ^@bor<n><dci><adj>$
     105 ^@nakli<n>$
     105 ^@kaçır<v><dma><n>$
     104 ^@komünizm<n>$
@@ -708,7 +446,6 @@ BOR PROBABLY BORA
     102 ^@mark<n>$
     102 ^@lojistik<n>$
     102 ^@laboratuvar<n>$
-    102 ^@katılım<n><dci><adj>$
     102 ^@işyer<n>$
     102 ^@ihtimal<n>$
     102 ^@al<n>$
@@ -724,7 +461,6 @@ BOR PROBABLY BORA
      98 ^@yapım<n>$
      98 ^@viya<n>$
      98 ^@tüfek<n>$
-     98 ^@spor<n><dci><adj>$
      98 ^@sıkıntı<n>$
      98 ^@kemal<n>$
      98 ^@ele<v><dma><n>$
@@ -740,7 +476,6 @@ BOR PROBABLY BORA
      97 ^@devri<n>$
      97 ^@avantaj<n>$
      96 ^@tümgeneral<n>$
-     96 ^@protesto<n><dci><n>$
      96 ^@kaydet<v><dma><n>$
      96 ^@faktör<n>$
      96 ^@bilim<n><dsal><adj>$
@@ -752,9 +487,7 @@ BOR PROBABLY BORA
      94 ^@gen<n><dci><n>$
      94 ^@edin<v><dma><n>$
      94 ^@batı<n>$
-     94 ^@arnavut<n><dlik><n>$
      94 ^@anlayış<n>$
-     93 ^@imza<n><dla><v><partacak>$
      92 ^@yurtdışı<n><ki>$
      92 ^@yerleşim<n>$
      92 ^@nüfuz<n>$
@@ -764,18 +497,12 @@ BOR PROBABLY BORA
      91 ^@sübvansiyon<n>$
      91 ^@söylem<n>$
      91 ^@salgı<n>$
-     91 ^@gazete<n><dci><adj><dlik><n>$
      90 ^@tutuk<n><dla><v><cv>$
-     90 ^@onay<n><dla><v><cv>$
-     90 ^@imza<n><dla><v><tpast>$
      89 ^@stadyum<n>$
-     89 ^@onay<n><dla><v><tpast>$.
      89 ^@düzen<n><dla><v><vnmak>$
-     88 ^@vize<n><dnnsiz><adj>$
      88 ^@tablo<n>$
      88 ^@restorasyon<n>$
      88 ^@herk<n>$
-     88 ^@demokratik<n><dlas><v><dma><n>$
      87 ^@tuz<n>$
      87 ^@plastik<n>$
      87 ^@hangi<n>$
@@ -787,9 +514,7 @@ BOR PROBABLY BORA
      86 ^@kaçın<v><dma><n>$
      86 ^@atmosfer<n>$
      85 ^@sponsor<n><dlik><n>$
-     85 ^@imza<n><dlan><v><partacak>$
      85 ^@hep<n>$
-     85 ^@etki<n><dlan><v><partyan>$
      85 ^@bitim<n>$
      85 ^@bar<n>$
      85 ^@amiral<n>$
@@ -808,16 +533,13 @@ BOR PROBABLY BORA
      82 ^@sok<v><dma><n>$
      82 ^@panorama<n>$
      82 ^@öngörü<n>$
-     82 ^@onay<n><dlan><v><partdik>$
      82 ^@numara<n>$
      82 ^@martin<n>$
      82 ^@görü<n>$
      81 ^@tutuk<n><dla><v><partdik>$
-     81 ^@çift<n><dci><n>$
      80 ^@tenis<n>$
      80 ^@kulis<n>$
      80 ^@cemil<n>$
-     80 ^@büyük<adj><dlik><n>$
      80 ^@batı<n><ki>$
      79 ^@tüket<v><dvnyici><adj><djn0><n>$
      79 ^@senatör<n>$
@@ -827,7 +549,6 @@ BOR PROBABLY BORA
      79 ^@dolay<n><dli><adj>$
      79 ^@ağırlık<n>$
      78 ^@yeralt<n>$
-     78 ^@sonra<n><ki>$
      78 ^@güdüm<n><dli><adj>$
      78 ^@göç<v><dma><n>$
      78 ^@bot<n>$
@@ -838,37 +559,27 @@ BOR PROBABLY BORA
      77 ^@meşale<n>$
      77 ^@kompleks<n>$
      77 ^@izolasyon<n>$
-     77 ^@imza<n><dla><v><vnmak>$
-     77 ^@etki<n><dla><v><partacak>$
      77 ^@denetim<n><dli><adj>$
-     77 ^@büyük<adj><dlik><n><ki>$
      76 ^@zorunluluk<n>$
      76 ^@kokain<n>$
-     76 ^@kanıt<n><dla><v><dma><n>$
      76 ^@işveren<n>$
      76 ^@düşün<n><dca><n>$
      76 ^@ambargo<n>$
      75 ^@şok<n>$
      75 ^@reklam<n>$
-     75 ^@imza<n><dla><v><partyan>$
      75 ^@haftason<n>$
-     75 ^@etki<n><dla><v><dma><n>$
      75 ^@düşün<v><dma><n>$
      75 ^@devret<v><dma><n>$
      75 ^@çekiş<v><dma><n>$
      75 ^@aziz<n>$
      74 ^@düzine<n>$
      74 ^@atölye<n>$
-     74 ^@araştırma<n>$
      73 ^@savunu<n><dci><n>$
      73 ^@saldırgan<adj><djn0><n>$
      73 ^@kit<n>$
-     73 ^@araştırma<n><dci><adj>$
-     72 ^@onay<n><dla><v><partacak>$
      72 ^@kamera<n>$
      72 ^@dijital<n>$
      72 ^@başsavcı<n><dlik><n>$
-     72 ^@arnavut<n><dca><adj>$
      72 ^@alım<n>$
      71 ^@vazgeç<v><dma><n>$
      71 ^@patrik<n>$
@@ -877,14 +588,11 @@ BOR PROBABLY BORA
      71 ^@har<n><dca><n>$
      70 ^@takip<n>$
      70 ^@kenar<n>$
-     70 ^@etki<n><dla><v><neg><partacak>$
-     70 ^@diğer<adj><djn0><n><cplsa>$
      70 ^@dağıt<v><dma><n>$
      70 ^@boşluk<n>$
      70 ^@bağım<n><dli><adj><dlik><n>$
      69 ^@kuşat<v><dma><n>$
      69 ^@kararname<n>$
-     69 ^@iyi<adj><djn0><n>$
      69 ^@ar<n>$
      68 ^@veteriner<n><dlik><n>$
      68 ^@tabur<n>$
@@ -894,7 +602,6 @@ BOR PROBABLY BORA
      68 ^@bak<v><dma><n>$
      68 ^@atlet<n>$
      68 ^@akaryakıt<n>$
-     67 ^@sekreter<n><dlik><n>$
      67 ^@rezerv<n>$
      67 ^@pop<n>$
      67 ^@kir<n><dli><adj><dlik><n>$
@@ -910,7 +617,6 @@ BOR PROBABLY BORA
      65 ^@tanıt<n>$
      65 ^@kurs<n>$
      65 ^@komşu<adj><dlik><n>$
-     65 ^@imza<n><dla><v><cv>$
      65 ^@gerilla<n>$
      65 ^@değiş<v><dma><n>$
      65 ^@davran<v><dma><n>$
@@ -965,7 +671,6 @@ BOR PROBABLY BORA
      60 ^@elveriş<n><dli><adj>$
      60 ^@ani<n>$
      59 ^@terminal<n>$
-     59 ^@sistem<n><ki>$
      59 ^@şato<n>$
      59 ^@revizyon<n>$
      59 ^@pozitif<n>$
@@ -975,9 +680,7 @@ BOR PROBABLY BORA
      59 ^@kavuş<v><dma><n>$
      59 ^@içeri<n>$
      59 ^@güvenilir<n><dlik><n>$
-     59 ^@etki<n><dla><v><partyan>$
      59 ^@dene<v><dma><n>$
-     59 ^@çek<n><cpldi>$.
      59 ^@bek<n><dla><v><neg><partdik>$
      58 ^@turne<n>$
      58 ^@politik<n>$
@@ -997,7 +700,6 @@ BOR PROBABLY BORA
      56 ^@ortaçağ<n>$
      56 ^@muammer<n>$
      56 ^@materyal<n>$
-     56 ^@etki<n><dnnsiz><adj>$
      56 ^@çizi<n>$
      56 ^@akademisyen<n>$
      55 ^@yenilikçi<n>$
@@ -1007,7 +709,6 @@ BOR PROBABLY BORA
      55 ^@taşı<v><dma><n>$
      55 ^@spekülasyon<n>$
      55 ^@kuğu<n>$
-     55 ^@kanıt<n><dla><v><partdik>$
      55 ^@bek<n><dlan><v><tcont><cpldi>$.
      55 ^@atıl<n>$
      54 ^@tahsilat<n>$
@@ -1015,7 +716,6 @@ BOR PROBABLY BORA
      54 ^@sponsor<n>$
      54 ^@kraliyet<n>$
      54 ^@hazar<n>$
-     54 ^@geçmiş<n><ki>$
      54 ^@bek<n><dla><v><vnmak>$
      54 ^@basketbol<n>$
      53 ^@yaklaş<v><dma><n>$
@@ -1025,30 +725,23 @@ BOR PROBABLY BORA
      53 ^@organizatör<n>$
      53 ^@haç<n>$
      53 ^@götür<v><dma><n>$
-     53 ^@etki<n><dla><v><abil><partacak>$
      53 ^@çağır<v><dma><n>$
      52 ^@uyuşturucu<adj><djn0><n>$
      52 ^@tartış<n><cpldi>$.
-     52 ^@silah<n><dnnsiz><adj><dlan><v><dma><n>$
      52 ^@santra<n><dli><adj>$
      52 ^@sağla<v><dvnyici><adj><djn0><n>$
-     52 ^@onay<n><dla><v><tpast>$
      52 ^@çıktı<n>$.
-     51 ^@zor<adj><djn0><n>$.
      51 ^@paskalya<n>$
      51 ^@kümes<n>$
-     51 ^@kabine<n><ki>$
      51 ^@isaf<n>$
      51 ^@iniş<n>$
      51 ^@gardiyan<n>$
      51 ^@enkaz<n>$
      51 ^@düğü<n>$
-     51 ^@denet<n><dci><n>$
      51 ^@ama<n><dca><adj>$
      51 ^@akrep<n>$
      50 ^@saf<adj><djn0><n>$
      50 ^@prensip<n>$
-     50 ^@onay<n><dla><v><partyan>$
      50 ^@kefalet<n>$
      50 ^@ilkokul<n>$
      50 ^@ciddiyet<n>$
@@ -1056,8 +749,6 @@ BOR PROBABLY BORA
      50 ^@ayin<n>$
      50 ^@açıklama<n>$
      49 ^@zayıf<adj><dlik><n>$
-     49 ^@uygu<n><dla><v><partacak>$
-     49 ^@uygu<n><dlan><v><vnyis>$
      49 ^@tanım<n><dlan><v><dma><n>$
      49 ^@oluş<v><dma><n>$
      49 ^@kafe<n>$
@@ -1075,17 +766,13 @@ BOR PROBABLY BORA
      48 ^@karı<n>$
      48 ^@enformasyon<n>$
      48 ^@diploma<n>$
-     48 ^@bütün<adj><djn0><n>$
      48 ^@beraber<n><ki>$
      47 ^@yeter<adj><djn0><n>$
      47 ^@yayınev<n>$
      47 ^@tokyo<n>$
-     47 ^@saygı<n><dnnsiz><adj><dlik><n>$
      47 ^@metal<n>$
      47 ^@kir<n>$
      47 ^@jimnastik<n>$
-     47 ^@imza<n><dla><v><partacak>$.
-     47 ^@imza<n><dlan><v><partdik>$
      47 ^@endüstri<n>$
      47 ^@bek<n><dlan><v><taor><cplken>$
      47 ^@başpiskopos<n>$
@@ -1094,14 +781,12 @@ BOR PROBABLY BORA
      46 ^@sükunet<n>$
      46 ^@sindir<v><dma><n>$
      46 ^@metro<n>$
-     46 ^@koalisyon<n><ki>$
      46 ^@jandarma<n>$
      46 ^@fraksiyon<n>$
      46 ^@form<n>$
      46 ^@elebaş<n>$
      46 ^@bozul<v><dma><n>$
      46 ^@bide<n>$
-     46 ^@balkan<n><ki>$
      45 ^@yüz<v><dma><n>$
      45 ^@voleybol<n>$
      45 ^@veritaban<n>$
@@ -1112,11 +797,9 @@ BOR PROBABLY BORA
      45 ^@ladin<n>$
      45 ^@kuzeydoğu<n><ki>$
      45 ^@kut<n><dla><v><tpast>$.
-     45 ^@kur<n><cpldi>$.
      45 ^@kömür<n>$
      45 ^@karasu<n>$
      45 ^@hır<n><dnnsiz><adj><dlik><n>$
-     45 ^@hazırlık<n><dli><adj>$
      45 ^@gider<v><dma><n>$
      45 ^@esnek<adj><dlik><n>$
      45 ^@eleştirmen<n>$
@@ -1133,13 +816,10 @@ BOR PROBABLY BORA
      44 ^@kurtul<v><dma><n>$
      44 ^@kemik<n>$
      44 ^@ılım<n><dli><adj>$
-     44 ^@gündem<n><ki>$
-     44 ^@denet<n><dla><v><vnmak>$
      44 ^@cephane<n>$
      44 ^@bombardıman<n>$
      44 ^@başbuğ<n>$
      44 ^@barikat<n>$
-     43 ^@yanıt<n><dla><v><partyan>$
      43 ^@tanım<n>$
      43 ^@tak<v><dma><n>$
      43 ^@tahvil<n>$
@@ -1171,15 +851,12 @@ BOR PROBABLY BORA
      41 ^@tanım<n><dla><v><partyan>$
      41 ^@rahat<adj><djn0><n><dnnsiz><adj>$
      41 ^@profesyonel<adj><dlik><n>$
-     41 ^@onay<n><dlan><v><vnmak>$
      41 ^@öl<v><dma><n>$
      41 ^@norm<n>$
      41 ^@konuşlan<v><dma><n>$
      41 ^@kına<v><dma><n>$
-     41 ^@girişim<n><dci><n>$
      41 ^@buz<n>$
      41 ^@aynı<adj><djn0><n>$
-     40 ^@yüksek<adj><dlik><n>$
      40 ^@uzak<adj><dlas><v><dma><n>$
      40 ^@tutuk<n><dlan><v><partacak>$
      40 ^@türk<np><dlik><n>$
@@ -1211,23 +888,18 @@ BOR PROBABLY BORA
      39 ^@imalat<n>$
      39 ^@hoşnut<n><dnnsiz><adj><dlik><n>$
      39 ^@hentbol<n>$
-     39 ^@etki<n><dla><v><partdik>$
      39 ^@emekli<n>$
-     39 ^@ek<adj><dlan><v><dma><n>$
      39 ^@dayan<v><dma><n>$
      39 ^@beyanat<n>$
      38 ^@yeterince<n>$
      38 ^@yargıtay<n>$
      38 ^@yarbay<n>$
-     38 ^@uygu<n><dlan><v><partdik>$
      38 ^@tünel<n>$
      38 ^@transit<n>$
      38 ^@tartış<n><cpldi>$
      38 ^@taktik<n>$
      38 ^@si<n><dci><n><dli><n>$
      38 ^@liberal<n>$
-     38 ^@köy<n><ki>$
-     38 ^@köy<n><dli><n>$
      38 ^@kaos<n>$
      38 ^@hektar<n><dlik><n>$
      38 ^@entegre<n>$
@@ -1258,18 +930,15 @@ BOR PROBABLY BORA
      36 ^@sonsuz<n>$
      36 ^@sempozyum<n>$
      36 ^@sahtekar<n><dlik><n>$
-     36 ^@onay<n><dla><v><vnmak>$
      36 ^@malt<n>$
      36 ^@kut<n><dsal><adj>$
      36 ^@federe<n>$
-     36 ^@etki<n><dla><v><dvnyici><adj>$
      36 ^@enfeksiyon<n>$
      36 ^@düzen<n><dla><v><dvnyici><adj>$
      36 ^@düzen<n><dlan><v><partdik>$
      36 ^@duyur<v><dma><n>$
      36 ^@doğru<adj><dla><v><dma><n>$
      36 ^@çifte<n>$
-     36 ^@bomba<n><dlan><v><dma><n>$
      36 ^@besi<n>$
      36 ^@bandıra<n><dli><adj>$
      36 ^@bakım<n>$
@@ -1280,17 +949,13 @@ BOR PROBABLY BORA
      35 ^@kanalizasyon<n>$
      35 ^@iye<n><dlik><n>$
      35 ^@hediye<n>$
-     35 ^@ekonomi<n><ki>$
      35 ^@durgun<adj><dlik><n>$
      35 ^@doğ<v><dma><n>$
-     35 ^@çift<n><dci><adj>$
-     35 ^@büyük<adj><djn0><n>$
      35 ^@birşey<n>$
      35 ^@başvur<v><dma><n>$
      35 ^@acem<n>$
      34 ^@yeti<n>$
      34 ^@teşebbüs<n>$
-     34 ^@sağlık<n><dli><adj>$
      34 ^@rotasyon<n>$
      34 ^@önyargı<n>$
      34 ^@nüfuz<n><dli><adj>$
@@ -1324,9 +989,7 @@ BOR PROBABLY BORA
      32 ^@seçki<n>$
      32 ^@psikolojik<n>$
      32 ^@pozisyon<n>$
-     32 ^@para<n><dsal><adj>$
      32 ^@morina<n>$
-     32 ^@memnun<n><dlik><n>$
      32 ^@ley<n>$
      32 ^@kaset<n>$
      32 ^@it<n>$
@@ -1340,7 +1003,6 @@ BOR PROBABLY BORA
      31 ^@sürül<v><dma><n>$
      31 ^@saki<n>$
      31 ^@pusula<n>$
-     31 ^@protesto<n><dci><adj>$
      31 ^@karantina<n>$
      31 ^@kalpazan<adj><dlik><n>$
      31 ^@kalk<v><dma><n>$
@@ -1352,7 +1014,6 @@ BOR PROBABLY BORA
      31 ^@bek<n><dla><v><partacak>$
      31 ^@araştırmacı<n>$
      30 ^@yüzbaşı<n>$
-     30 ^@yakın<adj><dlas><v><dma><n>$
      30 ^@tutuk<n><dlan><v><tpast>$.
      30 ^@tröst<n>$
      30 ^@tekrar<n>$
@@ -1365,12 +1026,10 @@ BOR PROBABLY BORA
      30 ^@kuzeydoğu<n>$
      30 ^@kazanç<n><dli><adj>$
      30 ^@kamu<n>$
-     30 ^@imza<n><dlan><v><partacak>$.
      30 ^@ifa<n>$
      30 ^@güneybatı<n><ki>$
      30 ^@gen<n>$
      30 ^@eğitmen<n>$
-     30 ^@denet<n><dla><v><partacak>$
      30 ^@çözüm<n><dlan><v><dma><n>$
      30 ^@bela<n>$
      30 ^@ataşe<n>$
@@ -1381,34 +1040,27 @@ BOR PROBABLY BORA
      29 ^@teori<n>$
      29 ^@sokul<v><dma><n>$
      29 ^@sık<v><dma><n>$
-     29 ^@piyasa<n><ki>$
      29 ^@pas<n>$
      29 ^@nota<n>$
      29 ^@mesut<n>$
      29 ^@marka<n>$
      29 ^@kut<n><dla><v><partyan>$
-     29 ^@kur<n><cpldi>$
      29 ^@komando<n>$
-     29 ^@kayıp<n>$.
-     29 ^@kanıt<n><dla><v><vnmak>$
      29 ^@gen<n><dci><adj>$
      29 ^@erte<n><dlan><v><abil><partacak>$
      29 ^@efsanevi<n>$
      29 ^@editör<n>$
      29 ^@düzen<n><dnnsiz><adj><dlik><n>$
      29 ^@çiz<v><dma><n>$
-     29 ^@bomba<n><dci><n>$
      29 ^@bek<n><dlan><v><tcont>$
      29 ^@ayrıcalık<n>$
      29 ^@aktar<v><dma><n>$
-     28 ^@yer<n><dlas><v><caus><pass><partyan>$
      28 ^@üretken<adj><dlik><n>$
      28 ^@tutuklu<n>$
      28 ^@tutar<n><dli><adj>$
      28 ^@ton<n><dlik><n>$
      28 ^@termoelektrik<n>$
      28 ^@sürücü<n>$
-     28 ^@sistem<n><dli><adj>$
      28 ^@sak<n><dlan><v><dma><n>$
      28 ^@partizan<n>$
      28 ^@niş<n>$
@@ -1427,11 +1079,9 @@ BOR PROBABLY BORA
      28 ^@bayındır<n><dlik><n>$
      28 ^@başar<v><dma><n>$
      28 ^@banknot<n>$
-     28 ^@avro<n>$.
      28 ^@aksak<n><dlik><n>$
      27 ^@yönetmen<n>$
      27 ^@yelpaze<n>$
-     27 ^@yakın<adj><dlik><n>$
      27 ^@vali<n><dlik><n>$
      27 ^@trans<n>$
      27 ^@tem<n>$
@@ -1445,10 +1095,8 @@ BOR PROBABLY BORA
      27 ^@konak<n><dla><v><dma><n>$
      27 ^@kere<n>$
      27 ^@inisiyatif<n>$
-     27 ^@etki<n><dlan><v><partdik>$
      27 ^@etik<n>$
      27 ^@eleştirel<n>$
-     27 ^@ek<adj><dla><v><dma><n>$
      27 ^@durul<v><dma><n>$
      27 ^@durağan<n>$
      27 ^@bot<n><cplsa>$
@@ -1458,7 +1106,6 @@ BOR PROBABLY BORA
      27 ^@anarşist<n>$
      27 ^@alıkoy<v><dma><n>$
      26 ^@yeter<adj><dli><adj><dlik><n>$
-     26 ^@yer<n><dlas><v><caus><cv>$
      26 ^@üret<v><dma><n>$
      26 ^@uğru<n>$
      26 ^@trajik<n>$
@@ -1481,7 +1128,6 @@ BOR PROBABLY BORA
      26 ^@hammadde<n>$
      26 ^@gurbet<n><dci><n>$
      26 ^@firkateyn<n>$
-     26 ^@eski<adj><djn0><n>$
      26 ^@eşgüdüm<n><dli><adj>$
      26 ^@erkan<n>$
      26 ^@eğil<v><dma><n>$
@@ -1494,7 +1140,6 @@ BOR PROBABLY BORA
      25 ^@yasa<v><dma><n>$
      25 ^@yarışmacı<n>$
      25 ^@villa<n>$
-     25 ^@uygu<n><dlan><v><partacak>$.
      25 ^@sürat<n>$
      25 ^@semptom<n>$
      25 ^@rast<n><dlan><v><partdik>$
@@ -1505,7 +1150,6 @@ BOR PROBABLY BORA
      25 ^@klasman<n>$
      25 ^@kızgın<adj><dlik><n>$
      25 ^@kilogram<n>$
-     25 ^@kanıt<n><dla><v><partacak>$
      25 ^@kablo<n>$
      25 ^@kabil<n>$
      25 ^@ihtiyati<n>$
@@ -1516,8 +1160,6 @@ BOR PROBABLY BORA
      25 ^@faz<n><dla><v><cv>$
      25 ^@evlilik<n>$
      25 ^@erte<n><dlan><v><partyan>$
-     25 ^@düşük<n>$.
-     25 ^@direktör<n><dlik><n>$
      25 ^@ciro<n>$
      25 ^@çevre<n><dsal><adj>$
      25 ^@celal<n>$
@@ -1533,10 +1175,8 @@ BOR PROBABLY BORA
      24 ^@sansür<n>$
      24 ^@san<n><dcak><n>$
      24 ^@örtbas<n>$
-     24 ^@onay<n><dlan><v><partacak>$
      24 ^@katedral<n>$
      24 ^@gökyüz<n>$
-     24 ^@girişim<n><dci><adj><dlik><n>$
      24 ^@fildiş<n>$
      24 ^@filarmoni<n>$
      24 ^@erte<n><dla><v><partdik>$
@@ -1562,7 +1202,6 @@ BOR PROBABLY BORA
      23 ^@koru<n><dci><n>$
      23 ^@kopya<n>$
      23 ^@kardinal<n>$
-     23 ^@kanıt<n><dla><v><partyan>$
      23 ^@global<n>$
      23 ^@geç<n><cpldi>$.
      23 ^@dram<n>$
@@ -1573,16 +1212,12 @@ BOR PROBABLY BORA
      23 ^@bek<n><dla><v><abil><partacak>$
      23 ^@alındı<n>$.
      22 ^@yurtiçi<adj><djn0><n>$
-     22 ^@yer<n><dlas><v><caus><pass><cv>$
-     22 ^@yakı<n><ki>$
-     22 ^@uygu<n><dlan><v><neg><partdik>$
      22 ^@topar<n><dlan><v><dma><n>$
      22 ^@süpermarket<n>$
      22 ^@şek<n><dli><adj>$
      22 ^@olağandış<n>$
      22 ^@metre<n><dlik><n>$
      22 ^@kuzen<n>$
-     22 ^@kişi<n><ca>$
      22 ^@kay<v><dma><n>$
      22 ^@kategori<n><ki>$
      22 ^@havuz<n>$
@@ -1592,28 +1227,23 @@ BOR PROBABLY BORA
      22 ^@dizüstü<n>$
      22 ^@dezavantaj<n>$
      22 ^@departman<n>$
-     22 ^@denet<n><dlan><v><dma><n>$
      22 ^@çizim<n>$
      22 ^@çingene<n>$
      22 ^@çekiş<v><dma><n><dli><adj>$
      22 ^@boksör<n>$
      22 ^@binbaşı<n>$
      22 ^@bek<n><dlan><v><neg><cv>$.
-     22 ^@bakanlık<n><ki>$
      22 ^@argüman<n>$
      22 ^@alüminyum<n>$
      22 ^@ala<n><dcak><n><dli><n>$
      21 ^@yılbaş<n>$
-     21 ^@yer<n><dnnsiz><adj>$
      21 ^@vur<v><dma><n>$
      21 ^@vesile<n>$
      21 ^@vasıta<n>$
-     21 ^@uygu<n><dla><v><cv>$
      21 ^@tanım<n><dlan><v><partdik>$
      21 ^@tabur<n><dci><adj>$
      21 ^@stil<n>$
      21 ^@sonraki<adj><djn0><n>$
-     21 ^@silah<n><dlan><v><dma><n>$
      21 ^@sertifika<n>$
      21 ^@motivasyon<n>$
      21 ^@moratoryum<n>$
@@ -1625,21 +1255,15 @@ BOR PROBABLY BORA
      21 ^@kitle<n>$
      21 ^@kısıt<n><dla><v><partyan>$
      21 ^@keyfi<n>$
-     21 ^@iyi<adj><dlik><n>$
      21 ^@gör<v><rec><dma><n><ki>$
-     21 ^@geri<n><dli><n>$
      21 ^@fazilet<n>$
      21 ^@emel<n>$
      21 ^@çığ<n>$
      21 ^@çatlak<n>$
-     21 ^@çağrı<n>$ 
      21 ^@bloke<n>$
      21 ^@batık<n>$
-     21 ^@başlangıç<n><ki>$
      21 ^@arıt<v><dma><n>$
      21 ^@ağrı<n>$
-     20 ^@yer<n><dlas><v><dma><n>$
-     20 ^@yaş<n><dli><n>$
      20 ^@yankı<n>$
      20 ^@vole<n>$
      20 ^@sık<n><dca><adj>$
@@ -1652,7 +1276,6 @@ BOR PROBABLY BORA
      20 ^@pencere<n>$
      20 ^@penaltı<n>$
      20 ^@özet<n>$
-     20 ^@net<n><dlik><n>$
      20 ^@monarşi<n>$
      20 ^@met<n>$
      20 ^@mesai<n>$
@@ -1670,10 +1293,8 @@ BOR PROBABLY BORA
      20 ^@görsel<n>$
      20 ^@flori<n>$
      20 ^@evre<n>$
-     20 ^@etki<n><dla><v><neg><cv>$
      20 ^@erte<n><dlan><v><partacak>$
      20 ^@en<n>$
-     20 ^@elektrik<n><dnnsiz><adj>$
      20 ^@do<n><dli><n>$
      20 ^@cins<n>$
      20 ^@çevre<n><dci><n>$
@@ -1687,7 +1308,6 @@ BOR PROBABLY BORA
      20 ^@alış<n>$
      20 ^@aktivite<n>$
      19 ^@yolcu<n>$
-     19 ^@yer<n><ki>$
      19 ^@tutuk<n><dla><v><tpast>$
      19 ^@tramvay<n>$
      19 ^@tenor<n>$
@@ -1706,10 +1326,7 @@ BOR PROBABLY BORA
      19 ^@mantık<n>$
      19 ^@kokteyl<n>$
      19 ^@jimnastik<n><dci><adj>$
-     19 ^@imza<n><dlan><v><tpast>$.
-     19 ^@ihtilaf<n><ki>$
      19 ^@hane<n>$
-     19 ^@güvence<n>$
      19 ^@gözönü<n>$
      19 ^@giz<n><dli><adj><dca><adj>$
      19 ^@gasp<n>$
@@ -1734,26 +1351,19 @@ BOR PROBABLY BORA
      18 ^@yürü<v><dma><n>$
      18 ^@yorgun<adj><dlik><n>$
      18 ^@yönetmen<n><dlik><n>$
-     18 ^@yer<n><dlas><v><caus><vnmak>$
      18 ^@yansı<v><dma><n>$
-     18 ^@uygu<n><dla><v><partyan>$
-     18 ^@uygu<n><dla><v><dma><n><ki>$
-     18 ^@uygu<n><dla><v><dma><n><dli><adj>$
      18 ^@ültimatom<n>$
      18 ^@tiran<n>$
      18 ^@soruştur<v><dma><n><dci><n>$
      18 ^@si<n><dcil><n>$
-     18 ^@silah<n><dnnsiz><adj><dlan><v><caus><pass><cv>$
      18 ^@sığınmacı<n>$
      18 ^@sera<n>$
      18 ^@saldır<v><dma><n>$
      18 ^@rüya<n>$
      18 ^@roketatar<n>$
      18 ^@rast<n><dlan><v><partyan>$
-     18 ^@program<n><dli><adj>$
      18 ^@paten<n>$
      18 ^@önceki<adj><djn0><n>$
-     18 ^@onay<n><dlan><v><cv>$
      18 ^@mor<adj><djn0><n>$
      18 ^@montaj<n>$
      18 ^@mod<n>$
@@ -1767,13 +1377,10 @@ BOR PROBABLY BORA
      18 ^@golf<n>$
      18 ^@fünye<n>$
      18 ^@finalist<n>$
-     18 ^@etki<n><dlan><v><partacak>$
      18 ^@duyar<n><dli><adj>$
      18 ^@düş<n>$
      18 ^@donanım<n><dli><adj>$
      18 ^@donanım<n>$
-     18 ^@dahil<n>$.
-     18 ^@çek<n><cpldi>$
      18 ^@çat<n>$
      18 ^@bilimadam<n>$
      18 ^@baz<n><dli><adj>$
@@ -1781,26 +1388,20 @@ BOR PROBABLY BORA
      18 ^@arka<n><ki>$
      18 ^@antrenman<n>$
      17 ^@uzaklık<n>$
-     17 ^@uygu<n><dla><v><neg><partdik>$
-     17 ^@uygu<n><dlan><v><abil><partacak>$
      17 ^@uydu<n>$
      17 ^@uranyum<n>$
      17 ^@tüccar<n>$
      17 ^@tırman<v><dma><n>$
      17 ^@sondaj<n>$
      17 ^@si<n><dcil><adj>$
-     17 ^@silah<n><dnnsiz><adj>$
      17 ^@profil<n>$
      17 ^@piramit<n>$
      17 ^@pano<n>$
-     17 ^@operasyon<n><ki>$
      17 ^@om<n>$
      17 ^@menzil<n><dli><adj>$
      17 ^@kut<n><dlan><v><partyan>$
      17 ^@konuşmacı<n>$
-     17 ^@komuta<n><ki>$
      17 ^@komedi<n>$
-     17 ^@katliam<n><ki>$
      17 ^@kampüs<n>$
      17 ^@kalifiye<n>$
      17 ^@kadem<n>$
@@ -1811,14 +1412,12 @@ BOR PROBABLY BORA
      17 ^@giz<n><dli><adj><dlik><n>$
      17 ^@geç<n><cpldi>$
      17 ^@favori<n>$
-     17 ^@elektrik<n><dli><adj>$
      17 ^@döngü<n>$
      17 ^@çöplük<n>$
      17 ^@cezire<n>$
      17 ^@ayrıcalık<n><dli><adj>$
      17 ^@astronomi<n>$
      17 ^@ast<n>$
-     17 ^@anlaşmazlık<n><ki>$
      17 ^@animasyon<n>$
      17 ^@aksilik<n>$
      17 ^@ahşap<n>$
@@ -1832,7 +1431,6 @@ BOR PROBABLY BORA
      16 ^@vade<n><ki>$
      16 ^@uzaklık<n><ki>$
      16 ^@uçaksavar<n>$
-     16 ^@tasar<n><dlan><v><partyan>$
      16 ^@sunuş<n>$
      16 ^@staj<n>$
      16 ^@şov<n>$
@@ -1849,7 +1447,6 @@ BOR PROBABLY BORA
      16 ^@market<n>$
      16 ^@kötü<adj><dlas><v><dma><n>$
      16 ^@kombi<n>$
-     16 ^@kapasite<n><dli><adj>$
      16 ^@kalan<n>$
      16 ^@kahraman<n>$
      16 ^@kabir<n>$
@@ -1862,9 +1459,7 @@ BOR PROBABLY BORA
      16 ^@endüstriyel<n>$
      16 ^@ehliyet<n>$
      16 ^@düzel<v><dma><n>$
-     16 ^@düşük<n><dlik><n>$
      16 ^@doğru<adj><dlik><n>$
-     16 ^@dış<adj><dlan><v><dma><n>$
      16 ^@çoğal<v><dma><n>$
      16 ^@çıktı<n>$
      16 ^@çal<n>$
@@ -1874,7 +1469,6 @@ BOR PROBABLY BORA
      16 ^@avantaj<n><dli><adj>$
      16 ^@atış<v><dma><n>$
      16 ^@asbest<n>$
-     16 ^@araştırma<n><dci><n>$
      16 ^@akut<n>$
      16 ^@akropol<n>$
      16 ^@ağa<n><dci><n>$
@@ -1882,7 +1476,6 @@ BOR PROBABLY BORA
      15 ^@yayım<n><dla><v><partdik>$
      15 ^@versiyon<n>$
      15 ^@uza<v><dma><n>$
-     15 ^@uygu<n><dlan><v><abil><cv>$
      15 ^@tuzak<n>$
      15 ^@ters<n>$
      15 ^@tekvando<n>$
@@ -1899,7 +1492,6 @@ BOR PROBABLY BORA
      15 ^@porto<n>$
      15 ^@popülarite<n>$
      15 ^@pena<n>$
-     15 ^@onay<n><dla><v><neg><cv>$
      15 ^@nosyon<n>$
      15 ^@mehdi<n>$
      15 ^@mahsur<n>$
@@ -1917,9 +1509,7 @@ BOR PROBABLY BORA
      15 ^@güneybatı<n>$
      15 ^@görünüş<n>$
      15 ^@gömü<n><dli><adj>$
-     15 ^@girişim<n><dci><adj>$
      15 ^@getir<v><dma><n><ki>$
-     15 ^@geri<n><dla><v><dma><n>$
      15 ^@gerek<v><dma><n>$
      15 ^@fonksiyon<n>$
      15 ^@düzen<n><dla><v><tcont>$.
@@ -1937,14 +1527,9 @@ BOR PROBABLY BORA
      15 ^@algı<n><dla><v><dma><n>$
      15 ^@ala<n>$
      15 ^@aksa<v><dma><n>$
-     14 ^@zor<adj><dla><v><dma><n>$
      14 ^@zengin<adj><djn0><n>$
-     14 ^@yüksek<adj><dlik><n><ki>$
-     14 ^@yüksek<adj><djn0><n>$
      14 ^@yetiş<v><dma><n>$
-     14 ^@yer<n><dlas><v><caus><pass><partdik>$
      14 ^@vagon<n>$
-     14 ^@uygu<n><dlan><v><dma><n><ki>$
      14 ^@tur<n><ki>$
      14 ^@traktör<n>$
      14 ^@tenis<n><dci><n>$
@@ -1965,9 +1550,7 @@ BOR PROBABLY BORA
      14 ^@paralel<n><dlik><n>$
      14 ^@paraf<n><dlan><v><dma><n>$
      14 ^@orantı<n><dli><adj>$
-     14 ^@ora<n><ki>$
      14 ^@olimpik<n>$
-     14 ^@neden<n><dli><adj>$
      14 ^@mozaik<n>$
      14 ^@motosiklet<n>$
      14 ^@mevki<n><ki>$
@@ -1990,7 +1573,6 @@ BOR PROBABLY BORA
      14 ^@jeneratör<n>$
      14 ^@ithalat<n><dci><n>$
      14 ^@ışın<n>$
-     14 ^@imza<n><dli><adj>$
      14 ^@hoşnut<n><dnnsiz><adj>$
      14 ^@hasut<n>$
      14 ^@güven<v><dma><n>$
@@ -1998,16 +1580,13 @@ BOR PROBABLY BORA
      14 ^@gözetle<v><dma><n>$
      14 ^@gez<v><dma><n>$
      14 ^@genetik<n>$
-     14 ^@film<n><ki>$
      14 ^@ezel<n>$
-     14 ^@etki<n><dla><v><cv>$
      14 ^@düzen<n><dla><v><abil><partacak>$
      14 ^@dinamo<n>$
      14 ^@derin<adj><dlik><n>$
      14 ^@demografik<n>$
      14 ^@camia<n>$
      14 ^@çalık<n>$
-     14 ^@blok<n><ki>$
      14 ^@biyoloji<n>$
      14 ^@basamak<n>$
      14 ^@art<n><dci><adj>$
@@ -2015,9 +1594,7 @@ BOR PROBABLY BORA
      14 ^@aktar<n>$
      14 ^@abece<n>$
      13 ^@zede<n><dla><v><abil><partacak>$
-     13 ^@yaş<n><cpldi>$.
      13 ^@uyar<v><dma><n>$
-     13 ^@üniversite<n><ki>$
      13 ^@üniforma<n><dli><adj>$
      13 ^@tiryaki<adj><djn0><n>$
      13 ^@tilki<n>$
@@ -2027,7 +1604,6 @@ BOR PROBABLY BORA
      13 ^@tereyağ<n>$
      13 ^@tere<n>$
      13 ^@tekrar<n><dla><v><partyan>$
-     13 ^@teknoloji<n><dli><adj>$
      13 ^@teker<n>$
      13 ^@tanım<n><dla><v><vnmak>$
      13 ^@tanım<n><dla><v><partdik>$
@@ -2058,8 +1634,6 @@ BOR PROBABLY BORA
      13 ^@hukuken<n>$
      13 ^@hint<n>$
      13 ^@hayvanat<n>$
-     13 ^@havaalan<n><ki>$
-     13 ^@hasar<n><dli><adj>$
      13 ^@halihazır<n>$
      13 ^@haddehane<n>$
      13 ^@görünür<n>$
@@ -2067,7 +1641,6 @@ BOR PROBABLY BORA
      13 ^@gecelik<n>$
      13 ^@fresk<n>$
      13 ^@frekans<n>$
-     13 ^@etki<n><dlan><v><neg><partacak>$
      13 ^@esas<n>$
      13 ^@eder<n>$.
      13 ^@düş<n><cpldi>$.
@@ -2077,9 +1650,6 @@ BOR PROBABLY BORA
      13 ^@do<n><dlas><v><partyan>$
      13 ^@do<n><dlas><v><partdik>$
      13 ^@diken<n><dli><adj>$
-     13 ^@denet<n><dla><v><partyan>$
-     13 ^@denet<n><dla><v><partacak>$.
-     13 ^@çıkarma<n>$
      13 ^@çığır<n>$
      13 ^@çevri<n><dli><adj>$
      13 ^@cemal<n>$
@@ -2092,9 +1662,7 @@ BOR PROBABLY BORA
      13 ^@antrenör<n>$
      13 ^@agresif<n>$
      13 ^@ağırlık<n><dli><adj>$
-     12 ^@zor<adj><dlan><v><dma><n>$
      12 ^@yinele<v><dma><n>$
-     12 ^@yer<n><dlas><v><caus><partdik>$
      12 ^@yahudi<adj><djn0><n>$
      12 ^@veteriner<n>$
      12 ^@vaşak<n>$
@@ -2127,9 +1695,6 @@ BOR PROBABLY BORA
      12 ^@pragmatik<n>$
      12 ^@postane<n>$
      12 ^@patrik<n><dlik><n>$
-     12 ^@onay<n><dla><v><partacak>$.
-     12 ^@onay<n><dla><v><neg><partdik>$
-     12 ^@onay<n><dlan><v><partacak>$.
      12 ^@nominal<n>$
      12 ^@nöbet<n>$
      12 ^@mut<n><dli><n>$
@@ -2139,26 +1704,20 @@ BOR PROBABLY BORA
      12 ^@kut<n><dla><v><cv>$
      12 ^@kopar<v><dma><n>$
      12 ^@konsantre<n>$
-     12 ^@komuta<n><cpldi>$.
      12 ^@klas<n>$
      12 ^@kitabev<n>$
      12 ^@kısıt<n><dla><v><partacak>$
-     12 ^@kişi<n><cplsa>$
      12 ^@kısa<n><dca><adj>$
      12 ^@kir<n><dlan><v><dma><n>$
      12 ^@islam<np><dci><n>$
      12 ^@inan<n><dci><adj>$
-     12 ^@imza<n><dla><v><tnarr><cpldi>$.
-     12 ^@imza<n><dlan><v><abil><partacak>$
      12 ^@ikilem<n>$
      12 ^@gezegen<n>$
-     12 ^@geri<n><dla><v><cv>$
      12 ^@gelişigüzel<n>$
      12 ^@futbol<n><dci><n>$
      12 ^@fotoğraf<n><dci><adj><dlik><n>$
      12 ^@fotoğraf<n><dci><adj>$
      12 ^@evsahip<n><dlik><n>$
-     12 ^@etki<n><dla><v><partacak>$.
      12 ^@etkileşim<n>$
      12 ^@es<n>$
      12 ^@duma<n>$
@@ -2176,7 +1735,6 @@ BOR PROBABLY BORA
      12 ^@bariyer<n>$
      12 ^@balay<n>$
      12 ^@ayrım<n><dci><adj>$
-     12 ^@avukat<n><dlik><n>$
      12 ^@asimetrik<n>$
      12 ^@arma<n>$
      12 ^@antidemokratik<n>$
@@ -2201,33 +1759,23 @@ BOR PROBABLY BORA
      11 ^@şantiye<n>$
      11 ^@şansölye<n>$
      11 ^@ruhban<n>$
-     11 ^@rapor<n><ki>$
      11 ^@rafting<n>$
      11 ^@palmiye<n>$
-     11 ^@onay<n><dlan><v><neg><partdik>$
      11 ^@ona<v><dma><n>$
      11 ^@öl<n><cpldi>$
      11 ^@oku<v><dvnyici><adj><djn0><n>$
      11 ^@normal<adj><dlas><v><dma><n>$
      11 ^@nitelendir<v><dma><n>$
-     11 ^@memnun<n>$.
      11 ^@koş<v><dma><n>$
      11 ^@koru<v><dma><n><ki>$
-     11 ^@komiser<n><dlik><n>$
      11 ^@klip<n>$
      11 ^@kıyas<n><dlan><v><partdik>$
      11 ^@kimi<adv><dan0><n>$
-     11 ^@kayıt<n><dnnsiz><adj><dlik><n>$
      11 ^@karmaşık<n><dlik><n>$
      11 ^@karanlık<n>$
      11 ^@karaborsa<n>$
-     11 ^@kanıt<n><dla><v><abil><neg><partdik>$
-     11 ^@kanıt<n><dlan><v><dma><n>$
      11 ^@kal<n><cpldi>$
      11 ^@kafeterya<n>$
-     11 ^@ısrar<n><dli><adj>$
-     11 ^@imza<n><dla><v><neg><partacak>$
-     11 ^@imza<n><dlan><v><cv>$
      11 ^@hint<n><dli><n>$
      11 ^@hafif<adj><djn0><n>$
      11 ^@göğüs<n><dla><v><dma><n>$
@@ -2235,7 +1783,6 @@ BOR PROBABLY BORA
      11 ^@gitarist<n>$
      11 ^@fotoğraf<n><dci><n>$
      11 ^@evrak<n>$
-     11 ^@etki<n><dla><v><vnmak>$
      11 ^@erte<n><dla><v><tpast>$.
      11 ^@eri<v><dma><n>$
      11 ^@enerjik<n>$
@@ -2243,7 +1790,6 @@ BOR PROBABLY BORA
      11 ^@eğ<v><dma><n>$
      11 ^@disko<n>$
      11 ^@disk<n>$
-     11 ^@dış<adj><dla><v><dma><n>$
      11 ^@dalaş<n>$
      11 ^@çözüm<n><dnnsiz><adj><dlik><n>$
      11 ^@cip<n>$
@@ -2272,17 +1818,11 @@ BOR PROBABLY BORA
      10 ^@yoğun<adj><dlik><n><dli><adj>$
      10 ^@yayım<n><dla><v><cv>$
      10 ^@yapım<n><dci><adj>$
-     10 ^@yanıt<n><dla><v><vnmak>$
-     10 ^@vatandaş<n>$.
      10 ^@uzak<adj><djn0><n><ki>$
-     10 ^@uygu<n><dla><v><neg><partacak>$
-     10 ^@uygu<n><dla><v><abil><partacak>$
-     10 ^@uygu<n><dlan><v><neg><cv>$
      10 ^@ucuz<adj><djn0><n>$
      10 ^@tük<n>$
      10 ^@tüken<v><dma><n>$
      10 ^@tıka<v><dma><n>$
-     10 ^@tesis<n><ki>$
      10 ^@teknisyen<n>$
      10 ^@tayip<n>$
      10 ^@tasarım<n><dci><adj>$
@@ -2298,15 +1838,12 @@ BOR PROBABLY BORA
      10 ^@poster<n>$
      10 ^@portföy<n>$
      10 ^@pornografi<n>$
-     10 ^@para<n><dnnsiz><adj>$
      10 ^@oto<n>$
      10 ^@organik<n>$
      10 ^@önyargı<n><dli><adj>$
-     10 ^@onay<n><dli><adj>$
      10 ^@onar<v><dma><n>$
      10 ^@ölü<n>$
      10 ^@ödenek<n>$
-     10 ^@nokta<n><ki>$
      10 ^@neolitik<n>$
      10 ^@mutasyon<n>$
      10 ^@müfrez<n>$
@@ -2316,12 +1853,10 @@ BOR PROBABLY BORA
      10 ^@makroekonomi<n>$
      10 ^@kut<n><dla><v><partdik>$
      10 ^@kut<n><dlan><v><partacak>$
-     10 ^@kur<n><ki>$
      10 ^@körük<n><dla><v><vnmak>$
      10 ^@kördüğüm<n>$
      10 ^@köpekbalık<n>$
      10 ^@kısıt<n><dlan><v><dma><n>$
-     10 ^@kişi<n>$.
      10 ^@kesin<n><dlas><v><caus><cv>$
      10 ^@karış<n>$
      10 ^@kardiyolog<n>$
@@ -2339,7 +1874,6 @@ BOR PROBABLY BORA
      10 ^@gitar<n>$
      10 ^@gereç<n>$
      10 ^@genelev<n>$
-     10 ^@gazete<n><ki>$
      10 ^@gangster<n>$
      10 ^@folk<n>$
      10 ^@fizik<n>$
@@ -2370,15 +1904,10 @@ BOR PROBABLY BORA
      10 ^@aleyhtar<n>$
      10 ^@adapte<n>$
       9 ^@yılık<n>$
-      9 ^@yer<n><dlas><v><partyan>$
-      9 ^@yer<n><dlas><v><caus><pass><partacak>$.
-      9 ^@yarı<n><ki>$
       9 ^@yarat<v><dvnyici><adj><dlik><n>$
       9 ^@yaratı<n><dci><n>$
       9 ^@yap<v><dma><n><ki>$
-      9 ^@yanıt<n><dla><v><dma><n>$
       9 ^@uz<n><dlas><v><caus><cv>$
-      9 ^@uygu<n><dla><v><partacak>$.
       9 ^@tüzel<n>$
       9 ^@tutuk<n><dla><v><partacak>$
       9 ^@tutuk<n><dlan><v><vnmak>$
@@ -2386,7 +1915,6 @@ BOR PROBABLY BORA
       9 ^@ton<n><ca>$
       9 ^@teskere<n>$
       9 ^@tazyik<n><dli><adj>$
-      9 ^@tasar<n><dla><v><partdik>$
       9 ^@tasarım<n>$
       9 ^@spot<n>$
       9 ^@sor<v><dma><n>$
@@ -2397,30 +1925,23 @@ BOR PROBABLY BORA
       9 ^@şalgam<n>$
       9 ^@saçmalık<n>$
       9 ^@sabotaj<n>$
-      9 ^@roman<n><dci><adj>$
       9 ^@psikolog<n>$
       9 ^@patrikhane<n>$
       9 ^@panama<n>$
       9 ^@oyluk<n>$
       9 ^@ördek<n>$
-      9 ^@onay<n><dla><v><neg><partacak>$
-      9 ^@onay<n><cplken>$
       9 ^@oligarşi<n>$
       9 ^@obje<n>$
-      9 ^@net<n><dlas><v><dma><n>$
-      9 ^@neden<n><dnnsiz><adj>$
       9 ^@nanoteknoloji<n>$
       9 ^@müteakip<n>$
       9 ^@muhbir<adj><dlik><n>$
       9 ^@mudi<n>$
-      9 ^@misyon<n><ki>$
       9 ^@mevki<n><dli><adj>$
       9 ^@meşe<n>$
       9 ^@mesel<n>$.
       9 ^@menkul<n>$
       9 ^@menajer<n>$
       9 ^@memorandum<n>$
-      9 ^@mayın<n><dli><adj>$
       9 ^@mavi<adj><djn0><n>$
       9 ^@manşet<n>$
       9 ^@manipülasyon<n>$
@@ -2433,14 +1954,11 @@ BOR PROBABLY BORA
       9 ^@koru<v><dma><n><dli><adj>$
       9 ^@körük<n><dla><v><partdik>$
       9 ^@körük<n><dla><v><dma><n>$
-      9 ^@kongre<n><ki>$
       9 ^@kok<n>$
       9 ^@kıtlık<n>$
       9 ^@kilovat<n>$
       9 ^@kilometrekare<n>$
-      9 ^@kes<n><ki>$
       9 ^@kazazede<n>$
-      9 ^@kayıt<n><dnnsiz><adj>$
       9 ^@karne<n>$
       9 ^@kapıkule<n>$
       9 ^@kalaşnikof<n>$
@@ -2448,12 +1966,10 @@ BOR PROBABLY BORA
       9 ^@islam<np><dci><adj><dlik><n>$
       9 ^@imparator<n><dlik><n>$
       9 ^@ilköğretim<n>$
-      9 ^@ihtilaf<n><dli><adj>$
       9 ^@iddianame<n><ki>$
       9 ^@hüsran<n>$
       9 ^@hediye<n><dlik><n>$
       9 ^@hane<n><dli><adj>$
-      9 ^@grev<n><dci><n>$
       9 ^@gözyaş<n>$
       9 ^@görün<v><dma><n>$
       9 ^@gol<n><dnnsiz><adj>$
@@ -2466,7 +1982,6 @@ BOR PROBABLY BORA
       9 ^@fizik<n><dci><adj>$
       9 ^@fenomen<n>$
       9 ^@evlat<n><dlik><n>$
-      9 ^@etki<n><dlan><v><abil><partacak>$
       9 ^@etap<n>$
       9 ^@esirge<v><dma><n>$
       9 ^@erte<n><dlan><v><vnmak>$
@@ -2483,15 +1998,12 @@ BOR PROBABLY BORA
       9 ^@düello<n>$
       9 ^@do<n>$.
       9 ^@dizel<n>$
-      9 ^@denet<n><dci><adj>$
       9 ^@dekan<n>$
       9 ^@çözüm<n><dla><v><dma><n>$
       9 ^@çikolata<n>$
       9 ^@cadı<n>$
-      9 ^@bütün<adj><djn0><n><dsal><adj>$
       9 ^@bulvar<n>$
       9 ^@bozuk<n><dlik><n>$
-      9 ^@bölüm<n><ki>$
       9 ^@birikim<n>$
       9 ^@birçok<n>$
       9 ^@binlik<n>$
@@ -2519,12 +2031,8 @@ BOR PROBABLY BORA
       8 ^@yazlık<n>$
       8 ^@yaygın<adj><dlas><v><dma><n>$
       8 ^@yat<v><dma><n>$
-      8 ^@yaş<n>$.
-      8 ^@yaş<adj><dlan><v><dma><n>$
       8 ^@video<n><dli><adj>$
       8 ^@vandal<n><dlik><n>$
-      8 ^@uygu<n><dlan><v><vnmak>$
-      8 ^@uygu<n><dlan><v><cv>$
       8 ^@unut<v><dma><n>$
       8 ^@ulaş<v><dma><n><ki>$
       8 ^@tutuk<n><dlan><v><tpast>$
@@ -2552,14 +2060,12 @@ BOR PROBABLY BORA
       8 ^@reçete<n>$
       8 ^@pus<n>$
       8 ^@prömiyer<n>$
-      8 ^@program<n><ki>$
       8 ^@patojen<n>$
       8 ^@partner<n>$
       8 ^@paraşüt<n>$
       8 ^@özgeçmiş<n>$
       8 ^@org<n>$
       8 ^@objektif<n>$
-      8 ^@net<n><dlas><v><caus><cv>$
       8 ^@nakliye<n>$
       8 ^@müzayede<n>$
       8 ^@moleküler<n>$
@@ -2578,8 +2084,6 @@ BOR PROBABLY BORA
       8 ^@kop<v><dma><n>$
       8 ^@konuksever<n><dlik><n>$
       8 ^@kocael<n>$
-      8 ^@kes<n><cplsa>$
-      8 ^@kes<n>$.
       8 ^@kesinti<n><dnnsiz><adj>$
       8 ^@kesin<n><dlas><v><tpast>$.
       8 ^@keçi<n>$
@@ -2589,21 +2093,14 @@ BOR PROBABLY BORA
       8 ^@karizmatik<n>$
       8 ^@kalhane<n>$
       8 ^@kafata<n>$
-      8 ^@kabul<n><dlan><v><dma><n>$
       8 ^@ıs<n>$
-      8 ^@imza<n><dla><v><tnarr>$
-      8 ^@ihale<n><ki>$
       8 ^@içinde<n>$.
-      8 ^@hazırlık<n><dnnsiz><adj>$
       8 ^@harir<n>$
       8 ^@görü<n><dci><n>$
       8 ^@giz<n><dla><v><partdik>$
       8 ^@gen<n><dca><adj>$
       8 ^@geç<n><cplmis>$
       8 ^@figür<n>$
-      8 ^@fabrika<n><ki>$
-      8 ^@euro<n>$.
-      8 ^@etki<n><dlan><v><tpast>$.
       8 ^@eskort<n>$
       8 ^@erte<n><dla><v><abil><partacak>$
       8 ^@erte<n><dlan><v><neg><cv>$
@@ -2616,12 +2113,9 @@ BOR PROBABLY BORA
       8 ^@derin<adj><dlas><v><dma><n>$
       8 ^@cur<n><dca><adj>$
       8 ^@çözüm<n><dlan><v><partdik>$
-      8 ^@çift<n><dci><adj><dlik><n>$
       8 ^@çevirmen<n>$
       8 ^@çarşı<n>$
       8 ^@çakıl<v><dma><n>$
-      8 ^@bomba<n><dla><v><tpast>$.
-      8 ^@bomba<n><dla><v><partdik>$
       8 ^@bölücü<n>$
       8 ^@blokaj<n>$
       8 ^@bırakı<n>$
@@ -2651,15 +2145,9 @@ BOR PROBABLY BORA
       7 ^@zede<n><dla><v><vnmak>$
       7 ^@yıkım<n>$
       7 ^@yetmezlik<n>$
-      7 ^@yer<n><dlas><v><caus><pass><partacak>$
-      7 ^@yanıt<n><dnnsiz><adj>$
       7 ^@yanılsama<n>$
       7 ^@virtüöz<n>$
-      7 ^@uygu<n><dla><v><tmakta>$
-      7 ^@uygu<n><dla><v><neg><cv>$
-      7 ^@uygu<n><dla><v><dvnyici><adj>$
       7 ^@uyarla<v><dma><n>$
-      7 ^@ürün<n>$.
       7 ^@uçur<v><dma><n>$
       7 ^@tutuk<n><dla><v><abil><neg><partdik>$
       7 ^@tutar<n><dli><adj><dlik><n>$
@@ -2676,7 +2164,6 @@ BOR PROBABLY BORA
       7 ^@tak<v><ref><dma><n>$
       7 ^@stres<n>$
       7 ^@ster<n><dli><n>$
-      7 ^@standart<n><dlas><v><caus><cv>$
       7 ^@sosis<n>$
       7 ^@sorum<n><dnnsiz><adj><dlik><n>$
       7 ^@sof<n>$
@@ -2684,14 +2171,11 @@ BOR PROBABLY BORA
       7 ^@sismik<n>$
       7 ^@sempatizan<n>$
       7 ^@şehitlik<n>$
-      7 ^@şef<n><dlik><n>$
       7 ^@say<n><cpldi>$.
       7 ^@savaşçı<n>$
-      7 ^@satış<n><ki>$
       7 ^@sak<n><dla><v><partdik>$
       7 ^@rop<n>$
       7 ^@ring<n>$
-      7 ^@rapor<n><dla><v><dma><n>$
       7 ^@ralli<n>$
       7 ^@plaket<n>$
       7 ^@pitoresk<n>$
@@ -2700,7 +2184,6 @@ BOR PROBABLY BORA
       7 ^@paradigma<n>$
       7 ^@özveri<n>$
       7 ^@orantı<n><dnnsiz><adj>$
-      7 ^@olimpiyat<n><ki>$
       7 ^@okur<n>$
       7 ^@müteşekkir<n>$
       7 ^@müdahil<n>$
@@ -2719,7 +2202,6 @@ BOR PROBABLY BORA
       7 ^@kom<n>$
       7 ^@kızılhaç<n>$
       7 ^@kıymet<n>$
-      7 ^@kişi<n><cpldi>$.
       7 ^@kırılgan<adj><dlik><n>$
       7 ^@kırık<adj><djn0><n>$
       7 ^@kil<n>$
@@ -2734,13 +2216,10 @@ BOR PROBABLY BORA
       7 ^@ita<n>$
       7 ^@iskele<n>$
       7 ^@ipuç<n>$
-      7 ^@imza<n><dla><v><abil><partacak>$
-      7 ^@imza<n><cplken>$
       7 ^@ikon<n>$
       7 ^@ikona<n>$
       7 ^@ikincil<n>$
       7 ^@ihtimal<n>$.
-      7 ^@iç<n>$.
       7 ^@hububat<n>$
       7 ^@hortla<v><dma><n>$
       7 ^@hınç<n>$
@@ -2759,8 +2238,6 @@ BOR PROBABLY BORA
       7 ^@fosfor<n>$
       7 ^@firari<n>$
       7 ^@filozof<n>$
-      7 ^@federal<n><dlas><v><dma><n>$
-      7 ^@etki<n><dla><v><neg><partdik>$
       7 ^@erte<n><dla><v><tpast>$
       7 ^@element<n>$
       7 ^@edinim<n>$
@@ -2775,12 +2252,10 @@ BOR PROBABLY BORA
       7 ^@diyanet<n>$
       7 ^@dinamizm<n>$
       7 ^@deterjan<n>$
-      7 ^@dav<n><cpldi>$.
       7 ^@cunta<n>$
       7 ^@çöz<v><dma><n><ki>$
       7 ^@coşku<n><dli><adj>$
       7 ^@çığlık<n>$
-      7 ^@büyükelçi<n><dlik><n><ki>$
       7 ^@bürokrat<n>$
       7 ^@bozgun<n>$
       7 ^@borda<n><dla><v><dma><n>$
@@ -2792,11 +2267,9 @@ BOR PROBABLY BORA
       7 ^@bazı<adj><djn0><n><cplsa>$
       7 ^@bayi<n>$
       7 ^@battaniye<n>$
-      7 ^@baskı<n><dci><adj>$
       7 ^@barut<n>$
       7 ^@bağım<n><dnnsiz><adv><dan0><n>$
       7 ^@aziz<n><dlik><n>$
-      7 ^@aşırı<n><dlik><n><dci><adj><dlik><n>$
       7 ^@aşağı<n><dla><v><dvnyici><adj>$
       7 ^@ardışık<n>$
       7 ^@alg<n>$
@@ -2804,7 +2277,6 @@ BOR PROBABLY BORA
       7 ^@alaşağı<n>$
       7 ^@ala<n><dcak><n><dli><adj>$
       7 ^@abartı<n><dli><adj>$
-      6 ^@zor<adj><djn0><n><cpldi>$
       6 ^@zeytinyağ<n>$
       6 ^@zede<n><dlan><v><dma><n>$
       6 ^@zamanki<adj><djn0><n>$
@@ -2812,14 +2284,9 @@ BOR PROBABLY BORA
       6 ^@yoz<n><dlas><v><cv>$
       6 ^@yönel<v><dma><n>$
       6 ^@yavuz<n>$
-      6 ^@yaş<n><cplken>$
       6 ^@yap<v><dma><n><dli><n>$
       6 ^@vokalist<n>$
       6 ^@vatansever<n><dlik><n>$
-      6 ^@uygu<n><dla><v><tcont>$.
-      6 ^@uygu<n><dla><v><neg><vnmak>$
-      6 ^@uygu<n><dlan><v><neg><partacak>$.
-      6 ^@uygu<n><dlan><v><neg><partacak>$
       6 ^@uğur<n><dla><v><dma><n>$
       6 ^@uğur<n>$
       6 ^@tutuk<n><dla><v><partyan>$
@@ -2829,11 +2296,9 @@ BOR PROBABLY BORA
       6 ^@tutuk<n><cplken>$
       6 ^@tuğ<n><dlik><n>$
       6 ^@tonaj<n>$
-      6 ^@terörist<n><ca>$
       6 ^@terkibi<n>$
       6 ^@tercüman<n>$
       6 ^@tema<n><dli><adj>$
-      6 ^@televizyon<n><ki>$
       6 ^@tekrar<n><dla><v><vnmak>$
       6 ^@tekrar<n><dlan><v><neg><partacak>$
       6 ^@taşkın<adj><dlik><n>$
@@ -2851,8 +2316,6 @@ BOR PROBABLY BORA
       6 ^@soğu<v><dma><n>$
       6 ^@sismoloji<n>$
       6 ^@sirk<n>$
-      6 ^@silah<n><dnnsiz><adj><dlan><v><caus><cv>$
-      6 ^@silah<n><dlan><v><caus><vnmak>$
       6 ^@sık<n>$
       6 ^@şarapnel<n>$
       6 ^@salata<n>$
@@ -2872,19 +2335,13 @@ BOR PROBABLY BORA
       6 ^@rakibe<n>$
       6 ^@pür<n>$
       6 ^@protein<n>$
-      6 ^@prosedür<n><ki>$
       6 ^@prodüktör<n>$
       6 ^@popülizm<n>$
       6 ^@paskal<n>$
       6 ^@paravan<n>$
-      6 ^@para<n><dli><adj>$
       6 ^@ortalık<n>$
-      6 ^@ora<n>$.
-      6 ^@onay<n><dlan><v><abil><cv>$
       6 ^@noter<n>$
-      6 ^@nokta<n><dla><v><tpast>$.
       6 ^@noksan<adj><dlik><n>$
-      6 ^@net<n><dlas><v><caus><vnmak>$
       6 ^@müsteşar<adj><dlik><n>$
       6 ^@müşerref<n>$
       6 ^@müsamaha<n>$
@@ -2916,11 +2373,8 @@ BOR PROBABLY BORA
       6 ^@kayır<v><dma><n>$
       6 ^@katrilyon<n>$
       6 ^@katıl<v><dma><n><ki>$
-      6 ^@katılım<n><ki>$
       6 ^@kartel<n>$
       6 ^@karakteristik<n>$
-      6 ^@kanıt<n><dlan><v><partdik>$
-      6 ^@kanıt<n>$.
       6 ^@kana<v><dma><n>$
       6 ^@kamuoy<n><ki>$
       6 ^@kamu<n><dsal><adj>$
@@ -2933,12 +2387,9 @@ BOR PROBABLY BORA
       6 ^@jeodinamik<n>$
       6 ^@jambon<n>$
       6 ^@itidal<n>$
-      6 ^@ısrar<n><dli><adj>$.
       6 ^@iska<n>$
       6 ^@ırak<n>$
       6 ^@insaniyet<n>$
-      6 ^@imza<n><dla><v><neg><partyan>$
-      6 ^@imza<n><dla><v><neg><cv>$
       6 ^@ilk<n><cpldi>$.
       6 ^@içten<n><dlik><n>$
       6 ^@hıristiyan<n><dlik><n>$
@@ -2956,11 +2407,8 @@ BOR PROBABLY BORA
       6 ^@forma<n>$
       6 ^@fırla<v><dma><n>$
       6 ^@feshet<v><dma><n>$
-      6 ^@federasyon<n><ki>$
       6 ^@etüt<n>$
-      6 ^@etki<n><dlan><v><neg><cv>$
       6 ^@esna<n>$
-      6 ^@entegrasyon<n><ki>$
       6 ^@elebaşı<n><dlik><n>$
       6 ^@eczane<n>$
       6 ^@ecza<n><dci><adj><dlik><n>$
@@ -2973,7 +2421,6 @@ BOR PROBABLY BORA
       6 ^@deplasman<n>$
       6 ^@denk<n>$
       6 ^@denizaşırı<n>$
-      6 ^@denet<n><dlan><v><partyan>$
       6 ^@demografi<n>$
       6 ^@def<n>$
       6 ^@defin<n>$
@@ -2983,7 +2430,6 @@ BOR PROBABLY BORA
       6 ^@cirit<n>$
       6 ^@çiğne<v><dma><n>$
       6 ^@büfe<n>$
-      6 ^@bor<n><dca><adj>$
       6 ^@bol<adj><djn0><n>$
       6 ^@bilge<adj><dlik><n>$
       6 ^@bildirim<n><dli><adj>$
@@ -3000,7 +2446,6 @@ BOR PROBABLY BORA
       6 ^@başyargıcı<n>$
       6 ^@basamak<n><dli><adj>$
       6 ^@baron<n>$
-      6 ^@balkan<n><dli><adj>$
       6 ^@azar<n><dla><v><tpast>$
       6 ^@avlu<n>$
       6 ^@atlat<v><dma><n>$
@@ -3020,18 +2465,13 @@ BOR PROBABLY BORA
       5 ^@yüküm<n><dli><adj>$.
       5 ^@yok<n><cplsa>$
       5 ^@yılki<adj><djn0><n>$
-      5 ^@yer<n><dlas><v><caus><partyan>$
-      5 ^@yer<n><ca>$
       5 ^@yarıyıl<n>$
       5 ^@yapım<n><dci><adj><dlik><n>$
-      5 ^@yanıt<n><dla><v><partdik>$
       5 ^@yanılgı<n>$
       5 ^@voyvoda<n>$
       5 ^@vatansever<n>$
       5 ^@uz<n><dlas><v><caus><vnmak>$
       5 ^@uzlaşı<n>$
-      5 ^@uygu<n><dla><v><vnmak><ki>$
-      5 ^@uygu<n><dlan><v><abil><neg><partacak>$
       5 ^@uyan<v><dma><n>$
       5 ^@unsur<n>$.
       5 ^@ulema<n>$
@@ -3041,7 +2481,6 @@ BOR PROBABLY BORA
       5 ^@tutuk<n><dla><v><tnarr><cpldi>$.
       5 ^@tutuk<n><dla><v><neg><partdik>$
       5 ^@tutuk<n><dlan><v><abil><neg><cv>$
-      5 ^@turizm<n><ki>$
       5 ^@tümamiral<n>$
       5 ^@tuğ<n>$
       5 ^@telekonferans<n>$
@@ -3049,7 +2488,6 @@ BOR PROBABLY BORA
       5 ^@tekrar<n><dlan><v><neg><cv>$
       5 ^@tav<n>$
       5 ^@taşımacı<n><dlik><n><ki>$
-      5 ^@tasar<n><dla><v><dma><n>$
       5 ^@tartış<v><dma><n><dnnsiz><adj>$
       5 ^@tanım<n><dla><v><tpast>$.
       5 ^@tanım<n><dla><v><partacak>$
@@ -3057,7 +2495,6 @@ BOR PROBABLY BORA
       5 ^@sürü<v><dma><n>$
       5 ^@sunu<n><dci><n>$
       5 ^@süit<n>$
-      5 ^@statü<n><ki>$
       5 ^@stajyer<n>$
       5 ^@spesiyal<n>$
       5 ^@söylen<v><dma><n>$
@@ -3065,29 +2502,24 @@ BOR PROBABLY BORA
       5 ^@sosyoloji<n>$
       5 ^@sosyolojik<n>$
       5 ^@sorum<n><dli><adj><dlik><n>$.
-      5 ^@sonbahar<n><ki>$
       5 ^@soğut<v><dma><n>$
       5 ^@soba<n>$
       5 ^@sıyrık<n>$
-      5 ^@site<n>$)
       5 ^@sertifika<n><dnnsiz><adj>$
       5 ^@sertifika<n><dlan><v><caus><cv>$
       5 ^@seramik<n>$
       5 ^@şemsi<n>$
       5 ^@semih<n>$
       5 ^@sela<n>$
-      5 ^@seçi<n><cplsa>$
       5 ^@sebebiyet<n>$
       5 ^@saygın<n><dlik><n>$
       5 ^@santrfor<n>$
-      5 ^@sanık<n><cplsa>$
       5 ^@şampiyona<n><ki>$
       5 ^@sak<n><dlan><v><cv>$
       5 ^@sadak<n>$
       5 ^@robotik<n>$
       5 ^@ritim<n>$
       5 ^@rey<n>$
-      5 ^@referandum<n><ki>$
       5 ^@protestan<n>$
       5 ^@prodüksiyon<n>$
       5 ^@pratisyen<n>$
@@ -3106,13 +2538,7 @@ BOR PROBABLY BORA
       5 ^@ortaöğretim<n>$
       5 ^@orkinos<n>$
       5 ^@öngör<v><dma><n>$
-      5 ^@öneri<n><ki>$
-      5 ^@öneri<n><cpldi>$.
       5 ^@önek<n>$
-      5 ^@onay<n><dla><v><tnarr><cpldi>$.
-      5 ^@onay<n><dla><v><neg><vnmak>$
-      5 ^@nokta<n><dli><adj>$
-      5 ^@nokta<n>$.
       5 ^@neft<n>$
       5 ^@necat<n>$
       5 ^@naif<n>$
@@ -3128,7 +2554,6 @@ BOR PROBABLY BORA
       5 ^@marj<n>$
       5 ^@manga<n>$
       5 ^@makinist<n>$
-      5 ^@maç<n><ki>$
       5 ^@lüfer<n>$
       5 ^@lösemi<n>$
       5 ^@logo<n>$
@@ -3138,7 +2563,6 @@ BOR PROBABLY BORA
       5 ^@kuru<v><dma><n>$
       5 ^@kup<n>$
       5 ^@kumanda<n>$
-      5 ^@kullanım<n><dli><adj>$
       5 ^@kuka<n>$
       5 ^@kubur<n>$
       5 ^@korumacı<n>$
@@ -3157,13 +2581,11 @@ BOR PROBABLY BORA
       5 ^@kesin<n><dlas><v><partdik>$
       5 ^@keşfet<v><dma><n>$
       5 ^@kese<n>$
-      5 ^@kendi<n><dlik><n>$
       5 ^@kelep<n><dca><adj><dli><adj>$
       5 ^@kazan<n><dci><n>$
       5 ^@kazan<n><dci><adj>$
       5 ^@katsayı<n>$
       5 ^@katlet<v><dma><n>$
-      5 ^@katılım<n><dli><adj>$
       5 ^@kategorik<n>$
       5 ^@kare<n>$
       5 ^@karavan<n>$
@@ -3180,18 +2602,13 @@ BOR PROBABLY BORA
       5 ^@iyiniyet<n>$
       5 ^@iyimser<adj><djn0><n>$
       5 ^@işit<v><dma><n>$
-      5 ^@imza<n><dla><v><neg><vnmak>$
-      5 ^@imza<n><dlan><v><neg><partacak>$
       5 ^@imparator<n>$
       5 ^@imge<n>$
       5 ^@ilinti<n><dli><adj>$
-      5 ^@iç<n><cpldi>$.
       5 ^@ibadethane<n>$
       5 ^@hokey<n>$
-      5 ^@hizmet<n><ki>$
       5 ^@hiç<n>$
       5 ^@hegemonya<n>$
-      5 ^@hazırlık<n><dli><n>$
       5 ^@haki<n><cpldi>$.
       5 ^@göze<n>$
       5 ^@gözalt<n><ki>$
@@ -3199,7 +2616,6 @@ BOR PROBABLY BORA
       5 ^@giyim<n>$
       5 ^@gevşe<v><dma><n>$
       5 ^@genişlik<n><ki>$
-      5 ^@general<n><dlik><n>$
       5 ^@gele<n><dli><adj>$
       5 ^@geç<n>$
       5 ^@geçim<n>$
@@ -3228,7 +2644,6 @@ BOR PROBABLY BORA
       5 ^@dişil<n>$
       5 ^@diren<v><dma><n>$
       5 ^@dilenci<n>$
-      5 ^@denet<n><dci><adj><dlik><n>$
       5 ^@denetim<n><ki>$
       5 ^@defans<n>$
       5 ^@dedektör<n>$
@@ -3244,7 +2659,6 @@ BOR PROBABLY BORA
       5 ^@bul<v><dma><n><ki>$
       5 ^@brezilya<n><dli><n>$
       5 ^@borsa<n><ki>$
-      5 ^@bölüm<n><dlik><n>$
       5 ^@boğaziçi<n>$
       5 ^@binek<n>$
       5 ^@bilirkişi<n>$
@@ -3263,14 +2677,11 @@ BOR PROBABLY BORA
       5 ^@barak<n>$
       5 ^@bakiye<n>$
       5 ^@bağışık<n><dlik><n>$
-      5 ^@avro<n><cplken>$
       5 ^@atina<np><dli><n>$
       5 ^@atalet<n>$
       5 ^@asimetri<n>$
       5 ^@aşağı<n><dlan><v><dma><n>$
       5 ^@arz<n><ki>$
-      5 ^@arnavut<n><dca><n>$
-      5 ^@aralık<n><dnnsiz><adj>$
       5 ^@anormal<n><dlik><n>$
       5 ^@andaç<n>$
       5 ^@amma<n>$
@@ -3283,13 +2694,9 @@ BOR PROBABLY BORA
       4 ^@yoz<n><dlas><v><dma><n>$
       4 ^@yönetsel<n>$
       4 ^@yönelim<n><dli><adj>$
-      4 ^@yer<n><dlas><v><cv>$
-      4 ^@yer<n><dlas><v><caus><tpast>$.
       4 ^@yerküre<n>$
       4 ^@yelpaze<n><ki>$
       4 ^@yayım<n><dci><n>$
-      4 ^@yatır<n><ki>$
-      4 ^@yasadış<n>$.
       4 ^@yarıçap<n><ki>$
       4 ^@yanaş<v><dma><n>$
       4 ^@yalnız<adj><dlik><n>$
@@ -3300,10 +2707,6 @@ BOR PROBABLY BORA
       4 ^@uz<n>$
       4 ^@uzan<v><dma><n>$
       4 ^@uygun<n><dnnsiz><adj><dlik><n>$
-      4 ^@uygu<n><dla><v><tcont>$
-      4 ^@uygu<n><dlan><v><vnyis><ki>$
-      4 ^@uygu<n><cplken>$
-      4 ^@uygu<n>$.
       4 ^@uydur<v><dma><n>$
       4 ^@üre<n>$
       4 ^@umu<n>$
@@ -3319,7 +2722,6 @@ BOR PROBABLY BORA
       4 ^@ters<adj><dlik><n>$
       4 ^@terminoloji<n>$
       4 ^@tekrar<n><dla><v><partdik>$
-      4 ^@teknoloji<n><ki>$
       4 ^@tekil<n>$
       4 ^@tay<n><cpldi>$.
       4 ^@taverna<n>$
@@ -3329,7 +2731,6 @@ BOR PROBABLY BORA
       4 ^@tanım<n><dla><v><dvnyici><adj>$
       4 ^@tanım<n><dlan><v><neg><partdik>$
       4 ^@tamam<adj><djn0><n><ki>$
-      4 ^@tam<adj><djn0><n>$
       4 ^@talimatname<n>$
       4 ^@tak<n><ki>$
       4 ^@tahrifat<n>$
@@ -3337,9 +2738,6 @@ BOR PROBABLY BORA
       4 ^@sunak<n>$
       4 ^@sülfür<n>$
       4 ^@suçsuz<n>$
-      4 ^@statü<n>$.
-      4 ^@standart<n><ki>$
-      4 ^@spor<n>$.
       4 ^@soy<v><dma><n>$
       4 ^@şövalye<n>$
       4 ^@sosyoekonomik<n>$
@@ -3357,7 +2755,6 @@ BOR PROBABLY BORA
       4 ^@sertlik<n>$
       4 ^@sema<n><ki>$
       4 ^@şehirlerarası<n>$
-      4 ^@seçi<n><dli><adj>$
       4 ^@savur<v><dma><n>$
       4 ^@sars<v><dma><n>$
       4 ^@şarjör<n>$
@@ -3370,7 +2767,6 @@ BOR PROBABLY BORA
       4 ^@sağlam<n><dlas><v><caus><pass><cv>$
       4 ^@sağlam<n><dlas><v><caus><partacak>$
       4 ^@saba<n>$
-      4 ^@röportaj<n><ki>$
       4 ^@roma<np><dli><n>$
       4 ^@resital<n>$
       4 ^@raunt<n>$
@@ -3392,8 +2788,6 @@ BOR PROBABLY BORA
       4 ^@pi<n>$
       4 ^@perva<n><dnnsiz><adj>$
       4 ^@patoloji<n>$
-      4 ^@pasaport<n><ki>$
-      4 ^@pasaport<n><dnnsiz><adj>$
       4 ^@parsel<n>$
       4 ^@parola<n>$
       4 ^@parite<n>$
@@ -3404,14 +2798,10 @@ BOR PROBABLY BORA
       4 ^@özet<n><dla><v><partyan>$
       4 ^@otobiyografi<n>$
       4 ^@org<n>$.
-      4 ^@öncelik<n><dla><v><taor>$
-      4 ^@onay<n><dlan><v><neg><cv>$
-      4 ^@onay<n><cplsa>$
       4 ^@olası<n>$.
       4 ^@öge<n>$
       4 ^@not<n><ki>$
       4 ^@nostalji<n>$
-      4 ^@nokta<n><cpldi>$.
       4 ^@nispi<n>$
       4 ^@nicel<n>$
       4 ^@nezdinde<n>$
@@ -3445,7 +2835,6 @@ BOR PROBABLY BORA
       4 ^@kut<n><dla><v><tcont>$.
       4 ^@kuşada<n>$
       4 ^@kuru<adj><dli><adj><djn0><n>$
-      4 ^@kur<n>$.
       4 ^@kucak<adj><dla><v><dma><n>$
       4 ^@krema<n>$
       4 ^@kov<v><dma><n>$
@@ -3470,13 +2859,10 @@ BOR PROBABLY BORA
       4 ^@kayna<v><dma><n>$
       4 ^@kayınvalide<n>$
       4 ^@kaydol<v><dma><n>$
-      4 ^@karşılık<n><dnnsiz><adj>$
       4 ^@kapıl<v><dma><n>$
       4 ^@kapat<v><dma><n><ki>$
       4 ^@kano<n><dci><adj>$
-      4 ^@kanıt<n><dlan><v><partyan>$
       4 ^@kamyon<n><dci><n>$
-      4 ^@kampanya<n><ki>$
       4 ^@kal<n><cplmis>$
       4 ^@kalın<adj><dlik><n>$
       4 ^@kadro<n><dli><adj>$
@@ -3486,17 +2872,11 @@ BOR PROBABLY BORA
       4 ^@jeoloji<n>$
       4 ^@ithalat<n><ki>$
       4 ^@iştigal<n>$
-      4 ^@ısrar<n><dci><adj>$
-      4 ^@işaret<n><dli><adj>$
-      4 ^@işaret<n>$.
       4 ^@ırmak<n>$
       4 ^@inan<n><dca><adj>$
-      4 ^@imza<n><dlan><v><tpast>$
-      4 ^@imza<n><dlan><v><abil><cv>$
       4 ^@ilerle<v><dma><n><ki>$
       4 ^@ilahi<n>$
       4 ^@ikametgah<n>$
-      4 ^@ihale<n><dnnsiz><adj>$
       4 ^@ibare<n>$
       4 ^@hiyerarşi<n>$
       4 ^@hidrokarbon<n>$
@@ -3507,7 +2887,6 @@ BOR PROBABLY BORA
       4 ^@haki<n>$.
       4 ^@hain<adj><djn0><n>$
       4 ^@güt<v><dma><n>$
-      4 ^@grev<n><dci><adj>$
       4 ^@gözlük<n>$
       4 ^@gözdağ<n>$
       4 ^@göster<v><dma><n><dli><n>$
@@ -3516,22 +2895,18 @@ BOR PROBABLY BORA
       4 ^@görü<n><cpldi>$.
       4 ^@görel<n>$
       4 ^@görece<n>$
-      4 ^@girişim<n><ki>$
       4 ^@gıpta<n>$
       4 ^@getiri<n>$
       4 ^@gedik<n>$
       4 ^@geçer<adj><dlik><n>$
       4 ^@geçer<adj><dli><adj><djn0><n><cpldi>$.
-      4 ^@gazete<n><ca>$
       4 ^@gama<n><dli><adj>$
       4 ^@futbolsever<n>$
       4 ^@füme<n>$
       4 ^@foto<n>$
       4 ^@flüt<n>$
-      4 ^@finansman<n><dli><adj>$
       4 ^@filoloji<n>$
       4 ^@fetih<n>$
-      4 ^@festival<n><ki>$
       4 ^@felaketzede<n>$
       4 ^@fedakar<adj><dlik><n>$
       4 ^@fay<n><dsal><adj>$
@@ -3541,8 +2916,6 @@ BOR PROBABLY BORA
       4 ^@faik<n>$
       4 ^@ez<v><dma><n>$
       4 ^@eziyet<n>$
-      4 ^@etki<n><dnnsiz><adj><dlik><n>$
-      4 ^@etki<n><dlan><v><partacak>$.
       4 ^@espri<n><dli><adj>$
       4 ^@esin<n><dlan><v><partyan>$
       4 ^@erte<n><dla><v><cv>$
@@ -3550,7 +2923,6 @@ BOR PROBABLY BORA
       4 ^@eriş<v><dma><n>$
       4 ^@erbaş<n>$
       4 ^@engebe<n><dli><adj>$
-      4 ^@enerji<n><dli><adj>$
       4 ^@emret<v><dma><n>$
       4 ^@elveriş<n><dnnsiz><adj>$
       4 ^@ehliyet<n><dnnsiz><adj><dlik><n>$
@@ -3562,7 +2934,6 @@ BOR PROBABLY BORA
       4 ^@düzen<n><dlan><v><tpast>$
       4 ^@düzenek<n>$
       4 ^@duy<n><ca>$
-      4 ^@duruşma<n><ki>$
       4 ^@düğün<n>$
       4 ^@düet<n>$
       4 ^@drama<n>$
@@ -3574,11 +2945,9 @@ BOR PROBABLY BORA
       4 ^@dijital<n><dlas><v><dma><n>$
       4 ^@destroyer<n>$
       4 ^@dest<n>$
-      4 ^@denet<n><dla><v><tpast>$.
       4 ^@denetle<v><dvnyici><adj><djn0><n>$
       4 ^@dar<adj><dlik><n>$
       4 ^@cumhur<n>$
-      4 ^@cumhurbaşkanlığı<n><ki>$
       4 ^@çözünürlük<n><dli><adj>$
       4 ^@çözüm<n><dlan><v><abil><partacak>$
       4 ^@çöz<n><cpldi>$
@@ -3596,10 +2965,6 @@ BOR PROBABLY BORA
       4 ^@büyükbaba<n>$
       4 ^@bubi<n>$
       4 ^@boz<n><cpldi>$.
-      4 ^@bor<n><dci><n><ki>$
-      4 ^@bomba<n><dlan><v><partyan>$
-      4 ^@bomba<n><dlan><v><partdik>$
-      4 ^@bomba<n><dci><adj>$
       4 ^@bölü<n><cplsa>$
       4 ^@bitkin<adj><dlik><n>$
       4 ^@birleşi<n>$
@@ -3624,7 +2989,6 @@ BOR PROBABLY BORA
       4 ^@baraka<n>$
       4 ^@bando<n>$
       4 ^@baki<n>$
-      4 ^@bakanlık<n><ca>$
       4 ^@bade<n>$
       4 ^@azlet<v><dma><n>$
       4 ^@azim<n><dli><adj>$
@@ -3637,7 +3001,6 @@ BOR PROBABLY BORA
       4 ^@asansör<n>$
       4 ^@artık<n>$
       4 ^@ar<n><dca><n>$
-      4 ^@arnavut<n>$.
       4 ^@armut<n>$
       4 ^@anonim<n>$
       4 ^@anlık<n>$
@@ -3664,15 +3027,11 @@ BOR PROBABLY BORA
       3 ^@yuvar<n><dlan><v><dma><n>$
       3 ^@yürü<v><dyis><n><dci><n>$
       3 ^@yurtsever<adj><dlik><n>$
-      3 ^@yüksek<adj><djn0><n><cplken>$
       3 ^@yönet<v><dvnyici><adj><djn0><n>$.
-      3 ^@yönelik<n><cpldi>$.
       3 ^@yok<n>$.
       3 ^@yıka<v><ref><dma><n>$
       3 ^@yetkin<n><dnnsiz><adj><dlik><n>$
       3 ^@yetke<n>$
-      3 ^@yer<n><dlas><v><partdik>$
-      3 ^@yer<n>$.
       3 ^@yerleşim<n><ki>$
       3 ^@yeniçeri<n>$
       3 ^@yeğ<n><dla><v><partacak>$
@@ -3680,13 +3039,8 @@ BOR PROBABLY BORA
       3 ^@yayım<n><dla><v><partyan>$
       3 ^@yayım<n><dla><v><dma><n>$
       3 ^@yatık<adj><djn0><n>$
-      3 ^@yaş<n><cpldi>$
       3 ^@yaşıt<n>$
       3 ^@yarış<v><dma><n><ki>$
-      3 ^@yanıt<n><dla><v><cv>$
-      3 ^@yanıt<n><dlan><v><partacak>$
-      3 ^@yanıt<n><dlan><v><dma><n>$
-      3 ^@yanıt<n><cplken>$
       3 ^@yakin<n>$
       3 ^@yağlıboya<n>$
       3 ^@vitrin<n>$
@@ -3698,12 +3052,6 @@ BOR PROBABLY BORA
       3 ^@üzgü<n>$
       3 ^@uzatım<n>$
       3 ^@uzak<adj><djn0><n>$.
-      3 ^@uygu<n><dla><v><tpast>$.
-      3 ^@uygu<n><dla><v><dma><n>$.
-      3 ^@uygu<n><dla><v><abil><partacak>$.
-      3 ^@uygu<n><dla><v><abil><neg><partdik>$
-      3 ^@uygu<n><dla><v><abil><neg><partacak>$
-      3 ^@uygu<n><dlan><v><dma><n>$.
       3 ^@ur<n>$
       3 ^@üre<v><dma><n>$
       3 ^@üretken<adj><dlik><n><ki>$
@@ -3753,11 +3101,9 @@ BOR PROBABLY BORA
       3 ^@süryani<n><dca><adj>$
       3 ^@sübyan<n><dci><adj><dlik><n>$
       3 ^@sübvansiyon<n><dli><adj>$
-      3 ^@standart<n><dlas><v><caus><pass><cv>$
       3 ^@stajyer<adj><dlik><n>$
       3 ^@stadyum<n><ki>$
       3 ^@sportif<n>$
-      3 ^@spor<n><ki>$
       3 ^@spontane<n>$
       3 ^@spesiyalite<n>$
       3 ^@sözlük<n>$
@@ -3767,8 +3113,6 @@ BOR PROBABLY BORA
       3 ^@sone<n>$
       3 ^@sol<n><ki>$
       3 ^@sol<adj><dla><v><dma><n>$
-      3 ^@site<n><ki>$
-      3 ^@sistem<n>$.
       3 ^@si<n><cpldi>$
       3 ^@si<n><ca>$
       3 ^@simülatör<n>$
@@ -3788,7 +3132,6 @@ BOR PROBABLY BORA
       3 ^@serdengeçti<n>$
       3 ^@sentez<n>$
       3 ^@şen<n><dci><n>$
-      3 ^@seçi<n><ki>$
       3 ^@seans<n>$
       3 ^@şayan<n>$
       3 ^@satılık<n>$
@@ -3805,7 +3148,6 @@ BOR PROBABLY BORA
       3 ^@safari<n>$
       3 ^@sabit<n><dla><v><vnmak>$
       3 ^@rötuş<n>$
-      3 ^@roman<n><dci><n>$
       3 ^@rezidans<n>$
       3 ^@resmiyet<n>$
       3 ^@re<n><dci><adj>$
@@ -3820,9 +3162,7 @@ BOR PROBABLY BORA
       3 ^@psikiyatrist<n>$
       3 ^@psikiyatri<n>$
       3 ^@prostat<n>$
-      3 ^@prosedür<n><dsal><adj>$
       3 ^@projeksiyon<n>$
-      3 ^@program<n><dla><v><dma><n>$
       3 ^@profil<n><dli><adj>$
       3 ^@profesyonel<adj><dlas><v><dma><n>$
       3 ^@prestij<n>$
@@ -3857,26 +3197,14 @@ BOR PROBABLY BORA
       3 ^@ört<v><dma><n>$
       3 ^@ortodoks<np><dlik><n>$
       3 ^@orgeneral<n><dlik><n>$
-      3 ^@operasyon<n>$.
       3 ^@önyargı<n><dnnsiz><adj>$
       3 ^@onkoloji<n>$
       3 ^@önemse<v><dma><n>$
-      3 ^@öncelik<n>$.
       3 ^@onbaşı<n>$
-      3 ^@onay<n><dla><v><tpast>$ 
-      3 ^@onay<n><dla><v><neg><partyan>$
-      3 ^@onay<n><dla><v><abil><neg><partacak>$
-      3 ^@onay<n><dla><v><abil><neg><cv>$
-      3 ^@onay<n><dlan><v><tpast>$.
       3 ^@öl<n><cpldi>$.
       3 ^@oksijen<n>$
-      3 ^@ofis<n><ki>$
       3 ^@nöroloji<n>$
-      3 ^@nokta<n><dla><v><partyan>$
-      3 ^@nokta<n><dla><v><partdik>$
-      3 ^@nokta<n><dla><v><partacak>$.
       3 ^@nöbet<n><dci><adj>$
-      3 ^@net<n><dlas><v><caus><pass><cv>$
       3 ^@necip<n>$
       3 ^@namevcut<n>$
       3 ^@name<n>$
@@ -3921,7 +3249,6 @@ BOR PROBABLY BORA
       3 ^@kuşbilimci<n>$
       3 ^@kurye<n>$
       3 ^@kürtün<n>$
-      3 ^@kur<n><cplmis>$
       3 ^@kür<n>$
       3 ^@kulp<n><dli><adj>$
       3 ^@kuku<n>$
@@ -3949,7 +3276,6 @@ BOR PROBABLY BORA
       3 ^@kirlet<v><dma><n>$
       3 ^@kilometre<n><ca>$
       3 ^@kifayet<n><dnnsiz><adj>$
-      3 ^@kes<n>$."
       3 ^@kesin<n><dlas><v><partacak>$
       3 ^@kemik<n><dlas><v><cv>$
       3 ^@keklik<n>$
@@ -3958,19 +3284,15 @@ BOR PROBABLY BORA
       3 ^@kaynaş<v><dma><n>$
       3 ^@kaymakam<n>$
       3 ^@kayısı<n>$
-      3 ^@kayıp<n><cpldi>$.
       3 ^@katman<n>$
       3 ^@katalog<n>$
       3 ^@kasvet<n><dli><adj>$
       3 ^@kast<n>$
       3 ^@karbonmonoksit<n>$
       3 ^@kapsül<n>$
-      3 ^@kapasite<n><ki>$
       3 ^@kapalı<adj><djn0><n><cpldi>$.
       3 ^@kanuniyet<n>$
       3 ^@kanserojen<n>$
-      3 ^@kanıt<n><dla><v><cv>$
-      3 ^@kanıt<n><dla><v><abil><partacak>$
       3 ^@kana<v><dma><n><dli><adj>$
       3 ^@kamyonet<n>$
       3 ^@kal<v><dma><n><dli><adj>$
@@ -3992,14 +3314,10 @@ BOR PROBABLY BORA
       3 ^@israil<np><dli><n>$
       3 ^@ıslahev<n>$
       3 ^@insanoğlu<n>$
-      3 ^@imza<n><dla><v><abil><neg><partacak>$
-      3 ^@imza<n><dlan><v><vnmak>$
-      3 ^@imza<n><dlan><v><neg><cv>$
       3 ^@immünoloji<n>$
       3 ^@imalat<n><dci><adj>$
       3 ^@ilkyardım<n>$
       3 ^@ilerle<v><dma><n><dci><adj>$
-      3 ^@ihtilaf<n><dnnsiz><adj>$
       3 ^@idrar<n>$
       3 ^@içeri<n>$.
       3 ^@hüseyni<n>$
@@ -4008,7 +3326,6 @@ BOR PROBABLY BORA
       3 ^@hezimet<n>$
       3 ^@herkes<n><dca><adj>$
       3 ^@helenistik<n>$
-      3 ^@hazırlık<n><ki>$
       3 ^@hay<n>$
       3 ^@haydari<n>$
       3 ^@havari<n>$
@@ -4027,7 +3344,6 @@ BOR PROBABLY BORA
       3 ^@gözbebek<n>$
       3 ^@gözalt<n><cplken>$
       3 ^@göster<v><dma><n><dli><n>$.
-      3 ^@gösteri<n><cpldi>$.
       3 ^@görkem<n>$
       3 ^@görece<n><dli><adj>$
       3 ^@gömü<n>$
@@ -4036,33 +3352,23 @@ BOR PROBABLY BORA
       3 ^@giriş<v><dma><n>$
       3 ^@gez<n><cpldi>$
       3 ^@gestapo<n>$
-      3 ^@geri<n><cplsa>$
-      3 ^@geri<n>$.
       3 ^@gerdanlık<n>$
       3 ^@geometrik<n>$
       3 ^@gelişmişlik<n>$
-      3 ^@gelişim<n><ki>$
       3 ^@geceyarı<n>$
       3 ^@gastroenterolog<n>$
       3 ^@gardiyan<n><dlik><n>$
       3 ^@gang<n>$
       3 ^@fosfat<n><dli><adj>$
       3 ^@fizyoloji<n>$
-      3 ^@firma<n>$.
       3 ^@fire<n>$
       3 ^@filtre<n>$
-      3 ^@film<n>$.
-      3 ^@festival<n>$.
       3 ^@faz<n><dla><v><topt>$
       3 ^@fazıl<n>$
       3 ^@falan<n>$
       3 ^@fakir<adj><djn0><n>$
-      3 ^@faaliyet<n><ki>$
       3 ^@ezber<n><dla><v><vnmak>$
       3 ^@eviç<n>$
-      3 ^@etki<n><dla><v><abil><neg><partacak>$
-      3 ^@etki<n><dlan><v><neg><partdik>$
-      3 ^@etki<n><dlan><v><dma><n>$
       3 ^@esma<n>$
       3 ^@eskrim<n><dci><adj>$
       3 ^@esin<n><dlan><v><pass><partyan>$
@@ -4077,7 +3383,6 @@ BOR PROBABLY BORA
       3 ^@eliş<n>$
       3 ^@elen<v><dma><n>$
       3 ^@elektro<n>$
-      3 ^@ekonomi<n>$.
       3 ^@eğim<n><dli><adj>$
       3 ^@eflak<n>$
       3 ^@edinç<n>$
@@ -4088,7 +3393,6 @@ BOR PROBABLY BORA
       3 ^@düzenle<v><dvnyici><adj><djn0><n>$
       3 ^@dut<n>$
       3 ^@düşünür<n>$
-      3 ^@düşük<n><cpldi>$.
       3 ^@düş<n>$.
       3 ^@dürtü<n>$
       3 ^@dun<n>$
@@ -4105,7 +3409,6 @@ BOR PROBABLY BORA
       3 ^@dokümantasyon<n>$
       3 ^@doğur<v><dma><n>$
       3 ^@doğaç<n><dla><v><dma><n>$
-      3 ^@diyalog<n><ki>$
       3 ^@divani<n>$
       3 ^@diskalifiye<n>$
       3 ^@disiplin<n><dli><adj>$
@@ -4119,8 +3422,6 @@ BOR PROBABLY BORA
       3 ^@derin<adj><dlik><n><ki>$
       3 ^@derin<adj><djn0><n>$
       3 ^@depremzede<n>$
-      3 ^@denet<n><dla><v><partdik>$
-      3 ^@denet<n><dla><v><abil><partacak>$
       3 ^@deklare<n>$
       3 ^@değişke<n>$.
       3 ^@darboğaz<n>$
@@ -4135,10 +3436,8 @@ BOR PROBABLY BORA
       3 ^@çoban<n>$
       3 ^@çıta<n>$
       3 ^@çim<n><cpldi>$
-      3 ^@çıkar<n>$."
       3 ^@çiftlik<n><ki>$
       3 ^@çelebi<n>$
-      3 ^@çek<n><ca>$
       3 ^@cay<v><dma><n>$
       3 ^@çatış<v><dma><n><ki>$
       3 ^@çarpıt<v><dma><n>$
@@ -4148,12 +3447,10 @@ BOR PROBABLY BORA
       3 ^@çağdış<n>$
       3 ^@caba<n>$
       3 ^@buzdolap<n>$
-      3 ^@büyükelçi<n><dli><adj>$
       3 ^@buluntu<n>$
       3 ^@broş<n>$
       3 ^@bozkurt<n>$
       3 ^@boş<adj><djn0><n><cpldi>$.
-      3 ^@bomba<n><dla><v><cv>$
       3 ^@bölü<n><ki>$
       3 ^@bölük<n>$
       3 ^@biyokimya<n><dsal><adj>$
@@ -4184,11 +3481,9 @@ BOR PROBABLY BORA
       3 ^@beceri<n><ki>$
       3 ^@becerik<n><dnnsiz><adj><dlik><n>$
       3 ^@becerik<n><dnnsiz><adj><dca><adj>$
-      3 ^@bayram<n>$.
       3 ^@basya<n>$
       3 ^@başrahip<n>$
       3 ^@bas<n><dci><adj>$
-      3 ^@baskı<n><dlan><v><dma><n>$
       3 ^@basketbol<n><dci><adj>$
       3 ^@başkanvekil<n>$
       3 ^@barbar<adj><dlik><n>$
@@ -4201,7 +3496,6 @@ BOR PROBABLY BORA
       3 ^@bakım<n><dnnsiz><adj>$
       3 ^@badire<n>$
       3 ^@azim<n>$
-      3 ^@avro<n><cpldi>$.
       3 ^@avcı<n>$
       3 ^@avans<n>$
       3 ^@avam<n>$
@@ -4216,7 +3510,6 @@ BOR PROBABLY BORA
       3 ^@aşağı<n><dla><v><vnmak>$
       3 ^@arşidük<n>$
       3 ^@arın<v><dma><n>$
-      3 ^@aralık<n><dli><adj>$
       3 ^@antropoloji<n>$
       3 ^@antoloji<n>$
       3 ^@anormal<n>$
@@ -4226,19 +3519,14 @@ BOR PROBABLY BORA
       3 ^@alkış<n><dla><v><cv>$
       3 ^@alış<v><dma><n>$
       3 ^@alıştır<v><dma><n>$
-      3 ^@ali<n><cpldi>$.
       3 ^@algı<n><dla><v><vnyis>$
       3 ^@alfabetik<n>$
       3 ^@aldat<v><dma><n><dca><n>$
       3 ^@alabora<n>$
       3 ^@aktar<n><cpldi>$
-      3 ^@adım<n><dli><adj>$
-      3 ^@adım<n>$.
       3 ^@adaptasyon<n>$
       3 ^@açmaz<n>$
       3 ^@acenta<n>$
-      2 ^@zor<adj><djn0><n><cpldi>$.
-      2 ^@zor<adj><djn0><n>$."
       2 ^@zıt<adj><dlik><n>$
       2 ^@zevk<n><dli><adj>$
       2 ^@zeplin<n>$
@@ -4251,8 +3539,6 @@ BOR PROBABLY BORA
       2 ^@yuvar<n><dla><v><vnmak>$
       2 ^@yuvar<n><dla><v><cv>$
       2 ^@yüküm<n><dli><n>$.
-      2 ^@yüksek<adj><dlik><n>$.
-      2 ^@yüksek<adj><djn0><n>$.
       2 ^@yönet<v><dvnyici><adj><djn0><n><cpldi>$.
       2 ^@yöneltme<n>$
       2 ^@yıldönüm<n><cpldi>$.
@@ -4265,17 +3551,11 @@ BOR PROBABLY BORA
       2 ^@yeter<adj><djn0><n><dnnsiz><adj><dlik><n>$.
       2 ^@yeter<adj><djn0><n><cpldi>$
       2 ^@yeşil<adj><djn0><n>$
-      2 ^@yer<n><dnnsiz><adv><dan0><n>$
-      2 ^@yer<n><dli><n>$
-      2 ^@yer<n><dlas><v><tpast>$.
-      2 ^@yer<n><dlas><v><neg><partdik>$
-      2 ^@yer<n><dlas><v><caus><partacak>$.
       2 ^@yayım<n><dla><v><vnmak>$
       2 ^@yayım<n>$
       2 ^@yayıl<v><dma><n>$.
       2 ^@yat<n><dci><adj><dlik><n>$
       2 ^@yatış<v><dma><n>$
-      2 ^@yaş<n><dli><n><cpldi>$.
       2 ^@yarış<v><dma><n>$.
       2 ^@yardımsever<n>$
       2 ^@yardak<n><dci><adj><dlik><n>$
@@ -4283,16 +3563,12 @@ BOR PROBABLY BORA
       2 ^@yarat<v><dma><n><ki>$
       2 ^@yapım<n><ki>$
       2 ^@yapık<n>$
-      2 ^@yanıt<n><dla><v><tpast>$.
       2 ^@vurgun<n><dci><adj><dlik><n>$
-      2 ^@vize<n><dli><adj>$
       2 ^@vere<n>$
       2 ^@verdi<n>$."
       2 ^@verdi<n>$ 
       2 ^@velayet<n>$
       2 ^@vekaletname<n>$
-      2 ^@vatandaş<n><cplsa>$
-      2 ^@vatandaş<n><cpldi>$.
       2 ^@varoluş<n>$
       2 ^@var<n>$
       2 ^@vampir<n>$
@@ -4307,17 +3583,8 @@ BOR PROBABLY BORA
       2 ^@uzak<adj><djn0><n><cplken>$
       2 ^@uzak<adj><djn0><n><cpldi>$.
       2 ^@uyuş<v><dma><n>$
-      2 ^@uygu<n><dla><v><vnyis>$
-      2 ^@uygu<n><dla><v><vnmak>$.
-      2 ^@uygu<n><dla><v><abil><vnmak>$
-      2 ^@uygu<n><dla><v><abil><neg><cv>$
-      2 ^@uygu<n><dlan><v><neg><partyan>$
-      2 ^@uygu<n><dlan><v><neg><cv><dca>$
-      2 ^@uygu<n><dlan><v><dma><n><dli><adj>$
-      2 ^@uygu<n><dlan><v><abil><neg><partdik>$
       2 ^@utan<v><dma><n>$
       2 ^@üstlen<v><dvnyici><adj><djn0><n>$
-      2 ^@ürün<n><ki>$
       2 ^@ur<n><dca><n>$
       2 ^@urba<n>$
       2 ^@unsur<n><ca>$
@@ -4338,7 +3605,6 @@ BOR PROBABLY BORA
       2 ^@turnusol<n>$
       2 ^@tur<n><cpldi>$
       2 ^@türki<adj><djn0><n>$
-      2 ^@turizm<n>$.
       2 ^@türbin<n>$
       2 ^@tu<n><ca>$
       2 ^@tümgeneral<n><dlik><n>$
@@ -4352,12 +3618,10 @@ BOR PROBABLY BORA
       2 ^@transfüzyon<n>$
       2 ^@toryum<n>$
       2 ^@topla<v><dvnyici><adj><djn0><n>$
-      2 ^@topla<n><cplmis>$
       2 ^@topar<n><dla><v><cv>$
       2 ^@ton<n><dli><adj>$
       2 ^@ton<n>$.
       2 ^@tonga<n>$
-      2 ^@tiyatro<n><ki>$
       2 ^@tiryaki<adj><dlik><n>$
       2 ^@tırpan<n><dla><v><dma><n>$
       2 ^@tırpan<n><dlan><v><partacak>$.
@@ -4377,10 +3641,6 @@ BOR PROBABLY BORA
       2 ^@tedavül<n>$
       2 ^@taze<adj><dlan><v><dma><n>$
       2 ^@tatmin<n><dnnsiz><adj>$
-      2 ^@tasar<n><dla><v><vnmak>$
-      2 ^@tasar<n><dla><v><partyan>$
-      2 ^@tasar<n><dlan><v><partdik>$
-      2 ^@tasar<n><dlan><v><dma><n>$
       2 ^@tarik<n>$
       2 ^@tanı<v><dma><n><dli><adj>$
       2 ^@tanım<n><dla><v><dvnyici><adj><dla><v><taor>$
@@ -4402,12 +3662,8 @@ BOR PROBABLY BORA
       2 ^@sun<v><dvnyici><adj><dlik><n>$
       2 ^@sümen<n>$
       2 ^@sülfürik<n>$
-      2 ^@strateji<n><ki>$
       2 ^@stok<n><dla><v><dma><n>$
       2 ^@step<n>$
-      2 ^@statü<n><cpldi>$.
-      2 ^@standart<n><dlas><v><dma><n>$
-      2 ^@standart<n><dlas><v><caus><vnmak>$
       2 ^@stabilize<n>$
       2 ^@sportmen<adj><dlik><n>$
       2 ^@spesifik<n>$
@@ -4422,15 +3678,12 @@ BOR PROBABLY BORA
       2 ^@smaç<n>$
       2 ^@slayt<n>$
       2 ^@siya<n><dsal><adj>$
-      2 ^@sistem<n><cplsa>$
       2 ^@şişir<v><dma><n>$
       2 ^@sirtaki<n>$
       2 ^@sipahi<n>$
       2 ^@sinyalizasyon<n>$
       2 ^@sindirim<n>$
       2 ^@simit<n><cplsa>$
-      2 ^@silah<n><dlan><v><caus><pass><partyan>$
-      2 ^@silah<n><dlan><v><caus><pass><cv>$
       2 ^@sık<n><dlas><v><caus><tpast>$.
       2 ^@sık<n><dlas><v><caus><cv>$
       2 ^@sıkıntı<n><ki>$
@@ -4441,11 +3694,8 @@ BOR PROBABLY BORA
       2 ^@şerik<n>$
       2 ^@şerif<n>$
       2 ^@serbesti<n>$
-      2 ^@sendika<n><dci><n>$
       2 ^@sembolizm<n>$
       2 ^@selva<n>$
-      2 ^@sektör<n><cplsa>$
-      2 ^@sektör<n>$.
       2 ^@şek<n><dli><n>$."
       2 ^@şek<n><dli><adj>$.
       2 ^@sekiz<n>$
@@ -4471,7 +3721,6 @@ BOR PROBABLY BORA
       2 ^@sakal<n><dli><adj>$
       2 ^@şahit<n><dlik><n>$
       2 ^@sahi<n><dli><n>$
-      2 ^@sağlık<n><dnnsiz><adj>$
       2 ^@sağlam<n><dlas><v><dma><n>$
       2 ^@saf<adj><djn0><n><ki>$
       2 ^@sacayak<n>$
@@ -4480,7 +3729,6 @@ BOR PROBABLY BORA
       2 ^@rota<n><ki>$
       2 ^@romantizm<n>$
       2 ^@romantik<n>$
-      2 ^@rol<n><ki>$
       2 ^@ritm<n>$
       2 ^@rezonans<n>$
       2 ^@rezerv<n><ki>$
@@ -4493,24 +3741,18 @@ BOR PROBABLY BORA
       2 ^@resif<n>$
       2 ^@repo<n>$
       2 ^@rektör<n><dlik><n>$
-      2 ^@referandum<n>$.
       2 ^@rasyonel<n>$
       2 ^@rast<n><dla><v><partyan>$
       2 ^@rast<n><dla><v><partdik>$
       2 ^@rast<n><dla><v><neg><tpast>$.
       2 ^@rast<n><dlan><v><neg><tpast>$.
       2 ^@raportör<n><dlik><n>$
-      2 ^@rapor<n><cplsa>$
-      2 ^@rapor<n><cpldi>$.
       2 ^@rafting<n><dci><adj>$
-      2 ^@radyo<n><ca>$
       2 ^@radyoloji<n>$
       2 ^@radyografi<n>$
       2 ^@radika<n>$
       2 ^@punk<n>$
       2 ^@projektör<n>$
-      2 ^@program<n><dci><adj><dlik><n>$
-      2 ^@program<n>$.
       2 ^@pres<n>$
       2 ^@pound<n>$
       2 ^@pötürge<n>$
@@ -4527,7 +3769,6 @@ BOR PROBABLY BORA
       2 ^@pervane<n>$
       2 ^@pers<n>$
       2 ^@peron<n>$
-      2 ^@performans<n><cpldi>$.
       2 ^@pencere<n><dli><adj>$
       2 ^@paydaş<n>$
       2 ^@patinaj<n><dci><adj>$
@@ -4566,15 +3807,10 @@ BOR PROBABLY BORA
       2 ^@organizma<n>$
       2 ^@organizasyon<n><ki>$
       2 ^@orduev<n>$
-      2 ^@ora<n><cplsa>$
       2 ^@oramiral<n>$
       2 ^@opsiyon<n><dli><adj>$
       2 ^@önkoşul<n>$.
       2 ^@öngörü<n><dli><adj>$
-      2 ^@öneri<n><cplsa>$
-      2 ^@onay<n><dla><v><partacak>$."
-      2 ^@onay<n><dla><v><caus><abil><vnmak>$
-      2 ^@onay<n><dlan><v><neg><partyan>$
       2 ^@önayak<n>$
       2 ^@omurilik<n>$
       2 ^@oma<n>$
@@ -4585,19 +3821,14 @@ BOR PROBABLY BORA
       2 ^@nötr<n>$
       2 ^@noter<n><dlik><n>$
       2 ^@no<n>$.
-      2 ^@nokta<n><cplken>$
       2 ^@nitrat<n>$
       2 ^@nişasta<n>$
       2 ^@nikel<n>$
       2 ^@nida<n>$
-      2 ^@net<n><dlas><v><partdik>$
-      2 ^@net<n><dlas><v><partacak>$
-      2 ^@net<n><dlas><v><caus><partacak>$
       2 ^@neşriyat<n>$
       2 ^@nesnel<n><dlik><n>$
       2 ^@negatif<n>$
       2 ^@nefis<n>$
-      2 ^@neden<n>$.
       2 ^@nebze<n>$
       2 ^@nafta<n>$
       2 ^@nacak<n>$
@@ -4637,14 +3868,11 @@ BOR PROBABLY BORA
       2 ^@metil<n>$
       2 ^@meteorolojik<n>$
       2 ^@meteor<n>$
-      2 ^@meslektaş<n><dla><v><taor>$
       2 ^@mesire<n>$
       2 ^@mesel<n><cpldi>$.
       2 ^@mescid<n>$
-      2 ^@mesaj<n><cpldi>$.
       2 ^@merkeziyet<n><dli><adj>$
       2 ^@meni<n>$
-      2 ^@memnun<n>$."
       2 ^@meltem<n>$
       2 ^@melodi<n>$.
       2 ^@melodi<n>$
@@ -4691,17 +3919,12 @@ BOR PROBABLY BORA
       2 ^@kore<np><dli><n>$
       2 ^@kopya<adj><dlan><v><dma><n>$
       2 ^@kontör<n><dli><adj>$
-      2 ^@konsey<n><ca>$
       2 ^@konserve<n><dci><adj><dlik><n>$
       2 ^@konserve<adj><dla><v><dma><n>$
-      2 ^@konser<n>$.
       2 ^@konsantrasyon<n>$
       2 ^@konjonktür<n>$
-      2 ^@komuta<n><cpldi>$
       2 ^@komplike<n>$
       2 ^@kompleks<n><ki>$
-      2 ^@komite<n><ki>$
-      2 ^@komite<n>$)
       2 ^@kola<n>$
       2 ^@kolaj<n>$
       2 ^@köktencilik<n>$
@@ -4721,14 +3944,12 @@ BOR PROBABLY BORA
       2 ^@kısıt<n><dla><v><abil><partacak>$
       2 ^@kısıt<n><dlan><v><partyan>$
       2 ^@kısıt<n><dlan><v><partacak>$
-      2 ^@kişi<n><dsal><adj><dlas><v><caus><cv>$
       2 ^@kısal<v><dma><n>$
       2 ^@kir<n><dla><v><caus><dvnyici><adj>$
       2 ^@kir<n><dci><adj>$
       2 ^@kırmız<n>$
       2 ^@kiloton<n>$
       2 ^@kil<n><dci><adj>$
-      2 ^@kes<n><cpldi>$.
       2 ^@kesin<n><dlas><v><tpast>$
       2 ^@kesin<n><dlas><v><cv>$
       2 ^@kesin<n><dlas><v><caus><pass><cv>$
@@ -4739,8 +3960,6 @@ BOR PROBABLY BORA
       2 ^@kay<n><dgil><n>$.
       2 ^@kaymak<n><dca><adj><dlan><v><timp>$
       2 ^@kaymak<n>$
-      2 ^@kayıp<n><cplmis>$
-      2 ^@kayıp<n><cplken>$
       2 ^@kayınpeder<n>$
       2 ^@kayınbirader<n>$
       2 ^@kavra<v><dma><n>$
@@ -4763,7 +3982,6 @@ BOR PROBABLY BORA
       2 ^@kapitülasyon<n>$
       2 ^@kant<n>$
       2 ^@kanser<n><dli><adj>$
-      2 ^@kanıt<n><dla><v><abil><neg><cv>$
       2 ^@kanas<n>$
       2 ^@kamyon<n><ki>$
       2 ^@kamyon<n><dci><adj>$
@@ -4781,7 +3999,6 @@ BOR PROBABLY BORA
       2 ^@kadı<n><cpldi>$.
       2 ^@kadı<n><cpldi>$
       2 ^@kacak<n>$
-      2 ^@kabul<n><dlan><v><vnmak>$
       2 ^@kabiliyet<n><dli><adj>$
       2 ^@kabare<n>$
       2 ^@kabak<n>$
@@ -4795,7 +4012,6 @@ BOR PROBABLY BORA
       2 ^@izahat<n>$
       2 ^@iyot<n>$
       2 ^@iyimser<adj><djn0><n><cpldi>$
-      2 ^@iyi<adj><djn0><n><cpldi>$
       2 ^@iye<n>$
       2 ^@it<v><dma><n>$
       2 ^@itki<n>$
@@ -4807,29 +4023,16 @@ BOR PROBABLY BORA
       2 ^@istif<n>$
       2 ^@ister<n>$
       2 ^@istasyon<n><ki>$
-      2 ^@ısrar<n><dli><n>$
       2 ^@işletme<n><dci><adj><dlik><n>$
       2 ^@işletmeci<n>$
       2 ^@islam<n><dci><adj>$
       2 ^@islami<np><dlas><v><dma><n>$
       2 ^@ısırık<n>$
-      2 ^@işaret<n><cpldi>$.
       2 ^@irin<n>$
       2 ^@iran<np><dli><n>$
       2 ^@inşat<n>$
       2 ^@inisiyatif<n><dci><adj>$
       2 ^@inan<n>$
-      2 ^@imza<n><dnnsiz><adj>$
-      2 ^@imza<n><dla><v><tpast>$ 
-      2 ^@imza<n><dla><v><partdik>$.
-      2 ^@imza<n><dla><v><neg><tpast>$.
-      2 ^@imza<n><dla><v><neg><partdik>$
-      2 ^@imza<n><dla><v><abil><vnmak>$
-      2 ^@imza<n><dla><v><abil><partacak>$.
-      2 ^@imza<n><dla><v><abil><neg><taor>$
-      2 ^@imza<n><dla><v><abil><cv>$
-      2 ^@imza<n><dlan><v><dma><n><cpldi>$.
-      2 ^@imza<n><dci><n>$
       2 ^@ılım<n><dli><n>$
       2 ^@ılım<n><dli><adj><dlik><n>$
       2 ^@ılım<n><dli><adj><dlas><v><caus><cv>$
@@ -4841,8 +4044,6 @@ BOR PROBABLY BORA
       2 ^@ihtimal<n><cplsa>$
       2 ^@ihtilas<n>$
       2 ^@idea<n>$
-      2 ^@iç<n><cplsa>$
-      2 ^@iç<n><cpldi>$
       2 ^@içinde<n>$
       2 ^@içgüdü<n>$
       2 ^@içgörü<n>$
@@ -4876,7 +4077,6 @@ BOR PROBABLY BORA
       2 ^@haki<n><cpldi>$
       2 ^@güve<n><dlik><n>$
       2 ^@guru<n>$
-      2 ^@gündem<n><cpldi>$.
       2 ^@gülümse<v><dma><n>$
       2 ^@güçbirlik<n>$
       2 ^@groston<n>$
@@ -4902,12 +4102,6 @@ BOR PROBABLY BORA
       2 ^@gine<n>$
       2 ^@getto<n>$
       2 ^@getir<v><dma><n><dli><n>$
-      2 ^@geri<n><dla><v><partyan>$
-      2 ^@geri<n><dla><v><partdik>$
-      2 ^@geri<n><dla><v><partacak>$
-      2 ^@geri<n><dla><v><caus><cv>$
-      2 ^@geri<n><dla><v><abil><partacak>$
-      2 ^@geri<n><cplken>$
       2 ^@gergi<n><cpldi>$.
       2 ^@gerçekdış<n>$
       2 ^@geniş<adj><dla><v><dma><n><ki>$
@@ -4928,7 +4122,6 @@ BOR PROBABLY BORA
       2 ^@folklorik<n>$
       2 ^@floresan<n>$
       2 ^@flama<n>$
-      2 ^@finansman<n><ki>$
       2 ^@final<n><cpldi>$.
       2 ^@fesih<n>$
       2 ^@federe<n><dlas><v><dma><n>$
@@ -4942,16 +4135,7 @@ BOR PROBABLY BORA
       2 ^@faktör<n>$.
       2 ^@faks<n>$
       2 ^@fak<n><dli><adj>$
-      2 ^@fabrika<n>$.
-      2 ^@eyalet<n>$.
       2 ^@evren<n><dsal><adj><dlik><n>$
-      2 ^@etki<n><dla><v><tcont>$.
-      2 ^@etki<n><dla><v><neg><partyan>$
-      2 ^@etki<n><dla><v><abil><neg><partdik>$
-      2 ^@etki<n><dlan><v><tpast>$
-      2 ^@etki<n><dlan><v><tcont>$.
-      2 ^@etki<n><dlan><v><partdik>$.
-      2 ^@etki<n><dlan><v><cv>$
       2 ^@etkileşim<n><dli><adj>$
       2 ^@eten<n>$
       2 ^@etanol<n>$
@@ -4965,10 +4149,8 @@ BOR PROBABLY BORA
       2 ^@erte<n><dlan><v><tpast>$.
       2 ^@erte<n><dlan><v><neg><partacak>$
       2 ^@erozyon<n>$
-      2 ^@erişim<n><dli><adj>$
       2 ^@epsilon<n>$
       2 ^@entellektüel<adj><djn0><n>$
-      2 ^@enstitü<n><ki>$
       2 ^@en<n><cpldi>$
       2 ^@enik<n>$
       2 ^@endeks<n><dla><v><dma><n>$
@@ -4976,8 +4158,6 @@ BOR PROBABLY BORA
       2 ^@emlak<n><dci><n>$
       2 ^@elta<n>$
       2 ^@ekspertiz<n>$
-      2 ^@ekip<n><ki>$
-      2 ^@ekip<n><ca>$
       2 ^@ekim<n>$
       2 ^@ejder<n>$
       2 ^@egzotik<n>$
@@ -5002,7 +4182,6 @@ BOR PROBABLY BORA
       2 ^@duyar<n>$.
       2 ^@düşün<v><dma><n><dli><n>$
       2 ^@düşün<n><dca><adj><dli><adj>$
-      2 ^@düşük<n><cplken>$
       2 ^@durağan<n><dlik><n>$
       2 ^@dünyevi<n>$
       2 ^@dün<n>$
@@ -5026,7 +4205,6 @@ BOR PROBABLY BORA
       2 ^@doğrultu<n>$.
       2 ^@doçent<n>$
       2 ^@disket<n>$
-      2 ^@direktör<n>$.
       2 ^@direksiyon<n>$
       2 ^@diplomat<n><dlik><n>$
       2 ^@dinle<v><dvnyici><adj><djn0><n>$
@@ -5038,27 +4216,17 @@ BOR PROBABLY BORA
       2 ^@dilbilim<n>$
       2 ^@dilaver<n>$
       2 ^@dikilitaş<n>$
-      2 ^@diğer<adj><djn0><n>$.
       2 ^@der<v><dma><n>$
       2 ^@dermatoloji<n>$
       2 ^@derin<adj><dlik><n><dli><adj>$
       2 ^@depar<n>$
-      2 ^@denet<n><dla><v><vnmak>$.
-      2 ^@denet<n><dla><v><dvnyici><adj>$
-      2 ^@denet<n><dlan><v><partacak>$.
-      2 ^@denet<n><dlan><v><partacak>$
-      2 ^@denet<n><dlan><v><dma><n><ki>$
       2 ^@denetim<n><dnnsiz><adj>$
-      2 ^@demokratik<n><dlas><v><caus><vnmak>$
-      2 ^@demokratik<n><dlas><v><caus><cv>$
-      2 ^@demokrasi<n><ki>$
       2 ^@demirbaş<n>$
       2 ^@dekorasyon<n>$
       2 ^@debi<n>$
       2 ^@davran<v><dma><n><dli><n>$
       2 ^@davran<v><dma><n><dli><adj>$
       2 ^@darphane<n>$
-      2 ^@dahil<n><cpldi>$.
       2 ^@dağıt<v><dvnyici><adj><djn0><n>$
       2 ^@dağıtım<n><ki>$
       2 ^@dağılım<n><ki>$
@@ -5074,10 +4242,8 @@ BOR PROBABLY BORA
       2 ^@cirit<n><dci><adj>$
       2 ^@çıkar<v><dma><n><ki>$
       2 ^@çıkar<v><dma><n><dli><adj>$
-      2 ^@çıkar<n><dci><adj>$
       2 ^@cevir<n>$
       2 ^@çevirmen<n><dlik><n>$
-      2 ^@çete<n><dci><n>$
       2 ^@cer<n><dci><adj>$
       2 ^@cer<n>$
       2 ^@celi<n><dli><adj>$.
@@ -5095,10 +4261,7 @@ BOR PROBABLY BORA
       2 ^@buzul<n>$
       2 ^@buz<n><dli><adj>$
       2 ^@büyükanne<n>$
-      2 ^@büyük<adj><dlik><n>$.
-      2 ^@bütün<adj><dlik><n><dli><adj>$
       2 ^@büst<n>$
-      2 ^@büro<n><ki>$
       2 ^@burhan<n>$
       2 ^@bungalov<n>$
       2 ^@buluş<n>$
@@ -5109,10 +4272,6 @@ BOR PROBABLY BORA
       2 ^@boyun<n>$
       2 ^@boynuz<n>$
       2 ^@boşan<v><dma><n>$
-      2 ^@bomba<n><dla><v><vnmak>$
-      2 ^@bomba<n><dla><v><tpast>$
-      2 ^@bomba<n><dla><v><tnarr><cpldi>$.
-      2 ^@bomba<n><cplsa>$
       2 ^@bölük<n><dci><adj>$
       2 ^@boca<n><dla><v><dma><n>$
       2 ^@böbür<n><dlan><v><partdik>$
@@ -5162,7 +4321,6 @@ BOR PROBABLY BORA
       2 ^@bek<n><dlan><v><cv>$ .
       2 ^@bebe<n>$
       2 ^@bayındır<n>$
-      2 ^@başvuru<n><ca>$
       2 ^@bastı<n>$.
       2 ^@başkomutan<n><dlik><n>$
       2 ^@başkomutan<n>$.
@@ -5171,15 +4329,12 @@ BOR PROBABLY BORA
       2 ^@barfiks<n>$
       2 ^@barba<n>$
       2 ^@baran<n>$
-      2 ^@bank<n>$.
       2 ^@bala<n>$
       2 ^@bak<v><dma><n><dli><n>$
       2 ^@bak<v><dma><n><dli><adj>$
       2 ^@bakteriyel<n>$
       2 ^@bakkaliye<n>$
       2 ^@bakı<n><dci><n>$
-      2 ^@bakanlık<n><cplsa>$
-      2 ^@bakanlık<n>$.
       2 ^@bağım<n><dnnsiz><adj><dlik><n>$."
       2 ^@bağım<n><dnnsiz><adj><dlas><v><dma><n>$
       2 ^@bağdaşık<n>$
@@ -5190,8 +4345,6 @@ BOR PROBABLY BORA
       2 ^@az<adj><dlik><n>$.
       2 ^@ayn<n><cpldi>$.
       2 ^@ayçiçek<n>$
-      2 ^@avukat<n><cplsa>$
-      2 ^@avro<n><cplsa>$
       2 ^@aval<n>$
       2 ^@atlıkarınca<n>$
       2 ^@atletik<n>$
@@ -5211,7 +4364,6 @@ BOR PROBABLY BORA
       2 ^@arjantin<np><dli><n>$
       2 ^@aristokrat<n>$
       2 ^@araştır<v><dma><n>$.
-      2 ^@aralık<n><ki>$
       2 ^@aracı<n>$
       2 ^@apolitik<n>$
       2 ^@apolet<n>$
@@ -5222,7 +4374,6 @@ BOR PROBABLY BORA
       2 ^@antarktik<n>$
       2 ^@anlatı<n>$
       2 ^@anlaş<v><dma><n><dlik><n>$
-      2 ^@anlaşmazlık<n>$.
       2 ^@angarya<n>$
       2 ^@anemi<n>$
       2 ^@anayol<n>$
@@ -5239,7 +4390,6 @@ BOR PROBABLY BORA
       2 ^@alkış<n><dla><v><partyan>$
       2 ^@alkış<n><dla><v><partdik>$
       2 ^@alkış<n><dla><v><dma><n>$
-      2 ^@ali<n><dca><adj>$
       2 ^@algı<n><dla><v><cv>$
       2 ^@alçal<v><dma><n>$
       2 ^@alçak<n><dlik><n>$
@@ -5258,7 +4408,6 @@ BOR PROBABLY BORA
       2 ^@afis<n>$
       2 ^@aç<v><dma><n><dli><n>$
       2 ^@acı<v><dma><n><dnnsiz><adj><dca><adj>$
-      2 ^@açılış<n><ki>$
       2 ^@açıkhava<n>$
       2 ^@aceleci<n><dlik><n>$
       2 ^@acar<n>$
@@ -5269,9 +4418,6 @@ BOR PROBABLY BORA
       2 ^@ab<n>$]
       2 ^@abartı<n>$
       1 ^@zula<n>$
-      1 ^@zor<adj><dlik><n>$ 
-      1 ^@zor<adj><djn0><n><cplken>$
-      1 ^@zor<adj><djn0><n>$?
       1 ^@zona<n>$
       1 ^@zloti<n>$
       1 ^@ziyade<adj><djn0><n>$
@@ -5320,7 +4466,6 @@ BOR PROBABLY BORA
       1 ^@yöney<n>$
       1 ^@yönet<v><dma><n><cpldi>$
       1 ^@yönetmelik<n>$.
-      1 ^@yönelik<n><dlik><n>$
       1 ^@yokuş<n>$
       1 ^@yoksul<adj><dlik><n><ki>$
       1 ^@yok<n><dla><v><dma><n><ki>$
@@ -5344,24 +4489,8 @@ BOR PROBABLY BORA
       1 ^@yeter<adj><djn0><n><dnnsiz><adj><djn0><n>$
       1 ^@yeşil<adj><dlik><n>$
       1 ^@yeryüz<n>$
-      1 ^@yer<n><dlas><v><tnarr>$
-      1 ^@yer<n><dlas><v><partacak>$.
-      1 ^@yer<n><dlas><v><partacak>$
-      1 ^@yer<n><dlas><v><caus><tnarr>$
-      1 ^@yer<n><dlas><v><caus><timp>$.
-      1 ^@yer<n><dlas><v><caus><timp>$
-      1 ^@yer<n><dlas><v><caus><tcont>$.
-      1 ^@yer<n><dlas><v><caus><pass><tpast>$.
-      1 ^@yer<n><dlas><v><caus><pass><tnarr>$
-      1 ^@yer<n><dlas><v><caus><pass><neg><cv>$
-      1 ^@yer<n><dlas><v><caus><partacak>$
-      1 ^@yer<n><dlas><v><caus><abil><partacak>$
-      1 ^@yer<n><dlas><v><abil><partacak>$
-      1 ^@yer<n><dlas><v><abil><cv>$
-      1 ^@yer<n><cplsa>$
       1 ^@yerleşim<n><dci><adj>$
       1 ^@yergi<n>$
-      1 ^@yerel<n><dlik><n>$
       1 ^@yelten<v><dma><n>$
       1 ^@yekün<n>$
       1 ^@yek<n>$
@@ -5376,13 +4505,9 @@ BOR PROBABLY BORA
       1 ^@yaygı<n><cpldi>$.
       1 ^@yaygın<adj><dlik><n>$
       1 ^@yat<n><cpldi>$
-      1 ^@yatır<n><cplsa>$
-      1 ^@yatır<n>$."
-      1 ^@yatır<n>$.
       1 ^@yassı<adj><djn0><n>$
       1 ^@yasa<v><dma><n><ki>$
       1 ^@yaşa<v><dma><n><dli><adj>$
-      1 ^@yasadış<n><cpldi>$
       1 ^@yarış<v><dma><n><dcil><n>$
       1 ^@yarım<n><dci><n>$
       1 ^@yarım<n><dci><adj>$
@@ -5402,9 +4527,6 @@ BOR PROBABLY BORA
       1 ^@yansı<n>$
       1 ^@yankı<n><dlan><v><cv>$
       1 ^@yankesici<n><dlik><n>$
-      1 ^@yanıt<n><dlan><v><vnmak>$
-      1 ^@yanıt<n><cpldi>$."
-      1 ^@yanıt<n>$.
       1 ^@yanıbaş<n><ki>$
       1 ^@yandaş<adj><dlik><n>$
       1 ^@yamalak<n>$
@@ -5414,11 +4536,6 @@ BOR PROBABLY BORA
       1 ^@yaldız<n><dli><adj>$
       1 ^@yakışık<n><dli><adj>$
       1 ^@yakın<v><dma><n>$
-      1 ^@yakı<n><cplken>$
-      1 ^@yakın<adj><dlik><n>$.
-      1 ^@yakın<adj><djn0><n>$).
-      1 ^@yakın<adj><djn0><n>$.
-      1 ^@yakı<n>$.
       1 ^@yağma<n><dci><n>$
       1 ^@yafta<n><dlan><v><partyan>$
       1 ^@yafta<n><dlan><v><partdik>$
@@ -5431,7 +4548,6 @@ BOR PROBABLY BORA
       1 ^@vokal<n>$
       1 ^@vokalist<n><dlik><n>$
       1 ^@vizyon<n><ki>$
-      1 ^@vize<n><dnnsiz><adj><dlik><n>$
       1 ^@viyola<n>$
       1 ^@vitray<n><dli><adj>$
       1 ^@vitamin<n>$
@@ -5452,8 +4568,6 @@ BOR PROBABLY BORA
       1 ^@vazgeç<v><dma><n>$.
       1 ^@vat<n>$
       1 ^@vatansever<n><cplsa>$
-      1 ^@vatandaş<n><cpldi>$
-      1 ^@vatandaş<n>$!
       1 ^@vasi<adj><djn0><n>$
       1 ^@varyant<n>$
       1 ^@varta<n>$
@@ -5464,7 +4578,6 @@ BOR PROBABLY BORA
       1 ^@vali<n>$ 
       1 ^@vakıf<n><ki>$
       1 ^@vakıf<n>$)
-      1 ^@vaka<n><ki>$
       1 ^@vahşi<adj><dlik><n>$
       1 ^@vah<n>$
       1 ^@vahi<n>$
@@ -5494,43 +4607,17 @@ BOR PROBABLY BORA
       1 ^@uyu<v><dma><n>$
       1 ^@uyuşuk<adj><dlik><n>$
       1 ^@uygun<n><dlan><v><dma><n>$
-      1 ^@uygu<n><dla><v><tobl>$
-      1 ^@uygu<n><dla><v><tnarr><cpldi>$.
-      1 ^@uygu<n><dla><v><tnarr>$
-      1 ^@uygu<n><dla><v><neg><tpast>$
-      1 ^@uygu<n><dla><v><neg><topt>$
-      1 ^@uygu<n><dla><v><neg><tobl>$
-      1 ^@uygu<n><dla><v><neg><tcont>$
-      1 ^@uygu<n><dla><v><neg><partyan>$
-      1 ^@uygu<n><dla><v><neg><partacak>$.
-      1 ^@uygu<n><dla><v><dvnyici><adj><dla><v><taor>$
-      1 ^@uygu<n><dla><v><dma><n><cpldi>$.
-      1 ^@uygu<n><dla><v><abil><taor>$
-      1 ^@uygu<n><dla><v><abil><neg><vnmak>$
-      1 ^@uygu<n><dla><v><abil><neg><taor>$.
-      1 ^@uygu<n><dla><v><abil><cv>$
-      1 ^@uygu<n><dlan><v><tcont>$.
-      1 ^@uygu<n><dlan><v><neg><tcond>$
-      1 ^@uygu<n><dlan><v><abil><partyan>$
-      1 ^@uygu<n><dlan><v><abil><partdik>$
-      1 ^@uygu<n><dlan><v><abil><neg><vnmak>$
-      1 ^@uygu<n><dlan><v><abil><neg><partyan>$
-      1 ^@uygu<n><dlan><v><abil><neg><cv>$
       1 ^@uygar<adj><dlik><n>$
       1 ^@uydu<n><ki>$
       1 ^@uyarla<v><dma><n><cpldi>$.
-      1 ^@uyarı<n><dci><n>$.
-      1 ^@uyarı<n><dci><n>$
       1 ^@ütopya<n>$
       1 ^@üstün<adj><dlik><n>$.
       1 ^@üstgeçit<n>$
       1 ^@üste<n><dlan><v><partacak>$
       1 ^@us<n><ki>$
       1 ^@usan<v><dma><n>$
-      1 ^@ürün<n><cplsa>$
       1 ^@üret<v><dvnyici><adj><dlik><n>$
       1 ^@üret<v><dvnyici><adj><djn0><n>$.
-      1 ^@üniversite<n>$.
       1 ^@ünite<n><dlik><n>$
       1 ^@üniforma<n><dli><n><cpldi>$
       1 ^@ümran<n>$
@@ -5587,7 +4674,6 @@ BOR PROBABLY BORA
       1 ^@tur<n><cplken>$
       1 ^@tur<n>$.
       1 ^@türk<np><dca><n>$
-      1 ^@turist<n>$.
       1 ^@turgay<n>$
       1 ^@tunus<np><dli><n>$
       1 ^@tünik<n>$
@@ -5613,12 +4699,10 @@ BOR PROBABLY BORA
       1 ^@trajikomedi<n>$."
       1 ^@trajikomedi<n>$.
       1 ^@tragedya<n>$
-      1 ^@trafik<n><ki>$
       1 ^@total<n>$
       1 ^@tos<n><ca>$
       1 ^@tor<n><cplsa>$
       1 ^@topoğrafya<n>$
-      1 ^@topla<n><ki>$
       1 ^@topaz<n>$
       1 ^@topar<n><dla><v><tpast>$.
       1 ^@topar<n><dla><v><partdik>$
@@ -5629,7 +4713,6 @@ BOR PROBABLY BORA
       1 ^@tonaj<n><dli><adj>$
       1 ^@toksikoloji<n>$
       1 ^@toksikolog<n>$
-      1 ^@tiyatro<n><dci><n>$
       1 ^@tırpan<n><dlan><v><partacak>$
       1 ^@tır<n><dci><n>$
       1 ^@tir<n><cpldi>$.
@@ -5643,7 +4726,6 @@ BOR PROBABLY BORA
       1 ^@tetikçi<n>$
       1 ^@tetik<adj><dla><v><dma><n>$
       1 ^@tetik<adj><dlan><v><dma><n>$
-      1 ^@teşvik<n><dli><adj>$
       1 ^@testosteron<n>$
       1 ^@test<n>$!
       1 ^@teşrii<n>$
@@ -5651,7 +4733,6 @@ BOR PROBABLY BORA
       1 ^@teslimiyet<n>$
       1 ^@tescil<n><dli><adj>$
       1 ^@terzi<n><dlik><n>$
-      1 ^@terör<n>$.
       1 ^@ter<n><dla><v><dma><n>$
       1 ^@ter<n>$.
       1 ^@termos<n>$
@@ -5672,11 +4753,6 @@ BOR PROBABLY BORA
       1 ^@teminat<n>$.
       1 ^@tembel<n>$
       1 ^@tembel<adj><dlik><n>$
-      1 ^@televizyon<n><dli><adj>$
-      1 ^@televizyon<n><dci><adj><dlik><n>$
-      1 ^@televizyon<n><dci><adj>$
-      1 ^@televizyon<n><ca>$
-      1 ^@televizyon<n>$.
       1 ^@tektonik<n>$
       1 ^@tekrar<n><dla><v><tnarr>$
       1 ^@tekrar<n><dla><v><tcont>$.
@@ -5708,25 +4784,14 @@ BOR PROBABLY BORA
       1 ^@tay<n><cplsa>$
       1 ^@tay<n><cplken>$
       1 ^@tay<n><cpldi>$
-      1 ^@tavır<n><ki>$
-      1 ^@tavır<n><dli><adj>$
-      1 ^@tavır<n>$ 
       1 ^@tat<v><dvnyici><adj><dlik><n>$
       1 ^@tatminsizlik<n>$
       1 ^@taşı<v><dma><n><dli><n>$
       1 ^@taşı<v><dci><n>$
       1 ^@taşınmaz<adj><djn0><n>$
-      1 ^@tasar<n><dla><v><tpast>$.
-      1 ^@tasar<n><dla><v><tpast>$
-      1 ^@tasar<n><dla><v><cv>$
-      1 ^@tasar<n><dlan><v><tpast>$.
-      1 ^@tasar<n><dlan><v><dma><n><dli><adj>$
-      1 ^@tasar<n><dlan><v><dma><n>$.
       1 ^@tasarım<n><dli><adj>$
       1 ^@tartış<v><dma><n><dnnsiz><adv><dan0><n>$
       1 ^@tartış<n>$
-      1 ^@tartışma<n><dci><n>$
-      1 ^@tartışma<n><dci><adj>$
       1 ^@tartakla<v><dma><n>$
       1 ^@tar<n><dla><v><topt>$
       1 ^@tara<v><dma><n><dli><adj>$
@@ -5760,7 +4825,6 @@ BOR PROBABLY BORA
       1 ^@tane<n><cpldi>$
       1 ^@tane<n>$.
       1 ^@tamam<adj><dlan><v><dma><n><dli><adj>$.
-      1 ^@tam<adj><djn0><n>$.
       1 ^@talyum<n>$
       1 ^@tal<n>$
       1 ^@talk<n>$
@@ -5801,26 +4865,16 @@ BOR PROBABLY BORA
       1 ^@stres<n><dli><adj>$
       1 ^@stratej<n><ki>$
       1 ^@stratej<n>$.
-      1 ^@strateji<n><dlas><v><caus><vnmak>$
-      1 ^@strateji<n>$.
       1 ^@stop<n>$
       1 ^@stok<n><dla><v><partdik>$
       1 ^@sterlin<n><dlik><n>$
       1 ^@steril<n>$
       1 ^@sterilize<n>$
       1 ^@sten<n>$
-      1 ^@statü<n><dsal><adj>$
-      1 ^@statü<n><dli><adj>$
       1 ^@statik<n>$
-      1 ^@standart<n><dli><adj>$
-      1 ^@standart<n><dlas><v><tnarr>$
-      1 ^@standart<n><cplsa>$
-      1 ^@standart<n>$.
       1 ^@standardizasyon<n>$
       1 ^@stafilokok<n>$
       1 ^@sporsever<n>$
-      1 ^@spor<n><dci><adj>$.
-      1 ^@spor<n><cpldi>$
       1 ^@sponsor<n><dli><adj>$
       1 ^@spesiyal<n>$.
       1 ^@spekülasyon<n>$.
@@ -5829,7 +4883,6 @@ BOR PROBABLY BORA
       1 ^@sözlük<n><dca><n>$
       1 ^@sözel<n>$
       1 ^@söyle<v><dma><n><dli><adj>$
-      1 ^@soykırım<n><ki>$
       1 ^@soydaş<n>$
       1 ^@soyad<n><dli><adj>$
       1 ^@şovmen<n><dlik><n>$
@@ -5850,7 +4903,6 @@ BOR PROBABLY BORA
       1 ^@sörf<n><dci><n>$
       1 ^@sörf<n><dci><adj>$
       1 ^@sonuçlandır<v><dma><n><ki>$
-      1 ^@sonbahar<n>$.
       1 ^@sonar<n>$
       1 ^@somut<adj><dlik><n>$
       1 ^@sömür<v><dma><n>$
@@ -5874,7 +4926,6 @@ BOR PROBABLY BORA
       1 ^@siyonizm<n>$
       1 ^@siya<n><dsal><adj><dlas><v><caus><cv>$
       1 ^@siyahi<n>$
-      1 ^@site<n><cpldi>$.
       1 ^@şist<n>$
       1 ^@sismolog<n>$
       1 ^@şişman<adj><dla><v><dma><n>$
@@ -5894,12 +4945,6 @@ BOR PROBABLY BORA
       1 ^@simetrik<n>$
       1 ^@siluet<n>$
       1 ^@silkin<v><dma><n>$
-      1 ^@silah<n><ki>$
-      1 ^@silah<n><dnnsiz><adj><dlan><v><caus><partacak>$
-      1 ^@silah<n><dlan><v><partdik>$
-      1 ^@silah<n><dlan><v><partacak>$
-      1 ^@silah<n><dlan><v><cv>$
-      1 ^@silah<n><dlan><v><caus><partdik>$
       1 ^@sik<n><dlik><n>$
       1 ^@sık<n><dlas><v><partyan>$
       1 ^@sık<n><dlas><v><caus><vnmak>$
@@ -5952,14 +4997,9 @@ BOR PROBABLY BORA
       1 ^@sek<n><dli><adj>$
       1 ^@şehriye<n>$
       1 ^@şehiriç<n>$
-      1 ^@şef<n><dlik><n><ki>$
-      1 ^@şef<n><ca>$
-      1 ^@şef<n>$.
       1 ^@şeffaf<adj><dlik><n>$.
       1 ^@şeffaf<adj><djn0><n><cpldi>$
       1 ^@seferki<adj><djn0><n>$
-      1 ^@seçi<n><dla><v><dma><n>$
-      1 ^@seçi<n><cpldi>$.
       1 ^@sebil<n>$
       1 ^@şebek<n>$
       1 ^@sebatkar<n><dlik><n>$
@@ -5970,8 +5010,6 @@ BOR PROBABLY BORA
       1 ^@say<n><cpldi>$
       1 ^@say<n>$.
       1 ^@sayıla<v><dma><n><dcak><n>$
-      1 ^@saygı<n><dnnsiz><adj><dla><v><timp>$
-      1 ^@saygı<n><dnnsiz><adj>$
       1 ^@savurgan<n><dlik><n>$
       1 ^@savunu<n><dci><n><cpldi>$.
       1 ^@savunu<n>$
@@ -6064,8 +5102,6 @@ BOR PROBABLY BORA
       1 ^@şahbaz<n>$
       1 ^@şahane<adj><djn0><n><cpldi>$.
       1 ^@sagu<n>$
-      1 ^@sağlık<n><ki>$
-      1 ^@sağlık<n><dsal><adj>$
       1 ^@sağlam<n><dlas><v><cv>$
       1 ^@sağlam<n><dlas><v><caus><tpast>$.
       1 ^@sağlam<n><dlas><v><caus><abil><taor>$.
@@ -6093,10 +5129,8 @@ BOR PROBABLY BORA
       1 ^@römork<n><ki>$
       1 ^@römork<n>$
       1 ^@romatizma<n>$
-      1 ^@roman<n><dca><adj>$
       1 ^@romanesk<n>$
       1 ^@rölyef<n>$
-      1 ^@rol<n>$ 
       1 ^@roket<n><dli><adj>$
       1 ^@roket<n><cplsa>$
       1 ^@roketatar<n><dli><adj>$
@@ -6116,11 +5150,7 @@ BOR PROBABLY BORA
       1 ^@repertuar<n>$
       1 ^@rekor<n>$.
       1 ^@reji<n>$."
-      1 ^@rejim<n><dli><adj>$
-      1 ^@rejim<n><ca>$
       1 ^@refleks<n>$
-      1 ^@referandum<n><dnnsiz><adj>$
-      1 ^@referandum<n><cpldi>$.
       1 ^@redüksiyon<n>$
       1 ^@reddet<v><dma><n>$.
       1 ^@reçete<n><dli><adj>$
@@ -6137,7 +5167,6 @@ BOR PROBABLY BORA
       1 ^@rast<n>$
       1 ^@rastlantı<n><dsal><adj>$
       1 ^@rapsodi<n>$
-      1 ^@rapor<n><dla><v><vnmak>$
       1 ^@ramp<n>$
       1 ^@rakım<n><dli><adj>$
       1 ^@rahat<adj><djn0><n><dnnsiz><adj><djn0><n>$
@@ -6152,16 +5181,6 @@ BOR PROBABLY BORA
       1 ^@pul<n>$.
       1 ^@psikoz<n>$
       1 ^@psikoterapi<n>$
-      1 ^@protokol<n>$]...
-      1 ^@prosedür<n>$.
-      1 ^@program<n><dnnsiz><adj>$
-      1 ^@program<n><dla><v><cv>$
-      1 ^@program<n><dlan><v><partdik>$
-      1 ^@program<n><dlan><v><dma><n>$
-      1 ^@program<n><dci><n>$
-      1 ^@program<n><dcik><n>$
-      1 ^@program<n><cplsa>$
-      1 ^@program<n><ca>$
       1 ^@profil<n><ki>$
       1 ^@profesör<n><dlik><n>$
       1 ^@prodüktör<n><dlik><n>$
@@ -6190,8 +5209,6 @@ BOR PROBABLY BORA
       1 ^@plato<n>$
       1 ^@pizza<n><dci><adj>$
       1 ^@piyon<n>$
-      1 ^@piyasa<n>$."
-      1 ^@piyasa<n>$.
       1 ^@pire<n>$
       1 ^@pipo<n>$
       1 ^@pi<n><dli><adj>$
@@ -6203,9 +5220,6 @@ BOR PROBABLY BORA
       1 ^@perspektif<n><dli><adj>$
       1 ^@peroksit<n>$
       1 ^@perküsyon<n>$
-      1 ^@performans<n><ki>$
-      1 ^@performans<n><dli><adj>$
-      1 ^@performans<n><cplsa>$
       1 ^@perçin<n><dla><v><tpast>$
       1 ^@perçin<n><dla><v><partyan>$
       1 ^@perçin<n><dlan><v><dma><n>$
@@ -6225,8 +5239,6 @@ BOR PROBABLY BORA
       1 ^@pas<n><dli><adj>$
       1 ^@pas<n><dlas><v><dma><n><ki>$
       1 ^@pasifist<n>$
-      1 ^@pasaport<n><dli><adj>$
-      1 ^@pasaport<n>$.
       1 ^@parya<n>$
       1 ^@partili<n>$
       1 ^@partikül<n>$
@@ -6242,8 +5254,6 @@ BOR PROBABLY BORA
       1 ^@parasızlık<n>$
       1 ^@paranoyak<n><dca><adj>$
       1 ^@paranoyak<n>$
-      1 ^@para<n><ki>$
-      1 ^@para<n>$.
       1 ^@paralel<n>$.
       1 ^@paraf<n><dla><v><tpast>$
       1 ^@paraf<n><dla><v><tnarr><cpldi>$
@@ -6296,52 +5306,22 @@ BOR PROBABLY BORA
       1 ^@öte<n><dla><v><partacak>$
       1 ^@öte<n><dlan><v><abil><partacak>$
       1 ^@ortopedi<n>$
-      1 ^@ortaklık<n><cplsa>$
-      1 ^@ortaklık<n><cpldi>$."
       1 ^@ortaç<n>$
       1 ^@orijin<n><dli><adj>$.
       1 ^@örgütle<v><dvnyici><adj><djn0><n>$
       1 ^@örfi<n>$
       1 ^@orantı<n><dnnsiz><adj><dca><adj>$
-      1 ^@ora<n><cpldi>$
       1 ^@öp<v><rec><dma><n>$
       1 ^@öp<v><dma><n>$
       1 ^@optimizasyon<n>$
-      1 ^@operasyon<n><cpldi>$.
-      1 ^@operasyon<n><cpldi>$
       1 ^@önsöz<n><dlas><v><dma><n>$
       1 ^@önsöz<n>$
       1 ^@ons<n>$
       1 ^@önlük<n>$
       1 ^@öncü<n>$
-      1 ^@öncelik<n><ki>$
-      1 ^@öncelik<n><dlan><v><caus><partacak>$.
-      1 ^@öncelik<n>$ 
-      1 ^@onay<n><dnnsiz><adj>$
-      1 ^@onay<n><dla><v><vnmak><ki>$
-      1 ^@onay<n><dla><v><tnarr>$
-      1 ^@onay<n><dla><v><tcont>$
-      1 ^@onay<n><dla><v><neg><tpast>$.
-      1 ^@onay<n><dla><v><neg><tpast>$
-      1 ^@onay<n><dla><v><neg><tcont>$.
-      1 ^@onay<n><dla><v><neg><tcont>$
-      1 ^@onay<n><dla><v><neg><cv><dca>$
-      1 ^@onay<n><dla><v><dvnyici><adj>$
-      1 ^@onay<n><dla><v><dma><n>$.
-      1 ^@onay<n><dla><v><caus><vnmak>$
-      1 ^@onay<n><dla><v><abil><partacak>$.
-      1 ^@onay<n><dla><v><abil><neg><tpast>$.
-      1 ^@onay<n><dla><v><abil><neg><tpast>$
-      1 ^@onay<n><dla><v><abil><neg><partdik>$
-      1 ^@onay<n><dla><v><abil><cv>$
-      1 ^@onay<n><dlan><v><neg><cv><dca>$
-      1 ^@onay<n><dlan><v><dma><n><dli><adj>$
-      1 ^@onay<n><dlan><v><dma><n><cpldi>$.
-      1 ^@onay<n><dlan><v><abil><partacak>$
       1 ^@onarım<n><ki>$
       1 ^@oluş<v><dma><n><dli><adj>$
       1 ^@öl<n>$ ...
-      1 ^@olimpiyat<n><dla><v><taor>$
       1 ^@olası<n><cplken>$
       1 ^@olağanüstü<adj><djn0><n><cpldi>$
       1 ^@oku<v><dma><n><dli><n>$
@@ -6354,7 +5334,6 @@ BOR PROBABLY BORA
       1 ^@okey<n>$
       1 ^@öğret<v><dma><n><cplsa>$
       1 ^@öğren<v><dvnyici><adj><djn0><n>$
-      1 ^@ofis<n><ca>$
       1 ^@oditoryum<n>$
       1 ^@ödenti<n>$
       1 ^@obligasyon<n>$
@@ -6366,11 +5345,6 @@ BOR PROBABLY BORA
       1 ^@not<n><dlan><v><caus><cv>$
       1 ^@nörolog<n>$
       1 ^@normal<n><cpldi>$
-      1 ^@nokta<n><dla><v><vnmak>$
-      1 ^@nokta<n><dla><v><dma><n><dnnsiz><adj>$
-      1 ^@nokta<n><dlan><v><partyan>$
-      1 ^@nokta<n><cpldi>$
-      1 ^@nokta<n>$"
       1 ^@noksan<n>$
       1 ^@niza<n>$
       1 ^@niyaz<n>$
@@ -6382,30 +5356,12 @@ BOR PROBABLY BORA
       1 ^@nezaket<n>$
       1 ^@nezaketen<n>$
       1 ^@neva<n>$
-      1 ^@net<n><dlas><v><tmakta>$
-      1 ^@net<n><dlas><v><taor><cplken>$
-      1 ^@net<n><dlas><v><partyan>$
-      1 ^@net<n><dlas><v><partacak>$.
-      1 ^@net<n><dlas><v><neg><cv>$
-      1 ^@net<n><dlas><v><cv><dca>$
-      1 ^@net<n><dlas><v><cv>$
-      1 ^@net<n><dlas><v><caus><tmakta>$
-      1 ^@net<n><dlas><v><caus><pass><tobl>$
-      1 ^@net<n><dlas><v><caus><partacak>$.
-      1 ^@net<n><dlas><v><caus><abil><neg><vnmak>$
-      1 ^@net<n><cpldi>$.
-      1 ^@net<n><cpldi>$
-      1 ^@net<n>$.
       1 ^@nesnel<n>$
       1 ^@neoplazma<n>$
       1 ^@ne<n><dlan><v><timp>$
       1 ^@nemrut<n>$
       1 ^@nektar<n>$
       1 ^@negatif<n><ki>$
-      1 ^@neden<n><dli><n>$.
-      1 ^@neden<n><dla><v><taor>$
-      1 ^@neden<n><dla><v><dma><n>$
-      1 ^@neden<n><cplsa>$
       1 ^@necati<np><dgil><n>$
       1 ^@nazizm<n>$
       1 ^@nazir<n>$
@@ -6453,9 +5409,6 @@ BOR PROBABLY BORA
       1 ^@müdire<n><dlik><n>$
       1 ^@müdavi<n>$
       1 ^@müdavim<n>$
-      1 ^@müdahale<n><dnnsiz><adj><dlik><n>$
-      1 ^@müdahale<n><dli><adj>$
-      1 ^@müdahale<n><dci><adj>$
       1 ^@mucizevi<n>$
       1 ^@mücevherat<n>$
       1 ^@mübalağa<n>$
@@ -6475,8 +5428,6 @@ BOR PROBABLY BORA
       1 ^@modernizasyon<n><ki>$
       1 ^@model<n><dla><v><dma><n>$
       1 ^@model<n><dlan><v><tpast>$.
-      1 ^@misyon<n>$)
-      1 ^@misyon<n>$.
       1 ^@misyoner<n><dlik><n>$
       1 ^@mis<n><dli><adj>$.
       1 ^@miskin<adj><dlik><n>$
@@ -6512,29 +5463,21 @@ BOR PROBABLY BORA
       1 ^@met<n><ki>$
       1 ^@metelik<n><dnnsiz><adj>$
       1 ^@mesel<n>$."
-      1 ^@mesaj<n><dlas><v><dma><n>$
-      1 ^@mesaj<n>$."
-      1 ^@mesaj<n>$.
       1 ^@merkeziyet<n><dci><adj><dli><adj>$
       1 ^@merkeziyet<n>$ 
       1 ^@menzil<n>$
       1 ^@memure<n>$
-      1 ^@memnun<n><cplken>$
-      1 ^@memnun<n><cpldi>$
-      1 ^@memnun<n>$ 
       1 ^@melankolik<n>$
       1 ^@mekanizma<n><ki>$
       1 ^@mekanik<n>$
       1 ^@meditasyon<n>$
       1 ^@mazeret<n>$."
-      1 ^@mayın<n><dnnsiz><adj>$
       1 ^@mavi<adj><dli><adj><djn0><n>$
       1 ^@matrah<n>$
       1 ^@mat<n>$
       1 ^@materyal<n><cpldi>$
       1 ^@matematik<n><dsal><adj>$
       1 ^@masaj<n>$
-      1 ^@mart<n><ki>$
       1 ^@mars<n><dli><adj>$
       1 ^@mars<n>$
       1 ^@marmelat<n>$
@@ -6561,7 +5504,6 @@ BOR PROBABLY BORA
       1 ^@manastır<n>$.
       1 ^@malt<n>$.
       1 ^@malkar<n>$
-      1 ^@mali<n>$).
       1 ^@malaga<n>$
       1 ^@majeste<n>$
       1 ^@mail<n>$.
@@ -6569,9 +5511,6 @@ BOR PROBABLY BORA
       1 ^@mahmuz<n><dla><v><vnmak>$
       1 ^@magnezyum<n>$
       1 ^@madam<n>$
-      1 ^@maç<n><dlik><n>$
-      1 ^@maç<n><dli><adj>$
-      1 ^@maç<n><cplmis>$
       1 ^@longa<n>$
       1 ^@lonca<n>$
       1 ^@linin<n>$
@@ -6623,24 +5562,13 @@ BOR PROBABLY BORA
       1 ^@kuru<adj><dlik><n>$
       1 ^@kuru<adj><djn0><n>$
       1 ^@kurtul<v><dma><n><ki>$
-      1 ^@kur<n><dli><n>$
-      1 ^@kur<n><dlan><v><dma><n>$
-      1 ^@kur<n><dca><adj><dla><v><partdik>$
-      1 ^@kur<n><dca><adj><dlan><v><partacak>$
-      1 ^@kur<n><cplsa>$
       1 ^@kür<n><cpldi>$
-      1 ^@kur<n><ca>$
       1 ^@kumsal<n><ki>$
       1 ^@kumpanya<n><ki>$
       1 ^@kumpanya<n><ca>$
       1 ^@küm<n>$
       1 ^@kumandan<n>$
       1 ^@külte<n>$
-      1 ^@kullanım<n><ki>$
-      1 ^@kullanım<n><dlik><n>$
-      1 ^@kullanım<n><cpldi>$.
-      1 ^@kullanım<n><cpldi>$
-      1 ^@kullanım<n>$.
       1 ^@külhanbey<n>$
       1 ^@külfet<n><dli><adj>$
       1 ^@kula<n><cpldi>$.
@@ -6663,9 +5591,6 @@ BOR PROBABLY BORA
       1 ^@kozmik<n>$
       1 ^@kozalak<n><dli><adj>$
       1 ^@koy<v><dvnyici><adj><djn0><n>$
-      1 ^@köy<n><dli><n>$.
-      1 ^@köy<n><dli><adj><dla><v><taor>$
-      1 ^@köy<n><cplsa>$
       1 ^@kovuştur<v><dma><n><ki>$
       1 ^@kovboy<n>$
       1 ^@kovan<n>$
@@ -6712,27 +5637,15 @@ BOR PROBABLY BORA
       1 ^@konstrüksiyon<n>$
       1 ^@konsorsiyum<n><dli><adj>$
       1 ^@konsorsiyum<n>$.
-      1 ^@konsey<n><ki>$
       1 ^@konserve<n>$
-      1 ^@konser<n><ki>$
-      1 ^@konser<n><dlik><n>$
-      1 ^@konser<n><cpldi>$.
       1 ^@konsept<n>$.
       1 ^@konsantrasyon<n><ki>$
-      1 ^@kongre<n><cpldi>$.
       1 ^@konak<n><dla><v><partyan>$
       1 ^@konak<n>$
-      1 ^@komuta<n><dli><adj>$
-      1 ^@komuta<n><cplsa>$
-      1 ^@komuta<n>$.
       1 ^@kömür<n><dlik><n>$
-      1 ^@komünist<n><cplsa>$
-      1 ^@komünist<n><ca>$
       1 ^@komşu<n><ki>$
       1 ^@kompres<n>$
       1 ^@kompliman<n>$
-      1 ^@komite<n><cplsa>$
-      1 ^@komite<n><ca>$
       1 ^@kolon<n>$
       1 ^@kolesterol<n>$
       1 ^@kolektör<n>$
@@ -6750,8 +5663,6 @@ BOR PROBABLY BORA
       1 ^@kod<n><dla><v><dma><n>$
       1 ^@kodaman<n>$
       1 ^@koçak<n>$
-      1 ^@koalisyon<n><ca>$
-      1 ^@koalisyon<n>$.
       1 ^@klor<n><dla><v><dma><n>$
       1 ^@klon<n><dla><v><dma><n>$
       1 ^@klon<n><dlan><v><partyan>$
@@ -6783,10 +5694,6 @@ BOR PROBABLY BORA
       1 ^@kısıt<n><dla><v><dma><n><dnnsiz><adj>$
       1 ^@kısıt<n><dlan><v><tpast>$.
       1 ^@kısıt<n><dlan><v><partacak>$.
-      1 ^@kişi<n><dsal><adj><dlik><n>$
-      1 ^@kişi<n><dsal><adj><djn0><n><cpldi>$
-      1 ^@kişi<n><cplken>$
-      1 ^@kişilik<n><cpldi>$
       1 ^@kısık<n>$
       1 ^@kısa<n><dlik><n>$
       1 ^@kir<n><dla><v><caus><vnmak>$
@@ -6805,8 +5712,6 @@ BOR PROBABLY BORA
       1 ^@kıraathane<n><cpldi>$
       1 ^@kimyager<n>$
       1 ^@kimse<n><dcik><n>$
-      1 ^@kimlik<n><ki>$
-      1 ^@kimlik<n><dli><adj>$
       1 ^@kimi<adv><dan0><n><dla><v><timp>$
       1 ^@kilovatsaat<n><dlik><n>$
       1 ^@kilogram<n><dlik><n>$
@@ -6814,7 +5719,6 @@ BOR PROBABLY BORA
       1 ^@kik<n>$
       1 ^@kibar<adj><dlik><n>$
       1 ^@ketum<n>$
-      1 ^@kes<n><cpldi>$
       1 ^@kesiş<v><dma><n>$
       1 ^@kesinti<n><dli><adj>$
       1 ^@kesin<n><dlas><v><partacak>$.
@@ -6851,11 +5755,6 @@ BOR PROBABLY BORA
       1 ^@kayrak<n>$
       1 ^@kay<n><cpldi>$.
       1 ^@kaymak<n><dli><adj>$
-      1 ^@kayıt<n><ki>$
-      1 ^@kayıt<n><dnnsiz><adj><dca><adj>$
-      1 ^@kayıt<n><dli><n><cpldi>$.
-      1 ^@kayıt<n><dli><n>$?
-      1 ^@kayıt<n><dli><adj>$.
       1 ^@kayış<n>$
       1 ^@kayın<n>$
       1 ^@kaydet<v><dvnyici><adj><djn0><n>$
@@ -6870,7 +5769,6 @@ BOR PROBABLY BORA
       1 ^@katkı<n><dci><n>$
       1 ^@katkı<n><cpldi>$
       1 ^@katkı<n>$.
-      1 ^@katılım<n><dci><adj><dli><adj>$
       1 ^@katet<v><dma><n>$
       1 ^@katedral<n><ki>$
       1 ^@katalizör<n><dlik><n>$
@@ -6903,32 +5801,12 @@ BOR PROBABLY BORA
       1 ^@kapış<v><dma><n>$
       1 ^@kapıl<v><dma><n>$.
       1 ^@kapela<n>$
-      1 ^@kapasite<n><dnnsiz><adj><dlik><n>$
-      1 ^@kapasite<n><dli><n>$
-      1 ^@kapasite<n><cplsa>$
       1 ^@kanyon<n>$
       1 ^@kanunname<n>$
       1 ^@kanton<n><dlas><v><dma><n>$
       1 ^@kanton<n><dlas><v><caus><pass><cv>$
       1 ^@kanto<n><ki>$
       1 ^@kano<n><dci><adj><dlik><n>$
-      1 ^@kanıt<n><dla><v><tpast>$."
-      1 ^@kanıt<n><dla><v><tpast>$
-      1 ^@kanıt<n><dla><v><tobl>$.
-      1 ^@kanıt<n><dla><v><tobl>$
-      1 ^@kanıt<n><dla><v><tnarr>$
-      1 ^@kanıt<n><dla><v><tcont>$.
-      1 ^@kanıt<n><dla><v><tcont>$
-      1 ^@kanıt<n><dla><v><neg><partdik>$
-      1 ^@kanıt<n><dla><v><dvnyici><adj>$
-      1 ^@kanıt<n><dla><v><abil><taor>$
-      1 ^@kanıt<n><dla><v><abil><neg><tcond>$
-      1 ^@kanıt<n><dla><v><abil><neg><partacak>$
-      1 ^@kanıt<n><dlan><v><partacak>$
-      1 ^@kanıt<n><dlan><v><neg><partdik>$
-      1 ^@kanıt<n><cplsa>$
-      1 ^@kanıt<n><cplken>$
-      1 ^@kanıt<n>$."
       1 ^@kanıtla<v><dma><n><dli><n>$
       1 ^@kanguru<n>$
       1 ^@kangren<n><dlas><v><cv>$
@@ -6937,9 +5815,6 @@ BOR PROBABLY BORA
       1 ^@kanal<n><dli><adj>$
       1 ^@kanal<n><cplsa>$
       1 ^@kamping<n>$
-      1 ^@kampanya<n><dci><n>$
-      1 ^@kampanya<n><dci><adj>$.
-      1 ^@kampanya<n><cpldi>$.
       1 ^@kamikaze<n>$
       1 ^@kambiyo<n>$
       1 ^@kal<v><dyis><n><dli><adj>$
@@ -6966,13 +5841,6 @@ BOR PROBABLY BORA
       1 ^@kaçın<v><dci><n>$
       1 ^@kaçıl<v><dma><n>$
       1 ^@kaç<adj><djn0><n>$.
-      1 ^@kabul<n><dlan><v><tpast>$.
-      1 ^@kabul<n><dlan><v><tobl>$
-      1 ^@kabul<n><dlan><v><neg><partacak>$
-      1 ^@kabul<n><dlan><v><cv>$
-      1 ^@kabul<n>$.
-      1 ^@kabin<n><dli><adj>$
-      1 ^@kabin<n><cplsa>$
       1 ^@kabil<n><cpldi>$.
       1 ^@kabarcık<n>$
       1 ^@jüri<n><cplsa>$
@@ -7006,9 +5874,6 @@ BOR PROBABLY BORA
       1 ^@istem<n><dci><n>$
       1 ^@ıstavroz<n>$
       1 ^@ıstakoz<n>$
-      1 ^@ısrar<n><dli><n>$.
-      1 ^@ısrar<n><dci><adj>$.
-      1 ^@ısrar<n><cpldi>$.
       1 ^@işporta<n>$
       1 ^@ispanya<n>$
       1 ^@ıspanak<n>$
@@ -7026,20 +5891,12 @@ BOR PROBABLY BORA
       1 ^@ısı<n>$
       1 ^@ışıltı<n><dli><adj>$
       1 ^@ışıltı<n>$
-      1 ^@işaret<n><dnnsiz><adj>$
-      1 ^@işaret<n><dla><v><vnmak>$
-      1 ^@işaret<n><dla><v><dma><n>$
-      1 ^@işaret<n><dla><v><abil><partacak>$
-      1 ^@işaret<n><dlan><v><partacak>$
-      1 ^@işaret<n><dci><n>$
-      1 ^@işaret<n>$."
       1 ^@isaf<n>$)
       1 ^@işadam<n><dlik><n>$
       1 ^@irlanda<np><dli><n>$
       1 ^@iris<n>$
       1 ^@iplik<n>$
       1 ^@inzibat<n>$
-      1 ^@internet<n>$".
       1 ^@insaf<n><dnnsiz><adj>$
       1 ^@insaf<n><dli><adj>$
       1 ^@iniş<n><dli><adj>$
@@ -7054,23 +5911,6 @@ BOR PROBABLY BORA
       1 ^@inan<v><dma><n>$.
       1 ^@inan<n><dla><v><cv>$.
       1 ^@inan<n><dci><n>$.
-      1 ^@imza<n><dlik><n>$
-      1 ^@imza<n><dla><v><vnmak><ki>$
-      1 ^@imza<n><dla><v><tpast>$."
-      1 ^@imza<n><dla><v><tcont>$.
-      1 ^@imza<n><dla><v><tcont>$
-      1 ^@imza<n><dla><v><partacak><cpldi>$.
-      1 ^@imza<n><dla><v><partacak>$ 
-      1 ^@imza<n><dla><v><neg><tpast>$
-      1 ^@imza<n><dla><v><neg><tnarr>$
-      1 ^@imza<n><dla><v><neg><partacak>$.
-      1 ^@imza<n><dla><v><neg><cv><dca>$
-      1 ^@imza<n><dla><v><caus><caus><pass><partdik>$
-      1 ^@imza<n><dla><v><abil><taor>$.
-      1 ^@imza<n><dla><v><abil><neg><cv>$
-      1 ^@imza<n><dlan><v><vnyis>$
-      1 ^@imza<n><dlan><v><neg><partdik>$
-      1 ^@imza<n><dlan><v><dma><n>$.
       1 ^@imha<n><ki>$
       1 ^@illüzyon<n>$
       1 ^@illüstrasyon<n>$
@@ -7093,8 +5933,6 @@ BOR PROBABLY BORA
       1 ^@ikilem<n><dli><adj>$
       1 ^@ihraç<n><ki>$
       1 ^@ihmalkar<adj><dlik><n>$
-      1 ^@ihale<n><cpldi>$.
-      1 ^@ihale<n>$.
       1 ^@ifşaat<n>$
       1 ^@idil<n>$
       1 ^@ideolog<n>$
@@ -7103,10 +5941,7 @@ BOR PROBABLY BORA
       1 ^@iddianame<n>$.
       1 ^@içtihat<n>$
       1 ^@içten<np><dlik><n>$
-      1 ^@iç<n><dsal><adj>$
-      1 ^@iç<n><cplmis>$
       1 ^@içeri<n><cplken>$
-      1 ^@iade<n><ki>$
       1 ^@hüsran<n><ki>$
       1 ^@huş<n>$
       1 ^@hu<n>$
@@ -7123,7 +5958,6 @@ BOR PROBABLY BORA
       1 ^@hol<n>$
       1 ^@holding<n>$.
       1 ^@hobi<n>$
-      1 ^@hizmet<n>$.
       1 ^@hisset<v><dma><n><dli><n>$.
       1 ^@hırka<n>$
       1 ^@hipotez<n>$
@@ -7139,9 +5973,6 @@ BOR PROBABLY BORA
       1 ^@hentbol<n><dci><adj>$
       1 ^@hemze<n>$
       1 ^@hektar<n><ca>$
-      1 ^@hazırlık<n><dnnsiz><adv><dan0><n><cpldi>$
-      1 ^@hazırlık<n><dli><n><cpldi>$
-      1 ^@hazırlık<n><dli><n>$.
       1 ^@hayırsever<n><dlik><n>$
       1 ^@haya<n><dli><adj>$
       1 ^@hayalperest<adj><dlik><n>$
@@ -7152,7 +5983,6 @@ BOR PROBABLY BORA
       1 ^@hav<n><dla><v><dma><n>$
       1 ^@hav<n><dla><v><cv>$
       1 ^@havayol<n><ki>$
-      1 ^@havaalan<n>$.
       1 ^@hatıl<n>$
       1 ^@hastalık<n><dli><adj>$
       1 ^@hastalık<n>$.
@@ -7200,8 +6030,6 @@ BOR PROBABLY BORA
       1 ^@güçlük<n><cplsa>$
       1 ^@gücen<v><dma><n><dca><adj>$
       1 ^@grizu<n>$
-      1 ^@grev<n><ki>$
-      1 ^@grev<n><cpldi>$.
       1 ^@grekoromen<n>$
       1 ^@gramer<n>$
       1 ^@grafit<n>$
@@ -7213,8 +6041,6 @@ BOR PROBABLY BORA
       1 ^@göster<v><dma><n><ki>$
       1 ^@göster<v><dma><n><dli><adj>$.
       1 ^@gösteriş<n><dli><adj>$
-      1 ^@gösteri<n><ki>$
-      1 ^@gösteri<n><cplsa>$
       1 ^@gösterim<n><dlan><v><taor><cplken>$
       1 ^@gösterim<n><dlan><v><partyan>$
       1 ^@gör<v><rec><dma><n><dla><v><timp>$
@@ -7259,25 +6085,17 @@ BOR PROBABLY BORA
       1 ^@gır<n>$
       1 ^@giriş<v><dma><n><dli><adj>$
       1 ^@girişken<n>$
-      1 ^@girişim<n><dsal><adj>$
       1 ^@gezer<np><dlik><n>$
       1 ^@gezegen<n><ki>$
       1 ^@getiri<n><ki>$
       1 ^@getiri<n><ca>$
       1 ^@getiri<n>$.
-      1 ^@geri<n><dla><v><tpast>$.
-      1 ^@geri<n><dla><v><caus><pass><partdik>$
-      1 ^@geri<n><dla><v><caus><partdik>$
-      1 ^@geri<n><dla><v><caus><partacak>$
-      1 ^@geri<n><dla><v><caus><abil><partacak>$
       1 ^@gerçekdış<n><cpldi>$
       1 ^@gen<n><dlas><v><dma><n>$
       1 ^@gen<n><dci><adj>$.
       1 ^@gen<n><dca><adj><dli><adj>$
       1 ^@genişlik<n>$.
       1 ^@geniş<adj><dla><v><dma><n>$.
-      1 ^@general<n><cplsa>$
-      1 ^@general<n>$.
       1 ^@geliş<v><dma><n><dla><v><timp>$
       1 ^@geç<n><cpldi>$ 
       1 ^@geçim<n><dnnsiz><adj><dlik><n>$
@@ -7295,10 +6113,6 @@ BOR PROBABLY BORA
       1 ^@geçek<n><dlas><v><caus><pass><tpast>$.
       1 ^@geçek<n>$
       1 ^@gazino<n>$
-      1 ^@gazete<n><dci><n><cpldi>$.
-      1 ^@gazete<n><dci><n>$)
-      1 ^@gazete<n><cpldi>$.
-      1 ^@gazete<n>$.
       1 ^@gazel<n>$
       1 ^@gazap<n>$
       1 ^@gaza<n>$
@@ -7335,19 +6149,11 @@ BOR PROBABLY BORA
       1 ^@flöre<n>$
       1 ^@fizyoterapist<n>$
       1 ^@fizik<n><dci><n>$
-      1 ^@firma<n><ki>$
-      1 ^@firma<n><cplsa>$
-      1 ^@firma<n><cpldi>$.
-      1 ^@firma<n><ca>$
       1 ^@firavun<n>$
       1 ^@filtre<n><dla><v><dma><n>$
       1 ^@filotilla<n>$
       1 ^@filo<n><ki>$
       1 ^@filolog<n>$
-      1 ^@film<n><dlik><n>$
-      1 ^@film<n><dci><n>$
-      1 ^@film<n><dci><adj>$
-      1 ^@film<n><cplsa>$
       1 ^@filika<n><ki>$
       1 ^@figüran<n>$
       1 ^@fezleke<n>$
@@ -7362,7 +6168,6 @@ BOR PROBABLY BORA
       1 ^@fena<adj><djn0><n>$
       1 ^@felsefi<n>$
       1 ^@federe<n><dlik><n>$
-      1 ^@federasyon<n><ca>$
       1 ^@federalizm<n>$
       1 ^@faz<n><dlan><v><timp>$
       1 ^@faz<n><cpldi>$
@@ -7383,38 +6188,17 @@ BOR PROBABLY BORA
       1 ^@fa<n>$
       1 ^@falaka<n>$
       1 ^@fak<n>$
-      1 ^@fabrika<n><cpldi>$.
-      1 ^@faaliyet<n><cpldi>$.
-      1 ^@faaliyet<n>$.
       1 ^@ezber<n><dlan><v><dma><n>$
       1 ^@ezber<n><dci><adj>$
       1 ^@eza<n>$
-      1 ^@eyalet<n><cplsa>$
-      1 ^@eyalet<n><cpldi>$
       1 ^@evren<n><dsal><adj><djn0><n>$.
       1 ^@evre<n><ki>$
-      1 ^@euro<n><cpldi>$
       1 ^@etobur<n>$
       1 ^@etnoloji<n>$
       1 ^@etnolojik<n>$
       1 ^@etnolog<n>$
-      1 ^@etki<n><dli><n><cpldi>$.
-      1 ^@etki<n><dla><v><tpast>$.
-      1 ^@etki<n><dla><v><tcont>$
-      1 ^@etki<n><dla><v><neg><vnmak>$
-      1 ^@etki<n><dla><v><neg><taor>$
-      1 ^@etki<n><dla><v><neg><partacak>$.
-      1 ^@etki<n><dla><v><abil><partacak>$.
-      1 ^@etki<n><dlan><v><vnmak>$
-      1 ^@etki<n><dlan><v><tcont>$
-      1 ^@etki<n><dlan><v><neg><partyan>$
-      1 ^@etki<n><dlan><v><neg><partacak>$.
-      1 ^@etki<n><dlan><v><abil><partacak>$.
-      1 ^@etki<n><cplken>$
-      1 ^@etki<n><cpldi>$
       1 ^@etkin<adj><dlik><n><cpldi>$
       1 ^@etkin<adj><dli><adj><dlik><n>$
-      1 ^@etki<n>$.
       1 ^@etkile<v><dvnyici><adj><djn0><n><cpldi>$.
       1 ^@etken<n>$.
       1 ^@etil<n>$.
@@ -7455,7 +6239,6 @@ BOR PROBABLY BORA
       1 ^@enflasyon<n><cplsa>$
       1 ^@enflasyon<n>$.
       1 ^@enfarktüs<n>$
-      1 ^@enerji<n>$.
       1 ^@endüstri<n><ki>$
       1 ^@endüksiyon<n>$
       1 ^@endeks<n><ki>$
@@ -7474,18 +6257,11 @@ BOR PROBABLY BORA
       1 ^@elektroteknik<n>$
       1 ^@elektroliz<n>$
       1 ^@elektrolit<n>$
-      1 ^@elektrik<n><dci><adj>$
-      1 ^@elektrik<n>$.
       1 ^@elebaşı<n>$.
       1 ^@ek<v><dma><n><dli><adj>$
       1 ^@ekspres<n>$
       1 ^@eksper<n>$
       1 ^@eksil<v><dma><n>$
-      1 ^@ek<n><ki>$
-      1 ^@ek<n><dli><n>$
-      1 ^@ek<n><cplken>$
-      1 ^@ek<n><cpldi>$.
-      1 ^@ek<n>$.
       1 ^@ejderha<n>$
       1 ^@ehliyet<n><dli><adj>$
       1 ^@ego<n>$
@@ -7540,9 +6316,6 @@ BOR PROBABLY BORA
       1 ^@düşün<n><dca><n><dnnsiz><adj>$
       1 ^@düşün<n><dca><n>$.
       1 ^@düşün<n><dcak><n>$
-      1 ^@düşük<n><cplsa>$
-      1 ^@düşük<n><cpldi>$
-      1 ^@düşük<n>$ 
       1 ^@düş<n><dla><v><partyan>$
       1 ^@düşkün<n><dlik><n>$
       1 ^@düşkü<n>$
@@ -7605,16 +6378,10 @@ BOR PROBABLY BORA
       1 ^@doğrul<v><dma><n>$
       1 ^@doğru<adj><djn0><n><dsal><adj>$
       1 ^@dogmatik<n>$
-      1 ^@doğalgaz<n><dli><adj>$
       1 ^@dobra<n><dlik><n>$
       1 ^@dizey<n>$
       1 ^@dizayn<n>$
-      1 ^@diyalog<n><dnnsiz><adj><dlik><n>$
-      1 ^@diyalog<n>$.
       1 ^@distribütör<n>$
-      1 ^@dış<n><dsal><adj>$
-      1 ^@dış<n><cplken>$
-      1 ^@dış<n><cpldi>$.
       1 ^@dışmerkez<n><dci><adj>$
       1 ^@diskotek<n>$
       1 ^@disk<n><dci><adj>$
@@ -7626,7 +6393,6 @@ BOR PROBABLY BORA
       1 ^@dire<v><dma><n>$
       1 ^@diret<v><dma><n>$
       1 ^@diren<n><dci><n>$
-      1 ^@direktör<n><cpldi>$.
       1 ^@dirayet<n><dli><adj>$
       1 ^@diplomat<n><cplsa>$
       1 ^@dinozor<n>$
@@ -7657,22 +6423,7 @@ BOR PROBABLY BORA
       1 ^@depozit<n>$
       1 ^@denizat<n>$
       1 ^@dengele<v><dvnyici><adj><djn0><n>$
-      1 ^@denet<n><dla><v><tcont>$.
-      1 ^@denet<n><dla><v><tcont>$
-      1 ^@denet<n><dla><v><dma><n>$.
-      1 ^@denet<n><dla><v><cv>$
-      1 ^@denet<n><dla><v><abil><vnmak>$
-      1 ^@denet<n><dla><v><abil><partacak>$.
-      1 ^@denet<n><dla><v><abil><neg><partacak>$
-      1 ^@denet<n><dlan><v><vnmak>$
-      1 ^@denet<n><dlan><v><neg><partdik>$
-      1 ^@denet<n><cplken>$
-      1 ^@denet<n>$.
       1 ^@denetim<n><cpldi>$.
-      1 ^@demokratik<n><dlik><n>$
-      1 ^@demokratik<n><dlas><v><partyan>$
-      1 ^@demokratik<n><dlas><v><dma><n><ki>$
-      1 ^@demokratik<n><dlas><v><caus><pass><cv>$
       1 ^@demode<n>$
       1 ^@demirkapı<n>$
       1 ^@demirci<n>$
@@ -7692,8 +6443,6 @@ BOR PROBABLY BORA
       1 ^@daya<v><dma><n>$
       1 ^@dayan<v><dma><n>$.
       1 ^@dayalı<n>$."
-      1 ^@dav<n><cplsa>$
-      1 ^@dav<n>$.
       1 ^@davetkar<n>$
       1 ^@darp<n>$
       1 ^@darmadağın<n>$
@@ -7707,7 +6456,6 @@ BOR PROBABLY BORA
       1 ^@dalgı<n><dci><adj>$
       1 ^@dalavere<n><dci><n>$
       1 ^@dahi<n>$
-      1 ^@dahil<n>$."
       1 ^@daha<n>$
       1 ^@dağıtım<n><dci><adj>$
       1 ^@cürüm<n><ki>$
@@ -7741,14 +6489,9 @@ BOR PROBABLY BORA
       1 ^@çıktı<n>$ 
       1 ^@çikolata<n><dli><adj>$
       1 ^@çıkış<v><dma><n>$
-      1 ^@çıkar<n><dca><n>$
-      1 ^@çıkar<n><dcak><n>$
       1 ^@çığırtkan<n>$
       1 ^@çiğde<n>$
       1 ^@çigan<n>$
-      1 ^@çift<n><dci><n><cplsa>$
-      1 ^@çift<n><dci><n><cpldi>$.
-      1 ^@çift<n><cplsa>$
       1 ^@ciddiyet<n><dnnsiz><adj><dlik><n>$
       1 ^@çevri<n><dli><adj>$.
       1 ^@çevrimdış<n>$
@@ -7757,7 +6500,6 @@ BOR PROBABLY BORA
       1 ^@çevre<n><dlan><v><dma><n>$
       1 ^@çevir<v><dma><n><cplsa>$
       1 ^@çetin<adj><djn0><n>$
-      1 ^@çete<n>$.
       1 ^@çetele<n><ki>$
       1 ^@çetele<n>$
       1 ^@ceren<n>$
@@ -7772,9 +6514,6 @@ BOR PROBABLY BORA
       1 ^@çek<v><dma><n><dli><n>$
       1 ^@çek<v><dma><n><dli><adj>$
       1 ^@çek<v><dma><n><dca><n>$
-      1 ^@çek<n><dla><v><cv>$.
-      1 ^@çek<n><cplsa>$
-      1 ^@çekme<n>$
       1 ^@çekiş<v><dma><n><ki>$
       1 ^@çekinik<n>$
       1 ^@çeki<n><dli><n><dci><adj><dlik><n>$
@@ -7798,10 +6537,6 @@ BOR PROBABLY BORA
       1 ^@çalgı<n><dci><adj>$
       1 ^@çakıl<n>$
       1 ^@cahil<n><dlik><n>$
-      1 ^@çağrı<n><dla><v><tcont>$.
-      1 ^@çağrı<n><dci><adj>$
-      1 ^@çağrı<n><cpldi>$
-      1 ^@çağrı<n>$.
       1 ^@çağır<v><dma><n><dli><n>$
       1 ^@çağır<v><dma><n><dli><adj>$
       1 ^@çabuk<adj><dlik><n>$
@@ -7812,20 +6547,8 @@ BOR PROBABLY BORA
       1 ^@büyü<v><dma><n><ki>$
       1 ^@büyü<v><dma><n><cplsa>$
       1 ^@büyüle<v><dvnyici><adj><djn0><n><cpldi>$.
-      1 ^@büyükelçi<n><dlik><n>$)
-      1 ^@büyükelçi<n><cpldi>$.
-      1 ^@büyükelçi<n><ca>$
-      1 ^@büyükelçi<n>$.
-      1 ^@büyük<adj><dlik><n><dli><adj>$
-      1 ^@büyük<adj><djn0><n><cpldi>$.
-      1 ^@büyük<adj><djn0><n><cpldi>$
-      1 ^@büyük<adj><djn0><n>$.
-      1 ^@bütün<adj><dlik><n><ki>$
-      1 ^@bütün<adj><dla><v><dma><n>$
-      1 ^@bütün<adj><dlas><v><dma><n>$.
       1 ^@butik<n>$
       1 ^@burundi<n>$
-      1 ^@büro<n><dlik><n>$
       1 ^@bünye<n><cplsa>$
       1 ^@bun<n>$.
       1 ^@bul<v><rec><dma><n><cpldi>$.
@@ -7862,7 +6585,6 @@ BOR PROBABLY BORA
       1 ^@boşaltı<n>$
       1 ^@boşaltım<n>$
       1 ^@borsa<n><dci><n>$
-      1 ^@bor<n><cplsa>$
       1 ^@borik<n>$
       1 ^@bordo<n>$
       1 ^@borda<n>$
@@ -7870,14 +6592,7 @@ BOR PROBABLY BORA
       1 ^@bono<n><ki>$
       1 ^@boncuk<n>$
       1 ^@bomboş<n>$
-      1 ^@bomba<n><dlan><v><dma><n><ki>$
-      1 ^@bomba<n><dlan><v><dma><n>$.
-      1 ^@bomba<n><cplken>$
-      1 ^@bomba<n><cpldi>$.
-      1 ^@bomba<n><cpldi>$
       1 ^@bölü<n>$.
-      1 ^@bölüm<n><dlan><v><vnyis>$
-      1 ^@bölüm<n><cplsa>$
       1 ^@bölme<n>$
       1 ^@bolero<n>$
       1 ^@bölen<n>$
@@ -7911,7 +6626,6 @@ BOR PROBABLY BORA
       1 ^@bileşen<n><dli><adj>$
       1 ^@bilek<n><ki>$
       1 ^@bildirim<n><ki>$
-      1 ^@bildirge<n><ki>$
       1 ^@bici<n>$
       1 ^@biçem<n>$
       1 ^@bibliyografik<n>$
@@ -8007,7 +6721,6 @@ BOR PROBABLY BORA
       1 ^@bateri<n>$
       1 ^@başyardımcı<n>$.
       1 ^@başvur<v><dma><n><cpldi>$.
-      1 ^@başvuru<n><ki>$
       1 ^@bastı<n>$
       1 ^@başsavcı<n><dlik><n><ki>$
       1 ^@başsavcı<n><dci><adj>$
@@ -8016,11 +6729,7 @@ BOR PROBABLY BORA
       1 ^@başörtü<n><dli><adj>$
       1 ^@bas<n><ki>$
       1 ^@bas<n><dci><n>$
-      1 ^@başlangıç<n>$.
       1 ^@başkumandan<n>$
-      1 ^@baskı<n><dnnsiz><adj>$
-      1 ^@baskı<n><dli><adj>$
-      1 ^@baskı<n><cpldi>$.
       1 ^@basketbol<n><ki>$
       1 ^@basketbol<n>$.
       1 ^@başkaldırı<n>$
@@ -8037,13 +6746,11 @@ BOR PROBABLY BORA
       1 ^@bariz<n>$.
       1 ^@bariton<n>$
       1 ^@barış<v><dma><n>$
-      1 ^@bank<n><cplsa>$
       1 ^@bandrol<n><dnnsiz><adj>$
       1 ^@bandaj<n>$
       1 ^@banal<n><dlik><n>$
       1 ^@bal<n>$.
       1 ^@balmum<n>$
-      1 ^@balkan<n>$ 
       1 ^@balıkadam<n>$
       1 ^@balet<n>$
       1 ^@balerin<n>$
@@ -8053,9 +6760,6 @@ BOR PROBABLY BORA
       1 ^@bakteriyolojik<n>$
       1 ^@baklava<n>$
       1 ^@bakı<n><ca>$
-      1 ^@bakanlık<n><cpldi>$.
-      1 ^@bakanlık<n>$).
-      1 ^@bakanlık<n>$)
       1 ^@bahşet<v><dma><n>$
       1 ^@bahriye<n><dli><adj>$
       1 ^@bahçıvan<n><dlik><n>$
@@ -8098,8 +6802,6 @@ BOR PROBABLY BORA
       1 ^@ayart<v><dma><n>$
       1 ^@ayartı<n>$
       1 ^@ayaktakım<n>$
-      1 ^@avukat<n><ca>$
-      1 ^@avro<n>$).
       1 ^@avanta<n>$
       1 ^@avantaj<n><dnnsiz><adj>$
       1 ^@avantaj<n><dli><adj>$.
@@ -8119,11 +6821,8 @@ BOR PROBABLY BORA
       1 ^@ataşe<n><dlik><n>$
       1 ^@atardamar<n>$
       1 ^@astrofizik<n>$
-      1 ^@askeri<adj><djn0><n>$
       1 ^@aşır<v><dma><n>$
       1 ^@aşır<n>$
-      1 ^@aşırı<n><dlik><n><dci><adj>$
-      1 ^@aşırı<n><dci><n>$
       1 ^@asilzade<n>$
       1 ^@aşikar<n>$."
       1 ^@aşikar<n>$.
@@ -8143,8 +6842,6 @@ BOR PROBABLY BORA
       1 ^@arsenik<n>$
       1 ^@arp<n>$
       1 ^@ar<n><cplsa>$
-      1 ^@arnavut<n><dli><n>$
-      1 ^@arnavut<n><cpldi>$
       1 ^@armada<n>$
       1 ^@arkaik<n>$
       1 ^@arıtım<n>$
@@ -8156,7 +6853,6 @@ BOR PROBABLY BORA
       1 ^@ara<v><dma><n>$.
       1 ^@araştır<v><dma><n><ki>$
       1 ^@araştır<v><dma><n><dca><n>$
-      1 ^@aralık<n>$.
       1 ^@arak<n>$
       1 ^@apo<np><dci><n>$
       1 ^@apak<n>$
@@ -8168,7 +6864,6 @@ BOR PROBABLY BORA
       1 ^@anlayış<n><dnnsiz><adj><dlik><n>$
       1 ^@anlayış<n><dli><adj>$
       1 ^@anlatı<n>$.
-      1 ^@anlaşmazlık<n><cpldi>$.
       1 ^@ani<n><dlik><n>$
       1 ^@anımsa<v><dma><n>$
       1 ^@animasyon<n><cpldi>$.
@@ -8177,12 +6872,10 @@ BOR PROBABLY BORA
       1 ^@andaç<n><ki>$
       1 ^@anarşi<n>$
       1 ^@anapara<n>$
-      1 ^@ana<n>$
       1 ^@anakara<n><ki>$
       1 ^@anafor<n><dli><adj>$
       1 ^@anadil<n>$
       1 ^@anaç<n><dli><adj>$
-      1 ^@ana<adj><dlas><v><dma><n>$
       1 ^@amonyak<n>$
       1 ^@amme<n>$
       1 ^@amfor<n>$
@@ -8213,13 +6906,9 @@ BOR PROBABLY BORA
       1 ^@alkış<n><dlan><v><cv>$.
       1 ^@alkış<n><dlan><v><cv>$
       1 ^@alkış<n><cplken>$
-      1 ^@alışveriş<n><dci><n>$
       1 ^@alış<n><cpldi>$
       1 ^@alışkı<n>$
       1 ^@alın<v><dma><n><cpldi>$.
-      1 ^@ali<n><dli><adj>$
-      1 ^@ali<n><dci><adj>$
-      1 ^@ali<n><cpldi>$
       1 ^@alım<n><ki>$
       1 ^@alım<n><dci><n>$
       1 ^@algoritma<n>$
@@ -8281,8 +6970,6 @@ BOR PROBABLY BORA
       1 ^@aç<v><dma><n>$.
       1 ^@aciz<n><dlik><n>$
       1 ^@acı<v><dma><n><dnnsiz><adj><dlik><n>$
-      1 ^@acil<n><cpldi>$.
-      1 ^@acil<n><cpldi>$
       1 ^@açılım<n>$
       1 ^@açgözlü<n><dlik><n>$
       1 ^@acayip<n>$
