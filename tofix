@@ -28,18 +28,39 @@ COMPOUND NOUNS INTHE FORM OF CEZAVI are added as cezaev, i think to handle cases
 
     197 ^@finanse<n>$  REMOVE?
     195 ^@zem<n>$ ????
+    186 ^@say<n>$ sayı NUMBER?
+    186 ^@kal<n>$ CHECK
+    183 ^@ira<n>$ ??? wutsthat
+    179 ^@üste<n>$ it is actually üst dative
+    176 ^@tu<n>$ whatsthıs
+    160 ^@rom<n>$ CHECK
+    132 ^@düzine<n><ca>$ ???
+    132 ^@düzen<n><dla><v><tpast>$. ???
+    127 ^@kana<n><dli><n>$ ????
+
+frank ADD AS NP
+
+    124 ^@hayati<n>$ ???
+    115 ^@erte<n>$ ??? ertesi i suspect but probably missssssssssss
+    112 ^@dink<n>$ PROBABLY NP
+    111 ^@mil<n>$ CHECK
+    110 ^@ti<n>$ ????
+    108 ^@kana<n><dli><adj>$
+    102 ^@mark<n>$ MARKA?
+
+NAMES LIKE ISYERI HAVE TO BE INVESTIGATED
+
+    101 ^@uy<v><dma><n>$
+    100 ^@taba<n>$ ?????
+     99 ^@denktaş<n>$ ?? NP?
+     98 ^@ele<v><dma><n>$ ???????
+     97 ^@kanto<n>$ THE FUCK IS THIS?
+     84 ^@fırt<n>$ PROBABLY FIRTINA
 
 
 
-
-
-
-
-
-
-
-
-
+martin IS PROBABLY A NP
+     80 ^@cemil<n>$ PROBABLY A NP
 
 
 

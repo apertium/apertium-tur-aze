@@ -242,157 +242,150 @@
 
 
 
-    188 ^@müsteşar<n>$
-    187 ^@popüler<n>$
-    186 ^@yönetmelik<n>$
-    186 ^@say<n>$
-    186 ^@koordinatör<n>$
-    186 ^@kal<n>$
-    185 ^@senato<n>$
-    185 ^@kanal<n>$
-    185 ^@doğu<n><ki>$
-    184 ^@arşiv<n>$
-    183 ^@istihdam<n>$
-    183 ^@ira<n>$
-    182 ^@model<n>$
-    180 ^@meta<n>$
-    180 ^@erte<n><dlan><v><dma><n>$
-    179 ^@üste<n>$
-    179 ^@kuzey<n>$
-    178 ^@bünye<n>$
-    177 ^@zimmet<n>$
-    177 ^@organizasyon<n>$
-    177 ^@eroin<n>$
-    176 ^@tu<n>$
-    176 ^@metre<n>$
-    175 ^@tutuk<n><dlan><v><partyan>$
-    175 ^@turnuva<n>$
-    175 ^@seminer<n>$
-    175 ^@konsorsiyum<n>$
-    175 ^@arka<n>$
-    174 ^@mekanizma<n>$
-    174 ^@ayrım<n><dci><adj><dlik><n>$
-    174 ^@arz<n>$
-    173 ^@yönet<v><dvnyici><adj><djn0><n>$
-    173 ^@terörizm<n>$
-    170 ^@paralel<n>$
-    170 ^@kurtar<v><dma><n>$
-    170 ^@çıkmaz<n>$
-    168 ^@us<n>$
-    168 ^@kilometre<n>$
-    168 ^@geçer<adj><djn0><n><dnnsiz><adj>$
-    167 ^@kulüp<n>$
-    167 ^@kalite<n>$
-    167 ^@düzen<n><dla><v><partyan>$
-    166 ^@muhalif<n>$
-    164 ^@karmaşık<n>$
-    164 ^@güneydoğu<n><ki>$
-    164 ^@antik<n>$
-    163 ^@kadı<n>$
-    163 ^@dağıtım<n>$
-    162 ^@düzen<n><dli><adj>$
-    162 ^@ara<v><dma><n>$
-    161 ^@sabit<n>$
-    161 ^@istem<n>$
-    161 ^@bulgu<n>$
-    160 ^@rom<n>$
-    160 ^@dosya<n>$
-    159 ^@imaj<n>$
-    159 ^@hiçbir<adj><djn0><n>$
-    158 ^@tutar<n>$
-    158 ^@mafya<n>$
-    157 ^@saye<n>$
-    157 ^@akis<n>$
-    156 ^@verdi<n>$
-    156 ^@döviz<n>$
-    155 ^@tutuk<n><dlan><v><cv>$
-    155 ^@la<n>$
-    154 ^@şampiyon<n>$
-    154 ^@sak<n><dlan><v><partdik>$
-    153 ^@troyka<n>$
-    153 ^@korgeneral<n>$
-    153 ^@akademi<n>$
-    152 ^@yaşa<v><dma><n>$
-    152 ^@kategori<n>$
-    150 ^@yarat<v><dma><n>$
-    150 ^@elektronik<n>$
-    149 ^@teşhis<n>$
-    149 ^@koordine<n>$
-    149 ^@azı<n>$
-    148 ^@öğreti<n>$
-    148 ^@kamyon<n>$
-    147 ^@senaryo<n>$
-    147 ^@pilot<n>$
-    147 ^@hıristiyan<n>$
-    146 ^@emlak<n>$
-    146 ^@belde<n>$
-    145 ^@manastır<n>$
-    145 ^@fotoğraf<n>$
-    145 ^@bek<n><dlan><v><tcont>$.
-    144 ^@kaybet<v><dma><n>$
-    144 ^@analiz<n>$
-    143 ^@tıp<n>$
-    143 ^@temiz<adj><dlik><n>$
-    142 ^@yayım<n><dlan><v><partyan>$
-    142 ^@mevki<n>$
-    142 ^@belirsiz<n>$
-    141 ^@var<v><dma><n>$
-    140 ^@yeter<adj><djn0><n><dnnsiz><adj>$
-    140 ^@anlaşma<n>$
-    139 ^@dayalı<n>$
-    136 ^@profesör<n>$
-    136 ^@kalıntı<n>$
-    136 ^@istasyon<n>$
-    135 ^@yok<n><dla><v><dma><n>$
-    135 ^@havaliman<n>$
-    135 ^@dolaşım<n>$
-    135 ^@al<n><cpldi>$
-    133 ^@zanlı<n>$
-    133 ^@tutuk<n><dli><n>$
-    133 ^@temiz<adj><dla><v><dma><n>$
-    133 ^@bek<n><dla><v><tcont>$
-    132 ^@düzine<n><ca>$
-    132 ^@düzen<n><dla><v><tpast>$.
-    131 ^@orgeneral<n>$
-    131 ^@gidişat<n>$
-    130 ^@ünite<n>$
-    130 ^@oybirlik<n>$
-    128 ^@belirsiz<n><dlik><n>$
-    127 ^@kana<n><dli><n>$
-    127 ^@biri<n>$
-    126 ^@reaktör<n>$
-    126 ^@numara<n><dli><adj>$
-    126 ^@frank<n>$
-    125 ^@nova<n>$
-    125 ^@normal<n>$
-    125 ^@disiplin<n>$
-    124 ^@vade<n>$
-    124 ^@hayati<n>$
-    124 ^@düzen<n><dla><v><partacak>$
-    123 ^@sürpriz<n>$
-    123 ^@kök<n>$
-    123 ^@klan<n>$
-    123 ^@cihaz<n>$
-    122 ^@rota<n>$
-    122 ^@raportör<n>$
-    122 ^@kanser<n>$
-    122 ^@herşey<n>$
-    122 ^@bul<v><rec><dma><n>$
-    121 ^@ithal<n>$
-    120 ^@uzat<v><dma><n>$
-    119 ^@kovuştur<v><dma><n>$
-    119 ^@dönüşüm<n>$
-    118 ^@ilk<n>$
-    117 ^@yeter<adj><djn0><n><dnnsiz><adj><dlik><n>$
-    117 ^@tuğgeneral<n>$
-    117 ^@haf<n><ki>$
-    117 ^@bek<n><dla><v><tcont>$.
-    117 ^@arap<n>$
-    116 ^@sürtüş<v><dma><n>$
-    116 ^@söyle<v><dma><n>$
-    115 ^@gereksinim<n>$
-    115 ^@erte<n>$
-    115 ^@arkeolog<n>$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     114 ^@tugay<n>$
     114 ^@güney<n>$
     114 ^@dur<v><dma><n>$
