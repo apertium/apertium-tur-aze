@@ -3852,6 +3852,34 @@
     <e><p><l>zırla<s n="v"/></l><r>zırılda<s n="v"/></r></p></e>
     <e><p><l>zorla<s n="v"/></l><r>zorla<s n="v"/></r></p></e>
 
+    <e><p><l>yap<s n="v"/></l><r>et<s n="v"/></r></p></e>
+    <e><p><l>gör<s n="v"/></l><r>gör<s n="v"/></r></p></e>
+    <e><p><l>söyle<s n="v"/></l><r>söylə<s n="v"/></r></p></e>
+    <e><p><l>bul<s n="v"/></l><r>tap<s n="v"/></r></p></e>
+    <e><p><l>bak<s n="v"/></l><r>bax<s n="v"/></r></p></e>
+    <e><p><l>belir<s n="v"/></l><r>zorla<s n="v"/></r></p></e>
+    <e><p><l>düz<s n="v"/></l><r>düz<s n="v"/></r></p></e>
+    <e><p><l>çalış<s n="v"/></l><r>çalış<s n="v"/></r></p></e>
+    <e><p><l>getir<s n="v"/></l><r>gətir<s n="v"/></r></p></e>
+    <e><p><l>aç<s n="v"/></l><r>aç<s n="v"/></r></p></e>
+    <e><p><l>kal<s n="v"/></l><r>qal<s n="v"/></r></p></e>
+    <e><p><l>göster<s n="v"/></l><r>göstər<s n="v"/></r></p></e>
+    <e><p><l>art<s n="v"/></l><r>artır<s n="v"/></r></p></e>
+    <e><p><l>konuş<s n="v"/></l><r>danış<s n="v"/></r></p></e>
+    <e><p><l>ilerle<s n="v"/></l><r>irəlilə<s n="v"/></r></p></e>
+    <e><p><l>sun<s n="v"/></l><r>bildir<s n="v"/></r></p></e>
+    <e><p><l>yaşa<s n="v"/></l><r>yaşa<s n="v"/></r></p></e>
+    <e><p><l>kaydet<s n="v"/></l><r>saxla<s n="v"/></r></p></e>
+    <e><p><l>oluş<s n="v"/></l><r>yaran<s n="v"/></r></p></e>
+    <e><p><l>çağır<s n="v"/></l><r>çağır<s n="v"/></r></p></e>
+
+    <e><p><l>gönder<s n="v"/></l><r>göndər<s n="v"/></r></p></e>
+    <e><p><l>reddet<s n="v"/></l><r>rədd<b/>et<s n="v"/></r></p></e>
+    
+
+
+
+
 
     <!-- SECTION: Punctuation -->
     <e><p>    <l>-<s n="guio"/></l>    <r>-<s n="guio"/></r>  </p>    </e>

@@ -1,26 +1,15 @@
-  28759 yap<v><t_imp><2s>
-  19004 gör<v><t_imp><2s>
-  17309 söyle<v><t_imp><2s>
-  13544 bul<v><t_imp><2s>
-  10410 bak<v><t_imp><2s>
-   7314 belir<v><t_imp><2s>
+
+   7314 belir<v><t_imp><2s> NOUN
+
    6671 gerek<v><t_imp><2s>
-   6032 düz<v><part_yan>/düz<v><part_yan><3s>
-   5674 çalış<v><t_imp><2s>
-   5475 getir<v><t_imp><2s>
-   4776 aç<v><t_imp><2s>
-   4741 kal<v><t_imp><2s>
-   4247 göster<v><t_imp><2s>
-   4217 art<v><t_imp><2s>
-   3699 konuş<v><t_imp><2s>
-   3439 ilerle<v><t_imp><2s>
-   3089 sun<v><t_imp><2s>
-   3087 yaşa<v><t_imp><2s>
-   2975 kaydet<v><t_imp><2s>
-   2942 oluş<v><t_imp><2s>
-   2533 çağır<v><t_imp><2s>
-   2172 gönder<v><t_imp><2s>
-   2142 reddet<v><t_imp><2s>
+
+ 
+
+
+
+
+
+
    2127 yun<v><t_imp><2s>
    1957 tanı<v><t_imp><2s>
    1907 soruştur<v><t_imp><2s>
