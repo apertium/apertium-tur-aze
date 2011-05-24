@@ -60,6 +60,7 @@ LIST Der/lAn = (n D_lAn v) ;
 LIST Der/CI = (v D_CI n) ;
 LIST Der/yIS = (v D_yIS n) ;
 LIST Der/lIk = (n D_lIK n) ; 
+LIST Der/mA = (v D_mA n) ; 
 
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ("için"i postp);
 LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
@@ -79,6 +80,14 @@ SET OBL-CASE = Acc | Dat | Gen | Ins | Abl ;
 
 
 SECTION
+
+###############################################################################
+## Bad rules
+###############################################################################
+
+REMOVE (t_imp) ;
+
+SELECT (n) ;
 
 ###############################################################################
 ## Remove redundant derivations 
@@ -101,6 +110,10 @@ REMOVE Der/yIS IF (0 N) (0 Der/yIS) ;
 
 REMOVE Der/lIk IF (0 N) (0 Der/lIk) ;
     ## 
+
+REMOVE Der/mA IF (0 N) (0 Der/mA) ;
+    ## 
+
 
 
 
