@@ -1,11 +1,9 @@
-  19235 ^@ab<n>$
-   6579 ^@pazartesi<n>$
-   5538 ^@dışişleri<n>$
-   5399 ^@perşembe<n>$
-   5066 ^@gör<v><rec><dma><n>$
+ 
+
+
    4513 ^@haf<n>$
    3169 ^@bas<n>$
-   2869 ^@çalış<v><dma><n>$
+
    2810 ^@düzen<n><dlan><v><partyan>$
    2446 ^@konuş<v><dma><n>$
    2341 ^@ilerle<v><dma><n>$
@@ -113,137 +111,137 @@
     304 ^@ulaş<v><dma><n>$
     304 ^@şek<n><dli><n><ki>$
     302 ^@baz<n>$
-    300 ^@öl<n>$
-    300 ^@işadam<n>$
-    299 ^@harekat<n>$
-    296 ^@test<n>$
-    296 ^@müze<n>$
-    294 ^@veto<n>$
-    293 ^@futbol<n>$
-    291 ^@kötü<adj><djn0><n>$
-    291 ^@güçlük<n>$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     287 ^@tüm<adj><djn0><n>$
-    286 ^@kısıt<n><dla><v><dma><n>$
-    282 ^@tartış<v><dma><n><dli><adj>$
-    282 ^@gör<v><dma><n>$
-    282 ^@dolay<n>$
-    279 ^@enflasyon<n>$
-    278 ^@müfettiş<n>$
-    277 ^@pakt<n>$
-    276 ^@nehir<n>$
-    276 ^@militan<n>$
-    275 ^@tanı<v><dma><n>$
-    274 ^@nü<n>$
-    273 ^@imha<n>$
-    270 ^@otoyol<n>$
-    270 ^@hayal<n>$
-    269 ^@modernizasyon<n>$
-    268 ^@cep<n>$
-    267 ^@not<n>$
-    265 ^@ama<n><dci><adj>$
-    262 ^@art<v><dma><n>$
-    261 ^@kimse<n>$
-    261 ^@harca<v><dma><n>$
-    260 ^@yurtdışı<n>$
-    260 ^@danış<v><dma><n>$
-    259 ^@mühimmat<n>$
-    259 ^@merkeziyet<n>$
-    259 ^@kuzey<n><ki>$
-    258 ^@şahıs<n>$
-    258 ^@işletme<n>$
-    257 ^@üret<v><dvnyici><adj><djn0><n>$
-    257 ^@şampiyona<n>$
-    256 ^@finans<n>$
-    255 ^@unsur<n>$
-    255 ^@mira<n>$
-    254 ^@reji<n>$
-    254 ^@gensoru<n>$
-    253 ^@tamam<adj><djn0><n>$
-    249 ^@zer<n>$
-    249 ^@reddet<v><dma><n>$
-    249 ^@demiryol<n>$
-    247 ^@raca<n>$
-    247 ^@beklenti<n>$
-    246 ^@yoksul<adj><dlik><n>$
-    246 ^@kaldır<v><dma><n>$
-    246 ^@haki<n>$
-    244 ^@san<n><cpldi>$
-    244 ^@dokunulmazlık<n>$
-    242 ^@çekil<v><dma><n>$
-    241 ^@edip<n>$
-    240 ^@komşu<n>$
-    240 ^@güney<n><ki>$
-    239 ^@parlamenter<n>$
-    239 ^@değişim<n>$
-    239 ^@ban<n>$
-    238 ^@birleşik<n>$
-    235 ^@komut<n>$
-    235 ^@çevre<n>$
-    234 ^@bek<n><dla><v><cv>$.
-    233 ^@final<n>$
-    232 ^@havayol<n>$
-    231 ^@ton<n>$
-    231 ^@bek<n><dla><v><partyan>$
-    230 ^@şeffaf<adj><dlik><n>$
-    230 ^@ithalat<n>$
-    228 ^@karayol<n>$
-    227 ^@stratej<n>$
-    226 ^@müzik<n>$
-    226 ^@herkes<n>$
-    225 ^@tutu<n>$
-    225 ^@hukuki<n>$
-    225 ^@bayrak<n>$
-    224 ^@kut<n><dla><v><dma><n>$
-    224 ^@kon<v><dma><n>$
-    223 ^@çözüm<n>$
-    222 ^@si<n>$
-    222 ^@şebeke<n>$
-    221 ^@tutuk<n><dlan><v><partdik>$
-    221 ^@doğrultu<n>$
-    218 ^@hepsi<n>$
-    218 ^@bağlılık<n>$
-    217 ^@sav<n><dci><adj>$
-    217 ^@otobüs<n>$
-    217 ^@leh<n>$
-    217 ^@kaç<v><dma><n>$
-    217 ^@bırak<v><dma><n>$
-    216 ^@sinyal<n>$
-    215 ^@kırık<adj><dlik><n>$
-    214 ^@servis<n>$
-    214 ^@düzen<n><dlan><v><dma><n>$
-    211 ^@sağlam<n>$
-    211 ^@bek<n><dla><v><cv>$
-    210 ^@koy<v><dma><n>$
-    209 ^@yangı<n>$
-    208 ^@müdürlük<n>$
-    207 ^@hastalık<n>$
-    204 ^@sav<n>$
-    203 ^@kesinti<n>$
-    202 ^@virüs<n>$
-    202 ^@kapat<v><dma><n>$
-    202 ^@ihraç<n>$
-    202 ^@cezaev<n>$
-    202 ^@alternatif<n>$
-    200 ^@beceri<n>$
-    199 ^@taşımacı<n><dlik><n>$
-    198 ^@park<n>$
-    198 ^@doğu<n>$
-    197 ^@platform<n>$
-    197 ^@otomobil<n>$
-    197 ^@finanse<n>$
-    197 ^@azal<v><dma><n>$
-    196 ^@vakıf<n>$
-    195 ^@zem<n>$
-    195 ^@video<n>$
-    195 ^@rekor<n>$
-    195 ^@milis<n>$
-    194 ^@kesin<n><dlik><n>$
-    192 ^@tane<n>$
-    192 ^@sigar<n>$
-    192 ^@ata<v><dma><n>$
-    191 ^@fizibilite<n>$
-    191 ^@denetim<n>$
-    190 ^@mesel<n>$
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     188 ^@müsteşar<n>$
     187 ^@popüler<n>$
     186 ^@yönetmelik<n>$
