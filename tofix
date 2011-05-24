@@ -124,6 +124,12 @@ ADD ulaşma as N
 
 ADD sonbahar as NP
 
+REMOVE haf
+
+ADD rule IF IT IS IN CAPS IT IS PROBABLY A NP
+
+ADD görüşme as N
+
 
 
 
