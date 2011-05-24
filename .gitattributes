@@ -16,6 +16,7 @@ dev/bidix/pending_proper_nouns.txt -text
 dev/bidix/pending_verbs.txt -text
 dev/bilingual-summary.txt -text
 dev/disambiguation_rules.txt -text
+dev/extract-translations.sh -text
 dev/generation-test.tr-az.sh -text
 dev/missing-bidix-freq.sh -text
 /modes.xml -text
