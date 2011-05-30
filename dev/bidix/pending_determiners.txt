@@ -6,11 +6,13 @@
     808 ^@herhangi bir<det>$
     539 ^@Her<det>$
     308 ^@Şu<det>$
+    183 ^@birçok<det>$
     118 ^@bu kadar<det>$
      88 ^@bir miktar<det>$
      80 ^@o kadar<det>$
      72 ^@Tek<det>$
      29 ^@Herhangi bir<det>$
+     29 ^@Birçok<det>$
      15 ^@Bu kadar<det>$
      15 ^@birtakım<det>$
      11 ^@bir kısım<det>$

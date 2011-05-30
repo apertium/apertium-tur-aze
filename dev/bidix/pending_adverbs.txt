@@ -1,28 +1,12 @@
-    105 ^@kimi<adv><dan0><n><p2s>$
-     39 ^@<n><dnnsiz><adv><dan0><n><gen>$
-     29 ^@kimi<adv><dan0><n>$
-     25 ^@<n><dnnsiz><adv><dan0><n><dat>$
-     15 ^@<n><dnnsiz><adv><dan0><n><acc>$
-     10 ^@<n><dnnsiz><adv><dan0><n><pl><dat>$
-     10 ^@hayli<adv><dan0><n>$
-      9 ^@çala<adv><dan0><n><p2s>$
-      7 ^@sanki<adv><dan0><n>$
+    723 ^@çoğu<adv>$
+     29 ^@kimi<adv>$
+     10 ^@hayli<adv>$
+      7 ^@sanki<adv>$
       7 ^@kimi<adv><dan0><n><p3p>$
-      6 ^@<n><dnnsiz><adv><dan0><n><p2s><ins>$
-      5 ^@yeter<np><dnnsiz><adv><dan0><n>$
-      4 ^@<n><dnnsiz><adv><dan0><n><p3p>$
-      4 ^@<n><dnnsiz><adv><dan0><n><abl>$
-      4 ^@kimi<adv><dan0><n><p2s><ins>$
       4 ^@bağım<n><dnnsiz><adv><dan0><n><3s><dir>$
-      3 ^@<n><dnnsiz><adv><dan0><n><loc>$
-      3 ^@ilgi<np><dnnsiz><adv><dan0><n>$
-      2 ^@<n><dnnsiz><adv><dan0><n><pl><gen>$
+      2 ^@sabahları<adv>$
+      2 ^@resen<adv>$
       2 ^@kimi<adv><dan0><n><p3p><dat>$
-      2 ^@çala<adv><dan0><n><dcak><n>$.
-      1 ^@sırp<np><dnnsiz><adv><dan0><n>$
-      1 ^@<n><dnnsiz><adv><dan0><n><ins>$
-      1 ^@<n><dnnsiz><adv><dan0><n><gen><ki>$
-      1 ^@<n><dnnsiz><adv><dan0><n><gen><3s><dir>$
       1 ^@<n><dnnsiz><adv><dan0><n><dnnsiz><adj>$
       1 ^@kimi<adv><dan0><n><pl><p1p><gen>$
       1 ^@kimi<adv><dan0><n><p3p><gen>$
