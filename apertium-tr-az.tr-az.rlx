@@ -149,7 +149,7 @@ REMOVE POST-ABS IF (-1C OBL-CASE);
 
 ###############################################################################
 
-REMOVE NOM-OR-PRO + Sg3 IF (1C* V + PERS BARRIER EOS) ;
+## REMOVE NOM-OR-PRO + Sg3 IF (1C* V + PERS BARRIER EOS) ;
     ## Ondan sonraysa yüzde 6,75'e yükseliyor.
     ## Eve girmekteyken, bir şey hatırladım.
 

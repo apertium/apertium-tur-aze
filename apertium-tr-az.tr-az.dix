@@ -151,6 +151,9 @@
     <e><p><l>şöyle<s n="prn"/></l><r>belə<s n="prn"/></r></p></e>
     <e><p><l>öyle<s n="prn"/></l><r>elə<s n="prn"/></r></p></e>
 
+    <e><p><l>bura<s n="prn"/></l><r>bura<s n="prn"/></r></p></e> <!-- This is dirty as fuck, remove -->
+
+
     <e><p><l>ben<s n="prn"/></l><r>mən<s n="prn"/></r></p></e> <!-- Pers -->
     <e><p><l>sen<s n="prn"/></l><r>sən<s n="prn"/></r></p></e> <!-- Pers -->
     <e><p><l>o<s n="prn"/></l><r>o<s n="prn"/></r></p></e> <!-- Pers -->
@@ -2902,11 +2905,11 @@
     <e><p><l>protesto</l><r>ediraz</r></p><par n="nominal"/></e>
     <e><p><l>gelişme</l><r>inkişaf</r></p><par n="nominal"/></e>
     <e><p><l>tartışma</l><r>mübahisə</r></p><par n="nominal"/></e>
-    <e><p><l>recep</l><r>zurna</r></p><par n="nominal"/></e>
+    <e><p><l>recep</l><r>rəcəb</r></p><par n="nominal"/></e>
     <e><p><l>yasadış</l><r>qanunsuz</r></p><par n="nominal"/></e>
     <e><p><l>yasadışı</l><r>qanunsuz</r></p><par n="nominal"/></e>
     <e><p><l>dış</l><r>xarici</r></p><par n="nominal"/></e>
-
+    <e><p><l>modern</l><r>müasir</r></p><par n="nominal"/></e>
     <e><p><l>bağımsız</l><r>müstəqil</r></p><par n="nominal"/></e>
     <e><p><l>entegrasyon</l><r>inteqrasiya</r></p><par n="nominal"/></e>
     <e><p><l>alınma</l><r>alınma</r></p><par n="nominal"/></e>
@@ -2926,7 +2929,7 @@
     <e><p><l>işaret</l><r>işare</r></p><par n="nominal"/></e>
     <e><p><l>vize</l><r>viza</r></p><par n="nominal"/></e>
     <e><p><l>federasyon</l><r>federasya</r></p><par n="nominal"/></e>
-    <e><p><l>yakı</l><r>yaxın</r></p><par n="nominal"/></e>
+    <e><p><l>yakı</l><r>yaxı</r></p><par n="nominal"/></e>
     <e><p><l>röportaj</l><r>reportaj</r></p><par n="nominal"/></e>
     <e><p><l>patlama</l><r>partlayış</r></p><par n="nominal"/></e>
     <e><p><l>yanıt</l><r>cavab</r></p><par n="nominal"/></e>
@@ -2943,8 +2946,13 @@
     <e><p><l>etki</l><r>təsir</r></p><par n="nominal"/></e>
     <e><p><l>zor</l><r>çetin</r></p><par n="nominal"/></e>
     <e><p><l>spor</l><r>idman</r></p><par n="nominal"/></e>
+    <e><p><l>bir</l><r>bir</r></p><par n="nominal"/></e>
+
 
     <e><p><l>hazırlık</l><r>hazırlıq</r></p><par n="nominal"/></e>
+    <e><p><l>ortalık</l><r>ortalıq</r></p><par n="nominal"/></e>
+    <e><p><l>ağır</l><r>ağır</r></p><par n="nominal"/></e>
+
     <e><p><l>ofis</l><r>ofis</r></p><par n="nominal"/></e>
     <e><p><l>bank</l><r>zurna</r></p><par n="nominal"/></e>
     <e><p><l>sanık</l><r>şübhəli</r></p><par n="nominal"/></e>
@@ -3436,8 +3444,101 @@
     <e><p><l>numara</l><r>nömrə</r></p><par n="nominal"/></e>                         
     <e><p><l>martin</l><r>martin</r></p><par n="nominal"/></e>                         
     <e><p><l>tenis</l><r>tennis</r></p><par n="nominal"/></e>                         
-    <e><p><l>kulis</l><r>xəlvəti</r></p><par n="nominal"/></e>                         
-    <e><p><l>cemil</l><r>mehribanlıq</r></p><par n="nominal"/></e>                         
+    <e><p><l>kulis</l><r>xəlvəti</r></p><par n="nominal"/></e>
+    <e><p><l>açıklama</l><r>şərh</r></p><par n="nominal"/></e>                         
+    <e><p><l>görüşme</l><r>görüş</r></p><par n="nominal"/></e>                         
+    <e><p><l>savunma</l><r>müdafiə</r></p><par n="nominal"/></e>                         
+    <e><p><l>gelecek</l><r>gələcək</r></p><par n="nominal"/></e>                         
+    <e><p><l>sorumlu</l><r>məsul</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>   
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+    <e><p><l>kamu</l><r>cəmiyyət</r></p><par n="nominal"/></e>                         
+
+                  
+
                      
                      
 
@@ -3466,7 +3567,6 @@
     <e><p><l>ekonomik</l><r>iqtisadi</r></p><par n="nominal"/></e>
     <e><p><l>demokrat</l><r>demokrat</r></p><par n="nominal"/></e>
     <e><p><l>ana</l><r>ana</r></p><par n="nominal"/></e>
-    <e><p><l>bosnalı</l><r>bosniyalı</r></p><par n="nominal"/></e>
     <e><p><l>sorumlu</l><r>məsul</r></p><par n="nominal"/></e>
     <e><p><l>iyi</l><r>yaxşı</r></p><par n="nominal"/></e>
     <e><p><l>tek</l><r>tək</r></p><par n="nominal"/></e>
@@ -3517,6 +3617,10 @@
     <e><p><l>devam</l><r>davam</r></p><par n="nominal"/></e>
     <e><p><l>asıl</l><r>əsas</r></p><par n="nominal"/></e>
     <e><p><l>bilişim</l><r>informasiya</r></p><par n="nominal"/></e> <!-- i → İ -->
+    <e><p><l>aynı</l><r>eyni</r></p><par n="nominal"/></e>
+    <e><p><l>dürüst</l><r>eyni</r></p><par n="nominal"/></e> 
+
+
 
 
 
@@ -3582,6 +3686,7 @@
     <e><p><l>Beyrut<s n="np"/></l><r>Beyrut<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Bişkek<s n="np"/></l><r>Bişkek<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Bolivya<s n="np"/></l><r>Boliviya<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>Bosna<s n="np"/></l><r>Bosniya<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Brezilya<s n="np"/></l><r>Braziliya<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Brüksel<s n="np"/></l><r>Brüssel<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Budapeşte<s n="np"/></l><r>Budapeşt<s n="np"/></r></p></e> <!-- Top -->
@@ -4166,7 +4271,8 @@
     <e><p><l>zıpla<s n="v"/></l><r>zıpla<s n="v"/></r></p></e>
     <e><p><l>zırla<s n="v"/></l><r>zırılda<s n="v"/></r></p></e>
     <e><p><l>zorla<s n="v"/></l><r>zorla<s n="v"/></r></p></e>
-
+    <e><p><l>i<s n="v"/></l><r>i<s n="v"/></r></p></e>
+    <e><p><l>üret<s n="v"/></l><r>çıxar<s n="v"/></r></p></e>
     <e><p><l>yap<s n="v"/></l><r>et<s n="v"/></r></p></e>
     <e><p><l>gör<s n="v"/></l><r>gör<s n="v"/></r></p></e>
     <e><p><l>söyle<s n="v"/></l><r>söylə<s n="v"/></r></p></e>
@@ -4187,6 +4293,8 @@
     <e><p><l>kaydet<s n="v"/></l><r>saxla<s n="v"/></r></p></e>
     <e><p><l>oluş<s n="v"/></l><r>yaran<s n="v"/></r></p></e>
     <e><p><l>çağır<s n="v"/></l><r>çağır<s n="v"/></r></p></e>
+    <e><p><l>gerek<s n="v"/></l><r>gərək<s n="v"/></r></p></e>
+
 
     <e><p><l>gönder<s n="v"/></l><r>göndər<s n="v"/></r></p></e>
     <e><p><l>reddet<s n="v"/></l><r>rədd<b/>et<s n="v"/></r></p></e>

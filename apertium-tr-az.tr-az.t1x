@@ -113,22 +113,7 @@
     </rule>
 
 
-  <rule comment="regla: move t_cont to t_aor">
-      <pattern>
-        <pattern-item n="v_pres"/>
-      </pattern>
-      <action>
-        <let>
-          <clip pos="1" side="tl" part="tense"/>
-          <lit-tag v="t_aor"/>
-        </let>
-        <out>
-          <lu>
-            <clip pos="1" side="tl" part="whole"/>
-          </lu>
-        </out>
-      </action>
-    </rule>
+  
     
   </section-rules>
 </transfer>
