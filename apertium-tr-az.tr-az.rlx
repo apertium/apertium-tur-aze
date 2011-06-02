@@ -46,7 +46,7 @@ LIST PxPl3 = (p3p) ;
 
 LIST Imper = (t_imp) ; 
 
-LIST CV-MARKER = (cv) ;
+LIST CV-MARKER = (cv) (cv_dik) (cv_acak) (cv_ma) (cv_mak) (cv_dan) (cv_zdan) (cv_ince) (cv_erek) (cv_erek) (cv_eli) (cv_ene) (cv_ir) (cv_ar) (cv_ecek) (cv_mis) (cv_iyor) (cv_cesine) (cv_ip);
 
 LIST VN/acak = (vn_acak) ;
 LIST VN/dik = (vn_dik) ;
@@ -161,6 +161,7 @@ REMOVE V IF (0 V) (0 NOT)  (NOT 1* WORD  BARRIER EOS);
 
 REMOVE CV-MARKER IF (NOT 1* WORD BARRIER EOS) ;
     ## Ahmet dersine çalışıyor.
+    ## Çok içmiş gibi konuşuyor.
 
 REMOVE Imper IF (NOT 1* ("!")) ;
     ## 
