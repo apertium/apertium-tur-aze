@@ -1,13 +1,21 @@
     723 ^@çoğu<adv>$
-     29 ^@kimi<adv>$
+     63 ^@o zaman<adv><dan0><n><abl>$
+     59 ^@o zaman<adv>$
+     28 ^@o zaman<adv><dan0><n><3p>$
+     28 ^@kimi<adv>$
+     15 ^@o zaman<adv><dan0><n><dat>$
      10 ^@hayli<adv>$
       7 ^@sanki<adv>$
       7 ^@kimi<adv><dan0><n><p3p>$
+      5 ^@o zaman<adv><dan0><n><loc>$
+      4 ^@o zaman<adv><dan0><n><pl><loc>$
       4 ^@bağım<n><dnnsiz><adv><dan0><n><3s><dir>$
       2 ^@sabahları<adv>$
       2 ^@resen<adv>$
       2 ^@kimi<adv><dan0><n><p3p><dat>$
-      1 ^@<n><dnnsiz><adv><dan0><n><dnnsiz><adj>$
+      1 ^@o zaman<adv><dan0><n><pl><gen>$
+      1 ^@o zaman<adv><dan0><n><p2s><loc>$
+      1 ^@o zaman<adv><dan0><n><gen>$
       1 ^@kimi<adv><dan0><n><pl><p1p><gen>$
       1 ^@kimi<adv><dan0><n><p3p><gen>$
       1 ^@bağım<n><dnnsiz><adv><dan0><n><pl><dat>$

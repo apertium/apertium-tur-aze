@@ -24,6 +24,7 @@
     877 ^@Atlantik<np>$
     848 ^@Tayyip<np>$
     822 ^@Balkanlar<np>$
+    783 ^@IMF<np>$
     757 ^@Müslüman<np>$
     681 ^@Kürt<np>$
     645 ^@Yugoslav<np>$
@@ -68,6 +69,7 @@
     233 ^@Yönet<np>$
     232 ^@İsveç<np>$
     229 ^@İslam<np><DCI><adj>$
+    220 ^@IMF<np><apos>$
     220 ^@Haşim<np>$
     217 ^@Taci<np>$
     211 ^@Gül<np>$
@@ -78,6 +80,7 @@
     189 ^@Akdeniz<np>$
     179 ^@Süleyman<np>$
     177 ^@Suriye<np>$
+    171 ^@Ermeni<np>$
     170 ^@Richard<np>$
     170 ^@İbrahim<np>$
     168 ^@İstanbul<np><ki>$
@@ -265,7 +268,6 @@
      20 ^@Karadeniz<np><ki>$
      20 ^@Hamid<np>$
      20 ^@Gürcü<np>$
-     20 ^@Ermeni<np>$
      20 ^@Aralık<np><ki>$
      19 ^@Unakıtan<np>$
      19 ^@Tuna<np>$
@@ -330,6 +332,7 @@
      13 ^@Ekrem<np>$
      13 ^@Doğu<np><ki>$
      13 ^@Cenevre<np><ki>$
+     13 ^@Cem<np>$
      12 ^@Tahran<np>$
      12 ^@Şili<np>$
      12 ^@Şam<np>$
@@ -630,7 +633,6 @@
       4 ^@İspanya<np><ki>$
       4 ^@İran<np><ki>$
       4 ^@İlic<np>$
-      4 ^@İlgi<np><DlAn><v><cv>$
       4 ^@İklim<np>$
       4 ^@Hikmet<np>$
       4 ^@Hamit<np>$
@@ -751,6 +753,7 @@
       3 ^@İlke<np>$
       3 ^@İlgi<np><Dnnsiz><adj>$
       3 ^@İlgi<np><DlAn><v><partyan>$
+      3 ^@İlgi<np><DlAn><v><cviyor>$
       3 ^@Iğdır<np>$
       3 ^@İbiş<np>$
       3 ^@Hint<np><DlI><adj>$
@@ -816,7 +819,6 @@
       2 ^@Verim<np><DlI><adj>$
       2 ^@Vala<np>$
       2 ^@Vahabi<np><DlIK><n>$
-      2 ^@Uz<np><DlAs><v><tobl>$
       2 ^@Ural<np>$
       2 ^@Ünlü<np>$
       2 ^@Ünal<np>$
@@ -931,7 +933,7 @@
       2 ^@İsviçre<np><ki>$
       2 ^@İsrail<np><ki>$
       2 ^@İsrail<np><cpldi>$.
-      2 ^@İslami<np><DlAs><v><cv>$
+      2 ^@İslami<np><DlAs><v><cvma>$
       2 ^@İrlanda<np><ki>$
       2 ^@İran<np><DlI><adj><DlA><v><taor>$
       2 ^@İrade<np>$
@@ -978,6 +980,7 @@
       2 ^@Demiralp<np>$
       2 ^@Datça<np>$
       2 ^@Çoğun<np>$
+      2 ^@CEM<np>$
       2 ^@Çelebi<np>$
       2 ^@Celaleddin<np>$
       2 ^@Cebeci<np>$
@@ -1037,7 +1040,7 @@
       1 ^@Zirve<np>$
       1 ^@Zeytinburnu<np>$
       1 ^@Zehra<np>$
-      1 ^@Yunan<np><DlAs><v><cv>$
+      1 ^@Yunan<np><DlAs><v><cvmak>$
       1 ^@Yomra<np>$
       1 ^@Yıldırım<np>$
       1 ^@Yeter<np><Dnnsiz><adj><DlIK><n>$
@@ -1068,7 +1071,7 @@
       1 ^@Tuzla<np><DlI><adj>$
       1 ^@Tutak<np>$
       1 ^@Türkoloji<np>$
-      1 ^@Türk<np><DlAs><v><caus><cv>$
+      1 ^@Türk<np><DlAs><v><caus><cvma>$
       1 ^@Türk<np><DCA><n>$
       1 ^@Türk<np><cpldi>$
       1 ^@Turhan<np>$
@@ -1280,6 +1283,7 @@
       1 ^@LOZAN<np>$
       1 ^@Louis<np><apos>$
       1 ^@Livaneli<np>$
+      1 ^@Lice<np>$
       1 ^@Levon<np>$
       1 ^@Levant<np>$
       1 ^@Laz<np>$
@@ -1352,7 +1356,7 @@
       1 ^@İstanbul<np><cpldi>$
       1 ^@İslam<np><ki>$
       1 ^@İslam<np><DlAs><v><caus><vnmak>$
-      1 ^@İslam<np><DCI><adj><DlAs><v><caus><pass><cv>$
+      1 ^@İslam<np><DCI><adj><DlAs><v><caus><pass><cvma>$
       1 ^@İslamiyet<np>$
       1 ^@İskoçya<np><DlI><adj>$
       1 ^@İskenderun<np>$
@@ -1378,8 +1382,9 @@
       1 ^@İlgi<np><DlI><adj><DlA><v><taor>$
       1 ^@İlgi<np><DlAn><v><tmakta>$
       1 ^@İlgi<np><DlAn><v><neg><topt>$
-      1 ^@İlgi<np><DlAn><v><neg><cv>$
+      1 ^@İlgi<np><DlAn><v><neg><cviyor>$
       1 ^@İlgi<np><DlAn><v><DmA><n>$
+      1 ^@İlgi<np><DlAn><v><cvacak>$
       1 ^@İkbal<np>$
       1 ^@İdil<np>$
       1 ^@İçten<np><DlIK><n>$
