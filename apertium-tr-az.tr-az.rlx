@@ -48,6 +48,8 @@ LIST Imper = (t_imp) ;
 
 LIST CV-MARKER = (cv) (cv_dik) (cv_acak) (cv_ma) (cv_mak) (cv_dan) (cv_zdan) (cv_ince) (cv_erek) (cv_erek) (cv_eli) (cv_ene) (cv_ir) (cv_ar) (cv_ecek) (cv_mis) (cv_iyor) (cv_cesine) (cv_ip);
 
+
+
 LIST VN/acak = (vn_acak) ;
 LIST VN/dik = (vn_dik) ;
 LIST VN/ma = (vn_ma) ;
@@ -60,7 +62,8 @@ LIST Der/lAn = (n D_lAn v) ;
 LIST Der/CI = (v D_CI n) ;
 LIST Der/yIS = (v D_yIS n) ;
 LIST Der/lIk = (n D_lIK n) ; 
-LIST Der/mA = (v D_mA n) ; 
+LIST Der/mA = (v D_mA n) ;
+LIST Der/lA = (n D_lA v) ;
 
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ("için"i postp);
 LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
@@ -112,7 +115,11 @@ REMOVE Der/lIk IF (0 N) (0 Der/lIk) ;
     ## 
 
 REMOVE Der/mA IF (0 N) (0 Der/mA) ;
-    ## 
+
+REMOVE Der/lA IF (0 V) (0 Der/lA) ;
+    ## All of this DER/* rules are to cut out derivatives, which are cool but create problems during the translation
+    
+    
 
 
 
@@ -169,11 +176,23 @@ REMOVE Imper IF (NOT 1* ("!")) ;
 REMOVE CV-MARKER IF (0 N) (0 CV-MARKER) ; 
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
 
+REMOVE CV-MARKER IF (0 V) (0 CV-MARKER) (1 ("ki"i))
+
+   ## Converbs cannot be before "ki", so that this rule takes CV out when followed by ki
+
 REMOVE VN IF (0 N) (0 VN) ;
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
 
-REMOVE N IF (0 N) (0 A) (1 Num) ; 
+REMOVE N IF (0 N) (0 A) (1 Num) ;
     ## yeni bir araba
+
+SELECT Det IF (0 A) (0 Num) (0 Det) (-1 A) 
+    ## yeni bir now selects A+Det
+    
+SELECT Det if (0 A) (0 Num) (0 Det) (1 N)
+    ## bir orman now selects Det+Num
+    
+
 
 SELECT Adv IF (0 ("en"i)) (1 A OR Adv) ; 
     ## Dünyanın en güzel kızı evime geldi. 
@@ -182,4 +201,6 @@ SELECT PxSg3 IF (0 Acc OR PxSg3)  (NOT -1* POSS BARRIER Gen) ; # (-1* Gen BARRIE
     ## Dünyanın en güzel kızı evime geldi. 
 
 REMOVE PxSg2 IF (0 ("dünya"i)) (0C Gen) (1 ("en"i)) ;
-    ## Dünyanın en güzel kızı evime geldi. 
+    ## Dünyanın en güzel kızı evime geldi.
+    
+

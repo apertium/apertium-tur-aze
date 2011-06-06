@@ -19,8 +19,10 @@
     <sdef n="exist"    c="Existence"/>
     <sdef n="nexist"   c="nexıst"/>
     <sdef n="not"      c="IS NOT"/>
-    <sdef n="q"      c="Question"/>
-    <sdef n="det"    c="Determinative"/>
+    <sdef n="q"        c="Question"/>
+    <sdef n="det"      c="Determinative"/>
+    <sdef n="ij"       c="Interjection"/>
+
 
   </sdefs>
   <pardefs>
@@ -35,6 +37,12 @@
     <e><p><l>değil<s n="not"/></l><r>deyil<s n="not"/></r></p></e>
     <e><p><l>yok<s n="nexist"/></l><r>yox<s n="nexist"/></r></p></e>
     <e><p><l><s n="q"/></l><r><s n="q"/></r></p></e>
+    
+    
+    <!-- SECTION: Interjections -->
+    
+        <e><p><l>Tabii<s n="ij"/></l><r>Təbii<s n="ij"/></r></p></e>
+
 
     
     <!-- SECTION: Conjunctions -->
@@ -155,7 +163,8 @@
 
     <e><p><l>bura<s n="prn"/></l><r>bura<s n="prn"/></r></p></e> <!-- This is dirty as fuck, remove -->
     
-    <e><p><l>bu<s n="det"/></l><r>bu<s n="det"/></r></p></e> <!-- This is dirty as fuck, remove -->
+    <e><p><l>bu<s n="det"/></l><r>bu<s n="det"/></r></p></e> 
+    <e><p><l>bir<s n="det"/></l><r>bir<s n="det"/></r></p></e> <!-- Det -->
 
 
 
@@ -166,6 +175,8 @@
     <e><p><l>siz<s n="prn"/></l><r>siz<s n="prn"/></r></p></e> <!-- Pers -->
     <e><p><l>onlar<s n="prn"/></l><r>onlar<s n="prn"/></r></p></e> <!-- Pers -->
 
+
+    <e><p><l>bir<s n="det"/></l><r>bir<s n="det"/></r></p></e> <!-- Det -->
 
 
     <e><p><l>şey<s n="prn"/></l><r>şey<s n="prn"/></r></p></e> <!-- Ind -->
@@ -981,7 +992,7 @@
     <e><p><l>haham</l><r>qaqam</r></p><par n="nominal"/></e>  
     <e><p><l>haiz</l><r>haiz</r></p><par n="nominal"/></e>  
     <e><p><l>hakan</l><r>qan</r></p><par n="nominal"/></e>  
-    <e><p><l>hakaret</l><r>həgarət</r></p><par n="nominal"/></e>  
+    <e><p><l>hakaret</l><r>təhqir</r></p><par n="nominal"/></e>  
     <e><p><l>hakem</l><r>həkəm</r></p><par n="nominal"/></e>  
     <e><p><l>hak</l><r>hagg</r></p><par n="nominal"/></e>  
     <e><p><l>hakikat</l><r>həxixət</r></p><par n="nominal"/></e>  
@@ -1301,7 +1312,7 @@
     <e><p><l>karamsar</l><r>bədbin</r></p><par n="nominal"/></e> 
     <e><p><l>karargah</l><r>xərargah</r></p><par n="nominal"/></e> 
     <e><p><l>karar</l><r>xarar</r></p><par n="nominal"/></e> 
-    <e><p><l>kardeş</l><r>gardaş</r></p><par n="nominal"/></e> 
+    <e><p><l>kardeş</l><r>qardaş</r></p><par n="nominal"/></e> 
     <e><p><l>karga</l><r>garga</r></p><par n="nominal"/></e> 
     <e><p><l>kargaşa</l><r>garğaşa</r></p><par n="nominal"/></e> 
     <e><p><l>kargo</l><r>nəgliyyatla</r></p><par n="nominal"/></e> 
@@ -1631,6 +1642,7 @@
     <e><p><l>mavna</l><r>barj</r></p><par n="nominal"/></e>
     <e><p><l>maya</l><r>maya</r></p><par n="nominal"/></e>
     <e><p><l>maydanoz</l><r>cəfəri</r></p><par n="nominal"/></e>
+    <e><p><l>mikrodalga</l><r>mikrodalğa</r></p><par n="nominal"/></e>
 
     <e><p><l>mayıs</l><r>may</r></p><par n="nominal"/></e>
     <e><p><l>maymun</l><r>meymun</r></p><par n="nominal"/></e>
@@ -2173,7 +2185,6 @@
     <e><p><l>sebze</l><r>səbzə</r></p><par n="nominal"/></e>
     <e><p><l>seçenek</l><r>al'ternativ</r></p><par n="nominal"/></e>
     <e><p><l>seci</l><r>nəsr</r></p><par n="nominal"/></e>
-    <e><p><l>seçim</l><r>seçgi</r></p><par n="nominal"/></e>
     <e><p><l>seçkin</l><r>seçkin</r></p><par n="nominal"/></e>
     <e><p><l>seçmen</l><r>seçici</r></p><par n="nominal"/></e>
     <e><p><l>sebat</l><r>səbat</r></p><par n="nominal"/></e>
@@ -3523,7 +3534,8 @@
     <e><p><l>asıl</l><r>əsas</r></p><par n="nominal"/></e>
     <e><p><l>bilişim</l><r>informasiya</r></p><par n="nominal"/></e> <!-- i → İ -->
     <e><p><l>aynı</l><r>eyni</r></p><par n="nominal"/></e>
-    <e><p><l>dürüst</l><r>eyni</r></p><par n="nominal"/></e> 
+    <e><p><l>dürüst</l><r>eyni</r></p><par n="nominal"/></e>
+
 
 
 
@@ -3730,6 +3742,8 @@
     <e><p><l>Stalin<s n="np"/></l><r>Stalin<s n="np"/></r></p></e> <!-- Cog.Sg -->
     <e><p><l>Tito<s n="np"/></l><r>Tito<s n="np"/></r></p></e> <!-- Cog.Sg -->
     <e><p><l>Yeltsin<s n="np"/></l><r>Yeltsin<s n="np"/></r></p></e> <!-- Cog.Sg -->
+    <e><p><l>Erdoğan<s n="np"/></l><r>Erdoğan<s n="np"/></r></p></e> <!-- Cog.Sg -->
+
 
     <!-- SECTION: Adverbs -->
 
@@ -3845,7 +3859,6 @@
     <e><p><l>kasten<s n="adv"/></l><r>qəsdən<s n="adv"/></r></p></e> 
     <e><p><l>bertaraf<s n="adv"/></l><r>aradan<s n="adv"/></r></p></e> <!-- CHECK -->
     <e><p><l>peki<s n="adv"/></l><r>yaxşı<s n="adv"/></r></p></e> <!-- CHECK -->
-    <e><p><l>öyle<s n="adv"/></l><r>elə<s n="adv"/></r></p></e> 
     <e><p><l>önceleri<s n="adv"/></l><r>əvvəllər<s n="adv"/></r></p></e> 
     <e><p><l>nazaran<s n="adv"/></l><r>nəzərən<s n="adv"/></r></p></e> 
     <e><p><l>naklen<s n="adv"/></l><r>nəqlən<s n="adv"/></r></p></e> <!-- CHECK -->
@@ -3895,7 +3908,7 @@
     <e><p><l>apaçık<s n="adv"/></l><r>açıq-aşkar<s n="adv"/></r></p></e> <!-- check -->
     <e><p><l>tercihen<s n="adv"/></l><r>tərcihən<s n="adv"/></r></p></e> 
     <e><p><l>sahi<s n="adv"/></l><r>əslində<s n="adv"/></r></p></e> 
-    <e><p><l>öyle<s n="adv"/></l><r>ələ<s n="adv"/></r></p></e> 
+    <e><p><l>öyle<s n="adv"/></l><r>elə<s n="adv"/></r></p></e> 
     <e><p><l>günübirlik<s n="adv"/></l><r>günübirlik<s n="adv"/></r></p></e> <!-- UNLİKELY TO BE AN ADV -->
     <e><p><l>gündüzleri<s n="adv"/></l><r>günüstü<s n="adv"/></r></p></e> <!-- CHECK 2 -->
     <e><p><l>gene<s n="adv"/></l><r>yenə<s n="adv"/></r></p></e> 
@@ -4004,6 +4017,9 @@
     <e><p><l>et<s n="v"/></l><r>et<s n="v"/></r></p></e>
 
     <!-- : Automatically added -->
+
+
+    <e><p><l>düşün<s n="v"/></l><r>düşün<s n="v"/></r></p></e>
 
     <e><p><l>ada<s n="v"/></l><r>nəzir<b/>et<s n="v"/></r></p></e>
     <e><p><l>ağla<s n="v"/></l><r>ağla<s n="v"/></r></p></e>
@@ -4203,6 +4219,7 @@
     <e><p><l>çağır<s n="v"/></l><r>çağır<s n="v"/></r></p></e>
     <e><p><l>gerek<s n="v"/></l><r>gərək<s n="v"/></r></p></e>
     <e><p><l>ulaş<s n="v"/></l><r>çat<s n="v"/></r></p></e>
+    <e><p><l>bekle<s n="v"/></l><r>gözlə<s n="v"/></r></p></e>
 
 
 
