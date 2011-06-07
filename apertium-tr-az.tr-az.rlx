@@ -196,7 +196,10 @@ SELECT Det if (0 A) (0 Num) (0 Det) (1 N)
 SELECT A if (0 A) (0 N) (1 N)
     
      ## aynı anda
- 
+     
+SELECT N if (0 ("Günaydın"i))
+
+    ## In the case of Günaydın it selects <n> instead of <np> Günaydın<np><cpl><2p>. I don't like this rule, it can be better 
 
 
 SELECT Adv IF (0 ("en"i)) (1 A OR Adv) ; 
