@@ -22,6 +22,8 @@ LIST CC = (cnjcoo) ;
 LIST CS = (cnjsub) ;
 LIST Num = (num) ;
 LIST NOT = (not) ;
+LIST NP = (np) ;
+
 
 LIST Abs = (abs) ;
 LIST Acc = (acc) ;
@@ -63,7 +65,7 @@ LIST Der/CI = (v D_CI n) ;
 LIST Der/yIS = (v D_yIS n) ;
 LIST Der/lIk = (n D_lIK n) ; 
 LIST Der/mA = (v D_mA n) ;
-LIST Der/lA = (n D_lA v) ;
+LIST Der/lA = (n D_lA v) (adj D_lA v) ;
 
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ("için"i postp);
 LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
@@ -90,7 +92,7 @@ SECTION
 
 #REMOVE (t_imp) ;
 
-#SELECT (n) ;
+
 
 ###############################################################################
 ## Remove redundant derivations 
@@ -116,7 +118,8 @@ REMOVE Der/lIk IF (0 N) (0 Der/lIk) ;
 
 REMOVE Der/mA IF (0 N) (0 Der/mA) ;
 
-REMOVE Der/lA IF (0 V) (0 Der/lA) ;
+REMOVE Der/lA IF (0 Der/lA) ;
+
     ## All of this DER/* rules are to cut out derivatives, which are cool but create problems during the translation
     
     
@@ -211,4 +214,12 @@ SELECT PxSg3 IF (0 Acc OR PxSg3)  (NOT -1* POSS BARRIER Gen) ; # (-1* Gen BARRIE
 REMOVE PxSg2 IF (0 ("dünya"i)) (0C Gen) (1 ("en"i)) ;
     ## Dünyanın en güzel kızı evime geldi.
     
+SELECT Det IF (0 Det) ;
+
+    ## Dirty!! To be removed after <prn><dem>
+    
+SELECT NP if (0 NP) ;
+
+REMOVE A if (0 A) (0 N) ;
+
 
