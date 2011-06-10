@@ -220,6 +220,9 @@ SELECT Det IF (0 Det) ;
     
 SELECT NP if (0 NP) ;
 
-REMOVE A if (0 A) (0 N) ;
+REMOVE (n 3p);
+
+### TO FIX A BUG IN TRMORPH, to be removed
+
 
 
