@@ -1,1 +1,2 @@
      37 ^@anki<postp>$
+      1 ^@dek<postp><acc><3p>$

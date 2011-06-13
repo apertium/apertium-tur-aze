@@ -1,0 +1,6 @@
+    971 ^@ora<prn><locp>$
+     16 ^@şura<prn><locp>$
+     14 ^@ora<prn><locp><ki>$
+      6 ^@ora<prn><locp>$.
+      2 ^@ora<prn><locp><cplsa>$
+      1 ^@ora<prn><locp><cpldi>$
