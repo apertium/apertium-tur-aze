@@ -51,7 +51,6 @@ LIST Imper = (t_imp) ;
 LIST CV-MARKER = (cv) (cv_dik) (cv_acak) (cv_ma) (cv_mak) (cv_dan) (cv_zdan) (cv_ince) (cv_erek) (cv_erek) (cv_eli) (cv_ene) (cv_ir) (cv_ar) (cv_ecek) (cv_mis) (cv_iyor) (cv_cesine) (cv_ip);
 
 
-
 LIST VN/acak = (vn_acak) ;
 LIST VN/dik = (vn_dik) ;
 LIST VN/ma = (vn_ma) ;
@@ -222,7 +221,12 @@ SELECT NP if (0 NP) ;
 
 REMOVE (n 3p);
 
-### TO FIX A BUG IN TRMORPH, to be removed
+### TO FIX A BUG IN TRMORPH, to be removed, CHECK LATER
+
+SELECT N IF (0 N) (0 V) (NOT 0 CV-MARKER) ;
+
+
+
 
 
 
