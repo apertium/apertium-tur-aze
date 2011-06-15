@@ -1002,8 +1002,7 @@
     <e><p><l>halef</l><r>baş</r></p><par n="nominal"/></e>  
     <e><p><l>hal</l><r>hal</r></p><par n="nominal"/></e>  
     <e><p><l>halife</l><r>xəlifə</r></p><par n="nominal"/></e>  
-    <e><p><l>halka</l><r>halga</r></p><par n="nominal"/></e>  
-    <e><p><l>halk</l><r>xalg</r></p><par n="nominal"/></e>  
+    <e><p><l>halka</l><r>halqa</r></p><par n="nominal"/></e>  
     <e><p><l>halter</l><r>ştang</r></p><par n="nominal"/></e>  
     <e><p><l>hamam</l><r>hamam</r></p><par n="nominal"/></e>  
     <e><p><l>hamle</l><r>həmlə</r></p><par n="nominal"/></e>  
@@ -2965,6 +2964,7 @@
     <e><p><l>zor</l><r>çetin</r></p><par n="nominal"/></e>
     <e><p><l>spor</l><r>idman</r></p><par n="nominal"/></e>
     <e><p><l>bir</l><r>bir</r></p><par n="nominal"/></e>
+    <e><p><l>arena</l><r>arena</r></p><par n="nominal"/></e>
 
 
     <e><p><l>hazırlık</l><r>hazırlıq</r></p><par n="nominal"/></e>
@@ -3600,7 +3600,8 @@
 
     <e><p><l>Soner<s n="np"/></l><r>Soner<s n="np"/></r></p></e> <!-- Nom.sg -->
     <e><p><l>Yalçın<s n="np"/></l><r>Yalçın<s n="np"/></r></p></e> <!-- Cog.sg -->
- 
+    <e><p><l>Ergenekon<s n="np"/></l><r>Ergenekon<s n="np"/></r></p></e> <!-- Top -->
+
     <e><p><l>Adıyaman<s n="np"/></l><r>Adıyaman<s n="np"/></r></p></e> <!-- Top -->
 
    <e><p><l>Abhazya<s n="np"/></l><r>Abxaziya<s n="np"/></r></p></e> <!-- Top -->
@@ -4053,9 +4054,10 @@
     <!-- : Automatically added -->
 
 
+    <e><p><l>taşı<s n="v"/></l><r>daşı<s n="v"/></r></p></e>
+
     <e><p><l>düşün<s n="v"/></l><r>düşün<s n="v"/></r></p></e>
     <e><p><l>selamla<s n="v"/></l><r>salamla<s n="v"/></r></p></e>
-
     <e><p><l>ada<s n="v"/></l><r>nəzir<b/>et<s n="v"/></r></p></e>
     <e><p><l>ağla<s n="v"/></l><r>ağla<s n="v"/></r></p></e>
     <e><p><l>alkışla<s n="v"/></l><r>alqışla<s n="v"/></r></p></e>

@@ -57,6 +57,8 @@ LIST VN/dik = (vn_dik) ;
 LIST VN/ma = (vn_ma) ;
 LIST VN/mak = (vn_mak) ;
 LIST VN/yis = (vn_yis) ;
+LIST CP/ken = (v cpl_ken) ;
+
 
 LIST Der/0/Adv→N = (adv Dan_0 n) ;
 LIST Der/0/A→N = (adj Djn_0 n) ;
@@ -72,7 +74,7 @@ LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i 
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ;
 LIST POST-TEM = ("sırasında" N PxSg3 loc *3s) ;
 
-LIST FINITE = t_narr t_aor ; 
+LIST FINITE = t_narr t_aor t_cont t_fut t_past ; 
 
 SET PERS = Sg1 | Sg2 | Sg3 | Pl1 | Pl2 | Pl3 ;
 SET POSS = PxSg1 | PxSg2 | PxSg3 | PxPl1 | PxPl2 | PxPl3 ;
@@ -83,6 +85,8 @@ SET WORD = N | A | V | Det | Post | Pron | CC | CS ;
 SET VN = VN/acak | VN/dik | VN/ma | VN/mak | VN/yis ; 
 
 SET OBL-CASE = Acc | Dat | Gen | Ins | Abl ;
+
+SET CLB = CP/ken ;
 
 
 SECTION
@@ -257,6 +261,8 @@ REMOVE N IF (0 ("verdi"i)) ((-2 Dat) OR (-1 Dat)) ;
   ## Bana [0]verdi
   ## This rule removes the reading of verdi as <n> in case we have a dative in -2 or -1 position
     
+SELECT V IF (NOT -1* FINITE BARRIER CLB) (0 FINITE) ;
+
 
     
     
@@ -278,6 +284,7 @@ REMOVE (n 3p);
 SELECT N IF (0 N) (0 V) (NOT 0 CV-MARKER) ;
 
 ## ULTRA DIRTY
+
 
 
 
