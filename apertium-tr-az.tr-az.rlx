@@ -31,6 +31,7 @@ LIST Dat = (dat) ;
 LIST Gen = (gen) ;
 LIST Ins = (ins) ;
 LIST Abl = (abl) ;
+LIST Loc = (loc) ;
 
 LIST Sg1 = (1s) ;
 LIST Sg2 = (2s) ;
@@ -69,6 +70,7 @@ LIST Der/lA = (n D_lA v) (adj D_lA v) ;
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ("için"i postp);
 LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ;
+LIST POST-TEM = ("sırasında" N PxSg3 loc *3s) ;
 
 LIST FINITE = t_narr t_aor ; 
 
@@ -89,13 +91,19 @@ SECTION
 ## Bad rules
 ###############################################################################
 
-#REMOVE (t_imp) ;
+
 
 
 
 ###############################################################################
 ## Remove redundant derivations 
 ###############################################################################
+# Derivations are cool, and should be included for sure in a serious morphological analysis
+# We don't want them in the transfer though, cause they are problematic to handle
+#
+#
+
+
 
 REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 N);
     ## içindekiler
@@ -132,98 +140,144 @@ REMOVE Der/lA IF (0 Der/lA) ;
 ###############################################################################
 
 REMOVE Dat IF (1C Dat) ; 
+    ## Rule 1
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
 
 REMOVE Acc IF (NOT 0 POSS) (-1 Gen);
-    ##
+    ## Rule 2
 
 SELECT A IF (-1 A LINK -1 Det) (1 N LINK NOT 0 POSS) ;
-    ##
+    ## Rule 3
 
 SELECT N + PxSg2 IF (-1 Sg2 + Gen) ;
-    ##
+    ## Rule 4
 
 ###############################################################################
 ## Disambiguate postpositions 
 ###############################################################################
 
 REMOVE Acc IF (1C POST-ABS) ;
-    ##
+    ## Rule 5
 
 SELECT Abl IF (1C POST-ABL) ;
-    ##
+    ## Rule 6
 
 REMOVE POST-ABS IF (-1C OBL-CASE);
+    ## Rule 7
+    ## 
     ## Hepiniz bundan için!
 
 ###############################################################################
 
 ## REMOVE NOM-OR-PRO + Sg3 IF (1C* V + PERS BARRIER EOS) ;
+    ## Rule 8
     ## Ondan sonraysa yüzde 6,75'e yükseliyor.
     ## Eve girmekteyken, bir şey hatırladım.
 
 REMOVE N IF (0 N) (0 V) (NOT -1* WORD BARRIER BOS) (NOT 1* WORD BARRIER EOS);
+    ## Rule 9
     ## Içerler
 
 REMOVE V IF (0 V) (0 NOT)  (NOT 1* WORD  BARRIER EOS);
-    ## 
+    ## Rule 10
 
 REMOVE CV-MARKER IF (NOT 1* WORD BARRIER EOS) ;
+    ## Rule 11
     ## Ahmet dersine çalışıyor.
     ## Çok içmiş gibi konuşuyor.
 
 REMOVE Imper IF (NOT 1* ("!")) ;
-    ## 
+    ## Rule 12 
 
-REMOVE CV-MARKER IF (0 N) (0 CV-MARKER) ; 
+REMOVE CV-MARKER IF (0 N) (0 CV-MARKER)  ; 
+    ## Rule 13
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
 
-REMOVE CV-MARKER IF (0 V) (0 CV-MARKER) (1 ("ki"i))
+REMOVE CV-MARKER IF (0 V) (0 CV-MARKER) (1 ("ki"i)) ;
 
+   ## Rule 14
    ## Converbs cannot be before "ki", so that this rule takes CV out when followed by ki
 
-REMOVE VN IF (0 N) (0 VN) ;
-    ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
+REMOVE VN IF (0 N) (0 VN)  (1 POST-TEM) ;
+    
+    ## Rule 15
+    ## [0]Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
 
-REMOVE N IF (0 N) (0 A) (1 Num) ;
-    ## yeni bir araba
+REMOVE N IF (0 N) (0 A) (1 Num) (2 N) ;
+    
+    ## Rule 16
+    ## This is a really common structure in turkish Adj + Bir + N
+    ## [0]yeni bir araba
 
-SELECT Det IF (0 A) (0 Num) (0 Det) (-1 A) 
-    ## yeni bir now selects A+Det
+SELECT Det IF (0 A) (0 Num) (0 Det) (-1 A) ;
+    ## Rule 17
+    ## yeni [0]bir now selects A+Det
     
-SELECT Det if (0 A) (0 Num) (0 Det) (1 N)
-    ## bir orman now selects Det+Num
+SELECT Det if (0 A) (0 Num) (0 Det) (1 N) ;
+    
+    ## Rule 18
+    ## [0]bir orman now selects Det+Num
     
     
-SELECT A if (0 A) (0 N) (1 N)
-    
-     ## aynı anda
+SELECT A if (0 A) (0 N) (NOT 0 Ins) (1 N) (NOT 1 Ins) ;
+
+     ## Rule 19
+     ## This rule removes the reading of [0] as noun in case it has no INSTRUMENTAL CASE, which is used in turkish as
+     ## conjunction sometimes
+     ## [0]aynı anda ## Forms of the type Yeniyle Motosiklet are left <n> + <n>
      
-SELECT N if (0 ("Günaydın"i))
+SELECT N if (0 ("Günaydın"i)) ;
 
-    ## In the case of Günaydın it selects <n> instead of <np> Günaydın<np><cpl><2p>. I don't like this rule, it can be better 
+    ## Rule 20
+    ## TO BE REMOVED, it is really disgusting!
 
 
 SELECT Adv IF (0 ("en"i)) (1 A OR Adv) ; 
-    ## Dünyanın en güzel kızı evime geldi. 
+    
+    ## Rule 21 
+    ## This rule selects <adv> for "en" in case it is followed by an adjective
+    ## Dünyanın [0]en güzel kızı evime geldi.
+    
 
 SELECT PxSg3 IF (0 Acc OR PxSg3)  (NOT -1* POSS BARRIER Gen) ; # (-1* Gen BARRIER BOS) ;
+    
+    ## Rule 22
     ## Dünyanın en güzel kızı evime geldi. 
 
-REMOVE PxSg2 IF (0 ("dünya"i)) (0C Gen) (1 ("en"i)) ;
-    ## Dünyanın en güzel kızı evime geldi.
+REMOVE PxSg2 IF (0 ("dünya"i)) (0C Gen) (1 ("en"i)) (NOT -1 ("senin"i));
+    
+    ## Rule 23
+    ## [0]Dünyanın en güzel kızı evime geldi.
+    
+REMOVE N IF (0 ("verdi"i)) ((-2 Dat) OR (-1 Dat)) ;
+
+  ## Rule 24
+  ## vermek has such a structure [dat ?unmarked? vermek]
+  ## Bana ekmek [0]verdi
+  ## Bana [0]verdi
+  ## This rule removes the reading of verdi as <n> in case we have a dative in -2 or -1 position
+    
+
+    
     
 SELECT Det IF (0 Det) ;
 
+    
     ## Dirty!! To be removed after <prn><dem>
     
 SELECT NP if (0 NP) ;
 
+   
+   ## Dirty!! To be removed 
+
 REMOVE (n 3p);
 
-### TO FIX A BUG IN TRMORPH, to be removed, CHECK LATER
+   ## TO BE REMOVED
+   
 
 SELECT N IF (0 N) (0 V) (NOT 0 CV-MARKER) ;
+
+## ULTRA DIRTY
 
 
 
