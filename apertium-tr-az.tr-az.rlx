@@ -76,6 +76,8 @@ LIST POST-TEM = ("sırasında" N PxSg3 loc *3s) ;
 
 LIST FINITE = t_narr t_aor t_cont t_fut t_past ; 
 
+SET FINITE-NOSUB = FINITE - CP/ken ;
+
 SET PERS = Sg1 | Sg2 | Sg3 | Pl1 | Pl2 | Pl3 ;
 SET POSS = PxSg1 | PxSg2 | PxSg3 | PxPl1 | PxPl2 | PxPl3 ;
 SET NOMINAL = N | A ;
@@ -261,7 +263,7 @@ REMOVE N IF (0 ("verdi"i)) ((-2 Dat) OR (-1 Dat)) ;
   ## Bana [0]verdi
   ## This rule removes the reading of verdi as <n> in case we have a dative in -2 or -1 position
     
-SELECT V IF (NOT -1* FINITE BARRIER CLB) (0 FINITE) ;
+SELECT V IF (NOT -1* FINITE-NOSUB BARRIER CLB) (0 FINITE-NOSUB) ;
 
 
     
@@ -281,7 +283,7 @@ REMOVE (n 3p);
    ## TO BE REMOVED
    
 
-SELECT N IF (0 N) (0 V) (NOT 0 CV-MARKER) ;
+#SELECT N IF (0 N) (0 V) (NOT 0 CV-MARKER) ;
 
 ## ULTRA DIRTY
 
