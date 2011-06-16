@@ -11,8 +11,9 @@ SOFT-DELIMITERS = "<,>" ;
 LIST BOS = (>>>) ; # Beginning of sentence
 LIST EOS = (<<<) ; # End of sentence
 
-LIST N = (n) ;
-LIST V = (v) ;
+LIST N = (n) (nexist) ;
+LIST V = (v) (exist) (nexist) (not) ;
+LIST V/SP = (exist) (nexist) ;
 LIST A = (adj) ;
 LIST Adv = (adv) ;
 LIST Det = (det) ;
@@ -47,6 +48,8 @@ LIST PxPl1 = (p1p) ;
 LIST PxPl2 = (p2p) ;
 LIST PxPl3 = (p3p) ;
 
+LIST Poss = (p1s) (p2s) (p3s) (p1p) (p2p) (p3p) ;
+ 
 LIST Imper = (t_imp) ; 
 
 LIST CV-MARKER = (cv) (cv_dik) (cv_acak) (cv_ma) (cv_mak) (cv_dan) (cv_zdan) (cv_ince) (cv_erek) (cv_erek) (cv_eli) (cv_ene) (cv_ir) (cv_ar) (cv_ecek) (cv_mis) (cv_iyor) (cv_cesine) (cv_ip);
@@ -74,7 +77,7 @@ LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i 
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ;
 LIST POST-TEM = ("sırasında" N PxSg3 loc *3s) ;
 
-LIST FINITE = t_narr t_aor t_cont t_fut t_past ; 
+LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist ; 
 
 SET FINITE-NOSUB = FINITE - CP/ken ;
 
@@ -265,6 +268,19 @@ REMOVE N IF (0 ("verdi"i)) ((-2 Dat) OR (-1 Dat)) ;
     
 SELECT V IF (NOT -1* FINITE-NOSUB BARRIER CLB) (0 FINITE-NOSUB) ;
 
+  ## Rule 25
+  ## This rule, where there is ambiguity for the [0]word, checks if any word preceding [0]
+  ## is a finite verb. If not, it select, where possible, the [0]word as a verb.
+  
+SELECT V IF (0 ("var"i) OR ("yok"i)) (-1 Poss ) ;
+
+    ## Test RULE. Selects V (i.e. in this case exist or nexist realized as var/yok) if the precedent word has
+    ## a possessive in it. It's the typical cosntruction for turkish for "to have" poss + var.
+
+SELECT Poss IF (1 V/SP) ;
+
+   ## If the following word is V/SP (i.e. var or yok), Poss is selected over the verb "to be" (in the morph
+   ## analyzer 1s2s3s 1p2p3p
 
     
     
@@ -283,9 +299,6 @@ REMOVE (n 3p);
    ## TO BE REMOVED
    
 
-#SELECT N IF (0 N) (0 V) (NOT 0 CV-MARKER) ;
-
-## ULTRA DIRTY
 
 
 
