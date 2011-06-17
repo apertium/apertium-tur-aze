@@ -34,12 +34,17 @@ LIST Ins = (ins) ;
 LIST Abl = (abl) ;
 LIST Loc = (loc) ;
 
+LIST Cases = (abs acc dat gen ins abl loc) ;
+
+
 LIST Sg1 = (1s) ;
 LIST Sg2 = (2s) ;
 LIST Sg3 = (3s) ;
 LIST Pl1 = (1p) ;
 LIST Pl2 = (2p) ;
 LIST Pl3 = (3p) ;
+
+LIST Be = (1s 2s 3s 1p 2p 3p) ;
 
 LIST PxSg1 = (p1s) ;
 LIST PxSg2 = (p2s) ;
@@ -49,6 +54,8 @@ LIST PxPl2 = (p2p) ;
 LIST PxPl3 = (p3p) ;
 
 LIST Poss = (p1s) (p2s) (p3s) (p1p) (p2p) (p3p) ;
+
+LIST ABS = N - (Poss + Be + Cases) ; 
  
 LIST Imper = (t_imp) ; 
 
@@ -63,6 +70,7 @@ LIST VN/yis = (vn_yis) ;
 LIST CP/ken = (v cpl_ken) ;
 
 
+
 LIST Der/0/Adv→N = (adv Dan_0 n) ;
 LIST Der/0/A→N = (adj Djn_0 n) ;
 LIST Der/lAn = (n D_lAn v) ;
@@ -71,6 +79,10 @@ LIST Der/yIS = (v D_yIS n) ;
 LIST Der/lIk = (n D_lIK n) ; 
 LIST Der/mA = (v D_mA n) ;
 LIST Der/lA = (n D_lA v) (adj D_lA v) ;
+LIST NP/Sal = (np D_sAl) ;
+LIST N/Sal = (n D_sAl) ;
+LIST A/Sal = (adj D_sAl) ;
+LIST Adv/Dan = (adv Dan_0 n) ;
 
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ("için"i postp);
 LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
@@ -114,8 +126,24 @@ SECTION
 
 
 
+######### RULES N + N CHECK CASES. IT IS POSSIBLE TO HAVE 2 NOUNS IN A SEQUENCE, CHECK CASES like GIANLUCA ARABAYI KULLANIYOR
+
+REMOVE NP/Sal ;
+
+REMOVE N/Sal ;
+
+REMOVE A/Sal ;
+
+REMOVE Adv/Dan;
+
+     ## We really don't want those derivations
+
+
 REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 N);
     ## içindekiler
+    
+REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 A);
+
 
 REMOVE Der/0/Adv→N IF (0 Der/0/Adv→N) (0 Adv);
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
@@ -274,20 +302,35 @@ SELECT V IF (NOT -1* FINITE-NOSUB BARRIER CLB) (0 FINITE-NOSUB) ;
   
 SELECT V IF (0 V/SP) (-1 Poss) ;
 
+    ## Rule 26
     ## Test RULE. Selects V (i.e. in this case exist or nexist realized as var/yok) if the precedent word has
     ## a possessive in it. It's the typical construction for turkish for "to have" poss + var.
     ## Dikkat: It should be done probably for all the finite verbs in place of V/SP
 
 SELECT Poss IF (1 V/SP) ;
 
+   ## Rule 27
    ## If the following word is V/SP (i.e. var or yok), Poss is selected over the verb "to be" (in the morph
    ## analyzer 1s2s3s 1p2p3p
    
 SELECT Poss IF (0 Poss) (-1 N) ;
 
+  ## Rule 28
   ## This rule should select Possessive for patterns like N + N+poss. This patters are called "unmarked compound noun"
   ## i.e. compound nouns where the first noun is not marked with GEN.
 
+SELECT Abl if (0 N)  (1 POST-ABL) ;
+
+ ## Rule 29
+ ## IT handles cases like "baştan beri", where baştan can be read both as n and adv.
+ ## Beri, meaning since or from, in a temporal way, has a construction of the type n+abl + beri
+ ## 
+
+SELECT Dat if (0 N) (1 POST-DAT) ;
+
+ ## Rule 30
+ ## Same as rule 29
+ 
 
     
     
@@ -297,6 +340,8 @@ SELECT Det IF (0 Det) ;
     ## Dirty!! To be removed after <prn><dem>
     
 SELECT NP if (0 NP) ;
+
+SELECT Pron IF (0 (<bu>)) ;
 
    
    ## Dirty!! To be removed 
