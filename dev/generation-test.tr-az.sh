@@ -36,7 +36,7 @@ if [[ ! -f /tmp/tr-az.gentest.transfer ]]; then
 fi
 
 cat /tmp/tr-az.gentest.transfer | sed 's/^ //g' | grep -v -e '@' -e '*' -e '[0-9]<num>' -e '#}' -e '#{' | sed 's/\$>/$/g' | sed 's/^\W*\^/^/g' | sort -f | uniq -c | sort -gr > /tmp/tr-az.gentest.stripped
-cat /tmp/tr-az.gentest.stripped | grep -v '\^\W<' | lt-proc -d ../tr-az.autogen.bin > /tmp/tr-az.gentest.surface
+cat /tmp/tr-az.gentest.stripped | grep -v '\^\W<' | hfst-proc -d ../tr-az.autogen.hfst > /tmp/tr-az.gentest.surface
 cat /tmp/tr-az.gentest.stripped | grep -v '\^\W<'  | sed 's/^ *[0-9]* \^/^/g' > /tmp/tr-az.gentest.nofreq
 paste /tmp/tr-az.gentest.surface /tmp/tr-az.gentest.nofreq  > /tmp/tr-az.generation.errors.txt
 cat /tmp/tr-az.generation.errors.txt  | grep -v '#' | grep '\/' > /tmp/tr-az.multiform
