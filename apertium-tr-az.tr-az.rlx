@@ -172,7 +172,7 @@ REMOVE Der/yIS IF (0 N) (0 Der/yIS) ;
 REMOVE Der/lIk IF (0 N) (0 Der/lIk) ;
     ## 
 
-REMOVE Der/mA IF (0 N) (0 Der/mA) ;
+REMOVE Der/mA IF (NOT 0C V) (0 Der/mA) ;
 
 REMOVE Der/lA IF (0 Der/lA) ;
 
@@ -252,6 +252,9 @@ REMOVE CV-MARKER IF (0 V) (0 CV-MARKER) (1 ("ki"i)) ;
 
    ## Rule 14
    ## Converbs cannot be before "ki", so that this rule takes CV out when followed by ki
+
+REMOVE CV-MARKER IF (0 V) (1 FINITE) ;
+
 
 REMOVE VN IF (0 N) (0 VN)  (1 POST-TEM) ;
     
@@ -351,6 +354,9 @@ SELECT Dat if (0 N) (1 POST-DAT) ;
  ## Rule 30
  ## Same as rule 29
  
+REMOVE Gen if (1 Gen) ;
+
+
  
  
 
