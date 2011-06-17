@@ -88,6 +88,7 @@ LIST Adv/Dan = (adv Dan_0 n) ;
 LIST N/dcak = (n dcak n) ;
 LIST N/ci = (n ci n) ;
 LIST N/lI = (n dli) ;
+LIST Num/Dmn_O = (num Dmn_0 n) ;
 
 
 
@@ -145,6 +146,7 @@ REMOVE N/dcak ;
 
 REMOVE Adv/Dan;
 
+REMOVE Num/Dmn_O ;
      ## We really don't want those derivations
 
 
@@ -348,6 +350,7 @@ SELECT Dat if (0 N) (1 POST-DAT) ;
 
  ## Rule 30
  ## Same as rule 29
+ 
  
  
 
