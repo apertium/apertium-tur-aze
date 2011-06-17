@@ -26,7 +26,6 @@ LIST NOT = (not) ;
 LIST NP = (np) ;
 
 
-LIST Abs = (abs) ;
 LIST Acc = (acc) ;
 LIST Dat = (dat) ;
 LIST Gen = (gen) ;
@@ -34,7 +33,9 @@ LIST Ins = (ins) ;
 LIST Abl = (abl) ;
 LIST Loc = (loc) ;
 
-LIST Cases = (abs acc dat gen ins abl loc) ;
+LIST MARKED-Cases = (acc dat gen ins abl loc) ;
+
+SET Abs = N - MARKED-Cases ;
 
 
 LIST Sg1 = (1s) ;
@@ -55,7 +56,6 @@ LIST PxPl3 = (p3p) ;
 
 LIST Poss = (p1s) (p2s) (p3s) (p1p) (p2p) (p3p) ;
 
-LIST ABS = N - (Poss + Be + Cases) ; 
  
 LIST Imper = (t_imp) ; 
 
@@ -76,17 +76,24 @@ LIST Der/0/A→N = (adj Djn_0 n) ;
 LIST Der/lAn = (n D_lAn v) ;
 LIST Der/CI = (v D_CI n) ;
 LIST Der/yIS = (v D_yIS n) ;
-LIST Der/lIk = (n D_lIK n) ; 
+LIST Der/lIk = (n D_lIK n) ;
+LIST Der/lI = (n D_lI n) ;
+
 LIST Der/mA = (v D_mA n) ;
 LIST Der/lA = (n D_lA v) (adj D_lA v) ;
 LIST NP/Sal = (np D_sAl) ;
 LIST N/Sal = (n D_sAl) ;
 LIST A/Sal = (adj D_sAl) ;
 LIST Adv/Dan = (adv Dan_0 n) ;
+LIST N/dcak = (n dcak n) ;
+LIST N/ci = (n ci n) ;
+LIST N/lI = (n dli) ;
 
-LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ("için"i postp);
+
+
+LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ("için"i postp) ;
 LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
-LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ;
+LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ("başka"i postp) ("rağmen"i postp) ("yana"i postp) ;
 LIST POST-TEM = ("sırasında" N PxSg3 loc *3s) ;
 
 LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist ; 
@@ -134,16 +141,19 @@ REMOVE N/Sal ;
 
 REMOVE A/Sal ;
 
+REMOVE N/dcak ;
+
 REMOVE Adv/Dan;
 
      ## We really don't want those derivations
 
 
-REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 N);
+REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 N) ;
     ## içindekiler
     
-REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 A);
+REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 A) ;
 
+REMOVE Der/lI IF (0 Der/lI) (0 A OR N) ; 
 
 REMOVE Der/0/Adv→N IF (0 Der/0/Adv→N) (0 Adv);
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
@@ -151,7 +161,7 @@ REMOVE Der/0/Adv→N IF (0 Der/0/Adv→N) (0 Adv);
 REMOVE Der/CI IF (0 N) (0 Der/CI) ;
     ## Yemek sırasında İsa eline ekmek aldı, şükredip ekmeği böldü ve öğrencilerine verdi.
 
-REMOVE Der/lAn IF (0 V + $$FINITE) (0 Der/lAn + $$FINITE) ;
+REMOVE Der/lAn IF (0 V) ;
     ## Aslında MKK'nin iki yıllık bir proje olması planlanmış.
 
 REMOVE Der/yIS IF (0 N) (0 Der/yIS) ;
@@ -202,7 +212,13 @@ SELECT Abl IF (1C POST-ABL) ;
 REMOVE POST-ABS IF (-1C OBL-CASE);
     ## Rule 7
     ## 
-    ## Hepiniz bundan için!
+    ## 
+    
+REMOVE CC IF (1 EOS) ;
+
+   ## Rule 30
+   ## The reading cnjcoo is dropped if it is at the end of the sentence
+   ## Hepiniz bundan için.
 
 ###############################################################################
 
@@ -211,7 +227,7 @@ REMOVE POST-ABS IF (-1C OBL-CASE);
     ## Ondan sonraysa yüzde 6,75'e yükseliyor.
     ## Eve girmekteyken, bir şey hatırladım.
 
-REMOVE N IF (0 N) (0 V) (NOT -1* WORD BARRIER BOS) (NOT 1* WORD BARRIER EOS);
+REMOVE N IF (0 N) (0 FINITE) (1 EOS) ;
     ## Rule 9
     ## Içerler
 
@@ -306,6 +322,7 @@ SELECT V IF (0 V/SP) (-1 Poss) ;
     ## Test RULE. Selects V (i.e. in this case exist or nexist realized as var/yok) if the precedent word has
     ## a possessive in it. It's the typical construction for turkish for "to have" poss + var.
     ## Dikkat: It should be done probably for all the finite verbs in place of V/SP
+    ## Problems: Bilim var! == i have information or "there is science"
 
 SELECT Poss IF (1 V/SP) ;
 
@@ -318,11 +335,12 @@ SELECT Poss IF (0 Poss) (-1 N) ;
   ## Rule 28
   ## This rule should select Possessive for patterns like N + N+poss. This patters are called "unmarked compound noun"
   ## i.e. compound nouns where the first noun is not marked with GEN.
+  
 
 SELECT Abl if (0 N)  (1 POST-ABL) ;
 
  ## Rule 29
- ## IT handles cases like "baştan beri", where baştan can be read both as n and adv.
+ ## IT handles cases like "[0]baştan beri", where baştan can be read both as n and adv.
  ## Beri, meaning since or from, in a temporal way, has a construction of the type n+abl + beri
  ## 
 
@@ -331,6 +349,8 @@ SELECT Dat if (0 N) (1 POST-DAT) ;
  ## Rule 30
  ## Same as rule 29
  
+ 
+
 
     
     

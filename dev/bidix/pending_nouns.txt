@@ -1,28 +1,11 @@
-   5557 ^@güvenlik<n>$
-   3169 ^@bas<n>$
-   2810 ^@düzen<n><dlan><v><partyan>$
-   2287 ^@ede<n>$
-   1911 ^@ama<n><dci><n>$
-   1869 ^@beta<n>$
-   1655 ^@çöz<n>$
-   1513 ^@dan<n>$
-   1484 ^@ede<n><dcak><n>$
-   1402 ^@art<n>$
-   1250 ^@tur<n>$
-   1098 ^@par<n>$
-    888 ^@şek<n><dli><n>$
-    744 ^@olası<n>$
+    888 ^@şek<n><dli><n>$ ????
     719 ^@hav<n>$
-    691 ^@gözalt<n>$
     682 ^@bili<n>$
     644 ^@kamuoy<n>$
     644 ^@do<n>$
     565 ^@tak<n>$
-    534 ^@sorum<n><dli><n>$
     497 ^@forum<n>$
     488 ^@güve<n>$
-    484 ^@bek<n><dlan><v><partyan>$
-    457 ^@dolar<n><dlik><n>$
     456 ^@uygula<v><dma><n>$
     455 ^@car<n>$
     425 ^@yıldönüm<n>$

@@ -42,6 +42,18 @@
     </pipeline>
   </mode>
 
+  <mode name="tr-az-cg-trace" install="no">
+    <pipeline>
+      <program name="hfst-proc">
+        <file name="tr-az.automorf.hfst"/>
+      </program>
+      <program name="tagger-to-visl.py"/>
+      <program name="vislcg3 -tg">
+        <file name="tr-az.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
   <mode name="tr-az-tagger" install="no">
     <pipeline>
       <program name="hfst-proc">
@@ -96,3 +108,6 @@
     </pipeline>
   </mode>
 </modes>
+
+
+
