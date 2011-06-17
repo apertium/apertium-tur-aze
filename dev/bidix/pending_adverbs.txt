@@ -4,11 +4,11 @@
      10 ^@hayli<adv>$
       9 ^@zaman<adv><ki>$
       7 ^@sanki<adv>$
-      4 ^@kimi<adv><dan0><n><pl><p3s>$
-      3 ^@kimi<adv><dan0><n><p3p>$
+      4 ^@kimi<adv><dan_0><n><pl><p3s>$
+      3 ^@kimi<adv><dan_0><n><p3p>$
       2 ^@sene<adv><ki>$
-      2 ^@sabahları<adv>$
       2 ^@resen<adv>$
-      2 ^@kimi<adv><dan0><n><p3p><dat>$
-      1 ^@kimi<adv><dan0><n><pl><p1p><gen>$
-      1 ^@kimi<adv><dan0><n><p3p><gen>$
+      2 ^@kimi<adv><dan_0><n><p3p><dat>$
+      1 ^@sabahları<adv>$
+      1 ^@kimi<adv><dan_0><n><pl><p1p><gen>$
+      1 ^@kimi<adv><dan_0><n><p3p><gen>$

@@ -1,5 +1,5 @@
-    930 ^@ora<prn><locp>$
+    922 ^@ora<prn><locp>$
      16 ^@şura<prn><locp>$
      14 ^@ora<prn><locp><ki>$
-      2 ^@ora<prn><locp><cplsa>$
-      1 ^@ora<prn><locp><cpldi>$
+      2 ^@ora<prn><locp><cpl_sa>$
+      1 ^@ora<prn><locp><cpl_di>$

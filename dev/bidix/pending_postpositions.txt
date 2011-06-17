@@ -1,2 +1,4 @@
      37 ^@anki<postp>$
+     10 ^@yerde<postp><p2s>$
+      5 ^@bile<postp><p2s>$
       1 ^@dek<postp><p3s><3p>$
