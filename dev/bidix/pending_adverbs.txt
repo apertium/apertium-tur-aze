@@ -1,14 +1,30 @@
    1582 ^@gün<adv><ki>$
+    723 ^@çoğu<adv>$
     406 ^@yıl<adv><ki>$
      47 ^@ay<adv><ki>$
+     12 ^@kimi<adv>$
      10 ^@hayli<adv>$
       9 ^@zaman<adv><ki>$
       7 ^@sanki<adv>$
+      6 ^@bağım<n><dnn_siz><adv>$
       4 ^@kimi<adv><dan_0><n><pl><p3s>$
       3 ^@kimi<adv><dan_0><n><p3p>$
+      2 ^@sık<n><d_ca><adv>$
       2 ^@sene<adv><ki>$
       2 ^@resen<adv>$
+      2 ^@profesyonel<n><d_ca><adv>$
       2 ^@kimi<adv><dan_0><n><p3p><dat>$
+      1 ^@yunan<np><d_ca><adv>$
+      1 ^@yetkin<n><dnn_siz><adv><d_lik><n><p2s><gen>$
       1 ^@sabahları<adv>$
+      1 ^@mut<n><dnn_siz><adv>$
       1 ^@kimi<adv><dan_0><n><pl><p1p><gen>$
       1 ^@kimi<adv><dan_0><n><p3p><gen>$
+      1 ^@kablo<n><dnn_siz><adv>$
+      1 ^@ingiliz<np><d_ca><adv>$
+      1 ^@inan<n><d_ca><adv>$
+      1 ^@düzen<n><dnn_siz><adv><d_lik><n><pl><ins>$
+      1 ^@çetin<np><d_ca><adv>$
+      1 ^@arnavut<np><d_ca><adv>$
+      1 ^@arap<np><d_ca><adv>$
+      1 ^@ama<n><d_ca><adv>$
