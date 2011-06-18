@@ -97,7 +97,7 @@ LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i 
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ("başka"i postp) ("rağmen"i postp) ("yana"i postp) ;
 LIST POST-TEM = ("sırasında" N PxSg3 loc *3s) ;
 
-LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist ; 
+LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist cpl_di ; 
 
 SET FINITE-NOSUB = FINITE - CP/ken ;
 
@@ -375,7 +375,12 @@ REMOVE Det IF (0 Adv) (0 Det) (1 A) ;
 
 ## Siz [0]çok iyi bir doktorsunuz.
 
+REMOVE Sg3 if (0 Sg3) (1* FINITE) ;
 
+REMOVE Sg3 if (0 Sg3) (0 Sg3) ;
+
+## [0]Murat banyodaydı now removes 3s output for [0] if [1]  has copula or 3s
+## It is impossible to have a 3s (It is Murat) if there is a cpl after it or another 3s.
     
     
 
