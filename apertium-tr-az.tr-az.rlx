@@ -105,7 +105,9 @@ SET PERS = Sg1 | Sg2 | Sg3 | Pl1 | Pl2 | Pl3 ;
 SET POSS = PxSg1 | PxSg2 | PxSg3 | PxPl1 | PxPl2 | PxPl3 ;
 SET NOMINAL = N | A ;
 SET NOM-OR-PRO = NOMINAL | Pron ;
+SET CASES = Acc | Gen | Dat | Abl | Loc | Ins ;
 SET WORD = N | A | V | Det | Post | Pron | CC | CS ;
+SET ABS = N - CASES ;
 
 SET VN = VN/acak | VN/dik | VN/ma | VN/mak | VN/yis ; 
 
@@ -278,12 +280,18 @@ SELECT Det if (0 A) (0 Num) (0 Det) (1 N) ;
     ## [0]bir orman now selects Det+Num
     
     
-SELECT A if (0 A) (0 N) (NOT 0 Ins) (1 N) (NOT 1 Ins) ;
+SELECT A if (0 A) (0 N) (NOT 0 Adv) (NOT 0 Ins) (1 N) (NOT 1 Ins) ;
 
      ## Rule 19
      ## This rule removes the reading of [0] as noun in case it has no INSTRUMENTAL CASE, which is used in turkish as
      ## conjunction sometimes
      ## [0]aynı anda ## Forms of the type Yeniyle Motosiklet are left <n> + <n>
+     
+REMOVE N IF (-1 ABS) (0 ABS) ;
+
+   ## Rule 19-b
+   ## öğrenciler [0]sürekli konuşuyorlar
+
      
 SELECT N if (0 ("Günaydın"i)) ;
 
@@ -336,7 +344,7 @@ SELECT Poss IF (1 V/SP) ;
    ## If the following word is V/SP (i.e. var or yok), Poss is selected over the verb "to be" (in the morph
    ## analyzer 1s2s3s 1p2p3p
    
-SELECT Poss IF (0 Poss) (-1 N) ;
+SELECT PxSg3 IF (0 PxSg3) (-1 ABS) ;
 
   ## Rule 28
   ## This rule should select Possessive for patterns like N + N+poss. This patters are called "unmarked compound noun"
@@ -383,6 +391,27 @@ REMOVE Sg3 if (0 Sg3) (1 Sg3) ;
 ## It is impossible to have a 3s (It is Murat) if there is a cpl after it or another 3s.
     
     
+REMOVE PxSg2 IF (NOT -1 ("sen"i)) ;
+
+REMOVE PxSg1 IF (NOT -1 ("ben"i)) ;
+
+REMOVE PxPl3 IF (NOT -1 Gen OR ABS) ;
+
+REMOVE PxSg3 IF (NOT -1 Gen OR ABS) ;
+
+## These rules are used to remove possessives when we are "almost"
+## certain that it cannot be so. It doesn't remove Poss in case of -1 ABS 
+## since turkish has a construction of compound noun in the form of N+ABS
+
+
+
+REMOVE Pron IF (1C N) ;
+
+## [0]Bu fikre. When followed by a name it can rarely be a Pron
+
+
+
+
 
     
 SELECT NP if (0 NP) ;
@@ -395,7 +424,8 @@ SELECT Pron IF (0 (<bu>)) ;
 REMOVE (n 3p);
 
    ## TO BE REMOVED
-   
+
+  
 
 
 
