@@ -24,6 +24,7 @@ LIST CS = (cnjsub) ;
 LIST Num = (num) ;
 LIST NOT = (not) ;
 LIST NP = (np) ;
+LIST PrPers = (prn pers) ;
 
 
 LIST Acc = (acc) ;
@@ -280,7 +281,7 @@ SELECT Det if (0 A) (0 Num) (0 Det) (1 N) ;
     ## [0]bir orman now selects Det+Num
     
     
-SELECT A if (0 A) (0 N) (NOT 0 Adv) (NOT 0 Ins) (1 N) (NOT 1 Ins) ;
+SELECT A if (0 A) (0 ABS) (NOT 0 Adv)  (1 N) (NOT 1 Ins) ;
 
      ## Rule 19
      ## This rule removes the reading of [0] as noun in case it has no INSTRUMENTAL CASE, which is used in turkish as
@@ -305,11 +306,6 @@ SELECT Adv IF (0 ("en"i)) (1 A OR Adv) ;
     ## This rule selects <adv> for "en" in case it is followed by an adjective
     ## Dünyanın [0]en güzel kızı evime geldi.
     
-
-SELECT PxSg3 IF (0 Acc OR PxSg3)  (NOT -1* POSS BARRIER Gen) ; # (-1* Gen BARRIER BOS) ;
-    
-    ## Rule 22
-    ## Dünyanın en güzel kızı evime geldi. 
 
 REMOVE PxSg2 IF (0 ("dünya"i)) (0C Gen) (1 ("en"i)) (NOT -1 ("senin"i));
     
@@ -349,7 +345,7 @@ SELECT PxSg3 IF (0 PxSg3) (-1 ABS) ;
   ## Rule 28
   ## This rule should select Possessive for patterns like N + N+poss. This patters are called "unmarked compound noun"
   ## i.e. compound nouns where the first noun is not marked with GEN. N has to be replaced with ABS later on.
-  
+  ## Doesn't work well: bu aksam disari cikiyoruz
 
 SELECT Abl if (0 N)  (1 POST-ABL) ;
 
@@ -405,7 +401,7 @@ REMOVE PxSg3 IF (NOT -1 Gen OR ABS) ;
 
 
 
-REMOVE Pron IF (1C N) ;
+SELECT Det IF (0 ("bu"i)) (1C N) ;
 
 ## [0]Bu fikre. When followed by a name it can rarely be a Pron
 
