@@ -69,12 +69,9 @@
   
 
 
-    182 ^@model<n>$
-    181 ^@üste<n>$
-    177 ^@say<n>$
-    177 ^@metre<n>$
-    176 ^@yönet<v><dvn_yici><adj><djn_0><n>$
-    171 ^@emekli<adj><d_lik><n>$
+
+ 
+
     170 ^@kurtar<v><d_ma><n>$
     170 ^@kapat<v><d_ma><n>$
     170 ^@ayrım<n><d_ci><adj><d_lik><n>$
