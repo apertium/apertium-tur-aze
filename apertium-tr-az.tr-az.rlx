@@ -117,6 +117,8 @@ LIST Num/Dmn_O = (num Dmn_0 n) ;
 LIST Der/d_ci/n = (n d_ci *n) ;
 LIST Der/d_ci/a = (n D_CI adj) ;
 LIST Der/d_ci = (n D_CI) ;
+LIST Der/d_cak = (n d_cak n) ;
+LIST Der/npci  = (np d_ci n) ;
 
 
 
@@ -160,17 +162,14 @@ SECTION
 # Derivations are cool, and should be included for sure in a serious morphological analysis
 # We don't want them in the transfer though, cause they are problematic to handle
 #
-#
-
-
-
-######### RULES N + N CHECK CASES. IT IS POSSIBLE TO HAVE 2 NOUNS IN A SEQUENCE, CHECK CASES like GIANLUCA ARABAYI KULLANIYOR
 
 REMOVE NP/Sal ;
 
 REMOVE N/Sal ;
 
 REMOVE A/Sal ;
+
+Remove Der/npci ;
 
 REMOVE N/dcak ;
 
@@ -214,6 +213,8 @@ REMOVE Der/d_ci/n IF (0 Der/d_ci/n) ;
     
 REMOVE Der/d_ci/a IF (0 Der/d_ci/a) ;
 REMOVE Der/d_ci IF (0 Der/d_ci) ;
+REMOVE Der/d_cak IF (0 Der/d_cak) ;
+
 
 
 

@@ -1,125 +1,74 @@
-   3168 ^@bas<n>$
-   3014 ^@gele<n>$
-   2908 ^@biri<n>$
-   2412 ^@toplu<n>$
-   2308 ^@ede<n>$
-   1869 ^@beta<n>$
-   1734 ^@ama<n><d_ci><n>$
-   1668 ^@soruştur<v><d_ma><n>$
+   3168 ^@bas<n>$  ## Basın
+   2908 ^@biri<n>$ ## Bir + acc check
    1641 ^@çöz<n>$
-   1513 ^@dan<n>$
-   1427 ^@art<n>$
-   1421 ^@bölgesel<n>$
-   1404 ^@çeşitli<n>$
+   1513 ^@dan<n>$  ## Cause of NP
+   1427 ^@art<n>$ ## 
    1329 ^@ala<n>$
-   1309 ^@genişle<v><d_ma><n>$
-   1249 ^@tur<n>$
-   1224 ^@kalk<v><ref><d_ma><n>$
-   1194 ^@ede<n><d_cak><n>$
-   1117 ^@kısa<n>$
-   1109 ^@gerekli<n>$
-   1076 ^@par<n>$
-    898 ^@katıl<v><d_ma><n>$
-    840 ^@alın<v><d_ma><n>$
-    751 ^@başlı<n><d_ca><adj>$
-    719 ^@hav<n>$
-    692 ^@bili<n>$
-    691 ^@gözalt<n>$
-    688 ^@tutukla<v><d_ma><n>$
-    674 ^@vere<n>$
-    652 ^@bulun<v><d_ma><n>$
-    646 ^@sağla<v><d_ma><n>$
-    642 ^@do<n>$
-    637 ^@kullan<v><d_ma><n>$
-    624 ^@erke<n>$
-    585 ^@destekle<v><d_ma><n>$
-    565 ^@tak<n>$
-    523 ^@geçir<v><d_ma><n>$
-    497 ^@forum<n>$
-    492 ^@güve<n>$
-    465 ^@yuna<n>$
-    460 ^@binlerce<n>$
-    455 ^@car<n>$
-    448 ^@tar<n>$
-    442 ^@hitabe<n>$
-    435 ^@küresel<n>$
-    425 ^@yıldönüm<n>$
-    422 ^@baz<n>$
-    412 ^@onayla<v><d_ma><n>$
-    411 ^@bazı<adj><djn_0><n>$
-    406 ^@kazan<v><d_ma><n>$
-    406 ^@gecik<v><d_ma><n>$
-    405 ^@imzala<v><d_ma><n>$
-    399 ^@fazla<adj><djn_0><n>$
-    398 ^@em<n>$
-    396 ^@sav<np><d_ci><n>$
-    381 ^@öl<n>$
-    379 ^@iddianame<n>$
-    379 ^@çöz<v><d_ma><n>$
-    378 ^@güve<n><ca>$
-    373 ^@yarış<v><d_ma><n>$
-    373 ^@koru<v><d_ma><n>$
-    368 ^@belirle<v><d_ma><n>$
-    367 ^@cali<n>$
-    365 ^@boyun<n><d_ca><adj>$
-    362 ^@öte<n>$
-    362 ^@ayrıl<v><d_ma><n>$
-    354 ^@büyü<v><d_ma><n>$
-    348 ^@gergin<adj><d_lik><n>$
-    320 ^@üç<n><d_li><adj>$
-    313 ^@bat<n>$
-    309 ^@ertele<v><d_ma><n>$
-    308 ^@yönetmen<n>$
-    307 ^@üstün<adj><d_lik><n>$
-    301 ^@er<v><d_ma><n>$
-    298 ^@adem<n>$
-    287 ^@tüm<adj><djn_0><n>$
-    286 ^@kısıtla<v><d_ma><n>$
-    282 ^@ortalama<n>$
-    278 ^@şahıs<n>$
-    277 ^@sürme<n>$
-    274 ^@nü<n>$
-    274 ^@bölü<n>$
-    271 ^@tanı<v><d_ma><n>$
-    269 ^@modernizasyon<n>$
-    257 ^@harca<v><d_ma><n>$
-    254 ^@dönme<n>$
-    247 ^@incele<v><d_ma><n>$
-    244 ^@haki<n>$
-    242 ^@mira<n>$
-    239 ^@çekil<v><d_ma><n>$
-    239 ^@ban<n>$
-    236 ^@engelle<v><d_ma><n>$
-    236 ^@eder<n><cpl_ken>$
-    231 ^@şeffaf<adj><d_lik><n>$
-    230 ^@ithalat<n>$
-    229 ^@baba<np><d_ca><n>$
-    228 ^@karayol<n>$
-    226 ^@tutu<n>$
-    225 ^@reji<n>$
-    224 ^@kutla<v><d_ma><n>$
-    224 ^@kon<v><d_ma><n>$
-    219 ^@si<n>$
-    218 ^@bırak<v><d_ma><n>$
-    217 ^@üç<n>$
-    217 ^@kaç<v><d_ma><n>$
-    216 ^@kaldır<v><d_ma><n>$
-    215 ^@kırık<adj><d_lik><n>$
-    210 ^@koy<v><d_ma><n>$
-    205 ^@tutuk<n><d_lan><v><d_ma><n>$
-    202 ^@cezaev<n>$
-    201 ^@beceri<n>$
-    199 ^@taşımacı<n><d_lik><n>$
-    199 ^@leh<n>$
-    197 ^@uz<n><d_las><v><vn_mak>$
-    197 ^@finanse<n>$
-    197 ^@azal<v><d_ma><n>$
-    196 ^@mesel<n>$
-    194 ^@kesin<n><d_lik><n>$
-    189 ^@ata<v><d_ma><n>$
-    188 ^@müsteşar<n>$
-    187 ^@özgür<np><d_lik><n>$
-    184 ^@yakala<v><d_ma><n>$
+   1249 ^@tur<n>$ ##
+   1224 ^@kalk<v><ref><d_ma><n>$ ## ??
+   1076 ^@par<n>$ ## ??
+    692 ^@bili<n>$ ## ambig bilim SCIENCE
+    691 ^@gözalt<n>$ ##
+    674 ^@vere<n>$ ## PART AMB veren
+    642 ^@do<n>$ ## ??
+    624 ^@erke<n>$ ## ERKEN! ambigous
+    565 ^@tak<n>$ ## ???
+    492 ^@güve<n>$ ## ambig güven ?
+    465 ^@yuna<n>$ ## ambig yunan ?
+    422 ^@baz<n>$ ## bazı amb
+    411 ^@bazı<adj><djn_0><n>$ ## removed by CG
+    398 ^@em<n>$ ## ???
+    381 ^@öl<n>$ ## Ambig
+    
+    
+    
+    
+    
+    
+    378 ^@güve<n><ca>$ ## ????
+    
+   
+   
+    
+    313 ^@bat<n>$ ## probably batı
+    
+    
+    
+    
+    298 ^@adem<n>$ # ???
+
+
+ 
+
+
+
+
+ 
+
+    242 ^@mira<n>$ ## QUE
+    
+    
+
+    239 ^@ban<n>$ LOL QUE
+    
+
+    236 ^@eder<n><cpl_ken>$ OH NOES MOEAR AMBIGUITIS
+    
+
+   
+  
+ 
+
+  
+  
+    
+ 
+
+
+
+  
+
+
     182 ^@model<n>$
     181 ^@üste<n>$
     177 ^@say<n>$
