@@ -24,7 +24,31 @@ LIST CS = (cnjsub) ;
 LIST Num = (num) ;
 LIST NOT = (not) ;
 LIST NP = (np) ;
+
+## TYPE OF VERBS ##
+
+LIST V/ACC = v ;
+
+## Verbs taking accusative for the object
+
+LIST V/DAT =  v ;
+
+## Verbs taking dative for the object
+
+LIST V/ABS = v ;
+
+## Verbs with no case marking for the object
+
+LIST V/INT = v ;
+
+# Intransitive Verbs
+
+
+
+
 LIST PrPers = (prn pers) ;
+
+
 
 
 LIST Acc = (acc) ;
@@ -90,6 +114,9 @@ LIST N/dcak = (n dcak n) ;
 LIST N/ci = (n ci n) ;
 LIST N/lI = (n dli) ;
 LIST Num/Dmn_O = (num Dmn_0 n) ;
+LIST Der/d_ci/n = (n d_ci *n) ;
+LIST Der/d_ci/a = (n D_CI adj) ;
+LIST Der/d_ci = (n D_CI) ;
 
 
 
@@ -181,9 +208,12 @@ REMOVE Der/mA IF (NOT 0C V) (0 Der/mA) ;
 
 REMOVE Der/lA IF (0 Der/lA) ;
 
+REMOVE Der/d_ci/n IF (0 Der/d_ci/n) ;
+
     ## All of this DER/* rules are to cut out derivatives, which are cool but create problems during the translation
     
-    
+REMOVE Der/d_ci/a IF (0 Der/d_ci/a) ;
+REMOVE Der/d_ci IF (0 Der/d_ci) ;
 
 
 
@@ -393,7 +423,7 @@ REMOVE PxSg1 IF (NOT -1 ("ben"i)) ;
 
 REMOVE PxPl3 IF (NOT -1 Gen OR ABS) ;
 
-REMOVE PxSg3 IF (NOT -1 Gen OR ABS) ;
+REMOVE PxSg3 IF (NOT -1 Gen OR ABS OR BOS) ;
 
 ## These rules are used to remove possessives when we are "almost"
 ## certain that it cannot be so. It doesn't remove Poss in case of -1 ABS 
@@ -403,14 +433,14 @@ REMOVE PxSg3 IF (NOT -1 Gen OR ABS) ;
 
 SELECT Det IF (0 ("bu"i)) (1C N) ;
 
-## [0]Bu fikre. When followed by a name it can rarely be a Pron
+## [0]Bu fikre. When followed by a name, bu can rarely be a Pron
 
 
 
 
 
     
-SELECT NP if (0 NP) ;
+SELECT NP IF (0 NP) ;
 
 SELECT Pron IF (0 (<bu>)) ;
 
