@@ -24,6 +24,8 @@ LIST CS = (cnjsub) ;
 LIST Num = (num) ;
 LIST NOT = (not) ;
 LIST NP = (np) ;
+LIST Plu = (pl) ;
+
 
 ## TYPE OF VERBS ##
 
@@ -82,7 +84,8 @@ LIST PxPl3 = (p3p) ;
 LIST Poss = (p1s) (p2s) (p3s) (p1p) (p2p) (p3p) ;
 
  
-LIST Imper = (t_imp) ; 
+LIST Imper = (t_imp) ;
+LIST Part = part_yan ;
 
 LIST CV-MARKER = (cv) (cv_dik) (cv_acak) (cv_ma) (cv_mak) (cv_dan) (cv_zdan) (cv_ince) (cv_erek) (cv_erek) (cv_eli) (cv_ene) (cv_ir) (cv_ar) (cv_ecek) (cv_mis) (cv_iyor) (cv_cesine) (cv_ip);
 
@@ -127,7 +130,7 @@ LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i 
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ("başka"i postp) ("rağmen"i postp) ("yana"i postp) ;
 LIST POST-TEM = ("sırasında" N PxSg3 loc *3s) ;
 
-LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist exist cpl_di ; 
+LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist exist cpl_di cpl_mis t_imp; 
 
 SET FINITE-NOSUB = FINITE - CP/ken ;
 
@@ -264,10 +267,11 @@ REMOVE CC IF (1 EOS) ;
     ## Ondan sonraysa yüzde 6,75'e yükseliyor.
     ## Eve girmekteyken, bir şey hatırladım.
 
-REMOVE N IF (0 N) (0 FINITE) (1 EOS) ;
+REMOVE N IF (0 N) (0 FINITE) (1 EOS);
     ## Rule 9
     ## Içerler
-
+    ## BUGGED: Ne güzel bir yer! [0]yer gets selected as v, while it is n
+   
 REMOVE V IF (0 V) (0 NOT)  (NOT 1* WORD  BARRIER EOS);
     ## Rule 10
 
@@ -276,7 +280,7 @@ REMOVE CV-MARKER IF (NOT 1* WORD BARRIER EOS) ;
     ## Ahmet dersine çalışıyor.
     ## Çok içmiş gibi konuşuyor.
 
-REMOVE Imper IF (NOT 1* ("!")) ;
+## REMOVE Imper IF (NOT 1* ("!")) ;
     ## Rule 12 
 
 REMOVE CV-MARKER IF (0 N) (0 CV-MARKER)  ; 
@@ -318,6 +322,13 @@ SELECT A if (0 A) (0 ABS) (NOT 0 Adv)  (1 N) (NOT 1 Ins) ;
      ## This rule removes the reading of [0] as noun in case it has no INSTRUMENTAL CASE, which is used in turkish as
      ## conjunction sometimes
      ## [0]aynı anda ## Forms of the type Yeniyle Motosiklet are left <n> + <n>
+     
+SELECT Post if (0 POST-ABL) (-1C Abl) ;
+
+## If [0] is a post-abl (read above, a postposition coming after an ablative case) and all the readings of [-1] have ablative, it's safe to select
+## postp for [0]
+## Saat [-1]iki-den [1] sonra
+
      
 REMOVE N IF (-1 ABS) (0 ABS) ;
 
@@ -371,7 +382,7 @@ SELECT Poss IF (1 V/SP) ;
    ## If the following word is V/SP (i.e. var or yok), Poss is selected over the verb "to be" (in the morph
    ## analyzer 1s2s3s 1p2p3p
    
-SELECT PxSg3 IF (0 PxSg3) (-1 ABS) ;
+SELECT PxSg3 IF (0 PxSg3) (-1 ABS) (-1 N);
 
   ## Rule 28
   ## This rule should select Possessive for patterns like N + N+poss. This patters are called "unmarked compound noun"
@@ -435,6 +446,25 @@ REMOVE PxSg3 IF (NOT -1 Gen OR ABS OR BOS) ;
 SELECT Det IF (0 ("bu"i)) (1C N) ;
 
 ## [0]Bu fikre. When followed by a name, bu can rarely be a Pron
+
+
+REMOVE Plu IF (-1 Num) ;
+
+## Removes the plural reading of [0] when the previous word is a numeral. In turkish
+## sentences like "two apples" are actually "two apple", if there is a numeral before the plural is skipped
+
+REMOVE Acc IF (-1 Gen) ;
+
+## Constructions like "Buranın adı". Adı there is possessive, possessed by [-1] in genitive
+
+REMOVE A IF (1 V) ;
+
+## Adjectives can't be located before verbs
+
+REMOVE Imper if (1 FINITE) ;
+
+## Removes Imperative if followed by a finite verb
+
 
 
 

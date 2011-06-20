@@ -72,12 +72,6 @@
 
  
 
-    170 ^@kurtar<v><d_ma><n>$
-    170 ^@kapat<v><d_ma><n>$
-    170 ^@ayrım<n><d_ci><adj><d_lik><n>$
-    168 ^@geçer<adj><djn_0><n><dnn_siz><adj>$
-    165 ^@sav<np><d_ci><adj><d_lik><n>$
-    164 ^@arka<n>$
     161 ^@düzen<n><d_li><adj>$
     158 ^@denetle<v><d_ma><n>$
     155 ^@la<n>$
