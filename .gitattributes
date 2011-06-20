@@ -21,6 +21,14 @@ dev/generation-summary.tr-az.txt -text
 dev/generation-test.tr-az.sh -text
 dev/missing-bidix-freq.sh -text
 dev/trans0200 -text
+dev/verbs0400 -text
+dev/verbs0600 -text
+dev/verbs0700 -text
+dev/verbs1000 -text
+dev/verbs1300 -text
+dev/verbs1800 -text
+dev/verbs2200 -text
+dev/verbs2492 -text
 /modes.xml -text
 /pending-tests.sh -text
 /regression-tests.sh -text
