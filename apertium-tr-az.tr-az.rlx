@@ -130,7 +130,7 @@ LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i 
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ("başka"i postp) ("rağmen"i postp) ("yana"i postp) ;
 LIST POST-TEM = ("sırasında" N PxSg3 loc *3s) ;
 
-LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist exist cpl_di cpl_mis t_imp; 
+LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist exist cpl_di cpl_mis t_imp 1s 2s 3s 1p 2p 3p; 
 
 SET FINITE-NOSUB = FINITE - CP/ken ;
 
@@ -362,11 +362,12 @@ REMOVE N IF (0 ("verdi"i)) ((-2 Dat) OR (-1 Dat)) ;
   ## Bana [0]verdi
   ## This rule removes the reading of verdi as <n> in case we have a dative in -2 or -1 position
     
-SELECT V IF (NOT -1* FINITE-NOSUB BARRIER CLB) (0 FINITE-NOSUB) ;
+SELECT V IF (NOT -1* FINITE-NOSUB BARRIER CLB) (0 FINITE-NOSUB) (NOT 1* FINITE-NOSUB BARRIER EOS) ;
 
   ## Rule 25
   ## This rule, where there is ambiguity for the [0]word, checks if any word preceding [0]
   ## is a finite verb. If not, it select, where possible, the [0]word as a verb.
+  ## To be checked!!
   
 SELECT V IF (0 V/SP) (-1 Poss) ;
 
@@ -421,7 +422,7 @@ REMOVE Det IF (0 Adv) (0 Det) (1 A) ;
 
 ## Siz [0]çok iyi bir doktorsunuz.
 
-REMOVE Sg3 if (0 Sg3) (1* FINITE) ;
+REMOVE Sg3 if (0 Sg3) (1* FINITE BARRIER EOS) ;
 
 REMOVE Sg3 if (0 Sg3) (1 Sg3) ;
 
@@ -431,9 +432,11 @@ REMOVE Sg3 if (0 Sg3) (1 Sg3) ;
     
 REMOVE PxSg2 IF (NOT -1 ("sen"i)) ;
 
-REMOVE PxSg1 IF (NOT -1 ("ben"i)) ;
+REMOVE PxSg1 IF (NOT -1 ("ben"i)) (NOT 1 ("lazım"i)) ;
 
 REMOVE PxPl3 IF (NOT -1 Gen OR ABS) ;
+
+REMOVE FINITE IF (1 ("lazım"i)) ;
 
 REMOVE PxSg3 IF (NOT -1 Gen OR ABS OR BOS) ;
 
@@ -461,10 +464,14 @@ REMOVE A IF (1 V) ;
 
 ## Adjectives can't be located before verbs
 
-REMOVE Imper if (1 FINITE) ;
+REMOVE Imper IF (1 FINITE) ;
 
 ## Removes Imperative if followed by a finite verb
 
+SELECT FINITE IF (0 N) (1 EOS) ;
+
+## This rule select "to be" (which is mute for the 3d person) in case we have a N
+## in the final position.
 
 
 
