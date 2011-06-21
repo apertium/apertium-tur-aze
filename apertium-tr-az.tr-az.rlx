@@ -383,10 +383,10 @@ SELECT Poss IF (1 V/SP) ;
    ## If the following word is V/SP (i.e. var or yok), Poss is selected over the verb "to be" (in the morph
    ## analyzer 1s2s3s 1p2p3p
    
-SELECT PxSg3 IF (0 PxSg3) (-1 ABS) (-1 N);
+REMOVE Acc IF (0 PxSg3) (-1 ABS) (-1 N) ;
 
   ## Rule 28
-  ## This rule should select Possessive for patterns like N + N+poss. This patters are called "unmarked compound noun"
+  ## This rule should select Possessive for patterns like N + N+poss. This patterns are called "unmarked compound noun"
   ## i.e. compound nouns where the first noun is not marked with GEN. N has to be replaced with ABS later on.
   ## Doesn't work well: bu aksam disari cikiyoruz
 
@@ -470,6 +470,8 @@ REMOVE Imper IF (1 FINITE) ;
 
 SELECT FINITE IF (0 N) (1 EOS) ;
 
+
+## Rule 0100
 ## This rule select "to be" (which is mute for the 3d person) in case we have a N
 ## in the final position.
 
