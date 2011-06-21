@@ -482,7 +482,7 @@ SELECT FINITE IF (0 N) (1 EOS) ;
     
 SELECT NP IF (0 NP) ;
 
-SELECT Pron IF (0 (<bu>)) ;
+SELECT Pron IF (0 ("<bu>")) ;
 
    
    ## Dirty!! To be removed 
