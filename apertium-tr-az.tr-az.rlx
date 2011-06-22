@@ -45,6 +45,7 @@ LIST V/INT = v ;
 
 # Intransitive Verbs
 
+LIST Exist = exist nexist ;
 
 
 
@@ -122,6 +123,7 @@ LIST Der/d_ci/a = (n D_CI adj) ;
 LIST Der/d_ci = (n D_CI) ;
 LIST Der/d_cak = (n d_cak n) ;
 LIST Der/npci  = (np d_ci n) ;
+LIST A/Der0/n = (adj Djn_0 n) ;
 
 
 
@@ -178,14 +180,16 @@ REMOVE N/dcak ;
 
 REMOVE Adv/Dan;
 
+REMOVE A/Der0/n ;
+
 REMOVE Num/Dmn_O ;
      ## We really don't want those derivations
 
 
-REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 N) ;
+REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 N) (NOT 1 EOS);
     ## içindekiler
     
-REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 A) ;
+REMOVE Der/0/A→N IF (0 Der/0/A→N) (0 A) (NOT 1 EOS);
 
 REMOVE Der/lI IF (0 Der/lI) (0 A OR N) ; 
 
@@ -267,7 +271,7 @@ REMOVE CC IF (1 EOS) ;
     ## Ondan sonraysa yüzde 6,75'e yükseliyor.
     ## Eve girmekteyken, bir şey hatırladım.
 
-REMOVE N IF (0 N) (0 FINITE) (1 EOS);
+SELECT V IF (0 N) (0 FINITE) (1 EOS);
     ## Rule 9
     ## Içerler
     ## BUGGED: Ne güzel bir yer! [0]yer gets selected as v, while it is n
@@ -316,23 +320,34 @@ SELECT Det if (0 A) (0 Num) (0 Det) (1 N) ;
     ## [0]bir orman now selects Det+Num
     
     
-SELECT A if (0 A) (0 ABS) (NOT 0 Adv)  (1 N) (NOT 1 Ins) ;
+SELECT A IF (0 A) (0 ABS) (NOT 0 Adv)  (1 N) (NOT 1 Ins) ;
 
      ## Rule 19
      ## This rule removes the reading of [0] as noun in case it has no INSTRUMENTAL CASE, which is used in turkish as
      ## conjunction sometimes
      ## [0]aynı anda ## Forms of the type Yeniyle Motosiklet are left <n> + <n>
      
-SELECT Post if (0 POST-ABL) (-1C Abl) ;
+SELECT Post IF (0 POST-ABL) (-1 Abl) ;
+SELECT Abl IF (1 POST-ABL) ;
+
+     ## Rule 19-a
 
 ## If [0] is a post-abl (read above, a postposition coming after an ablative case) and all the readings of [-1] have ablative, it's safe to select
 ## postp for [0]
 ## Saat [-1]iki-den [1] sonra
 
-     
-REMOVE N IF (-1 ABS) (0 ABS) ;
+SELECT Post IF (0 POST-DAT) (-1 Dat) ;
+SELECT Dat IF (1 POST-DAT) ;
 
-   ## Rule 19-b
+## Rule 19-b
+## Same as above, but with dative
+
+SELECT Post IF (0 POST-ABS) (-1 ABS) ;
+SELECT ABS IF (1 POST-ABS) ;
+     
+REMOVE N IF (-1 ABS) (0 ABS) (0 Adv);
+
+   ## Rule 19-d
    ## öğrenciler [0]sürekli konuşuyorlar
 
      
@@ -390,12 +405,6 @@ REMOVE Acc IF (0 PxSg3) (-1 ABS) (-1 N) ;
   ## i.e. compound nouns where the first noun is not marked with GEN. N has to be replaced with ABS later on.
   ## Doesn't work well: bu aksam disari cikiyoruz
 
-SELECT Abl if (0 N)  (1 POST-ABL) ;
-
- ## Rule 29
- ## IT handles cases like "[0]baştan beri", where baştan can be read both as n and adv.
- ## Beri, meaning since or from, in a temporal way, has a construction of the type n+abl + beri
- ## 
 
 SELECT Dat if (0 N) (1 POST-DAT) ;
 
@@ -468,14 +477,20 @@ REMOVE Imper IF (1 FINITE) ;
 
 ## Removes Imperative if followed by a finite verb
 
-SELECT FINITE IF (0 N) (1 EOS) ;
+SELECT FINITE IF (0 N) (1 EOS) (NOT -1* FINITE BARRIER CLB);
 
 
 ## Rule 0100
 ## This rule select "to be" (which is mute for the 3d person) in case we have a N
 ## in the final position.
 
+SELECT Exist IF (-1 Poss) ;
 
+## Selects var<exist> in case [-1] has a possessive suffix
+
+SELECT Exist IF (-1 Loc) ;
+
+## Selects var<exist> in case [-1] is in locative case
 
 
 
