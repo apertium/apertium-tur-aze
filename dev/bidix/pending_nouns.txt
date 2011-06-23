@@ -1,9 +1,7 @@
-  17300 ^@günü<n>$
-   2555 ^@biri<n>$
-   2198 ^@bas<n>$
-   1904 ^@ayın<n>$
-   1869 ^@beta<n>$
-   1851 ^@salı<n>$
+  17300 ^@günü<n>$ # DAYS!
+   2198 ^@bas<n>$ # Basın
+   1904 ^@ayın<n>$ # Month
+   1851 ^@salı<n>$ # Day
    1816 ^@ilişkin<n>$
    1619 ^@ede<n><d_cak><n>$
    1513 ^@dan<n>$

@@ -11,7 +11,7 @@ SOFT-DELIMITERS = "<,>" ;
 LIST BOS = (>>>) ; # Beginning of sentence
 LIST EOS = (<<<) ; # End of sentence
 
-LIST N = (n) (nexist) ;
+LIST N = (n) (np) ;
 LIST V = (v) (exist) (nexist) (not) ;
 LIST V/SP = (exist) (nexist) ;
 LIST A = (adj) ;
@@ -124,7 +124,7 @@ LIST Der/d_ci = (n D_CI) ;
 LIST Der/d_cak = (n d_cak n) ;
 LIST Der/npci  = (np d_ci n) ;
 LIST A/Der0/n = (adj Djn_0 n) ;
-
+LIST NP/D_CI/adj = (np D_CI adj) ;
 
 
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ("için"i postp) ;
@@ -181,6 +181,8 @@ REMOVE N/dcak ;
 REMOVE Adv/Dan;
 
 REMOVE A/Der0/n ;
+REMOVE NP/D_CI/adj IF (0 A) ;
+
 
 REMOVE Num/Dmn_O ;
      ## We really don't want those derivations
@@ -411,15 +413,7 @@ SELECT Dat if (0 N) (1 POST-DAT) ;
  ## Rule 30
  ## Same as rule 29
  
-REMOVE Gen if (1 Gen) ;
 
-REMOVE Dat if (1 Dat) ;
-
-REMOVE Acc if (1 Acc) ;
-
-REMOVE Abl if (1 Abl) ;
-
-REMOVE Loc if (1 Loc) ;
 
 REMOVE A IF (0 A) (1 A) ;
 
@@ -492,10 +486,10 @@ SELECT Exist IF (-1 Loc) ;
 
 ## Selects var<exist> in case [-1] is in locative case
 
+SELECT Acc IF (-1 Abl) (0 ("bir"i)) ;
 
 
     
-SELECT NP IF (0 NP) ;
 
 SELECT Pron IF (0 ("<bu>")) ;
 

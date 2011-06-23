@@ -1,24 +1,6 @@
-   1653 ^@bazı<adj>$
-   1494 ^@tiran<adj>$
-   1414 ^@sosyal<adj>$
-   1302 ^@kamu<adj>$
-   1293 ^@uzun<adj>$
-   1183 ^@kuru<adj><d_li><adj>$
-   1070 ^@mevcut<adj>$
-    924 ^@güçlü<adj>$
-    713 ^@birkaç<adj>$
-    701 ^@türlü<adj>$
-    670 ^@mümkün<adj>$
-    628 ^@teknik<adj>$
-    579 ^@uyuşturucu<adj>$
-    579 ^@geniş<adj>$
-    554 ^@gizli<adj>$
-    552 ^@yeter<adj><d_li><adj>$
-    453 ^@liberal<adj>$
-    431 ^@emekli<adj>$
-    423 ^@belli<adj>$
-    413 ^@somut<adj>$
-    389 ^@sert<adj>$
+
+  
+
     386 ^@böyle<adj>$
     366 ^@şöyle<adj>$
     356 ^@hızlı<adj>$

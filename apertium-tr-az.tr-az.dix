@@ -3600,26 +3600,29 @@
     <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
     <e><p><l>arka</l><r>arxa</r></p><par n="nominal"/></e>
     <e><p><l>lazım</l><r>lazım</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
-    <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
+   
+   <!-- ADJECTIVES -->
+   
+    <e><p><l>bazı</l><r>bəzi</r></p><par n="nominal"/></e>
+    <e><p><l>tiran</l><r>tiran</r></p><par n="nominal"/></e>
+    <e><p><l>sosyal</l><r>ictimai</r></p><par n="nominal"/></e>
+    <e><p><l>kamu</l><r>ümumxalq</r></p><par n="nominal"/></e>
+    <e><p><l>uzun</l><r>uzun</r></p><par n="nominal"/></e>
+    <e><p><l>mevcut</l><r>mövcud</r></p><par n="nominal"/></e>
+    <e><p><l>güçlü</l><r>güclü</r></p><par n="nominal"/></e>
+    <e><p><l>birkaç</l><r>bir<b/>neçə</r></p><par n="nominal"/></e>
+    <e><p><l>türlü</l><r>cürbəcür</r></p><par n="nominal"/></e>
+    <e><p><l>mümkün</l><r>mümkün</r></p><par n="nominal"/></e>
+    <e><p><l>teknik</l><r>texniki</r></p><par n="nominal"/></e>
+    <e><p><l>uyuşturucu</l><r>narkotik</r></p><par n="nominal"/></e>
+    <e><p><l>geniş</l><r>geniş</r></p><par n="nominal"/></e>
+    <e><p><l>gizli</l><r>gizli</r></p><par n="nominal"/></e>
+    <e><p><l>yeterli</l><r>kifayət</r></p><par n="nominal"/></e>
+    <e><p><l>liberal</l><r>liberal</r></p><par n="nominal"/></e>
+    <e><p><l>emekli</l><r>təqaüdçü</r></p><par n="nominal"/></e>
+    <e><p><l>belli</l><r>bəlli</r></p><par n="nominal"/></e>
+    <e><p><l>somut</l><r>konkret</r></p><par n="nominal"/></e>
+    <e><p><l>sert</l><r>sərt</r></p><par n="nominal"/></e>
 
     
 
@@ -4372,19 +4375,73 @@
     <e><p><l>yer<b/>ver<s n="v"/></l><r>yer<b/>ver<s n="v"/></r></p></e>
     <e><p><l>kulluk<b/>et<s n="v"/></l><r>təmin<b/>et<s n="v"/></r></p></e>
     <e><p><l>düzenle<s n="v"/></l><r>düz<s n="v"/></r></p></e>
-
-
-
-
     <e><p><l>gönder<s n="v"/></l><r>göndər<s n="v"/></r></p></e>
     <e><p><l>reddet<s n="v"/></l><r>rədd<b/>et<s n="v"/></r></p></e>
+    <e><p><l>sağla<s n="v"/></l><r>təmin<b/>et<s n="v"/></r></p></e>
+    <e><p><l>imzala<s n="v"/></l><r>imzala<s n="v"/></r></p></e>
+    <e><p><l>tutuklama<s n="v"/></l><r>həbs<b/>et<s n="v"/></r></p></e>
+    <e><p><l>kullan<s n="v"/></l><r>istifadə<b/>et<s n="v"/></r></p></e>
+    <e><p><l>uygula<s n="v"/></l><r>tətbiq<b/>et<s n="v"/></r></p></e>
+    <e><p><l>onayla<s n="v"/></l><r>təsdiqlə<s n="v"/></r></p></e>
+    <e><p><l>destekle<s n="v"/></l><r>dəstəklə<s n="v"/></r></p></e>
+    <e><p><l>koru<s n="v"/></l><r>qoru<s n="v"/></r></p></e>
+    <e><p><l>ara<s n="v"/></l><r>axtar<s n="v"/></r></p></e>
+    <e><p><l>yürü<s n="v"/></l><r>yeri<s n="v"/></r></p></e>
+    <e><p><l>çek<s n="v"/></l><r>çək<s n="v"/></r></p></e>
+    <e><p><l>sat<s n="v"/></l><r>sat<s n="v"/></r></p></e>
+    <e><p><l>değ<s n="v"/></l><r>dey<s n="v"/></r></p></e>
+    <e><p><l>duyur<s n="v"/></l><r>bildir<s n="v"/></r></p></e>
+    <e><p><l>bilirle<s n="v"/></l><r>müəyyən<b/>et<s n="v"/></r></p></e>
+    <e><p><l>vurgula<s n="v"/></l><r>nəzərə<b/>çatdır<s n="v"/></r></p></e>
+    <e><p><l>öl<s n="v"/></l><r>öl<s n="v"/></r></p></e>
+    <e><p><l>çıkar<s n="v"/></l><r>çıxar<s n="v"/></r></p></e>
+    <e><p><l>tanı<s n="v"/></l><r>tanı<s n="v"/></r></p></e>
+    <e><p><l>er<s n="v"/></l><r>çat<s n="v"/></r></p></e>
+    <e><p><l>topla<s n="v"/></l><r>yığ<s n="v"/></r></p></e>
+    <e><p><l>kazan<s n="v"/></l><r>qazan<s n="v"/></r></p></e>
+    <e><p><l>kalk<s n="v"/></l><r>qalx<s n="v"/></r></p></e>
+    <e><p><l>dur<s n="v"/></l><r>dur<s n="v"/></r></p></e>
+    <e><p><l>tartış<s n="v"/></l><r>mübahisə<b/>et<s n="v"/></r></p></e>
+    <e><p><l>öngör<s n="v"/></l><r>nəzərdə<b/>tut<s n="v"/></r></p></e>
+    <e><p><l>öner<s n="v"/></l><r>təklif<b/>et<s n="v"/></r></p></e>
+    <e><p><l>değiş<s n="v"/></l><r>dəyiş<s n="v"/></r></p></e>
+    <e><p><l>kon<s n="v"/></l><r>qon<s n="v"/></r></p></e>
+    <e><p><l>bulun<s n="v"/></l><r>bulun<s n="v"/></r></p></e>
+    <e><p><l>var<s n="v"/></l><r>var<s n="v"/></r></p></e>
+    <e><p><l>soruştur<s n="v"/></l><r>yoxla<s n="v"/></r></p></e>
+    <e><p><l>hızlan<s n="v"/></l><r>sürətlən<s n="v"/></r></p></e>
+    <e><p><l>inan<s n="v"/></l><r>inan<s n="v"/></r></p></e>
+    <e><p><l>yarala<s n="v"/></l><r>yarala<s n="v"/></r></p></e>
+    <e><p><l>uy<s n="v"/></l><r>uy<s n="v"/></r></p></e>
+    <e><p><l>nitelendir<s n="v"/></l><r>fərqləndir<s n="v"/></r></p></e>
+    <e><p><l>çöz<s n="v"/></l><r>qərar<s n="v"/></r></p></e>
+    <e><p><l>geliş<s n="v"/></l><r>gəliş<s n="v"/></r></p></e>
+    <e><p><l>kaybet<s n="v"/></l><r>qeyb<b/>et<s n="v"/></r></p></e>
+    <e><p><l>eleştir<s n="v"/></l><r>tənqid<b/>et<s n="v"/></r></p></e>
+    <e><p><l>azal<s n="v"/></l><r>azal<s n="v"/></r></p></e>
+    <e><p><l>yinele<s n="v"/></l><r>təkrarla<s n="v"/></r></p></e>
+    <e><p><l>koy<s n="v"/></l><r>qoy<s n="v"/></r></p></e>
+    <e><p><l>değerlen<s n="v"/></l><r>qiymətləndir<s n="v"/></r></p></e>
+    <e><p><l>geniş<s n="v"/></l><r>yay<s n="v"/></r></p></e>
+    <e><p><l>önle<s n="v"/></l><r>mane ol<s n="v"/></r></p></e>
+    <e><p><l>ertele<s n="v"/></l><r>sonraya<b/>saxla<s n="v"/></r></p></e>
+    <e><p><l>güçlen<s n="v"/></l><r>canlan<s n="v"/></r></p></e>
+    <e><p><l>kapa<s n="v"/></l><r>bağla<s n="v"/></r></p></e>
+    <e><p><l>yakala<s n="v"/></l><r>yaxala<s n="v"/></r></p></e>
+    <e><p><l>sol<s n="v"/></l><r>sol<s n="v"/></r></p></e>
+    <e><p><l>doğrula<s n="v"/></l><r>təsdiqlə<s n="v"/></r></p></e>
+    <e><p><l>etkile<s n="v"/></l><r>təsir<b/>et<s n="v"/></r></p></e>
+    <e><p><l>engelle<s n="v"/></l><r>əngəl<b/>ol<s n="v"/></r></p></e>
+    <e><p><l>kaç<s n="v"/></l><r>qaç<s n="v"/></r></p></e>
+    <e><p><l>ayrıl<s n="v"/></l><r>ayrıl<s n="v"/></r></p></e>
+    <e><p><l>kaz<s n="v"/></l><r>qazı<s n="v"/></r></p></e>
+    <e><p><l>yargıla<s n="v"/></l><r>mühakimə<b/>et<s n="v"/></r></p></e>
+    <e><p><l>yaklaş<s n="v"/></l><r>yaxınlaş<s n="v"/></r></p></e>
+    <e><p><l>yüksel<s n="v"/></l><r>yüksəl<s n="v"/></r></p></e>
     
 
 
-
-
-
-    <!-- SECTION: Punctuation -->
+   <!-- SECTION: Punctuation -->
     <e><p>    <l>-<s n="guio"/></l>    <r>-<s n="guio"/></r>  </p>    </e>
     <e><p><l>,<s n="pnct"/></l><r>,<s n="pnct"/></r></p></e>
     <e><re>%?[0-9]+([.,][0-9]+)?[.,]?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
