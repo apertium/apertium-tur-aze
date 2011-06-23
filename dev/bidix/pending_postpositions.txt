@@ -1,11 +1,8 @@
+   1550 ^@karşın<postp>$
     533 ^@beri<postp>$
     274 ^@itibaren<postp>$
-    228 ^@öte<postp><p3s>$
     183 ^@dolayı<postp>$
-     47 ^@süresince<postp>$
      37 ^@anki<postp>$
-      3 ^@dolayı<postp><p3s>$
+      9 ^@süresince<postp>$
       2 ^@yerde<postp>$
-      2 ^@karşın<postp>$
       1 ^@dek<postp><acc><3p>$
-      1 ^@dek<postp>$
