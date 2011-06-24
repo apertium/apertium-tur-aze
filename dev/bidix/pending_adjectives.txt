@@ -1,7 +1,6 @@
-    638 ^@alman<adj>$
-    567 ^@yeter<adj><d_li><adj>$
-    328 ^@babacan<adj>$
-    236 ^@ilgi<np><d_li><adj>$
+  
+    328 ^@babacan<adj>$ #NP
+    236 ^@ilgi<np><d_li><adj>$ #ilgili
     140 ^@yeter<adj><djn_0><n><dnn_siz><adj>$
     136 ^@filistin<np><d_li><adj>$
     110 ^@makroekonomik<adj>$
@@ -205,7 +204,7 @@
       5 ^@gizem<n><d_li><adj>$
       5 ^@formül<n><d_li><adj>$
       5 ^@fas<np><d_li><adj>$
-      5 ^@dişli<adj>$
+      5 ^@hain<adj>$
       5 ^@dağınık<adj>$
       5 ^@çürük<adj>$
       5 ^@çekince<n><dnn_siz><adj>$
