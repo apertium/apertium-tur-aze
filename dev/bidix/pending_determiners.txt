@@ -2,7 +2,7 @@
    1591 ^@tek<det>$
     822 ^@hiçbir<det>$
     808 ^@herhangi bir<det>$
-    694 ^@diğer<det>$
+    693 ^@diğer<det>$
     539 ^@Her<det>$
     392 ^@bütün<det>$
     183 ^@birçok<det>$
@@ -24,9 +24,9 @@
      11 ^@bir kısım<det>$
      11 ^@Birkaç<det>$
       7 ^@Bir kısım<det>$
-      6 ^@aynı<det>$
       5 ^@Herhangi<det>$
-      5 ^@bazı<det>$
+      4 ^@bazı<det>$
       3 ^@birkaç tane<det>$
+      2 ^@aynı<det>$
       1 ^@öteki<det>$
       1 ^@O kadar<det>$
