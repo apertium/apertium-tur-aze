@@ -163,7 +163,8 @@
 
     <e><p><l>bura<s n="prn"/></l><r>bura<s n="prn"/></r></p></e> <!-- This is dirty as fuck, remove -->
     
-    <e><p><l>bu<s n="det"/></l><r>bu<s n="det"/></r></p></e> 
+    <e><p><l>bu<s n="det"/></l><r>bu<s n="det"/></r></p></e>
+    <e><p><l>bazı<s n="det"/></l><r>bəzi<s n="det"/></r></p></e> 
     <e><p><l>bir<s n="det"/></l><r>bir<s n="det"/></r></p></e> <!-- Det -->
     <e><p><l>her<s n="det"/></l><r>hər<s n="det"/></r></p></e> 
     <e><p><l>tek<s n="det"/></l><r>tək<s n="det"/></r></p></e> 
@@ -356,6 +357,8 @@
     <e><p><l>alev</l><r>alov</r></p><par n="nominal"/></e>
     <e><p><l>alfabe</l><r>əlifba</r></p><par n="nominal"/></e>
     <e><p><l>alim</l><r>alim</r></p><par n="nominal"/></e>
+    <e><p><l>yeter</l><r>yeter</r></p><par n="nominal"/></e>
+
     <e><p><l>alın</l><r>alın</r></p><par n="nominal"/></e>
     <e><p><l>alıntı</l><r>sitat</r></p><par n="nominal"/></e>
     <e><p><l>alışık</l><r>alışıg</r></p><par n="nominal"/></e>
@@ -3619,6 +3622,9 @@
     <e><p><l>beş</l><r>beş</r></p><par n="nominal"/></e>
     <e><p><l>arka</l><r>arxa</r></p><par n="nominal"/></e>
     <e><p><l>lazım</l><r>lazım</r></p><par n="nominal"/></e>
+    <e><p><l>bilim</l><r>elm</r></p><par n="nominal"/></e>
+
+   
    
    <!-- ADJECTIVES -->
    
@@ -4036,6 +4042,129 @@
     <e><p><l>yaramaz</l><r>yaramaz</r></p><par n="nominal"/></e>
     <e><p><l>torlak</l><r>torlak</r></p><par n="nominal"/></e>
     <e><p><l>tükenmez</l><r>tükənməz</r></p><par n="nominal"/></e>
+    <e><p><l>bazı</l><r>bəzi</r></p><par n="nominal"/></e>
+    <e><p><l>babacan</l><r>bəzi</r></p><par n="nominal"/></e>
+    <e><p><l>kadarki</l><r>bəzi</r></p><par n="nominal"/></e>
+    <e><p><l>yeter</l><r>bəzi</r></p><par n="nominal"/></e>
+    <e><p><l>ela</l><r>bəzi</r></p><par n="nominal"/></e>
+    <e><p><l>yanlı</l><r>qərəzli</r></p><par n="nominal"/></e>
+    <e><p><l>nazik</l><r>ədəbli</r></p><par n="nominal"/></e>
+    <e><p><l>doru</l><r>quzuqulağı</r></p><par n="nominal"/></e>
+    <e><p><l>muhtaç</l><r>möhtac</r></p><par n="nominal"/></e>
+    <e><p><l>muhbir</l><r>xəbərçi</r></p><par n="nominal"/></e>
+    <e><p><l>mat</l><r>tutqun</r></p><par n="nominal"/></e>
+    <e><p><l>dişli</l><r>dişli</r></p><par n="nominal"/></e>
+    <e><p><l>taşım</l><r>bəzi</r></p><par n="nominal"/></e>
+    <e><p><l>rasgele</l><r>bəxtəbəxt</r></p><par n="nominal"/></e>
+    <e><p><l>helal</l><r>halal</r></p><par n="nominal"/></e>
+    <e><p><l>etken</l><r>malum<b/>növ</r></p><par n="nominal"/></e>
+    <e><p><l>berrak</l><r>dupduru</r></p><par n="nominal"/></e>
+    <e><p><l>ağırbaşlı</l><r>ciddi</r></p><par n="nominal"/></e>
+    <e><p><l>yatılı</l><r>internat</r></p><par n="nominal"/></e>
+    <e><p><l>yalman</l><r>ağır</r></p><par n="nominal"/></e>
+    <e><p><l>prefabrik</l><r>fabrikdə<b/>düzəldilmiş</r></p><par n="nominal"/></e>
+    <e><p><l>haki</l><r>xaki</r></p><par n="nominal"/></e>
+    <e><p><l>ender</l><r>nadir</r></p><par n="nominal"/></e>
+    <e><p><l>döner</l><r>döner</r></p><par n="nominal"/></e>
+    <e><p><l>dolgun</l><r>dolğun</r></p><par n="nominal"/></e>
+    <e><p><l>bileşik</l><r>mürəkkəb</r></p><par n="nominal"/></e>
+    <e><p><l>yokuş</l><r>yoxuş</r></p><par n="nominal"/></e>
+    <e><p><l>yavru</l><r>bala</r></p><par n="nominal"/></e>
+    <e><p><l>yalın</l><r>sadə</r></p><par n="nominal"/></e>
+    <e><p><l>yağışlı</l><r>yağışlı</r></p><par n="nominal"/></e>
+    <e><p><l>yad</l><r>yad</r></p><par n="nominal"/></e>
+    <e><p><l>varolan</l><r>mövcud<b/>olan</r></p><par n="nominal"/></e>
+    <e><p><l>uyuz</l><r>qotur</r></p><par n="nominal"/></e>
+    <e><p><l>uygar</l><r>mədəni</r></p><par n="nominal"/></e>
+    <e><p><l>ufacık</l><r>ufacık</r></p><par n="nominal"/></e>
+    <e><p><l>uçarı</l><r>uçqun</r></p><par n="nominal"/></e>
+    <e><p><l>toy</l><r>ürəyiaçıq</r></p><par n="nominal"/></e>
+    <e><p><l>tor</l><r>tor</r></p><par n="nominal"/></e>
+    <e><p><l>topyekün</l><r>bütünlüklə</r></p><par n="nominal"/></e>
+    <e><p><l>tez</l><r>tez</r></p><par n="nominal"/></e>
+    <e><p><l>tertemiz</l><r>tərtəmiz</r></p><par n="nominal"/></e>
+    <e><p><l>teknokrat</l><r>teknokrat</r></p><par n="nominal"/></e>
+    <e><p><l>taşınmaz</l><r>daşınmaz</r></p><par n="nominal"/></e>
+    <e><p><l>şoven</l><r>şovinist</r></p><par n="nominal"/></e>
+    <e><p><l>sürüngen</l><r>sürünən</r></p><par n="nominal"/></e>
+    <e><p><l>sizinki</l><r>sizinki</r></p><par n="nominal"/></e>
+    <e><p><l>şişman</l><r>şişman</r></p><par n="nominal"/></e>
+    <e><p><l>şişko</l><r>şişko</r></p><par n="nominal"/></e>
+    <e><p><l>simsiyah</l><r>qapqara</r></p><par n="nominal"/></e>
+    <e><p><l>silindir</l><r>silindr</r></p><par n="nominal"/></e>
+    <e><p><l>serseri</l><r>sərsəri</r></p><par n="nominal"/></e>
+    <e><p><l>sarhoş</l><r>sərxoş</r></p><par n="nominal"/></e>
+    <e><p><l>sapa</l><r>sapa</r></p><par n="nominal"/></e>
+    <e><p><l>sakar</l><r>çətin</r></p><par n="nominal"/></e>
+    <e><p><l>rezil</l><r>alçaq</r></p><par n="nominal"/></e>
+    <e><p><l>revizyonist</l><r>revizionist</r></p><par n="nominal"/></e>
+    <e><p><l>primitif</l><r>əsas</r></p><par n="nominal"/></e>
+    <e><p><l>porselen</l><r>farfor</r></p><par n="nominal"/></e>
+    <e><p><l>paramparça</l><r>parça-parça</r></p><par n="nominal"/></e>
+    <e><p><l>pagan</l><r>pagan</r></p><par n="nominal"/></e>
+    <e><p><l>narin</l><r>narın</r></p><par n="nominal"/></e>
+    <e><p><l>nankör</l><r>nankor</r></p><par n="nominal"/></e>
+    <e><p><l>nadide</l><r>nadidə</r></p><par n="nominal"/></e>
+    <e><p><l>mütevazi</l><r>təvazökar</r></p><par n="nominal"/></e>
+    <e><p><l>müstehcen</l><r>pornoqrafik</r></p><par n="nominal"/></e>
+    <e><p><l>müspet</l><r>müsbət</r></p><par n="nominal"/></e>
+    <e><p><l>mümin</l><r>mömin</r></p><par n="nominal"/></e>
+    <e><p><l>miyosen</l><r>miyosen</r></p><par n="nominal"/></e>
+    <e><p><l>miskin</l><r>miskin</r></p><par n="nominal"/></e>
+    <e><p><l>milletlerarası</l><r>beynəlxalq</r></p><par n="nominal"/></e>
+    <e><p><l>mikroskobik</l><r>mikroskopik</r></p><par n="nominal"/></e>
+    <e><p><l>merhum</l><r>mərhum</r></p><par n="nominal"/></e>
+    <e><p><l>megaloman</l><r>megaloman</r></p><par n="nominal"/></e>
+    <e><p><l>mazur</l><r>üzrlü</r></p><par n="nominal"/></e>
+    <e><p><l>malum</l><r>məlum</r></p><par n="nominal"/></e>
+    <e><p><l>mağrur</l><r>məğrur</r></p><par n="nominal"/></e>
+    <e><p><l>kürk</l><r>kürk</r></p><par n="nominal"/></e>
+    <e><p><l>kullanışlı</l><r>rahat</r></p><par n="nominal"/></e>
+    <e><p><l>küçükbaş</l><r>Qoyun</r></p><par n="nominal"/></e>
+    <e><p><l>küçücük</l><r>kiçik</r></p><par n="nominal"/></e>
+    <e><p><l>konjonktürel</l><r>konjonktürel</r></p><par n="nominal"/></e>
+    <e><p><l>kibar</l><r>nəzakətli</r></p><par n="nominal"/></e>
+    <e><p><l>kerpiç</l><r>kərpic</r></p><par n="nominal"/></e>
+    <e><p><l>kelepir</l><r>kelepir</r></p><par n="nominal"/></e>
+    <e><p><l>kaşmir</l><r>kaşemir</r></p><par n="nominal"/></e>
+    <e><p><l>kare</l><r>kadr</r></p><par n="nominal"/></e>
+    <e><p><l>kahverengi</l><r>qəhvəyi</r></p><par n="nominal"/></e>
+    <e><p><l>kabartma</l><r>qabartma</r></p><par n="nominal"/></e>
+    <e><p><l>isveçli</l><r>isveçli</r></p><par n="nominal"/></e>
+    <e><p><l>ıslak</l><r>rütubətli</r></p><par n="nominal"/></e>
+    <e><p><l>inik</l><r>inik</r></p><par n="nominal"/></e>
+    <e><p><l>ılık</l><r>ilıq</r></p><par n="nominal"/></e>
+    <e><p><l>idealist</l><r>idealist</r></p><par n="nominal"/></e>
+    <e><p><l>hor</l><r>xor</r></p><par n="nominal"/></e>
+    <e><p><l>hijyenik</l><r>gigiyenik</r></p><par n="nominal"/></e>
+    <e><p><l>homojen</l><r>homogen</r></p><par n="nominal"/></e>
+    <e><p><l>hazin</l><r>qəmli</r></p><par n="nominal"/></e>
+    <e><p><l>haylaz</l><r>tənbəl</r></p><par n="nominal"/></e>
+    <e><p><l>halis</l><r>xalis</r></p><par n="nominal"/></e>
+    <e><p><l>güzide</l><r>seçkin</r></p><par n="nominal"/></e>
+    <e><p><l>gürbüz</l><r>çətin</r></p><par n="nominal"/></e>
+    <e><p><l>gevrek</l><r>lətif</r></p><par n="nominal"/></e>
+    <e><p><l>fesat</l><r>fəsad</r></p><par n="nominal"/></e>
+    <e><p><l>fahiş</l><r>hədsiz</r></p><par n="nominal"/></e>
+    <e><p><l>eklektik</l><r>eklektik</r></p><par n="nominal"/></e>
+    <e><p><l>eğik</l><r>əyri</r></p><par n="nominal"/></e>
+    <e><p><l>duru</l><r>duru</r></p><par n="nominal"/></e>
+    <e><p><l>dümdüz</l><r>dümdüz</r></p><par n="nominal"/></e>
+    <e><p><l>dişi</l><r>dişi</r></p><par n="nominal"/></e>
+    <e><p><l>destansı</l><r>dastanlıq</r></p><par n="nominal"/></e>
+    <e><p><l>centilmen</l><r>centlmen</r></p><par n="nominal"/></e>
+    <e><p><l>buruk</l><r>əsaslı</r></p><par n="nominal"/></e>
+    <e><p><l>bildik</l><r>bələd</r></p><par n="nominal"/></e>
+    <e><p><l>betonarme</l><r>dəmir-beton</r></p><par n="nominal"/></e>
+    <e><p><l>baygın</l><r>huşsuz</r></p><par n="nominal"/></e>
+    <e><p><l>bayat</l><r>bayat</r></p><par n="nominal"/></e>
+    <e><p><l>başbaşa</l><r>baş-başa</r></p><par n="nominal"/></e>
+    <e><p><l>elele</l><r>el-ele</r></p><par n="nominal"/></e>
+    <e><p><l>alçakgönüllü</l><r>təvazökar</r></p><par n="nominal"/></e>
+    <e><p><l>alaylı</l><r>lağ</r></p><par n="nominal"/></e>
+    <e><p><l>alaca</l><r>ala-bəzək</r></p><par n="nominal"/></e>
+    <e><p><l>ala</l><r>ala</r></p><par n="nominal"/></e>
+
 
 
 
@@ -4160,6 +4289,12 @@
     <e><p><l>Bükreş<s n="np"/></l><r>Buxarest<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Bulgaristan<s n="np"/></l><r>Bolqarıstan<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Çeçenistan<s n="np"/></l><r>Çeçenistan<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>İsrail<s n="np"/></l><r>İsrail<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>Çin<s n="np"/></l><r>Çin<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>İsveç<s n="np"/></l><r>İsveç<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>İsviçre<s n="np"/></l><r>İsviçrə<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>Kürt<s n="np"/></l><r>Kürd<s n="np"/></r></p></e> <!-- Top -->
+
     <e><p><l>Çekoslovakya<s n="np"/></l><r>Çexoslovakiya<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Danimarka<s n="np"/></l><r>Danimarka<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Dubai<s n="np"/></l><r>Dubay<s n="np"/></r></p></e> <!-- Top -->
@@ -4295,6 +4430,10 @@
     <e><p><l>Erdoğan<s n="np"/></l><r>Ərdoğan<s n="np"/></r></p></e> <!-- Cog.Sg -->
     <e><p><l>Tayyip<s n="np"/></l><r>Tayyib<s n="np"/></r></p></e> <!-- Nom.Sg -->
     <e><p><l>Emine<s n="np"/></l><r>Əmine<s n="np"/></r></p></e> <!-- Nom.Sg -->
+    <e><p><l>İlgi<s n="np"/></l><r>İlgi<s n="np"/></r></p></e> <!-- Nom.Sg -->
+    <e><p><l>Filistin<s n="np"/></l><r>Fələstin<s n="np"/></r></p></e> <!-- Nom.Sg -->
+    <e><p><l>Osman<s n="np"/></l><r>Osman<s n="np"/></r></p></e> <!-- Nom.Sg -->
+    <e><p><l>Yunan<s n="np"/></l><r>Yunan<s n="np"/></r></p></e> <!-- Nom.Sg -->
 
 
     <!-- SECTION: Adverbs -->
@@ -4556,7 +4695,9 @@
 
 
      <!-- SECTION: Verbs -->
-        
+    
+    
+    <e><p><l>yaşar<s n="v"/></l><r>otur<s n="v"/></r></p></e>
     <e><p><l>otur<s n="v"/></l><r>otur<s n="v"/></r></p></e>
     <e><p><l>savun<s n="v"/></l><r>qoru<s n="v"/></r></p></e>
     <e><p><l>iç<s n="v"/></l><r>iç<s n="v"/></r></p></e>
@@ -4573,6 +4714,7 @@
     <e><p><l>planla<s n="v"/></l><r>planlaşdır<s n="v"/></r></p></e>
     <e><p><l>et<s n="v"/></l><r>et<s n="v"/></r></p></e>
     <e><p><l>ayır<s n="v"/></l><r>ayır<s n="v"/></r></p></e>
+    <e><p><l>bırak<s n="v"/></l><r>bırax<s n="v"/></r></p></e>
 
 
 

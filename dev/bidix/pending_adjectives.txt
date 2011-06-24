@@ -11,7 +11,7 @@
      57 ^@çin<np><d_li><adj>$
      53 ^@isveç<np><d_li><adj>$
      50 ^@yeter<adj><djn_0><n><dnn_siz><adj><d_lik><n><p3s>$
-     43 ^@isviçre<np><d_li><adj>$
+     43 ^@İsveçrə<np><d_li><adj>$
      40 ^@kürt<np><d_ca><adj>$
      40 ^@irlanda<np><d_li><adj>$
      35 ^@ingiliz<np><d_ca><adj>$
