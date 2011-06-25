@@ -1,4 +1,4 @@
-    152 ^@diye<cnjsub>$
+    151 ^@diye<cnjsub>$
       3 ^@ha<cnjcoo>$
       1 ^@yok mu<cnjadv>$
       1 ^@mesela<cnjadv>$

@@ -1,23 +1,23 @@
    1582 ^@gün<adv><ki>$
-    163 ^@bağım<n><dnn_siz><adv>$
+    191 ^@bağım<n><dnn_siz><adv>$
      37 ^@ama<n><d_ca><adv>$
      34 ^@ingiliz<np><d_ca><adv>$
-     30 ^@kürt<np><d_ca><adv>$
      17 ^@sık<n><d_ca><adv>$
+     15 ^@sırp<np><d_ca><adv>$
      15 ^@hoşnut<n><dnn_siz><adv><d_lik><n><acc>$
-     14 ^@sırp<np><d_ca><adv>$
      11 ^@hoşnut<n><dnn_siz><adv>$
       8 ^@makedon<np><d_ca><adv>$
       6 ^@türk<np><d_ca><adv>$
       6 ^@ermeni<np><d_ca><adv>$
       5 ^@hır<n><dnn_siz><adv><d_lik><n>$
+      4 ^@sorum<n><dnn_siz><adv>$
       4 ^@mut<n><dnn_siz><adv>$
       4 ^@hoşnut<n><dnn_siz><adv><d_lik><n>$
       4 ^@gen<n><d_ca><adv>$
-      3 ^@sorum<n><dnn_siz><adv>$
       3 ^@hoşnut<n><dnn_siz><adv><d_lik><n><p3s><acc>$
       3 ^@hırvat<np><d_ca><adv>$
       3 ^@bulgar<np><d_ca><adv>$
+      2 ^@talih<n><dnn_siz><adv>$
       2 ^@rus<np><d_ca><adv>$
       2 ^@resen<adv>$
       2 ^@on<n><dnn_siz><adv>$
@@ -36,7 +36,6 @@
       1 ^@uyurgezer<n><d_ca><adv>$
       1 ^@tutuk<n><dnn_siz><adv>$
       1 ^@tayland<np><d_ca><adv>$
-      1 ^@talih<n><dnn_siz><adv>$
       1 ^@süryani<n><d_ca><adv>$
       1 ^@sorum<n><dnn_siz><adv><d_lik><n>$
       1 ^@slav<np><d_ca><adv>$
@@ -46,11 +45,12 @@
       1 ^@rumen<np><d_ca><adv>$
       1 ^@romen<np><d_ca><adv>$
       1 ^@perva<n><dnn_siz><adv>$
+      1 ^@önyargı<n><dnn_siz><adv>$
       1 ^@metelik<n><dnn_siz><adv>$
       1 ^@markaj<n><dnn_siz><adv>$
       1 ^@kiril<n><d_ca><adv>$
+      1 ^@kefalet<n><dnn_siz><adv>$
       1 ^@italyan<np><d_ca><adv>$
-      1 ^@isveç<np><d_ca><adv>$
       1 ^@ıs<n><dnn_siz><adv>$
       1 ^@inisiyatif<n><dnn_siz><adv><d_lik><n><ins>$
       1 ^@inan<n><d_ca><adv>$
@@ -65,6 +65,7 @@
       1 ^@eğreti<adv>$
       1 ^@dürüst<np><d_ca><adv>$
       1 ^@çetin<np><d_ca><adv>$
+      1 ^@çekince<n><dnn_siz><adv>$
       1 ^@boşnak<np><d_ca><adv>$
       1 ^@benzer<n><dnn_siz><adv>$
       1 ^@ayrım<n><d_ci><n><d_lik><n><dnn_siz><adv>$
