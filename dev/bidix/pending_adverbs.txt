@@ -20,7 +20,6 @@
       2 ^@talih<n><dnn_siz><adv>$
       2 ^@rus<np><d_ca><adv>$
       2 ^@resen<adv>$
-      2 ^@on<n><dnn_siz><adv>$
       2 ^@macar<np><d_ca><adv>$
       2 ^@kifayet<n><dnn_siz><adv>$
       2 ^@iğrenç<adv>$
@@ -45,11 +44,8 @@
       1 ^@rumen<np><d_ca><adv>$
       1 ^@romen<np><d_ca><adv>$
       1 ^@perva<n><dnn_siz><adv>$
-      1 ^@önyargı<n><dnn_siz><adv>$
       1 ^@metelik<n><dnn_siz><adv>$
       1 ^@markaj<n><dnn_siz><adv>$
-      1 ^@kiril<n><d_ca><adv>$
-      1 ^@kefalet<n><dnn_siz><adv>$
       1 ^@italyan<np><d_ca><adv>$
       1 ^@ıs<n><dnn_siz><adv>$
       1 ^@inisiyatif<n><dnn_siz><adv><d_lik><n><ins>$
@@ -65,8 +61,5 @@
       1 ^@eğreti<adv>$
       1 ^@dürüst<np><d_ca><adv>$
       1 ^@çetin<np><d_ca><adv>$
-      1 ^@çekince<n><dnn_siz><adv>$
       1 ^@boşnak<np><d_ca><adv>$
-      1 ^@benzer<n><dnn_siz><adv>$
-      1 ^@ayrım<n><d_ci><n><d_lik><n><dnn_siz><adv>$
       1 ^@asbest<n><dnn_siz><adv>$
