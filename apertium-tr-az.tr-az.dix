@@ -42,6 +42,8 @@
     <!-- SECTION: Interjections -->
     
         <e><p><l>Tabii<s n="ij"/></l><r>Təbii<s n="ij"/></r></p></e>
+        <e><p><l>Tabii<b/>ki<s n="ij"/></l><r>Təbii<b/>ki<s n="ij"/></r></p></e>
+        <e><p><l>şöyle<s n="ij"/></l><r>belə<s n="ij"/></r></p></e>
 
 
     
@@ -269,6 +271,8 @@
    
 
  <!-- SECTION: Nouns -->
+     <e><p><l>havacılık</l><r>Aviasiya</r></p><par n="nominal"/></e>
+
     <e><p><l>yer</l><r>yer</r></p><par n="nominal"/></e>
     <e><p><l>ön</l><r>ön</r></p><par n="nominal"/></e>
     <e><p><l>mart</l><r>mart</r></p><par n="nominal"/></e>
@@ -358,6 +362,8 @@
     <e><p><l>alfabe</l><r>əlifba</r></p><par n="nominal"/></e>
     <e><p><l>alim</l><r>alim</r></p><par n="nominal"/></e>
     <e><p><l>yeter</l><r>yeter</r></p><par n="nominal"/></e>
+    <e><p><l>eğitimli</l><r>təhsilli</r></p><par n="nominal"/></e>
+    <e><p><l>pas</l><r>pas</r></p><par n="nominal"/></e>
 
     <e><p><l>alın</l><r>alın</r></p><par n="nominal"/></e>
     <e><p><l>alıntı</l><r>sitat</r></p><par n="nominal"/></e>
@@ -5207,6 +5213,12 @@
     <e><p><l>geçim</l><r>dolanışıq</r></p><par n="nominal"/></e>
     <e><p><l>eczane</l><r>aptek</r></p><par n="nominal"/></e>
     <e><p><l>monitör</l><r>monitor</r></p><par n="nominal"/></e>
+    <e><p><l>yaşıt</l><r>yaşıd</r></p><par n="nominal"/></e>
+    <e><p><l>belirleyici</l><r>təyinedici</r></p><par n="nominal"/></e>
+    <e><p><l>tehlikeli</l><r>təhlükəli</r></p><par n="nominal"/></e>
+    <e><p><l>motivasyonlu</l><r>motivasiyalı</r></p><par n="nominal"/></e>
+    <e><p><l>hazırlıklı</l><r>hazırlıqlı</r></p><par n="nominal"/></e>
+    <e><p><l>yıllık</l><r>illik</r></p><par n="nominal"/></e>
 
 
 
@@ -5263,20 +5275,25 @@
     <e><p><l>sigara<s n="n"/></l><r>papiros<s n="n"/></r></p></e>
     <e><p><l>şura<s n="n"/></l><r>şura<s n="n"/></r></p></e>
     <e><p><l>vakıa<s n="n"/></l><r>vaqiə<s n="n"/></r></p></e>
+    <e><p><l>zorlanma<s n="n"/></l><r>çətinlik<b/>məcbur<b/>edilmə<s n="n"/></r></p></e>
+    <e><p><l>arkadaşlık<s n="n"/></l><r>yoldaşlıq<s n="n"/></r></p></e>
+    <e><p><l>kontenjan<s n="n"/></l><r>kontingent<s n="n"/></r></p></e>
 
 
   
-
 
     <!-- SECTION: Proper nouns -->
 
     <e><p><l>Soner<s n="np"/></l><r>Soner<s n="np"/></r></p></e> <!-- Nom.sg -->
     <e><p><l>Yalçın<s n="np"/></l><r>Yalçın<s n="np"/></r></p></e> <!-- Cog.sg -->
+    <e><p><l>Stankoviç<s n="np"/></l><r>Stankoviç<s n="np"/></r></p></e> <!-- Cog.sg -->
+    <e><p><l>Nikola<s n="np"/></l><r>Nikola<s n="np"/></r></p></e> <!-- Nom.sg -->
+
     <e><p><l>Ergenekon<s n="np"/></l><r>Ergenekon<s n="np"/></r></p></e> <!-- Top -->
 
     <e><p><l>Adıyaman<s n="np"/></l><r>Adıyaman<s n="np"/></r></p></e> <!-- Top -->
 
-   <e><p><l>Abhazya<s n="np"/></l><r>Abxaziya<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>Abhazya<s n="np"/></l><r>Abxaziya<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Afganistan<s n="np"/></l><r>Əfqanıstan<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Afrika<s n="np"/></l><r>Afrika<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Amerika<s n="np"/></l><r>Amerika<s n="np"/></r></p></e> <!-- Top -->
@@ -5316,6 +5333,8 @@
     <e><p><l>İsveç<s n="np"/></l><r>İsveç<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>İsviçre<s n="np"/></l><r>İsviçrə<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Kürt<s n="np"/></l><r>Kürd<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>Havacılık<s n="np"/></l><r>Aviasiya<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>Nemanja<s n="np"/></l><r>Nemanja<s n="np"/></r></p></e> <!-- Top -->
 
     <e><p><l>Çekoslovakya<s n="np"/></l><r>Çexoslovakiya<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Danimarka<s n="np"/></l><r>Danimarka<s n="np"/></r></p></e> <!-- Top -->
@@ -5456,6 +5475,19 @@
     <e><p><l>Filistin<s n="np"/></l><r>Fələstin<s n="np"/></r></p></e> <!-- Nom.Sg -->
     <e><p><l>Osman<s n="np"/></l><r>Osman<s n="np"/></r></p></e> <!-- Nom.Sg -->
     <e><p><l>Yunan<s n="np"/></l><r>Yunan<s n="np"/></r></p></e> <!-- Nom.Sg -->
+    <e><p><l>Radovanoviç<s n="np"/></l><r>Radovanoviç<s n="np"/></r></p></e> <!-- Cog.Sg-->
+    <e><p><l>Sandra<s n="np"/></l><r>Sandra<s n="np"/></r></p></e> <!-- Nom.Sg-->
+
+    <e><p><l>Yunan<s n="np"/></l><r>Yunan<s n="np"/></r></p></e> <!-- Nom.Sg -->
+    <e><p><l>Sırp<b/>Ordusu<s n="np"/></l><r>Serb<b/>Ordusu<s n="np"/></r></p></e> 
+    <e><p><l>Yunan<s n="np"/></l><r>Yunan<s n="np"/></r></p></e> <!-- Nom.Sg -->
+    <e><p><l>Super<b/>Galep<s n="np"/></l><r>Super<b/>Galep<s n="np"/></r></p></e> 
+    <e><p><l>G4<s n="np"/></l><r>G4<s n="np"/></r></p></e> 
+    <e><p><l>Tadiç<s n="np"/></l><r>Tadiç<s n="np"/></r></p></e> 
+    <e><p><l>Anja<s n="np"/></l><r>Anja<s n="np"/></r></p></e> 
+    <e><p><l>Krneta<s n="np"/></l><r>Krneta<s n="np"/></r></p></e> 
+    <e><p><l>Gazela<s n="np"/></l><r>Gazela<s n="np"/></r></p></e> 
+    <e><p><l>Ruziç<s n="np"/></l><r>Ruziç<s n="np"/></r></p></e> 
 
 
     <!-- SECTION: Adverbs -->
@@ -5720,6 +5752,8 @@
     
     
     <e><p><l>yaşar<s n="v"/></l><r>otur<s n="v"/></r></p></e>
+    <e><p><l>endişelen<s n="v"/></l><r>endişelen<s n="v"/></r></p></e>
+
     <e><p><l>otur<s n="v"/></l><r>otur<s n="v"/></r></p></e>
     <e><p><l>savun<s n="v"/></l><r>qoru<s n="v"/></r></p></e>
     <e><p><l>iç<s n="v"/></l><r>iç<s n="v"/></r></p></e>
@@ -5737,6 +5771,8 @@
     <e><p><l>et<s n="v"/></l><r>et<s n="v"/></r></p></e>
     <e><p><l>ayır<s n="v"/></l><r>ayır<s n="v"/></r></p></e>
     <e><p><l>bırak<s n="v"/></l><r>bırax<s n="v"/></r></p></e>
+    <e><p><l>gülümse<s n="v"/></l><r>gülümsə<s n="v"/></r></p></e>
+    <e><p><l>devam<b/>et<s n="v"/></l><r>davam<b/>et<s n="v"/></r></p></e>
 
 
 
@@ -5744,6 +5780,8 @@
 
 
     <e><p><l>taşı<s n="v"/></l><r>daşı<s n="v"/></r></p></e>
+    <e><p><l>kaydol<s n="v"/></l><r>kaydol<s n="v"/></r></p></e>
+    <e><p><l>karşılaş<s n="v"/></l><r>qarşılaş<s n="v"/></r></p></e>
 
     <e><p><l>düşün<s n="v"/></l><r>düşün<s n="v"/></r></p></e>
     <e><p><l>selamla<s n="v"/></l><r>salamla<s n="v"/></r></p></e>
