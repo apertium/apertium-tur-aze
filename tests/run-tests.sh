@@ -10,10 +10,16 @@ TOTAL=0;
 PCOUNT=0;
 FCOUNT=0;
 for i in [0-9][0-9][0-9][0-9].txt; do
+
+	DISFILE=`echo $i | sed 's/.txt/.dis.txt/g'`
+	if [ ! -e $DISFILE ]; then
+		continue;
+	fi
+
 	TOTAL=`expr $TOTAL + 1`;
 
 	cat $i | apertium-destxt | hfst-proc -w $MORPH | apertium-retxt | python $CONV | vislcg3 --grammar $DIS > $TEMP"/"$i".tst" 2>/dev/null; 
-	diff -NaurB `echo $i | sed 's/.txt/.dis.txt/g'` $TEMP"/"$i".tst" > $TEMP"/"$i".diff";
+	diff -NaurB $DISFILE $TEMP"/"$i".tst" > $TEMP"/"$i".diff";
 	
 	DIFFLINES=`cat $TEMP"/"$i".diff" | wc -l`;
 
