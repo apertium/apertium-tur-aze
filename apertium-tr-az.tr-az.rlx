@@ -132,7 +132,7 @@ LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i 
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ("başka"i postp) ("rağmen"i postp) ("yana"i postp) ;
 LIST POST-TEM = ("sırasında" N PxSg3 loc *3s) ;
 
-LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist exist cpl_di cpl_mis t_imp ;
+LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist exist cpl_di cpl_mis ;
 
 SET FINITE-NOSUB = FINITE - CP/ken ;
 
@@ -158,8 +158,7 @@ SECTION
 ###############################################################################
 
 
-
-
+REMOVE Imper IF (0 N) ;
 
 ###############################################################################
 ## Remove redundant derivations 

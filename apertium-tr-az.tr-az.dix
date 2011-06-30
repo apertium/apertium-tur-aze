@@ -22,6 +22,8 @@
     <sdef n="q"        c="Question"/>
     <sdef n="det"      c="Determinative"/>
     <sdef n="ij"       c="Interjection"/>
+    <sdef n="pers"       c="Personal"/>
+    <sdef n="dem"       c="Demonstrative"/>
 
 
   </sdefs>
@@ -190,19 +192,19 @@
 
 
 
-    <e><p><l>ben<s n="prn"/></l><r>mən<s n="prn"/></r></p></e> <!-- Pers -->
-    <e><p><l>sen<s n="prn"/></l><r>sən<s n="prn"/></r></p></e> <!-- Pers -->
-    <e><p><l>o<s n="prn"/></l><r>o<s n="prn"/></r></p></e> <!-- Pers -->
-    <e><p><l>biz<s n="prn"/></l><r>biz<s n="prn"/></r></p></e> <!-- Pers -->
-    <e><p><l>siz<s n="prn"/></l><r>siz<s n="prn"/></r></p></e> <!-- Pers -->
-    <e><p><l>onlar<s n="prn"/></l><r>onlar<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>ben<s n="prn"/><s n="pers"/></l><r>mən<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>sen<s n="prn"/><s n="pers"/></l><r>sən<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>o<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>biz<s n="prn"/><s n="pers"/></l><r>biz<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>siz<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>onlar<s n="prn"/><s n="pers"/></l><r>onlar<s n="prn"/></r></p></e> <!-- Pers -->
 
 
     <e><p><l>bir<s n="det"/></l><r>bir<s n="det"/></r></p></e> <!-- Det -->
 
 
     <e><p><l>şey<s n="prn"/></l><r>şey<s n="prn"/></r></p></e> <!-- Ind -->
-    <e><p><l>bu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e> <!-- Det -->
+    <e><p><l>bu<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/></r></p></e> <!-- Det -->
     <e><p><l>başka<s n="prn"/></l><r>başqa<s n="prn"/></r></p></e> <!-- ? -->
 
     <e><p><l>kim<s n="prn"/></l><r>kim<s n="prn"/></r></p></e> <!-- Itg -->
@@ -6204,7 +6206,61 @@
     <e><p><l>kaybol<s n="v"/></l><r>qeyb<b/>ol<s n="v"/></r></p></e>
     <e><p><l>güven<s n="v"/></l><r>güvən<s n="v"/></r></p></e>
     <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    
+    <e><p><l>devam<b/>et<s n="v"/></l><r>davam<b/>et<s n="v"/></r></p></e>
+    <e><p><l>genişle<s n="v"/></l><r>izah<b/>et<s n="v"/></r></p></e>
+    <e><p><l>uzlaş<s n="v"/></l><r>uzlaş<s n="v"/></r></p></e>
+    <e><p><l>karşılaş<s n="v"/></l><r>qarşılaş<s n="v"/></r></p></e>
+    <e><p><l>yasakla<s n="v"/></l><r>qadağan<b/>et<s n="v"/></r></p></e>
+    <e><p><l>haberleş<s n="v"/></l><r>xəbərləş<s n="v"/></r></p></e>
+    <e><p><l>tazele<s n="v"/></l><r>təzələ<s n="v"/></r></p></e>
+    <e><p><l>temizle<s n="v"/></l><r>təmizlə<s n="v"/></r></p></e>
+    <e><p><l>ortala<s n="v"/></l><r>ortala<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+
+
 
    <!-- SECTION: Punctuation -->
     <e><p>    <l>-<s n="pnct"/></l>    <r>-<s n="pnct"/></r>  </p>    </e>
