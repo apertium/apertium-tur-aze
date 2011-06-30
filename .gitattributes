@@ -40,8 +40,8 @@ tests/0002.dis.txt -text
 tests/0002.txt -text
 tests/0003.dis.txt -text
 tests/0003.txt -text
-tests/0004.dis.txt -text
-tests/0004.txt -text
+tests/0006.dis.txt -text
+tests/0006.txt -text
 tests/run-tests.sh -text
 tests/taggedarticle -text
 /tofix -text
