@@ -55,6 +55,7 @@ tests/0014.txt -text
 tests/0015.txt -text
 tests/0016.txt -text
 tests/0017.txt -text
+tests/0018.dis.txt -text
 tests/0018.txt -text
 tests/0019.txt -text
 tests/0020.txt -text

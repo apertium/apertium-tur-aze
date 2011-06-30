@@ -1,0 +1,20 @@
+"<Yüzbaşı>"
+	"yüzbaşı" n
+"<Nikola>"
+	"Nikola" np
+"<Stankoviç>"
+	"Stankoviç" np
+"<bu>"
+	"bu" det
+"<dokuz>"
+	"dokuz" num
+"<genç>"
+	"genç" adj
+"<pilotun>"
+	"pilot" n gen
+"<yanından>"
+	"yan" n p3s abl
+"<ayrılmıyor>"
+	"ayrıl" v neg t_cont 3s
+"<.>"
+	"." pnct
