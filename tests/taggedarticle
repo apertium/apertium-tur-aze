@@ -1,0 +1,231 @@
+"<22>"
+    "22" num
+
+"<yaşındaki>"
+    "yaş" n p3s loc ki
+
+"<Çavuş>"
+    "Çavuş" n
+
+"<Sandra>"
+    "Sandra" np
+    
+"<Radovanoviç>"
+    "Radovanoviç" np
+    
+"<Sırp Ordusu'nun>"
+    "Sırp Ordusu" np  apos gen
+
+"<Super Galep>"
+    "Super Galep" np
+
+"<G4'ünü>"
+    "G4" np p3s acc
+    
+"<uçuran>"
+    "uç" caus part_yan
+
+"<ilk>"
+    "ilk" adj
+    
+"<kadın>"
+    "kadın" n
+
+"<oldu>"
+    "ol" v  t_past
+
+"<Yaşıtları>"
+    "Yaşıt" n pl p3s
+
+"<daha>"
+    "daha" adv
+
+"<araba>"
+    "araba" n
+
+"<kullanmayı>"
+    "kullanma" n  acc
+    
+"<yeni>"
+    "yeni" adv
+
+"<öğrenirken>"
+
+    "öğren" v  t_aor  3s cpl_ken
+
+"<Radovanoviç>"
+    "Radovanoviç" np
+    
+"<bir>"
+    "bir" det
+
+"<savaş>"
+    
+    "savaş" n
+
+"<uçağına>"
+    
+    "uçak" n p3s dat
+
+"<4.000m>"
+    "4000" num
+    "m" abbr
+    
+"<irtifada>"
+    "irtifa" n loc
+    
+"<700km/sa>"
+    "700" num
+    "km/sa" abbr
+
+"<hızla>"
+    "hız" n ins
+
+"<manevra yaptırıyor>"
+    "manevra yap" v caus t_cont 3s
+    
+"<Radovanoviç>"
+    
+    "Radovanoviç" np
+    
+"<Sırbistan'ın>"
+    
+    "Sırbistan" np apos gen
+
+"<ilk>"
+    
+    "ilk" adj
+    
+"<kadın>"
+    
+    "kadın" n
+
+"<pilotu>"
+
+    "pilot" n p3s
+
+"<olarak>"
+    
+    "ol" v cv_erek
+
+"<tarihe>"
+    
+    "tarih" n dat
+
+"<geçti>"
+
+    "geç" v t_past
+    
+"<Pilot>"
+    "Pilot" n 3s
+    
+"<Belgrad'daki>"
+    "Belgrad" np apos loc ki
+    
+"<harp>"
+    "harp" n
+    
+"<okulu>"
+    "okul" n p3s
+
+"<Havacılık Okulu'nda>"
+    "Havacılık Okulu" np loc
+    
+"<son>"
+    "son" adj
+
+"<sınıf>"
+    
+    "sınıf" n
+    
+"<öğrencisi>"
+    "öğrenci" n p3s
+    
+"<olarak>"
+    "ol" v cv_erek
+
+"<okuyor>"
+    "oku" v t_cont 3s
+    
+"<.>"
+    "." punct
+    
+"<Üç>"
+    "üç" num
+
+"<yıl>"
+    "yıl" n
+    
+"<önce>"
+    "önce" postp
+    
+"<,>"
+    "," punct
+    
+"<hayatında>"
+    "hayat" n p3s loc
+    
+"<ilk>"
+    "ilk" adj
+
+"<defa>"
+    "defa" n
+
+### MAYBE ADD ILK DEFA AS ADV??
+
+"<bir>"
+    "bir" det
+
+"<uçağa>"
+    "uçak" n dat
+    
+"<bindi>"
+    "bin" v t_past 3s
+    
+"<.>"
+    "." punct
+
+"<Radovanoviç>"
+    "Radovanoviç" np
+
+"<gülümseyerek>"
+    "gülümse" v cv_erek
+
+"<,>"
+    "," punct
+
+"<Giriş>"
+    "Giriş" n
+
+"<sınavına>"
+    "sınav" n p3s dat
+
+"<kadar>"
+    "kadar" postp
+    
+"<,>"
+    "," punct
+
+"<hayatımda>"
+    "hayat" n p1s loc
+
+"<uçağa>"
+    "uçak" n dat
+
+"<binmemiştim>"
+    "bin" v neg t_narr cpl_di
+
+"<.>"
+    "." punct
+
+"<diyerek>"
+    "de" v cv_erek
+
+"<şöyle>"
+    "şöyle" adv
+
+"<devam ediyor>"
+    "devam et" v t_cont 3s
+    
+"<.>"
+    "." punct
