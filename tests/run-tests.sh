@@ -19,7 +19,7 @@ for i in [0-9][0-9][0-9][0-9].txt; do
 	TOTAL=`expr $TOTAL + 1`;
 
 	cat $i | apertium-destxt | hfst-proc -w $MORPH | apertium-retxt | python $CONV | vislcg3 --grammar $DIS > $TEMP"/"$i".tst" 2>/dev/null; 
-	diff -NaurB $DISFILE $TEMP"/"$i".tst" > $TEMP"/"$i".diff";
+	diff -NaurBb $DISFILE $TEMP"/"$i".tst" > $TEMP"/"$i".diff";
 	
 	DIFFLINES=`cat $TEMP"/"$i".diff" | wc -l`;
 
