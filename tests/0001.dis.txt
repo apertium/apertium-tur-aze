@@ -1,0 +1,39 @@
+"<22>"
+    "22" num
+
+"<yaşındaki>"
+    "yaş" n p3s loc ki
+
+"<Çavuş>"
+    "Çavuş" n
+
+"<Sandra>"
+    "Sandra" np
+    
+"<Radovanoviç>"
+    "Radovanoviç" np
+    
+"<Sırp Ordusu'nun>"
+    "Sırp Ordusu" np  apos gen
+
+"<Super Galep>"
+    "Super Galep" np
+
+"<G4'ünü>"
+    "G4" np p3s acc
+    
+"<uçuran>"
+    "uç" caus part_yan
+
+"<ilk>"
+    "ilk" adj
+    
+"<kadın>"
+    "kadın" n
+
+"<oldu>"
+    "ol" v  t_past
+
+"<.>"
+    "." pcnt 
+

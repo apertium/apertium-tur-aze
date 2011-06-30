@@ -1,14 +1,44 @@
-"<Вu>"
-	"bu" det 
+"<Radovanoviç>"
+    "Radovanoviç" np
 
-"<bina>"
-	"bina" n
+"<gülümseyerek>"
+    "gülümse" v cv_erek
 
-"<eskiden>"
-        "eskiden" adv
-        
-"<okulmuş>"
-        "okul" n cpl_mis 3s
+"<,>"
+    "," punct
+
+"<Giriş>"
+    "Giriş" n
+
+"<sınavına>"
+    "sınav" n p3s dat
+
+"<kadar>"
+    "kadar" postp
+    
+"<,>"
+    "," punct
+
+"<hayatımda>"
+    "hayat" n p1s loc
+
+"<uçağa>"
+    "uçak" n dat
+
+"<binmemiştim>"
+    "bin" v neg t_narr cpl_di
 
 "<.>"
-	"." pnct 
+    "." punct
+
+"<diyerek>"
+    "de" v cv_erek
+
+"<şöyle>"
+    "şöyle" adv
+
+"<devam ediyor>"
+    "devam et" v t_cont 3s
+
+"<:>"
+    ":" pnct
