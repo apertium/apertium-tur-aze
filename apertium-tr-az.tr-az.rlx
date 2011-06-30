@@ -223,10 +223,9 @@ REMOVE Der/d_ci/a IF (0 Der/d_ci/a) ;
 REMOVE Der/d_ci IF (0 Der/d_ci) ;
 REMOVE Der/d_cak IF (0 Der/d_cak) ;
 
-
-
-
-
+# This is horrid
+REMOVE (v pass) IF (0 ("[a-z]+[aeiou]l"ri v) - (pass));
+    ## Ancak genç pilot, kendisinin de gerildiğini itiraf ediyor.
 
 ###############################################################################
 ## NP internal
