@@ -1,0 +1,10 @@
+"<Bu>"
+	"bu" det 
+"<bina>"
+	"bina" n 
+"<eskiden>"
+	"eskiden" adv 
+"<okulmuş>"
+	"okul" n cpl_mis 3s 
+"<.>"
+	"." pnct 
