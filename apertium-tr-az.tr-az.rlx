@@ -22,6 +22,7 @@ LIST Post = postp ;
 LIST Pron = prn ;
 LIST CC = cnjcoo ;
 LIST CS = cnjsub ;
+LIST CA = cnjadv ;
 LIST Num = num ;
 LIST NOT = not ;
 LIST NP = np ;
@@ -516,6 +517,11 @@ SELECT A IF (0 Part) ;
 
 
   
-SELECT Prop (-2C Prop) (-1 Conju) (0 Prop) ; 
+SELECT Prop IF (-2C Prop) (-1 Conju) (0 Prop) ; 
    ## Sandra, [0]Ana ve Anja'nın okula kabul edildiği 2007 yılından bu yana, başka hiçbir kadın okula girmeyi başaramadı.
 
+REMOVE Post IF (-1 Cm) ; 
+   ## Sandra, Ana ve Anja'nın okula kabul edildiği 2007 yılından bu yana, [0]başka hiçbir kadın okula girmeyi başaramadı.
+
+REMOVE CA IF (-1C N) (1C N);
+   ## Sandra, Ana [0]ve Anja'nın okula kabul edildiği 2007 yılından bu yana, başka hiçbir kadın okula girmeyi başaramadı.
