@@ -11,20 +11,22 @@ SOFT-DELIMITERS = "<,>" ;
 LIST BOS = (>>>) ; # Beginning of sentence
 LIST EOS = (<<<) ; # End of sentence
 
-LIST N = (n) (np) ;
+LIST N = n np ;
 LIST V = (v) (exist) (nexist) (not) ;
 LIST V/SP = (exist) (nexist) ;
-LIST A = (adj) ;
-LIST Adv = (adv) ;
-LIST Det = (det) ;
-LIST Post = (postp) ;
-LIST Pron = (prn) ;
-LIST CC = (cnjcoo) ;
-LIST CS = (cnjsub) ;
-LIST Num = (num) ;
-LIST NOT = (not) ;
-LIST NP = (np) ;
-LIST Plu = (pl) ;
+LIST A = adj ;
+LIST Adv = adv ;
+LIST Prop = np ;
+LIST Det = det ;
+LIST Post = postp ;
+LIST Pron = prn ;
+LIST CC = cnjcoo ;
+LIST CS = cnjsub ;
+LIST Num = num ;
+LIST NOT = not ;
+LIST NP = np ;
+LIST Plu = pl ;
+LIST Cm = cm ("," pnct);
 
 
 ## TYPE OF VERBS ##
@@ -499,11 +501,6 @@ REMOVE (n 3p);
    ## TO BE REMOVED
 
   
-
-
-
-
-
-
-
+SELECT Prop (-2C Prop) (-1 Cm) (0 Prop) (1 CC) (2C Prop); 
+   ## Sandra, Ana ve Anja'nın okula kabul edildiği 2007 yılından bu yana, başka hiçbir kadın okula girmeyi başaramadı.
 
