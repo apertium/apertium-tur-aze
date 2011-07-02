@@ -27,6 +27,7 @@ LIST NOT = not ;
 LIST NP = np ;
 LIST Plu = pl ;
 LIST Cm = cm ("," pnct);
+LIST Conju = cm("," pnct)  (cnjcoo) ;
 
 
 ## TYPE OF VERBS ##
@@ -514,12 +515,7 @@ SELECT A IF (0 Part) ;
     
 
 
-
-REMOVE (n 3p);
-
-   ## TO BE REMOVED
-
   
-SELECT Prop (-2C Prop) (-1 Cm) (0 Prop) (1 CC) (2C Prop); 
-   ## Sandra, Ana ve Anja'nın okula kabul edildiği 2007 yılından bu yana, başka hiçbir kadın okula girmeyi başaramadı.
+SELECT Prop (-2C Prop) (-1 Conju) (0 Prop) ; 
+   ## Sandra, [0]Ana ve Anja'nın okula kabul edildiği 2007 yılından bu yana, başka hiçbir kadın okula girmeyi başaramadı.
 
