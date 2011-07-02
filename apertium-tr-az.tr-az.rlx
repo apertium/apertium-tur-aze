@@ -94,12 +94,13 @@ LIST CV-MARKER = (cv) (cv_dik) (cv_acak) (cv_ma) (cv_mak) (cv_dan) (cv_zdan) (cv
 
 
 LIST VN/acak = (vn_acak) ;
+LIST VN/mak = (vn_mak) ;
 LIST VN/dik = (vn_dik) ;
 LIST VN/ma = (vn_ma) ;
 LIST VN/mak = (vn_mak) ;
 LIST VN/yis = (vn_yis) ;
 LIST CP/ken = (v cpl_ken) ;
-
+LIST CV/mak = (cv_mak) ;
 
 
 LIST Der/0/Adv→N = (adv Dan_0 n) ;
@@ -133,6 +134,7 @@ LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp)
 LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ("başka"i postp) ("rağmen"i postp) ("yana"i postp) ;
 LIST POST-TEM = ("sırasında" N PxSg3 loc *3s) ;
+LIST POST-MAK = ("için" postp) ;
 
 LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist exist cpl_di cpl_mis ;
 
@@ -347,16 +349,31 @@ SELECT Dat IF (1 POST-DAT) ;
 SELECT Post IF (0 POST-ABS) (-1 ABS) ;
 SELECT ABS IF (1 POST-ABS) ;
      
+
+
+SELECT Post if (-1 VN/mak);
+SELECT VN/mak if (1 POST-MAK) ;
+
+## Rule 19-c-d
+##Same as above, but with cv/mak
+
 REMOVE N IF (-1 ABS) (0 ABS) (0 Adv);
 
    ## Rule 19-d
    ## öğrenciler [0]sürekli konuşuyorlar
+   
+
 
      
 SELECT N if (0 ("Günaydın"i)) ;
 
     ## Rule 20
     ## TO BE REMOVED, it is really disgusting!
+    
+SELECT Num if (0 N) (1C A) (2C N) ;
+
+ ## RULE 20-b
+ ## Bu [0]dokuz genç pilotun ...
 
 
 SELECT Adv IF (0 ("en"i)) (1 A OR Adv) ; 
@@ -491,10 +508,7 @@ SELECT Acc IF (-1 Abl) (0 ("bir"i)) ;
 
     
 
-SELECT Pron IF (0 ("<bu>")) ;
 
-   
-   ## Dirty!! To be removed 
 
 REMOVE (n 3p);
 
