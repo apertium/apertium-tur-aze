@@ -505,6 +505,11 @@ SELECT Exist IF (-1 Loc) ;
 
 SELECT Acc IF (-1 Abl) (0 ("bir"i)) ;
 
+SELECT A IF (0 Part) ;
+
+## When we meet a participle, which has been lexicalized as Adjective as well, we select Adj
+## [0]geçen yıl 
+
 
     
 
