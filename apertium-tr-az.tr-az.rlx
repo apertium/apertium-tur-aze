@@ -27,7 +27,7 @@ LIST NOT = not ;
 LIST NP = np ;
 LIST Plu = pl ;
 LIST Cm = cm ("," pnct);
-LIST Conju = cm("," pnct)  (cnjcoo) ;
+LIST Conju = cm ("," pnct)  (cnjcoo) ;
 
 
 ## TYPE OF VERBS ##
