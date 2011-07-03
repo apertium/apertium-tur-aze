@@ -5460,8 +5460,9 @@
     <e><p><l>Yunanistan<s n="np"/></l><r>Yunanıstan<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Zagreb<s n="np"/></l><r>Zaqreb<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Zagrep<s n="np"/></l><r>Zaqreb<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>Ana<s n="np"/></l><r>Ana<s n="np"/></r></p></e> <!-- Ant.Fmn.Sg -->
 
-    <e><p><l>Ahmet<s n="np"/></l><r>Ahmet<s n="np"/></r></p></e> <!-- Ant.Msc.Sg -->
+    <e><p><l>Ahmet<s n="np"/></l><r>Ahmet<s n="np"/></r></p></e> <!-- Ant.Masch.Sg -->
 
     <e><p><l>Hegel<s n="np"/></l><r>Hegel<s n="np"/></r></p></e> <!-- Cog.Sg -->
     <e><p><l>Hitler<s n="np"/></l><r>Hitler<s n="np"/></r></p></e> <!-- Cog.Sg -->
@@ -6218,49 +6219,9 @@
     <e><p><l>temizle<s n="v"/></l><r>təmizlə<s n="v"/></r></p></e>
     <e><p><l>ortala<s n="v"/></l><r>ortala<s n="v"/></r></p></e>
     <e><p><l>kabul<b/>et<s n="v"/></l><r>qəbul<b/>et<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>manevra<b/>yap<s n="v"/></l><r>manevr<b/>et<s n="v"/></r></p></e>
+    <e><p><l>itiraf<b/>et<s n="v"/></l><r>etiraf<b/>et<s n="v"/></r></p></e>
+
 
 
 
