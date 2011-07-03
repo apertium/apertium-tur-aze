@@ -30,6 +30,9 @@ LIST Plu = pl ;
 LIST Cm = cm ("," pnct);
 LIST Conju = cm ("," pnct)  (cnjcoo) ;
 
+LIST Cog = cog ; 
+
+LIST UPPER = ("[A-Z][A-Za-z]+"r) ;
 
 ## TYPE OF VERBS ##
 
@@ -326,12 +329,13 @@ SELECT Det if (0 A) (0 Num) (0 Det) (1 N) ;
     ## [0]bir orman now selects Det+Num
     
     
-SELECT A IF (0 A) (0 ABS) (NOT 0 Adv)  (1 N) (NOT 1 Ins) ;
+SELECT A IF (0 A) (0 ABS) (NOT 0 Adv)  (1 N) (NOT 1 Ins) (NOT 1 Prop);
 
      ## Rule 19
      ## This rule removes the reading of [0] as noun in case it has no INSTRUMENTAL CASE, which is used in turkish as
      ## conjunction sometimes
      ## [0]aynı anda ## Forms of the type Yeniyle Motosiklet are left <n> + <n>
+     ##  22 yaşındaki [0]Ana Tadiç de Super Galeb G4, Anja Krneta ise taarruz helikopteri Gazela'yı uçuruyor.
      
 SELECT Post IF (0 POST-ABL) (-1 Abl) ;
 SELECT Abl IF (1 POST-ABL) ;
@@ -525,3 +529,9 @@ REMOVE Post IF (-1 Cm) ;
 
 REMOVE CA IF (-1C N) (1C N);
    ## Sandra, Ana [0]ve Anja'nın okula kabul edildiği 2007 yılından bu yana, başka hiçbir kadın okula girmeyi başaramadı.
+
+   # Should just be with (np ant) (np cog) style combinations
+REMOVE A IF (0 UPPER) (1C Prop);
+   ##  22 yaşındaki [0]Ana Tadiç de Super Galeb G4, Anja Krneta ise taarruz helikopteri Gazela'yı uçuruyor.
+SELECT Prop IF (0C N OR Prop) (0 UPPER) (1C Prop);
+   ##  22 yaşındaki [0]Ana Tadiç de Super Galeb G4, Anja Krneta ise taarruz helikopteri Gazela'yı uçuruyor.
