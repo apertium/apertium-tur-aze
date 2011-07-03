@@ -535,3 +535,13 @@ REMOVE A IF (0 UPPER) (1C Prop);
    ##  22 yaşındaki [0]Ana Tadiç de Super Galeb G4, Anja Krneta ise taarruz helikopteri Gazela'yı uçuruyor.
 SELECT Prop IF (0C N OR Prop) (0 UPPER) (1C Prop);
    ##  22 yaşındaki [0]Ana Tadiç de Super Galeb G4, Anja Krneta ise taarruz helikopteri Gazela'yı uçuruyor.
+
+
+
+
+###############################################################################
+## Specific lexical heuristics
+###############################################################################
+
+SELECT ("kadın"i) (0 ("<kadının>"i)) (0C ("kadı"i) OR ("kadın"i)) ;
+   ##  Üç [0]kadının dışında, havacılık okulunun dördüncü sınıfında altı da erkek var.
