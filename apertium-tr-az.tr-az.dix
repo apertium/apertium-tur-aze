@@ -323,6 +323,8 @@
     <e><p><l>adet</l><r>adet</r></p><par n="nominal"/></e>
     <e><p><l>ad</l><r>ad</r></p><par n="nominal"/></e>
     <e><p><l>adil</l><r>adil</r></p><par n="nominal"/></e>
+    <e><p><l>on</l><r>on</r></p><par n="nominal"/></e>
+
     <e><p><l>adres</l><r>unvan</r></p><par n="nominal"/></e>
 <!--<e c="  1"><p><l>adres</l><r>adres</r></p><par n="nominal"/></e>-->
     <e><p><l>afet</l><r>afət</r></p><par n="nominal"/></e>
@@ -6215,7 +6217,7 @@
     <e><p><l>tazele<s n="v"/></l><r>təzələ<s n="v"/></r></p></e>
     <e><p><l>temizle<s n="v"/></l><r>təmizlə<s n="v"/></r></p></e>
     <e><p><l>ortala<s n="v"/></l><r>ortala<s n="v"/></r></p></e>
-    <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
+    <e><p><l>kabul<b/>et<s n="v"/></l><r>qəbul<b/>et<s n="v"/></r></p></e>
     <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
     <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
     <e><p><l>sonuçla<s n="v"/></l><r>tamamla<s n="v"/></r></p></e>
