@@ -22,17 +22,14 @@ LIST Post = postp ;
 LIST Pron = prn ;
 LIST CC = cnjcoo ;
 LIST CS = cnjsub ;
-LIST CA = cnjadv ;
 LIST Num = num ;
+LIST IJ = ij ;
 LIST NOT = not ;
 LIST NP = np ;
 LIST Plu = pl ;
 LIST Cm = cm ("," pnct);
 LIST Conju = cm ("," pnct)  (cnjcoo) ;
 
-LIST Cog = cog ; 
-
-LIST UPPER = ("[A-Z][A-Za-z]+"r) ;
 
 ## TYPE OF VERBS ##
 
@@ -329,13 +326,12 @@ SELECT Det if (0 A) (0 Num) (0 Det) (1 N) ;
     ## [0]bir orman now selects Det+Num
     
     
-SELECT A IF (0 A) (0 ABS) (NOT 0 Adv)  (1 N) (NOT 1 Ins) (NOT 1 Prop);
+SELECT A IF (0 A) (0 ABS) (NOT 0 Adv)  (1 N) (NOT 1 Ins) ;
 
      ## Rule 19
      ## This rule removes the reading of [0] as noun in case it has no INSTRUMENTAL CASE, which is used in turkish as
      ## conjunction sometimes
      ## [0]aynı anda ## Forms of the type Yeniyle Motosiklet are left <n> + <n>
-     ##  22 yaşındaki [0]Ana Tadiç de Super Galeb G4, Anja Krneta ise taarruz helikopteri Gazela'yı uçuruyor.
      
 SELECT Post IF (0 POST-ABL) (-1 Abl) ;
 SELECT Abl IF (1 POST-ABL) ;
@@ -438,8 +434,6 @@ SELECT Dat if (0 N) (1 POST-DAT) ;
  
 
 
-REMOVE A IF (0 A) (1 A) ;
-
 REMOVE A IF (0 A) (0 Det) (-1 A) (1 N) ;
 
 ## Siz çok iyi [0]bir doktorsunuz.
@@ -458,7 +452,9 @@ REMOVE Sg3 IF (NOT 0 FINITE) (0 Sg3) (1 Sg3) ;
     
 REMOVE PxSg2 IF (NOT -1 ("sen"i)) ;
 
-REMOVE PxSg1 IF (NOT -1 ("ben"i)) (NOT 1 ("lazım"i)) ;
+REMOVE PxSg1 IF (NOT -1 ("ben"i)) (NOT -2 ("ben"i)) (NOT 1 ("lazım"i)) ;
+
+REMOVE Det IF (1 (",")) ;
 
 REMOVE PxPl3 IF (NOT -1 Gen OR ABS) ;
 
@@ -471,6 +467,7 @@ REMOVE PxSg3 IF (NOT -1 Gen OR ABS OR BOS) ;
 ## since turkish has a construction of compound noun in the form of N+ABS
 
 
+REMOVE IJ if (NOT 1* ("!"));
 
 SELECT Det IF (0 ("bu"i)) (1C N) ;
 
@@ -514,34 +511,15 @@ SELECT Acc IF (-1 Abl) (0 ("bir"i)) ;
 SELECT A IF (0 Part) ;
 
 ## When we meet a participle, which has been lexicalized as Adjective as well, we select Adj
-## [0]geçen yıl 
+## [0]geçen yıl
+
+SELECT FINITE IF (1 EOS) ;
 
 
     
 
 
   
-SELECT Prop IF (-2C Prop) (-1 Conju) (0 Prop) ; 
+SELECT Prop (-2C Prop) (-1 Conju) (0 Prop) ; 
    ## Sandra, [0]Ana ve Anja'nın okula kabul edildiği 2007 yılından bu yana, başka hiçbir kadın okula girmeyi başaramadı.
 
-REMOVE Post IF (-1 Cm) ; 
-   ## Sandra, Ana ve Anja'nın okula kabul edildiği 2007 yılından bu yana, [0]başka hiçbir kadın okula girmeyi başaramadı.
-
-REMOVE CA IF (-1C N) (1C N);
-   ## Sandra, Ana [0]ve Anja'nın okula kabul edildiği 2007 yılından bu yana, başka hiçbir kadın okula girmeyi başaramadı.
-
-   # Should just be with (np ant) (np cog) style combinations
-REMOVE A IF (0 UPPER) (1C Prop);
-   ##  22 yaşındaki [0]Ana Tadiç de Super Galeb G4, Anja Krneta ise taarruz helikopteri Gazela'yı uçuruyor.
-SELECT Prop IF (0C N OR Prop) (0 UPPER) (1C Prop);
-   ##  22 yaşındaki [0]Ana Tadiç de Super Galeb G4, Anja Krneta ise taarruz helikopteri Gazela'yı uçuruyor.
-
-
-
-
-###############################################################################
-## Specific lexical heuristics
-###############################################################################
-
-SELECT ("kadın"i) (0 ("<kadının>"i)) (0C ("kadı"i) OR ("kadın"i)) ;
-   ##  Üç [0]kadının dışında, havacılık okulunun dördüncü sınıfında altı da erkek var.
