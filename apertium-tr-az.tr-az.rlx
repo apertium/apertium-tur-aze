@@ -47,6 +47,8 @@ LIST V/ABS = v ;
 
 LIST V/INT = v ;
 
+LIST V/Caus = caus ;
+
 # Intransitive Verbs
 
 LIST Exist = exist nexist ;
@@ -520,14 +522,14 @@ REMOVE Plu IF (0 Pron) ;
 ## Rule to remove pl reading from Pron [0]onlar
 ## Not really sure that onlar should be read as onlar 3p
 ## Check TRMORPH
-
-
-
-
-    
-
-
   
 SELECT Prop (-2C Prop) (-1 Conju) (0 Prop) ; 
    ## Sandra, [0]Ana ve Anja'nın okula kabul edildiği 2007 yılından bu yana, başka hiçbir kadın okula girmeyi başaramadı.
+
+
+REMOVE Acc (0 Acc OR PxSg3) (1C* Acc BARRIER CLB) (NOT 1* V/Caus BARRIER CLB) ;
+REMOVE Acc (0 Acc OR PxSg3) (-1C* Acc BARRIER CLB) (NOT 1* V/Caus BARRIER CLB) ;
+   ## [0]Yaşıtları daha araba kullanmayı yeni öğrenirken, Radovanoviç bir savaş uçağına 4.000m irtifada, 700km/sa hızla manevra yaptırıyor.
+   ## Yaşıtları daha araba kullanmayı [0]yeni öğrenirken, Radovanoviç bir savaş uçağına 4.000m irtifada, 700km/sa hızla manevra yaptırıyor.
+
 
