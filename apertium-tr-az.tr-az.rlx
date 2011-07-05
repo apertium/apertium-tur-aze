@@ -515,6 +515,14 @@ SELECT A IF (0 Part) ;
 
 SELECT FINITE IF (1 EOS) ;
 
+REMOVE Plu IF (0 Pron) ;
+
+## Rule to remove pl reading from Pron [0]onlar
+## Not really sure that onlar should be read as onlar 3p
+## Check TRMORPH
+
+
+
 
     
 
