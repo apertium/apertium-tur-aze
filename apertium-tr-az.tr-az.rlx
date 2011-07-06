@@ -547,3 +547,9 @@ SELECT Num IF (1 CA) (2 N) (3 V/SP) ;
 ## altı selects N now
 
 REMOVE Imper IF (NOT 1 EOS) ;
+
+SELECT ABS IF (-1 ("ve"i)) (-2 ABS) ;
+
+##Anne ve [0]babalar
+
+REMOVE Post IF (NOT -1 N) ;
