@@ -22,11 +22,13 @@ LIST Post = postp ;
 LIST Pron = prn ;
 LIST CC = cnjcoo ;
 LIST CS = cnjsub ;
+LIST CA = cnjadv ;
 LIST Num = num ;
 LIST IJ = ij ;
 LIST NOT = not ;
 LIST NP = np ;
 LIST Plu = pl ;
+LIST Neg = neg ;
 LIST Cm = cm ("," pnct);
 LIST Conju = cm ("," pnct)  (cnjcoo) ;
 
@@ -532,4 +534,16 @@ REMOVE Acc (0 Acc OR PxSg3) (-1C* Acc BARRIER CLB) (NOT 1* V/Caus BARRIER CLB) ;
    ## [0]Yaşıtları daha araba kullanmayı yeni öğrenirken, Radovanoviç bir savaş uçağına 4.000m irtifada, 700km/sa hızla manevra yaptırıyor.
    ## Yaşıtları daha araba kullanmayı [0]yeni öğrenirken, Radovanoviç bir savaş uçağına 4.000m irtifada, 700km/sa hızla manevra yaptırıyor.
 
+SELECT Adv IF (0 ("asla"i)) (1C Neg) ;
 
+## Asla means "never", if followed by a verb in a negative form, it is pretty safe to say that it is adv, and not as+la
+## [0]asla unutmayacağım
+
+SELECT ("kadın"i) ;
+
+SELECT Num IF (1 CA) (2 N) (3 V/SP) ;
+
+## [0]altı da erker var
+## altı selects N now
+
+REMOVE Imper IF (NOT 1 EOS) ;
