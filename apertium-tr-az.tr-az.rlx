@@ -99,6 +99,7 @@ LIST Part = part_yan ;
 LIST CV-MARKER = (cv) (cv_dik) (cv_acak) (cv_ma) (cv_mak) (cv_dan) (cv_zdan) (cv_ince) (cv_erek) (cv_erek) (cv_eli) (cv_ene) (cv_ir) (cv_ar) (cv_ecek) (cv_mis) (cv_iyor) (cv_cesine) (cv_ip);
 
 
+LIST Prc/acak = (part_acak) ;
 LIST VN/acak = (vn_acak) ;
 LIST VN/mak = (vn_mak) ;
 LIST VN/dik = (vn_dik) ;
@@ -553,3 +554,7 @@ SELECT ABS IF (-1 ("ve"i)) (-2 ABS) ;
 ##Anne ve [0]babalar
 
 REMOVE Post IF (NOT -1 N) ;
+
+REMOVE Prc/acak IF (NOT 0 ABS); 
+## "Yaptıkları her şeyi not ediyorum; bir arkadaşlık ilişkimiz var, onlar benim [0]gelecekteki çalışma arkadaşlarım." diyor.
+
