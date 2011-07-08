@@ -238,6 +238,9 @@ REMOVE Der/d_cak IF (0 Der/d_cak) ;
 REMOVE (v pass) IF (0 ("[a-z]+[aeiou]l"ri v) - (pass));
     ## Ancak genç pilot, kendisinin de gerildiğini itiraf ediyor.
 
+SELECT N IF (0C VN/acak OR N) ;
+    ## Yaptıkları her şeyi not ediyorum; bir arkadaşlık ilişkimiz var, onlar benim [0]gelecekteki çalışma arkadaşlarım." diyor.
+
 ###############################################################################
 ## NP internal
 ###############################################################################
