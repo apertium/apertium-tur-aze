@@ -52,6 +52,8 @@
     <!-- SECTION: Conjunctions -->
     <e><p><l>fakat<s n="cnjadv"/></l><r>lakin<s n="cnjadv"/></r></p></e> 
     <e><p><l>hem<s n="cnjcoo"/></l><r>həm<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ise<s n="cnjcoo"/></l><r>isə<s n="cnjcoo"/></r></p></e>
+
     <e><p><l>olarak<s n="cnjsub"/></l><r>olaraq<s n="cnjsub"/></r></p></e>  
     <e><p><l>ve<s n="cnjcoo"/></l><r>və<s n="cnjcoo"/></r></p></e> 
     <e><p><l>ve<s n="cnjadv"/></l><r>və<s n="cnjadv"/></r></p></e> 
@@ -123,6 +125,8 @@
 
     <!-- SECTION: Postpositions -->
 
+    <e><p><l>karşın<s n="postp"/></l><r>ziddinə<s n="postp"/></r></p></e>
+    <e><p><l>bu<b/>yana<s n="postp"/></l><r>sonra<s n="postp"/></r></p></e>
 
     <e><p><l>aşağı<s n="postp"/></l><r>aşağı<s n="postp"/></r></p></e>
     <e><p><l>boyunca<s n="postp"/></l><r>boyunca<s n="postp"/></r></p></e>
@@ -1568,8 +1572,8 @@
     <e><p><l>kurul</l><r>hey'ət</r></p><par n="nominal"/></e>
     <e><p><l>kurum</l><r>gurum</r></p><par n="nominal"/></e>
     <e><p><l>kuşak</l><r>gurşag</r></p><par n="nominal"/></e>
-    <e><p><l>kuş</l><r>guş</r></p><par n="nominal"/></e>
-    <e><p><l>kuşku</l><r>narahatlıg</r></p><par n="nominal"/></e>
+    <e><p><l>kuş</l><r>quş</r></p><par n="nominal"/></e>
+    <e><p><l>kuşku</l><r>narahatlıq</r></p><par n="nominal"/></e>
     <e><p><l>kusur</l><r>xüsur</r></p><par n="nominal"/></e>
     <e><p><l>kütle</l><r>kütlə</r></p><par n="nominal"/></e>
     <e><p><l>kutu</l><r>gutu</r></p><par n="nominal"/></e>
@@ -5223,6 +5227,8 @@
     <e><p><l>motivasyonlu</l><r>motivasiyalı</r></p><par n="nominal"/></e>
     <e><p><l>hazırlıklı</l><r>hazırlıqlı</r></p><par n="nominal"/></e>
     <e><p><l>yıllık</l><r>illik</r></p><par n="nominal"/></e>
+    <e><p><l>uçuş</l><r>uçuş</r></p><par n="nominal"/></e>
+    <e><p><l>geçememe</l><r>geçememe</r></p><par n="nominal"/></e>
 
 
 
@@ -5287,6 +5293,9 @@
   
 
     <!-- SECTION: Proper nouns -->
+
+
+    <e><p><l>Super<b/>Galeb<s n="np"/></l><r>Super<b/>Galeb<s n="np"/></r></p></e> <!-- Nom.sg -->
 
     <e><p><l>Soner<s n="np"/></l><r>Soner<s n="np"/></r></p></e> <!-- Nom.sg -->
     <e><p><l>Yalçın<s n="np"/></l><r>Yalçın<s n="np"/></r></p></e> <!-- Cog.sg -->
@@ -5496,6 +5505,8 @@
 
 
     <!-- SECTION: Adverbs -->
+
+    <e><p><l>yeni<s n="adv"/></l><r>yeni<s n="adv"/></r></p></e>
 
     <e><p><l>yarın<s n="adv"/></l><r>yarın<s n="adv"/></r></p></e>
     <e><p><l>çok<s n="adv"/></l><r>çox<s n="adv"/></r></p></e>
@@ -6221,6 +6232,8 @@
     <e><p><l>kabul<b/>et<s n="v"/></l><r>qəbul<b/>et<s n="v"/></r></p></e>
     <e><p><l>manevra<b/>yap<s n="v"/></l><r>manevr<b/>et<s n="v"/></r></p></e>
     <e><p><l>itiraf<b/>et<s n="v"/></l><r>etiraf<b/>et<s n="v"/></r></p></e>
+    <e><p><l>pasta<b/>yap<s n="v"/></l><r>turt<b/>et<s n="v"/></r></p></e>
+    <e><p><l>umut<b/>et<s n="v"/></l><r>ümid<b/>et<s n="v"/></r></p></e>
 
 
 

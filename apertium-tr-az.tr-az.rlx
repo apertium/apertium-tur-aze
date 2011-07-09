@@ -11,7 +11,9 @@ SOFT-DELIMITERS = "<,>" ;
 LIST BOS = (>>>) ; # Beginning of sentence
 LIST EOS = (<<<) ; # End of sentence
 
-LIST N = n np ;
+LIST N = n ;
+LIST NP = np ;
+LIST N-ALL = (n) (np) ;
 LIST V = (v) (exist) (nexist) (not) ;
 LIST V/SP = (exist) (nexist) ;
 LIST A = adj ;
@@ -96,7 +98,7 @@ LIST Poss = (p1s) (p2s) (p3s) (p1p) (p2p) (p3p) ;
 LIST Imper = (t_imp) ;
 LIST Part = part_yan ;
 
-LIST CV-MARKER = (cv) (cv_dik) (cv_acak) (cv_ma) (cv_mak) (cv_dan) (cv_zdan) (cv_ince) (cv_erek) (cv_erek) (cv_eli) (cv_ene) (cv_ir) (cv_ar) (cv_ecek) (cv_mis) (cv_iyor) (cv_cesine) (cv_ip);
+LIST CV-MARKER = (cv) (cv_dik) (cv_acak) (cv_ma) (cv_mak) (cv_dan) (cv_zdan) (cv_ince)  (cv_eli) (cv_ene) (cv_ir) (cv_ar) (cv_ecek) (cv_mis) (cv_iyor) (cv_cesine) (cv_ip);
 
 
 LIST Prc/acak = (part_acak) ;
@@ -334,12 +336,15 @@ SELECT Det if (0 A) (0 Num) (0 Det) (1 N) ;
     ## [0]bir orman now selects Det+Num
     
     
-SELECT A IF (0 A) (0 ABS) (NOT 0 Adv)  (1 N) (NOT 1 Ins) ;
+REMOVE N IF (0 A) (0 ABS) (NOT 0 Adv)  (1 N) (NOT 1 Ins) (NOT 1 NP);
 
      ## Rule 19
      ## This rule removes the reading of [0] as noun in case it has no INSTRUMENTAL CASE, which is used in turkish as
      ## conjunction sometimes
      ## [0]aynı anda ## Forms of the type Yeniyle Motosiklet are left <n> + <n>
+     
+
+
      
 SELECT Post IF (0 POST-ABL) (-1 Abl) ;
 SELECT Abl IF (1 POST-ABL) ;
@@ -386,7 +391,8 @@ SELECT Num if (0 N) (1C A) (2C N) ;
  ## Bu [0]dokuz genç pilotun ...
 
 
-SELECT Adv IF (0 ("en"i)) (1 A OR Adv) ; 
+SELECT Adv IF (0 ("en"i)) (1 A OR Adv) ;
+SELECT Adv IF (0 ("en"i)) (-1 Gen)  ;
     
     ## Rule 21 
     ## This rule selects <adv> for "en" in case it is followed by an adjective
