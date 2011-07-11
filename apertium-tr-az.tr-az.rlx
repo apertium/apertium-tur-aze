@@ -172,6 +172,7 @@ SECTION
 
 
 REMOVE Imper IF (0 N) ;
+REMOVE Imper IF (0 ("değil"i)) ;
 
 ###############################################################################
 ## Remove redundant derivations 
@@ -505,6 +506,7 @@ REMOVE A IF (1 V) ;
 REMOVE Imper IF (1 FINITE) ;
 
 ## Removes Imperative if followed by a finite verb
+
 
 SELECT FINITE IF (0 N) (1 EOS) (NOT -1* FINITE BARRIER CLB);
 
