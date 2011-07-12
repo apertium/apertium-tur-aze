@@ -1197,7 +1197,7 @@
     <e><p><l>ilçe</l><r>rayon</r></p><par n="nominal"/></e> 
     <e><p><l>iletişim</l><r>rabitə</r></p><par n="nominal"/></e>
     <!--<e><p><l>iletişim</l><r>ünsiyyət</r></p><par n="nominal"/></e>-->
-    <e><p><l>ilgi</l><r>əlaxə</r></p><par n="nominal"/></e> 
+    <e><p><l>ilgi</l><r>maraq</r></p><par n="nominal"/></e> 
     <e><p><l>ilginç</l><r>maraglı</r></p><par n="nominal"/></e> 
     <e><p><l>ilhak</l><r>ilhag</r></p><par n="nominal"/></e> 
     <e><p><l>ilham</l><r>ilham</r></p><par n="nominal"/></e>
@@ -3029,7 +3029,7 @@
     <e><p><l>ali</l><r>ali</r></p><par n="nominal"/></e>
     <e><p><l>çıkar</l><r>çıxar</r></p><par n="nominal"/></e>
     <e><p><l>blok</l><r>blok</r></p><par n="nominal"/></e>
-    <e><p><l>kimlik</l><r>şəxsiyyət</r></p><par n="nominal"/></e>
+    <e><p><l>kimlik</l><r>adamlıq</r></p><par n="nominal"/></e>
     <e><p><l>yükümlülük</l><r>öhdəçilik</r></p><par n="nominal"/></e>
     <e><p><l>araştırma</l><r>araşdırma</r></p><par n="nominal"/></e>
     <e><p><l>büyükelçilik</l><r>səfirlik</r></p><par n="nominal"/></e>
@@ -5231,17 +5231,7 @@
     <e><p><l>geçememe</l><r>geçememe</r></p><par n="nominal"/></e>
     <e><p><l>bilim</l><r>elm</r></p><par n="nominal"/></e>
     <e><p><l>karayol</l><r>avtostrada</r></p><par n="nominal"/></e>
-    <e><p><l>geçememe</l><r>geçememe</r></p><par n="nominal"/></e>
-    <e><p><l>geçememe</l><r>geçememe</r></p><par n="nominal"/></e>
-    <e><p><l>geçememe</l><r>geçememe</r></p><par n="nominal"/></e>
-    <e><p><l>geçememe</l><r>geçememe</r></p><par n="nominal"/></e>
-    <e><p><l>geçememe</l><r>geçememe</r></p><par n="nominal"/></e>
-    <e><p><l>geçememe</l><r>geçememe</r></p><par n="nominal"/></e>
-    <e><p><l>geçememe</l><r>geçememe</r></p><par n="nominal"/></e>
-    <e><p><l>geçememe</l><r>geçememe</r></p><par n="nominal"/></e>
-    <e><p><l>geçememe</l><r>geçememe</r></p><par n="nominal"/></e>
-    <e><p><l>geçememe</l><r>geçememe</r></p><par n="nominal"/></e>
-    <e><p><l>geçememe</l><r>geçememe</r></p><par n="nominal"/></e>
+  
 
 
 
@@ -5298,7 +5288,7 @@
     <e><p><l>sigara<s n="n"/></l><r>papiros<s n="n"/></r></p></e>
     <e><p><l>şura<s n="n"/></l><r>şura<s n="n"/></r></p></e>
     <e><p><l>vakıa<s n="n"/></l><r>vaqiə<s n="n"/></r></p></e>
-    <e><p><l>zorlanma<s n="n"/></l><r>çətinlik<b/>məcbur<b/>edilmə<s n="n"/></r></p></e>
+    <e><p><l>zorlanma<s n="n"/></l><r>çətinlik<b/>çək<s n="n"/></r></p></e>
     <e><p><l>arkadaşlık<s n="n"/></l><r>yoldaşlıq<s n="n"/></r></p></e>
     <e><p><l>kontenjan<s n="n"/></l><r>kontingent<s n="n"/></r></p></e>
 
@@ -5809,7 +5799,7 @@
 
 
     <e><p><l>taşı<s n="v"/></l><r>daşı<s n="v"/></r></p></e>
-    <e><p><l>kaydol<s n="v"/></l><r>kaydol<s n="v"/></r></p></e>
+    <e><p><l>kaydol<s n="v"/></l><r>qeydol<s n="v"/></r></p></e>
     <e><p><l>karşılaş<s n="v"/></l><r>qarşılaş<s n="v"/></r></p></e>
 
     <e><p><l>düşün<s n="v"/></l><r>düşün<s n="v"/></r></p></e>
