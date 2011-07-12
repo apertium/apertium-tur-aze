@@ -19,6 +19,8 @@ dev/disambiguation_rules.txt -text
 dev/extract-translations.sh -text
 dev/generation-summary.tr-az.txt -text
 dev/generation-test.tr-az.sh -text
+dev/midterm/article.az.txt -text
+dev/midterm/article.tr.txt -text
 dev/missing-bidix-freq.sh -text
 dev/trans0200 -text
 dev/trans0400 -text
@@ -31,8 +33,6 @@ dev/verbs1300 -text
 dev/verbs1800 -text
 dev/verbs2200 -text
 dev/verbs2492 -text
-midterm/article.az.txt -text
-midterm/article.tr.txt -text
 /modes.xml -text
 /pending-tests.sh -text
 /regression-tests.sh -text
