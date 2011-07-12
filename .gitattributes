@@ -20,6 +20,7 @@ dev/extract-translations.sh -text
 dev/generation-summary.tr-az.txt -text
 dev/generation-test.tr-az.sh -text
 dev/midterm/article.az.txt -text
+dev/midterm/article.tr-az.2011-07-12.txt -text
 dev/midterm/article.tr.txt -text
 dev/missing-bidix-freq.sh -text
 dev/trans0200 -text
