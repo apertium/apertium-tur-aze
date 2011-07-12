@@ -4,6 +4,7 @@
 /apertium-tr-az.tr-az.dix -text
 /apertium-tr-az.tr-az.rlx -text
 /apertium-tr-az.tr-az.t1x -text
+/article -text
 dev/bidix/pending_adjectives.txt -text
 dev/bidix/pending_adverbs.txt -text
 dev/bidix/pending_conjunctions.txt -text
