@@ -4,7 +4,6 @@
 /apertium-tr-az.tr-az.dix -text
 /apertium-tr-az.tr-az.rlx -text
 /apertium-tr-az.tr-az.t1x -text
-/article -text
 dev/bidix/pending_adjectives.txt -text
 dev/bidix/pending_adverbs.txt -text
 dev/bidix/pending_conjunctions.txt -text
@@ -32,6 +31,8 @@ dev/verbs1300 -text
 dev/verbs1800 -text
 dev/verbs2200 -text
 dev/verbs2492 -text
+midterm/article.az.txt -text
+midterm/article.tr.txt -text
 /modes.xml -text
 /pending-tests.sh -text
 /regression-tests.sh -text
