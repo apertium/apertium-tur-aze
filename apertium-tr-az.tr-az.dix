@@ -400,7 +400,7 @@
     <e><p><l>antika</l><r>əntiğə</r></p><par n="nominal"/></e>
     <e><p><l>apartman</l><r>çoh</r></p><par n="nominal"/></e>
     <e><p><l>aptal</l><r>abdal</r></p><par n="nominal"/></e>
-    <e><p><l>araba</l><r>araba</r></p><par n="nominal"/></e>
+    <e><p><l>araba</l><r>maşın</r></p><par n="nominal"/></e>
     <e><p><l>araç</l><r>vasitə</r></p><par n="nominal"/></e>
     <e><p><l>ara</l><r>ara</r></p><par n="nominal"/></e>
     <e><p><l>arazi</l><r>ərazi</r></p><par n="nominal"/></e>
@@ -845,7 +845,7 @@
     <e><p><l>erdem</l><r>fəzilət</r></p><par n="nominal"/></e>  
     <e><p><l>er</l><r>mərd</r></p><par n="nominal"/></e>  
     <e><p><l>erik</l><r>alça</r></p><par n="nominal"/></e>  
-    <e><p><l>erkek</l><r>erkək</r></p><par n="nominal"/></e>  
+    <e><p><l>erkek</l><r>kişi</r></p><par n="nominal"/></e>  
     <e><p><l>erzak</l><r>ərzag</r></p><par n="nominal"/></e>  
     <e><p><l>esans</l><r>ətir</r></p><par n="nominal"/></e>  
     <e><p><l>eşek</l><r>eşşək</r></p><par n="nominal"/></e>  
@@ -6247,7 +6247,7 @@
     <e><p><l>'<s n="pnct"/></l><r>'<s n="pnct"/></r></p></e>
     <e><re>%?[0-9]+([.,][0-9]+)?[.,]?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>%?[0-9]+([.,][0-9]+)?([.,][0-9]+)?([.,]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>[.\?;:!"]</re><p><l><s n="pnct"/></l><r><s n="pnct"/></r></p></e>
+    <e><re>[.\?;:!]</re><p><l><s n="pnct"/></l><r><s n="pnct"/></r></p></e>
 
  </section>  
 </dictionary>
