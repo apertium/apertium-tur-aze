@@ -145,6 +145,8 @@ LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i p
 LIST POST-TEM = ("sırasında" N PxSg3 loc *3s) ;
 LIST POST-MAK = ("için" postp) ;
 
+
+
 LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist exist cpl_di cpl_mis ;
 
 SET FINITE-NOSUB = FINITE - CP/ken ;
