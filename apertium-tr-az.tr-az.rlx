@@ -3,7 +3,18 @@
 #	A Constraint Grammar Disambiguator for Turkish
 #
 #
-#
+################################################################################
+
+###=============================================================================###
+#                           TABLE OF CONTENTS                                   ###
+###################################################################################
+
+
+
+
+
+## DELIMITERS##
+## These delimiters will be useful later on ##
 
 DELIMITERS = "<.>" "<!>" "<?>" ;
 SOFT-DELIMITERS = "<,>" ;
@@ -11,11 +22,27 @@ SOFT-DELIMITERS = "<,>" ;
 LIST BOS = (>>>) ; # Beginning of sentence
 LIST EOS = (<<<) ; # End of sentence
 
+### POS ###
+
+
 LIST N = n ;
 LIST NP = np ;
+## We handle NP separately cause NP has some particularities in turkish ##
+
 LIST N-ALL = (n) (np) ;
+
+## This is for when we don't care if it is either N or NP
+
 LIST V = (v) (exist) (nexist) (not) ;
+
+## Exist, nexist and not are rispectively var/yok/değil. They take the place of verbs.
+
+
 LIST V/SP = (exist) (nexist) ;
+
+## Category to handle var and yok
+
+
 LIST A = adj ;
 LIST Adv = adv ;
 LIST Prop = np ;
@@ -32,8 +59,10 @@ LIST NP = np ;
 LIST Plu = pl ;
 LIST Neg = neg ;
 LIST Cm = cm ("," pnct);
+
 LIST Conju = cm ("," pnct)  (cnjcoo) ;
 
+##THIS IS USEFUL FOR ENUMERATION (ex. Gianluca, Francis and Jonathan drink too much beer)
 
 ## TYPE OF VERBS ##
 
@@ -51,18 +80,22 @@ LIST V/ABS = v ;
 
 LIST V/INT = v ;
 
+## Intransitive verbs
+
 LIST V/Caus = caus ;
 
-# Intransitive Verbs
+## Verbs in the causative form 
 
 LIST Exist = exist nexist ;
 
+## Same as V/SP, do we really need this?
 
 
 LIST PrPers = (prn pers) ;
 
 
 
+## CASES
 
 LIST Acc = (acc) ;
 LIST Dat = (dat) ;
@@ -75,6 +108,10 @@ LIST MARKED-Cases = (acc dat gen ins abl loc) ;
 
 SET Abs = N - MARKED-Cases ;
 
+##Nouns in their pure form
+
+
+##PRESENT COPULA MARKERS
 
 LIST Sg1 = (1s) ;
 LIST Sg2 = (2s) ;
@@ -85,6 +122,8 @@ LIST Pl3 = (3p) ;
 
 LIST Be = (1s 2s 3s 1p 2p 3p) ;
 
+## Possessives
+
 LIST PxSg1 = (p1s) ;
 LIST PxSg2 = (p2s) ;
 LIST PxSg3 = (p3s) ;
@@ -94,14 +133,19 @@ LIST PxPl3 = (p3p) ;
 
 LIST Poss = (p1s) (p2s) (p3s) (p1p) (p2p) (p3p) ;
 
+## Verbal moods 
  
 LIST Imper = (t_imp) ;
 LIST Part = part_yan ;
 
+LIST Prc/acak = (part_acak) ;
+
+## CONVERBS
+
 LIST CV-MARKER = (cv) (cv_dik) (cv_acak) (cv_ma) (cv_mak) (cv_dan) (cv_zdan) (cv_ince)  (cv_eli) (cv_ene) (cv_ir) (cv_ar) (cv_ecek) (cv_mis) (cv_iyor) (cv_cesine) (cv_ip);
 
+## VERBAL NOUNS
 
-LIST Prc/acak = (part_acak) ;
 LIST VN/acak = (vn_acak) ;
 LIST VN/mak = (vn_mak) ;
 LIST VN/dik = (vn_dik) ;
@@ -111,6 +155,8 @@ LIST VN/yis = (vn_yis) ;
 LIST CP/ken = (v cpl_ken) ;
 LIST CV/mak = (cv_mak) ;
 
+
+##DERIVATIVES
 
 LIST Der/0/Adv→N = (adv Dan_0 n) ;
 LIST Der/0/A→N = (adj Djn_0 n) ;
@@ -138,6 +184,8 @@ LIST Der/npci  = (np d_ci n) ;
 LIST A/Der0/n = (adj Djn_0 n) ;
 LIST NP/D_CI/adj = (np D_CI adj) ;
 
+
+## 
 
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ("için"i postp) ;
 LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
