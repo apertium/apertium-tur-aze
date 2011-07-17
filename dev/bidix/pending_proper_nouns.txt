@@ -1,29 +1,28 @@
-  10069 ^@Sırp<np>$
-   7952 ^@Makedonya<np>$
-   7612 ^@Arnavutluk<np>$
-   4774 ^@Türk<np>$
+  10045 ^@Sırp<np>$
+   7909 ^@Makedonya<np>$
+   7381 ^@Arnavutluk<np>$
+   4612 ^@Türk<np>$
    4572 ^@AB<np><apos>$
-   4035 ^@Hırvat<np>$
-   2983 ^@Bulgar<np>$
-   2570 ^@Makedon<np>$
+   4019 ^@Hırvat<np>$
+   2855 ^@Bulgar<np>$
+   2356 ^@Makedon<np>$
    2116 ^@Bosnalı<np>$
    1782 ^@SARAYBOSNA<np>$
-   1665 ^@Lahey<np>$
-   1607 ^@Atina<np>$
-   1519 ^@Saraybosna<np>$
-   1262 ^@Anadolu<np>$
+   1664 ^@Lahey<np>$
+   1563 ^@Atina<np>$
+   1518 ^@Saraybosna<np>$
    1258 ^@Rum<np>$
    1237 ^@Almanya<np>$
-   1221 ^@Rumen<np>$
-   1171 ^@Romen<np>$
+   1218 ^@Rumen<np>$
+   1128 ^@Romen<np>$
    1077 ^@İtalya<np>$
-   1064 ^@Boris<np>$
-   1040 ^@İngiltere<np>$
-   1003 ^@Washington<np>$
+   1063 ^@Boris<np>$
+   1039 ^@İngiltere<np>$
+    965 ^@Washington<np>$
     939 ^@İstanbul<np>$
     877 ^@Atlantik<np>$
     822 ^@Balkanlar<np>$
-    783 ^@IMF<np>$
+    761 ^@IMF<np>$
     757 ^@Müslüman<np>$
     645 ^@Yugoslav<np>$
     635 ^@Abdullah<np>$
@@ -31,8 +30,8 @@
     581 ^@Rus<np>$
     573 ^@Bush<np>$
     561 ^@Annan<np>$
-    559 ^@Boşnak<np>$
     559 ^@Aralık<np>$
+    558 ^@Boşnak<np>$
     539 ^@Ocak<np>$
     524 ^@Nisan<np>$
     518 ^@Adriyatik<np>$
@@ -47,19 +46,19 @@
     438 ^@Lahey<np><ki>$
     422 ^@AB<np>$
     409 ^@Viyana<np>$
-    401 ^@Talat<np>$
+    400 ^@Talat<np>$
     399 ^@Kasım<np>$
     385 ^@Balkanlar<np><ki>$
     367 ^@Ortodoks<np>$
     339 ^@İspanya<np>$
     329 ^@Karadeniz<np>$
-    322 ^@Arnavutluk<np><ki>$
-    313 ^@WASHINGTON<np>$
-    307 ^@Mehmet<np>$
-    303 ^@Macar<np>$
+    321 ^@Arnavutluk<np><ki>$
+    312 ^@WASHINGTON<np>$
+    306 ^@Mehmet<np>$
+    302 ^@Macar<np>$
     289 ^@Eylül<np>$
     286 ^@İran<np>$
-    282 ^@Sloven<np>$
+    281 ^@Sloven<np>$
     280 ^@Sezer<np>$
     255 ^@Üniversitesi<np>$
     252 ^@Mostar<np>$
@@ -83,12 +82,12 @@
     170 ^@Richard<np>$
     170 ^@İbrahim<np>$
     168 ^@İstanbul<np><ki>$
-    166 ^@Mina<np>$
     162 ^@İSTANBUL<np>$
     156 ^@Saraybosna<np><ki>$
     156 ^@İslami<np>$
     144 ^@Filistinli<np>$
     142 ^@İspanyol<np>$
+    142 ^@Anadolu<np>$
     141 ^@Yunanlı<np>$
     137 ^@Noel<np>$
     137 ^@Atina<np><ki>$
@@ -107,7 +106,7 @@
     111 ^@Alexander<np>$
     110 ^@Schröder<np>$
     109 ^@Microsoft<np>$
-    107 ^@Jacques<np>$
+    106 ^@Jacques<np>$
     104 ^@Osmanlı<np>$
     104 ^@Diyarbakır<np>$
     101 ^@Van<np>$
@@ -118,7 +117,6 @@
      85 ^@İzmir<np>$
      84 ^@Suudi<np>$
      83 ^@Nobel<np>$
-     81 ^@MINA<np>$
      81 ^@İngilizce<np>$
      78 ^@Hüseyin<np>$
      76 ^@Ayhan<np>$
@@ -186,13 +184,13 @@
      40 ^@Fiat<np>$
      39 ^@Fin<np>$
      39 ^@Danimarkalı<np>$
-     39 ^@Balkan<np>$
      39 ^@Abdülkadir<np>$
      38 ^@Talabani<np>$
      38 ^@Sırpça<np>$
      38 ^@Şener<np>$
      38 ^@Doğu<np>$
      38 ^@Çavuşesku<np>$
+     38 ^@Balkan<np>$
      38 ^@Ahmed<np>$
      37 ^@Siirt<np>$
      37 ^@Saray<np>$
@@ -217,11 +215,11 @@
      31 ^@Bingöl<np>$
      30 ^@Salih<np>$
      30 ^@Latin<np>$
-     30 ^@İliç<np>$
      30 ^@Erdi<np>$
      30 ^@Danıştay<np>$
      30 ^@Almanya<np><ki>$
      29 ^@Yalçınkaya<np>$
+     29 ^@İliç<np>$
      29 ^@Adriyatik<np><ki>$
      28 ^@Ford<np>$
      27 ^@Ömer<np>$
@@ -251,7 +249,6 @@
      22 ^@Selmani<np>$
      22 ^@Renault<np>$
      22 ^@Esad<np>$
-     22 ^@Doğan<np>$
      22 ^@Bekir<np>$
      22 ^@Abdurrahman<np>$
      21 ^@Siemens<np>$
@@ -304,7 +301,6 @@
      17 ^@Molotof<np>$
      17 ^@Maksim<np>$
      17 ^@Işık<np>$
-     17 ^@Fırat<np>$
      17 ^@Enes<np>$
      17 ^@Abdüllatif<np>$
      16 ^@Yasin<np>$
@@ -313,10 +309,10 @@
      16 ^@Roma<np><ki>$
      16 ^@Perşembe<np>$
      16 ^@Ordu<np>$
+     16 ^@Fırat<np>$
      16 ^@Edirne<np>$
      16 ^@Binali<np>$
      16 ^@Askeri<np>$
-     16 ^@ANKA<np>$
      15 ^@Taliban<np>$
      15 ^@Şemdinli<np>$
      15 ^@Erzurum<np>$
@@ -325,7 +321,6 @@
      14 ^@Mehmed<np>$
      14 ^@KALKANDERE<np>$
      14 ^@Kahire<np>$
-     14 ^@Hürriyet<np>$
      14 ^@Erbakan<np>$
      14 ^@Çanakkale<np>$
      14 ^@Beşir<np>$
@@ -352,6 +347,7 @@
      13 ^@Ertuğrul<np>$
      13 ^@Ekrem<np>$
      13 ^@Doğu<np><ki>$
+     13 ^@Doğan<np>$
      13 ^@Cenevre<np><ki>$
      13 ^@Cem<np>$
      12 ^@Şili<np>$
@@ -365,7 +361,6 @@
      12 ^@Çeçen<np>$
      12 ^@Caddesi<np>$
      12 ^@Bora<np>$
-     12 ^@Beta<np>$
      12 ^@Avni<np>$
      11 ^@Zürih<np>$
      11 ^@Vardar<np>$
@@ -438,7 +433,6 @@
       9 ^@Ethem<np>$
       9 ^@Ermenice<np>$
       9 ^@Çiçek<np>$
-      9 ^@Anka<np>$
       9 ^@Anadolu<np><ki>$
       8 ^@YSK<np>$
       8 ^@Türkmen<np>$
@@ -456,7 +450,6 @@
       8 ^@İskoçya<np>$
       8 ^@İskoç<np>$
       8 ^@İncil<np>$
-      8 ^@Habertürk<np>$
       8 ^@Galatasaray<np>$
       8 ^@Ersöz<np>$
       8 ^@Erdal<np>$
@@ -529,6 +522,7 @@
       6 ^@Pazar<np><ki>$
       6 ^@Öz<np>$
       6 ^@Öymen<np>$
+      6 ^@MINA<np>$
       6 ^@Mesud<np>$
       6 ^@Meryem<np>$
       6 ^@Manchester<np>$
@@ -587,11 +581,11 @@
       5 ^@Kuran<np>$
       5 ^@Körfez<np>$
       5 ^@KONYA<np>$
-      5 ^@Katimerini<np>$
       5 ^@İrfan<np>$
       5 ^@İmam<np>$
       5 ^@İmad<np>$
       5 ^@Ilıca<np>$
+      5 ^@Hürriyet<np>$
       5 ^@Harun<np>$
       5 ^@Güneş<np>$
       5 ^@Fevzi<np>$
@@ -607,6 +601,7 @@
       5 ^@Çankaya<np>$
       5 ^@Cafer<np>$
       5 ^@Bor<np>$
+      5 ^@Beta<np>$
       5 ^@Beşiktaş<np>$
       5 ^@Behçet<np>$
       5 ^@Başbuğ<np>$
@@ -623,10 +618,8 @@
       4 ^@Washington<np><apos>$
       4 ^@Ümraniye<np>$
       4 ^@Ulaş<np><cpl_di>$
-      4 ^@Turan<np>$
       4 ^@Tuncel<np>$
       4 ^@Truva<np>$
-      4 ^@Tipos<np>$
       4 ^@Tahir<np>$
       4 ^@Suad<np>$
       4 ^@Selahattin<np>$
@@ -642,6 +635,7 @@
       4 ^@Özbek<np>$
       4 ^@Nehri<np><ki>$
       4 ^@Münih<np><ki>$
+      4 ^@Mina<np>$
       4 ^@Madonna<np>$
       4 ^@Macarca<np>$
       4 ^@Kuveyt<np><ki>$
@@ -663,7 +657,6 @@
       4 ^@Hikmet<np>$
       4 ^@Hamit<np>$
       4 ^@Hamdi<np>$
-      4 ^@Haluk<np>$
       4 ^@Hacettepe<np>$
       4 ^@Habur<np>$
       4 ^@Güldal<np>$
@@ -687,6 +680,7 @@
       4 ^@Bağcılar<np>$
       4 ^@Asena<np>$
       4 ^@Artuç<np>$
+      4 ^@Anka<np>$
       4 ^@Amr<np>$
       4 ^@Ali<np>$
       4 ^@Algan<np>$
@@ -709,6 +703,7 @@
       3 ^@Tut<np>$
       3 ^@Türkolog<np>$
       3 ^@Turcan<np>$
+      3 ^@Turan<np>$
       3 ^@Tuncer<np>$
       3 ^@Tülay<np>$
       3 ^@Topkapı<np>$
@@ -770,6 +765,7 @@
       3 ^@Hatay<np>$
       3 ^@Hasankeyf<np>$
       3 ^@Harris<np>$
+      3 ^@Haluk<np>$
       3 ^@Güce<np>$
       3 ^@Furkan<np>$
       3 ^@François<np>$
@@ -881,7 +877,6 @@
       2 ^@Şahin<np>$
       2 ^@Sadri<np>$
       2 ^@Sadak<np>$
-      2 ^@Sabah<np>$
       2 ^@Sabahattin<np>$
       2 ^@Rus<np><cpl_di>$
       2 ^@Rönesans<np>$
@@ -895,7 +890,6 @@
       2 ^@Philips<np>$
       2 ^@Petrosyan<np>$
       2 ^@Pamukbank<np>$
-      2 ^@ORF<np>$
       2 ^@Onural<np>$
       2 ^@Önal<np>$
       2 ^@Ömerli<np>$
@@ -974,7 +968,6 @@
       2 ^@Erkan<np>$
       2 ^@Ereğli<np>$
       2 ^@Emri<np>$
-      2 ^@Elefteros<np>$
       2 ^@Egebank<np>$
       2 ^@Ediz<np>$
       2 ^@Edirne<np><ki>$
@@ -1091,6 +1084,7 @@
       1 ^@Tokat<np>$
       1 ^@TOFAŞ<np>$
       1 ^@Tofaş<np>$
+      1 ^@Tipos<np>$
       1 ^@TIM<np>$
       1 ^@Tevhid<np>$
       1 ^@Tercan<np>$
@@ -1158,6 +1152,7 @@
       1 ^@Şadiye<np>$
       1 ^@Sabriye<np>$
       1 ^@Şaban<np>$
+      1 ^@Sabah<np>$
       1 ^@Saadet<np>$
       1 ^@Saab<np>$
       1 ^@Rumca<np>$
@@ -1189,6 +1184,7 @@
       1 ^@Otosan<np>$
       1 ^@Osmaniye<np>$
       1 ^@Osmangazi<np><ki>$
+      1 ^@ORF<np>$
       1 ^@Opet<np>$
       1 ^@Öner<np>$
       1 ^@Oktar<np>$
@@ -1373,6 +1369,7 @@
       1 ^@Hakkari<np><ki>$
       1 ^@HABUR<np>$
       1 ^@Hablemitoğlu<np>$
+      1 ^@Habertürk<np>$
       1 ^@Gürün<np>$
       1 ^@Gürtuna<np>$
       1 ^@Gürpınar<np>$
@@ -1421,7 +1418,6 @@
       1 ^@Fahd<np>$
       1 ^@Eyfel<np>$
       1 ^@Evren<np>$
-      1 ^@Etnos<np>$
       1 ^@Eşref<np>$
       1 ^@Esma<np>$
       1 ^@Eskişehir<np><ki>$
@@ -1441,6 +1437,7 @@
       1 ^@Engels<np>$
       1 ^@Eminönü<np>$
       1 ^@Eliasson<np>$
+      1 ^@Elefteros<np>$
       1 ^@Ela<np>$
       1 ^@Eğridir<np><ki>$
       1 ^@Eğil<np>$
@@ -1475,7 +1472,6 @@
       1 ^@Ciner<np>$
       1 ^@Çiller<np>$
       1 ^@Çilingiroğlu<np>$
-      1 ^@Cihan<np>$
       1 ^@Cezmi<np>$
       1 ^@CEYHAN<np>$
       1 ^@Çevrim<np>$
@@ -1522,7 +1518,6 @@
       1 ^@Bahattin<np>$
       1 ^@Bahai<np>$
       1 ^@Babadağ<np>$
-      1 ^@Azer<np>$
       1 ^@Ayvalık<np>$
       1 ^@Aytaç<np>$
       1 ^@Ayşegül<np>$

@@ -357,7 +357,6 @@
       3 kabar<v><t_imp><2s>
       3 ısla<v><t_imp><2s>
       3 ısır<v><t_imp><2s>
-      3 incit<v><t_imp><2s>
       3 haykır<v><t_imp><2s>
       3 harmanla<v><t_imp><2s>
       3 gücen<v><t_imp><2s>
@@ -411,6 +410,7 @@
       2 karşıtla<v><t_imp><2s>
       2 kapış<v><t_imp><2s>
       2 ışıklan<v><t_imp><2s>
+      2 incit<v><t_imp><2s>
       2 imren<v><t_imp><2s>
       2 heyecanlan<v><t_imp><2s>
       2 hayda<v><t_imp><2s>
@@ -581,7 +581,6 @@
       1 çap<v><t_imp><2s>
       1 büyükse<v><t_imp><2s>
       1 bütünle<v><t_imp><2s>
-      1 bur<v><t_imp><2s>
       1 buda<v><t_imp><2s>
       1 beze<v><t_imp><2s>
       1 benzeş<v><t_imp><2s>
