@@ -42,7 +42,7 @@ LIST V/SP = (exist) (nexist) ;
 
 ## Category to handle var and yok
 
-
+LIST PUNCT = pnct ;
 LIST A = adj ;
 LIST Adv = adv ;
 LIST Prop = np ;
@@ -188,10 +188,11 @@ LIST NP/D_CI/adj = (np D_CI adj) ;
 ## 
 
 LIST POST-ABS = ("bakımdan"i postp) ("hakkında"i postp) ("tarafından"i postp) ("yüzünden"i postp) ("için"i postp) ;
-LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp) ;
+LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i postp)  ("karşın"i postp) ;
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ("başka"i postp) ("rağmen"i postp) ("yana"i postp) ;
-LIST POST-TEM = ("sırasında" N PxSg3 loc *3s) ;
-LIST POST-MAK = ("için" postp) ;
+LIST POST-TEM = ("sırasında"i N PxSg3 loc *3s) ;
+LIST POST-MAK = ("için"i postp) ;
+LIST POST-GEN = ("yakında"i postp) ;
 
 
 
@@ -412,6 +413,9 @@ SELECT Dat IF (1 POST-DAT) ;
 ## Rule 19-b
 ## Same as above, but with dative
 
+SELECT Post IF (0 POST-GEN) (-1 Gen) ;
+SELECT Gen IF (1 POST-GEN) ;
+
 SELECT Post IF (0 POST-ABS) (-1 ABS) ;
 SELECT ABS IF (1 POST-ABS) ;
      
@@ -620,3 +624,6 @@ REMOVE Post IF (NOT -1 N) ;
 REMOVE Prc/acak IF (NOT 0 ABS); 
 ## "Yaptıkları her şeyi not ediyorum; bir arkadaşlık ilişkimiz var, onlar benim [0]gelecekteki çalışma arkadaşlarım." diyor.
 
+SELECT NP IF (1 NP) (0 ABS) (0 ABS) ;
+
+REMOVE Dat IF (1 PUNCT) ;
