@@ -1,4 +1,24 @@
-2427 bas<n>: Son yıllarda ele geçirilen eroin miktarına ilişkin net bir bilgi 
+6029 pazartesi:gün<n>: 
+    <e><p><l>pazartesi:gün<pazartesi</l><r>@<pazartesi</r></p></e>
+
+================================================================================
+5368 salı:gün<n>: 
+    <e><p><l>salı:gün<salı</l><r>@<salı</r></p></e>
+
+================================================================================
+5005 perşembe:gün<n>: 
+    <e><p><l>perşembe:gün<perşembe</l><r>@<perşembe</r></p></e>
+
+================================================================================
+4080 cuma:gün<n>: 
+    <e><p><l>cuma:gün<cuma</l><r>@<cuma</r></p></e>
+
+================================================================================
+2877 pazar:gün<n>: 
+    <e><p><l>pazar:gün<pazar</l><r>@<pazar</r></p></e>
+
+================================================================================
+2424 bas<n>: Son yıllarda ele geçirilen eroin miktarına ilişkin net bir bilgi 
 açıklanmadı ise de, polis tarafından yapılan >>basın<< açıklamalarına 
 göz atıldığında, ele geçen miktarların - kilogramlar bir yana - birkaç 
 gramdan öteye gidemediği ortaya çıktı.
@@ -6,39 +26,26 @@ gramdan öteye gidemediği ortaya çıktı.
     <e><p><l>bas<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-1496 dan<n>: Bilindik MKK etkinliklerine ek olarak 88 saat süren ve tüm Kosova' >>dan<< 
+2222 cumartesi:gün<n>: 
+    <e><p><l>cumartesi:gün<cumartesi</l><r>@<cumartesi</r></p></e>
+
+================================================================================
+1497 dan<n>: Bilindik MKK etkinliklerine ek olarak 88 saat süren ve tüm Kosova' >>dan<< 
 dinlenebilen iki dilli bir radyo yayını da etkinliklerin cabası olmuş.
 
     <e><p><l>dan<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-565 tar<n>: Kesin olan, uluslararası mal sistemin ölümcül krizlerin önünü alabilmek 
-için kayda değer değişimler geçirmesi gerektiğidir.Serbest ticaret, 
-varsıl ülkeler >>tarımı<< yoğun bir biçimde destekler ve kendilerini 
-"zarara uğramış" hissettiklerinde ticari kotalar uygularken yoksul 
-ülkelerin işine yarayamaz; ikili konuşmalar ve riyakarlık serbest ticaretin 
-temel değerlerini alaşağı etmekte ve adil ticareti savunanlara malzeme 
-sağlamaktadır.
-
-    <e><p><l>tar<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 454 car<n>: 
     <e><p><l>car<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-404 em<n>: Bunu başarabilirsek, >>eminim<< bu, ülkenin değerini de artıracaktır."
+395 em<n>: Bunu başarabilirsek, >>eminim<< bu, ülkenin değerini de artıracaktır."
 
     <e><p><l>em<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-403 verdi<n>: Oylamada bağımsız milletvekilleri bir kez daha Adalet ve Kalkınma Partisi 
-(AKP) lehine oy >>verdiler<<.
-
-    <e><p><l>verdi<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-367 tak<n>: Çağrıya daha şimdiden pek çok şirket, yabancı otel zincirleri ve 
+366 tak<n>: Çağrıya daha şimdiden pek çok şirket, yabancı otel zincirleri ve 
 işadamından cevap gelmekle birlikte, hala bir >>takım<< idari engeller söz 
 konusu ve bu engeller, anlaşmaların hızlı bir şekilde sonuca 
 ulaştırılmasını zorlaştırıyor.
@@ -46,15 +53,23 @@ ulaştırılmasını zorlaştırıyor.
     <e><p><l>tak<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-367 günü<n>: 
-    <e><p><l>günü<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 366 cali<n>: 
     <e><p><l>cali<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-306 adem<n>: Uygulamaya nezaret eden yerel yönetişim ve >>ademi<< merkeziyet bakanlığı 
+319 verdi<n>: Zagrep'te gerçekleştirilen bir zirve sırasında, İtalya, Macaristan, 
+Slovenya ve Hırvatistan başbakanları Hırvatistan'ın Avrupa-Atlantik 
+yapılarına bir n evvel üye olma yönündeki umutlarına tam destek 
+>>verdiler<<. (HINA - 19/01/03 - 16/01/03; Hoover"s, Makfax - 17/01/03; 
+EurActiv - 15/01/03)17 Ocak Cuma günü Zagrep'te gerçekleştirilen bir zirve 
+sırasında İtalya, Macaristan, Slovenya ve Hırvatistan başbakanları 
+Hırvatistan'ın Avrupa-Atlantik yapılarına bir n evvel üye olma yönündeki 
+umutlarına tam destek >>verdiler<<.
+
+    <e><p><l>verdi<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+305 adem<n>: Uygulamaya nezaret eden yerel yönetişim ve >>ademi<< merkeziyet bakanlığı 
 yalnızca yeni adresleri belirlemekle kalmayıp, aynı zamanda hali hazırda 
 mevcut olanları tamamlamak ve uluslararası standartlara uygun sokak 
 işaretleri yerleştirmeyi de planlıyor.
@@ -70,7 +85,11 @@ olarak yer alması görüşünü savunuyorlar.
     <e><p><l>baz<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-273 öl<n>: Dr. Edona Deva, söz konusu şikayetle hastaneye getirilenlerin yaşamlarını 
+302 günü<n>: 
+    <e><p><l>günü<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+268 öl<n>: Dr. Edona Deva, söz konusu şikayetle hastaneye getirilenlerin yaşamlarını 
 yitirmeleri durumunda, söz konusu >>ölümün<< nedeni olarak 'uyuşturucu 
 kullanımı'nın gösterilmediğini ve bu ölümlerin yalnızca "trajik" 
 ölümler olarak kayda geçirildiğini belirtiyor.
@@ -78,7 +97,7 @@ kullanımı'nın gösterilmediğini ve bu ölümlerin yalnızca "trajik"
     <e><p><l>öl<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-225 dini<n>: 
+227 dini<n>: 
     <e><p><l>dini<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
@@ -97,16 +116,6 @@ kuruluşlarıyla yerel yetkililer Perşembe günü, Saraybosna yakınlarındaki
 Butmir kentinde bir askeri eğitim merkezi >>açacaklar<<.
 
     <e><p><l>açacak<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-156 si<n>: İnsanin eline boyle firsat cok az gecer ", diyor.İbrahimpasiç, stajyerlik 
-sürecini atlamış, fakat >>simdi<< de Bosna-Hersek'de Yeniden Bağlanma 
-Projesi için çalışarak, ABD'de eğitim gören ve ülkelerinde staj yapmak 
-isteyen öğrencilere danışmanlık yapıyor.Mehiç'in söylediğine göre, bu 
-yaz dönemi için seçilen 20 stajyer, şimdiye kadar seçilenlerin içinde en 
-eğitimli olanları.
-
-    <e><p><l>si<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 145 izlem<n>: Şüpheli Kaide militanlarına indirilen darbe yaklaşık 18 ay süren 
@@ -129,11 +138,11 @@ katliamını >>anmanın<< en iyi yolu olduğunu belirtti.
     <e><p><l>anma<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-113 onu<n>: 
+109 onu<n>: 
     <e><p><l>onu<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-91 ar<n>: Öte yandan, madalyonun öteki yüzünü - bölgeyi etkilemeyi sürdüren 
+87 ar<n>: Öte yandan, madalyonun öteki yüzünü - bölgeyi etkilemeyi sürdüren 
 gerilimleri - göz >>ardı<< etmek de kuşkusuz aynı ölçüde yanlış bir 
 davranış olacaktır.  Kosova'daki maden işçileri işlerine geri dönmek 
 amacıyla eylem yaparken görülüyor.
@@ -141,15 +150,11 @@ amacıyla eylem yaparken görülüyor.
     <e><p><l>ar<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-84 daha<n>: 
+83 daha<n>: 
     <e><p><l>daha<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-80 cemil<n>: 
-    <e><p><l>cemil<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-77 kay<n>: Dr. Edona Deva, söz konusu şikayetle hastaneye getirilenlerin yaşamlarını 
+76 kay<n>: Dr. Edona Deva, söz konusu şikayetle hastaneye getirilenlerin yaşamlarını 
 yitirmeleri durumunda, söz konusu ölümün nedeni olarak 'uyuşturucu 
 kullanımı'nın gösterilmediğini ve bu ölümlerin yalnızca "trajik" 
 ölümler olarak >>kayda<< geçirildiğini belirtiyor.
@@ -164,11 +169,11 @@ günü taramaya başladı.
     <e><p><l>bot<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-69 geleni<n>: 
+68 geleni<n>: 
     <e><p><l>geleni<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-64 ayın<n>: 
+67 ayın<n>: 
     <e><p><l>ayın<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
@@ -208,11 +213,7 @@ olduğunu da gösterdiği belirtildi.
     <e><p><l>aksi<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-56 muammer<n>: 
-    <e><p><l>muammer<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-53 dink<n>: 
+51 dink<n>: 
     <e><p><l>dink<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
@@ -260,20 +261,6 @@ gezecekler.
     <e><p><l>karasu<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-42 od<n>: Geride bırakılan bir eşgüdüm ekibine, UNMIK ve bazı uluslararası 
-örgütlerin yardımıyla, KFOR güvenlik bölgesinde toplantıların 
-gerçekleşmesi için bir yer ve gazete için de bir >>oda<< tahsis edilmiş.
-
-    <e><p><l>od<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-40 bat<n>: Bölgede genel olarak >>batıyla<< bütünleşme yönünde olumlu gelişmeler 
-görülüyor.SE Times: Uluslararası Kriz Grubu, Kosova'nın bağımsız 
-olmasından yana.
-
-    <e><p><l>bat<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 38 tem<n>: 12 bin dolar karşılığında yasadışı "turistlere" Avrupalı pasaportu 
 >>temin<< ediliyor, ardından turistler Londra'ya ve son olarak da güney 
 sınırından ABD'ye girmeden önce Güney Amerika'ya gönderiliyordu.
@@ -288,16 +275,18 @@ the ethnically divided city, would >>re<<-open to some traffic on Thursday.
     <e><p><l>re<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-37 onun<n>: 
-    <e><p><l>onun<s n="n"/></l><r>@<s n="n"/></r></p></e>
+38 bat<n>: Bölgede genel olarak >>batıyla<< bütünleşme yönünde olumlu gelişmeler 
+görülüyor.SE Times: Uluslararası Kriz Grubu, Kosova'nın bağımsız 
+olmasından yana.
+
+    <e><p><l>bat<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-36 pekin<n>: 
-    <e><p><l>pekin<s n="n"/></l><r>@<s n="n"/></r></p></e>
+37 od<n>: Geride bırakılan bir eşgüdüm ekibine, UNMIK ve bazı uluslararası 
+örgütlerin yardımıyla, KFOR güvenlik bölgesinde toplantıların 
+gerçekleşmesi için bir yer ve gazete için de bir >>oda<< tahsis edilmiş.
 
-================================================================================
-33 brezilya<n>: 
-    <e><p><l>brezilya<s n="n"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>od<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 33 bası<n>: Zanlıların >>basılarının<< diğer ülkelerdeki eğitim kamplarına 
@@ -346,14 +335,6 @@ Program&amp;#305; geliyor.
     <e><p><l>gen<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-28 sin<n>: 
-    <e><p><l>sin<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-27 tahmini<n>: 
-    <e><p><l>tahmini<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 27 taba<n><ca>: Yakalanan kişilerin, küçük çaplı bir özel ordu kurmaya yetecek 
 cephaneleri olduğu görüldü: 13 makinalı tüfek, 217 otomatik tüfek, 
 diğer tiplerde 436 tüfek, 536 >>tabanca<< ve revolver, 318 el bombası, 260 
@@ -380,15 +361,19 @@ reformun bir parçası olduğunun bilincinde olduğunu söyledi.
     <e><p><l>bot<s n="n"/><cpl_sa></l><r>@<s n="n"/><cpl_sa></r></p></e>
 
 ================================================================================
-27 belen<n>: 
-    <e><p><l>belen<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 26 bono<n>: Yapılan soruşturmalarda bankanın gerçek mudi sayısını gizlediği ve var 
 olmayan hazine >>bonoları<< sattığı ortaya çıkmıştı.Uzan ailesinin 
 çok sayıda ferdi şu anda kaçak durumunda.
 
     <e><p><l>bono<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+26 belen<n>: 
+    <e><p><l>belen<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+25 tahmini<n>: 
+    <e><p><l>tahmini<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 25 han<n>: Yüzlerce yıl yaşında apartmanlar, beş yüzyıldan uzun bir süre önce 
@@ -418,25 +403,13 @@ planlarına uygun şekilde >>çizmelerine<< karar verdi.
     <e><p><l>çizme<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-25 celal<n>: 
-    <e><p><l>celal<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 24 örtbas<n>: Aralık ayı başlarında eski Karadağ İçişleri Bakanı Andrija Joviceviç, 
-Başbakan Milo Djukanoviç'i rolünü >>örtbas<< etmeye çalışmakla 
+Başbakan Milo Djukanoviç' rolünü >>örtbas<< etmeye çalışmakla 
 suçladı. Southeast European Times için Belgrad'dan Igor Jovanoviç'in haberi 
 - 22/12/03İnsan kaçakçılığı şüphelilerinin Karadağ'da 
 tutuklanmasının üzerinden bir yıl geçmesine rağmen skandal hl sürüyor.
 
     <e><p><l>örtbas<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-24 ayn<n>: Festivalin açılış konuşmasını yapan Zrvenkovski, bir ulusun 
-kültürünün onun bilincini, inançlarını ve geleneklerini yansıtan bir 
->>ayna<< olduğunu ve aynı zamanda insanları birleştiren bir köprü 
-vazifesi gördüğünü söyledi.
-
-    <e><p><l>ayn<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 23 otopark<n>: Saldırganların hareket halindeki araçlardan adliye binası ofislerine ve bir 
@@ -453,8 +426,12 @@ gibi tartışma kapanıyor."
     <e><p><l>ter<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-22 eşref<n>: 
-    <e><p><l>eşref<s n="n"/></l><r>@<s n="n"/></r></p></e>
+22 ayn<n>: Festivalin açılış konuşmasını yapan Zrvenkovski, bir ulusun 
+kültürünün onun bilincini, inançlarını ve geleneklerini yansıtan bir 
+>>ayna<< olduğunu ve aynı zamanda insanları birleştiren bir köprü 
+vazifesi gördüğünü söyledi.
+
+    <e><p><l>ayn<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 21 los<n>: Sırp tenisçi Ana İvanoviç Wimbledon turnuvasına 23 Haziran Pazartesi 
@@ -480,12 +457,12 @@ kendisine yardım ettiğini aktarıyor Trnka.
     <e><p><l>kalbi<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-19 tokyo<n>: 
-    <e><p><l>tokyo<s n="n"/></l><r>@<s n="n"/></r></p></e>
+20 güvenoyu<n>: 
+    <e><p><l>güvenoyu<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-19 güvenoyu<n>: 
-    <e><p><l>güvenoyu<s n="n"/></l><r>@<s n="n"/></r></p></e>
+19 tokyo<n>: 
+    <e><p><l>tokyo<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 19 gözönü<n>: Zivkoviç, "mevcut şartların Cinciç tarafından başlatılan reformların 
@@ -515,13 +492,6 @@ bombası, 797 bomba ve 247 mayın bulunuyor.
     <e><p><l>roketatar<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-18 met<n>: Anlaşma kapsamında ABD'ye, ulusal güvenlik çıkarlarına zarar verebilecek 
-bölümlerin resmi >>metinden<< çıkarılması talebinde bulunma hakkı 
-verildi.
-
-    <e><p><l>met<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 17 sürekli<n>: SC Polis Müdürü Uros Pena toplantıdan sonra basın mensuplarına verdiği 
 demeçte, "Polis teşkilatlarımızın işbirliği yaptığını söylemek çok 
 hafif kalır; onlar birlikte çalışıyorlar ve gerçekleşen faaliyetler 
@@ -543,6 +513,13 @@ anlaşmayı imzalama olasılığı düşük görünüyor.
     <e><p><l>om<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+17 met<n>: Anlaşma kapsamında ABD'ye, ulusal güvenlik çıkarlarına zarar verebilecek 
+bölümlerin resmi >>metinden<< çıkarılması talebinde bulunma hakkı 
+verildi.
+
+    <e><p><l>met<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 17 it<n>: Vuçetiç'in tehdidi yargıçlar arasında güvensizlik ve korku duygularının 
 oluşmasına yol açarak onları - yandaş kazanmanın bilinen bir yolu olarak 
 - siyasi partiler nezdinde kabul ve destek aramaya >>itti<<.
@@ -552,6 +529,16 @@ oluşmasına yol açarak onları - yandaş kazanmanın bilinen bir yolu olarak
 ================================================================================
 16 yuna<n><ca>: 
     <e><p><l>yuna<s n="n"/><s n="ca"/></l><r>@<s n="n"/><s n="ca"/></r></p></e>
+
+================================================================================
+16 si<n>: İnsanin eline boyle firsat cok az gecer ", diyor.İbrahimpasiç, stajyerlik 
+sürecini atlamış, fakat >>simdi<< de Bosna-Hersek'de Yeniden Bağlanma 
+Projesi için çalışarak, ABD'de eğitim gören ve ülkelerinde staj yapmak 
+isteyen öğrencilere danışmanlık yapıyor.Mehiç'in söylediğine göre, bu 
+yaz dönemi için seçilen 20 stajyer, şimdiye kadar seçilenlerin içinde en 
+eğitimli olanları.
+
+    <e><p><l>si<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 16 oil<n>: 
@@ -638,12 +625,6 @@ yardımcı olduğu belirtildi.
     <e><p><l>mersin<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-14 güvenoy<n>: Türkiye'nin yeni Hükümeti Perşembe (28 Kasım) günü Meclis'te 
->>güvenoyu<< alarak resmen göreve başladı.
-
-    <e><p><l>güvenoy<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 14 çal<n>: Raporlar, baska unsurların yanısıra, bölge ülkelerindeki polis yetkilileri 
 arasında etkili bir iletişim olmadigini ortaya çıkardı.Oslobodjenje 
 gazetesinin gösterdiği kaynaklara göre, Bosna-Hersek'te (BH) 
@@ -692,8 +673,10 @@ anlatılıyor.
     <e><p><l>hukuken<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-13 cemal<n>: 
-    <e><p><l>cemal<s n="n"/></l><r>@<s n="n"/></r></p></e>
+13 güvenoy<n>: Türkiye'nin yeni Hükümeti Perşembe (28 Kasım) günü Meclis'te 
+>>güvenoyu<< alarak resmen göreve başladı.
+
+    <e><p><l>güvenoy<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 12 tu<n>: Organizatörler >>tum<< biletlerin şimdiden satıldığını söylüyor.Bilet 
@@ -794,6 +777,10 @@ kolaylaştıracağını söylüyorlar.
     <e><p><l>tapu<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+10 seferi<n>: 
+    <e><p><l>seferi<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 10 malvarlık<n>: Marko'nun geniş >>malvarlığına<< birçok pizzacı, bir 'duty-free' zinciri, 
 bir gece kulübün ve "Bambiland" adlı bir eğlence parkının da dahil 
 olduğu belirtiliyor.
@@ -801,7 +788,7 @@ olduğu belirtiliyor.
     <e><p><l>malvarlık<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-10 kardiyolog<n>: VMRO-DPMNE ise adayı olarak >>kardiyolog<< ve milletvekili Sasko Kedev'i 
+10 kardiyolog<n>: VMRO-DPMNE ise adayı olarak >>kardiyolog<< ve milletvekili Sasko Kedev' 
 açıkladı.
 
     <e><p><l>kardiyolog<s n="n"/></l><r>@<s n="n"/></r></p></e>
@@ -825,6 +812,10 @@ kurulması çağrısında bulundukları açıklamaları, Üsküp'te siyasi
 >>fırtına<< kopmasına yol açmakla birlikte Tiran'da da endişe yaratti.
 
     <e><p><l>fırt<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+10 eşref<n>: 
+    <e><p><l>eşref<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 10 erg<n>: 
@@ -863,6 +854,10 @@ biçimlerini değiştirmeye gereksinimi var artık." diyor Ayanoviç.
 İngiliz Oxonica firması ile anlaşmaya vardı.
 
     <e><p><l>nanoteknoloji<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+9 muammer<n>: 
+    <e><p><l>muammer<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 9 mandıra<n>: Yoğurdun mucizeleri daha çok, yiyeceklerdeki proteinleri ve şekeri 
@@ -929,6 +924,10 @@ ilgili.
     <e><p><l>gayrimenkul<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+9 file<n>: 
+    <e><p><l>file<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 9 fenomen<n>: Bu durum, zengin ülkelerdeki küreselleşme karşıtı tepkiler, durdurulan 
 ticaret görüşmeleri ve sosyal demokrat ve merkez sağ partiler arasındaki 
 artan uluslararası rekabet gibi >>fenomenlerde<< görülebilir.
@@ -943,10 +942,18 @@ enflasyonu artırıcı etki yapacaktır.
     <e><p><l>enflasyonist<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+9 başsağlığı<n>: 
+    <e><p><l>başsağlığı<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 9 basınç<n>: Başyargıç Richard May, Miloşeviç'in yüksek kan >>basıncından<< da 
 mustarip olduğunu belirtti.
 
     <e><p><l>basınç<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+9 bala<n>: 
+    <e><p><l>bala<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 9 aşkın<n>: 
@@ -974,10 +981,6 @@ hissedilen utanma duygusunu yenmek hl cesaret gerektiren bir mesele.
 ================================================================================
 8 leb<n>: 
     <e><p><l>leb<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-8 kesin<n>: 
-    <e><p><l>kesin<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 8 karizmatik<n>: Simitis'in en güçlü ard&amp;#305;l&amp;#305;n&amp;#305;n, >>karizmatik<< 
@@ -1035,30 +1038,12 @@ bulunmuştu.
     <e><p><l>bat<s n="n"/><cpl_mis></l><r>@<s n="n"/><cpl_mis></r></p></e>
 
 ================================================================================
-8 başsağlık<n>: İspanyol meslektaşı Jose Maria Aznar'a gönderdiği >>başsağlığı<< 
-mesajında Karamanlis, olayı "yenilmesi gereken ve yenilecek olan nefret 
-eylemleri" olarak nitelendirdi.Aynı zamanda kültür bakanı görevini 
-üstlenen Karamanlis, Oyunların şahsi sorumluluğunu üzerine almış durumda.
-
-    <e><p><l>başsağlık<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-8 başsağlığı<n>: 
-    <e><p><l>başsağlığı<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 8 araban<n>: 
     <e><p><l>araban<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 7 yüklem<n>: 
     <e><p><l>yüklem<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-7 verdi<n>: Oylamada bağımsız milletvekilleri bir kez daha Adalet ve Kalkınma Partisi 
-(AKP) lehine oy >>verdiler<<.
-
-    <e><p><l>verdi<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 7 taşıt<n>: Motorlu >>taşıtların<< şehir merkezinden havaalanına 20 dakikada 
@@ -1083,19 +1068,11 @@ Sosyal Demokrasi Birliği) >>sempatizanlarını<< da yakalamaya çalışmalı.
     <e><p><l>sempatizan<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-7 seferi<n>: 
-    <e><p><l>seferi<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 7 mansiyon<n>: Adrian Sitaru'nun "Waves" ("Dalgalar") adlı Rumen filmi en iyi kısa film 
 ödülünü, Marko Santiç'in yönettiği Hırvat-Sloven ortak yapımı "Hole" 
 ("Delik") ise özel >>mansiyon<< aldı.
 
     <e><p><l>mansiyon<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-7 madeni<n>: 
-    <e><p><l>madeni<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 7 lir<n>: 
@@ -1137,7 +1114,7 @@ trafi&amp;#287;i t&amp;#305;kad&amp;#305;.
 
 ================================================================================
 7 ita<n>: Fransız First Lady Cecilia Sarkozy ve AB'nin Dış İlişkilerden Sorumlu 
-Komisyon Üyesi Bena >>ita<< Ferrero-Waldner'i taşıyan Fransız 
+Komisyon Üyesi Bena >>ita<< Ferrero-Waldner' taşıyan Fransız 
 cumhurbaşkanlığına ait jet uçağı, Pazar günü Trablus'a indikten sonra 
 altı sağlık görevlisini Sofya'ya götürdü.
 
@@ -1179,6 +1156,10 @@ Orpheus'un öğretilerini Güney İtalya'daki Yunan kentleri arasında
 yaygınlaştırmıştı.
 
     <e><p><l>filozof<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+7 ezeli<n>: 
+    <e><p><l>ezeli<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 7 evli<n>: Ilımlı bir siyasi olan cumhurbaşkanı, eski Yugoslav cumhuriyetindeki 
@@ -1328,8 +1309,8 @@ iktidar partisi PSD, Kasım ayında yapılacak cumhurbaşkanlığı ve
 milletvekili seçimleri yaklaştıkça siyasi bir kabus yaşıyor. Southeast 
 European Times için Bükreş'ten Gelu Trandafir'in haberi - 22/06/04Romanya'da 
 iktidardaki Sosyal Demokratlar (PSD), bu Kasım ayında yapılacak genel 
-seçimlerin bir göstergesi olarak kabul edilen 20 Haziran Pazar günkü ikinci 
-tur yerel ve belediye seçimlerinde >>bozguna<< uğradı.
+seçimlerin bir göstergesi olarak kabul edilen 20 Haziran Pazar ikinci tur 
+yerel ve belediye seçimlerinde >>bozguna<< uğradı.
 
     <e><p><l>bozgun<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -1347,6 +1328,14 @@ dağınık nüfusa sahip bölgeye binlerce çadır, >>battaniye<< ve arama
 kurtarma köpekli ekiplerin gönderildiğini söyledi.
 
     <e><p><l>battaniye<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+7 başsağlık<n>: İspanyol meslektaşı Jose Maria Aznar'a gönderdiği >>başsağlığı<< 
+mesajında Karamanlis, olayı "yenilmesi gereken ve yenilecek olan nefret 
+eylemleri" olarak nitelendirdi.Aynı zamanda kültür bakanı görevini 
+üstlenen Karamanlis, Oyunların şahsi sorumluluğunu üzerine almış durumda.
+
+    <e><p><l>başsağlık<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 7 barut<n>: Yugoslav yönetmen Goran Paskaljevic'in çektiği, aklını oynatan bir 
@@ -1380,10 +1369,10 @@ gelen >>ardışık<< hükümetlerin sürekli gündemlerinde yer aldı.
 
 ================================================================================
 7 alaşağı<n>: Savaş Suçları Mahkemesi, Eski Cumhurbaşkanı ve bir zamanlar Slobodan 
-Miloşeviç'in yakın bir müttefiki olan Milan Milutinoviç'i yargılamak 
+Miloşeviç'in yakın bir müttefiki olan Milan Milutinoviç' yargılamak 
 istiyor, dolayısı ile görev süresi sona eren Milutinoviç'in Lahey'e 
 gitmesi yüksek bir olasılık.Ne var ki, iki yıl önce el ele vererek 
-Miloşeviç'i >>alaşağı<< eden reformcular ve "demokratik milliyetçiler" 
+Miloşeviç' >>alaşağı<< eden reformcular ve "demokratik milliyetçiler" 
 arasında süregiden mücadele şu nda yargılanmakta olan savaş suçu 
 sanıklarına ve onların destekçilerine bir iki yıl içinde Sırbistan 
 siyasi sahnesinde yeniden rol alma şansı tanıyabilir.29 Eylül'de 
@@ -1493,10 +1482,6 @@ konserleri de planlanan diğer sanat olayları.
     <e><p><l>sirk<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-6 sini<n>: 
-    <e><p><l>sini<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 6 sayısal<n>: Sonuç olarak >>sayısal<< bir önem taşımayan bu anlaşma, daha çok bir 
 niyet mektubunu andırıyor.
 
@@ -1578,7 +1563,7 @@ gerektiğini de yinelemelidir.
     <e><p><l>popülizm<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-6 polo<n>: Culture and Sports: Triumph for Croatia's water >>polo<< team 
+6 polo<n>: Culture and Sports: Triumph for Croatia' water >>polo<< team 
 
     <e><p><l>polo<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -1613,7 +1598,7 @@ sıkı gözetim altında tutuluyor.
 ================================================================================
 6 müsamaha<n>: Üçü de eski Kosova Kurtuluş Ordusu üyesi olan sanıklar, Lahey'e 
 gönderilmeden önce güvenli bir yerde tutulacaklar.NATO Genel Sekreteri 
-George Robertson Pazartesi günkü operasyonu gerçekleştiren KFOR askerlerini 
+George Robertson Pazartesi operasyonu gerçekleştiren KFOR askerlerini 
 "cesaretleri, profesyonellikleri ve kararlılıkları"ndan ötürü överek, 
 operasyonu İttifak'ın Balkanlar'daki savaş suçu sanıklarını yakalama 
 yönündeki çabaları doğrultusunda atılmış "kayda değer bir yeni adım" 
@@ -1656,15 +1641,15 @@ Bosmal'a vermeyi planl&amp;#305;yor.
     <e><p><l>mey<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+6 madeni<n>: 
+    <e><p><l>madeni<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 6 levazım<n>: Müttefikler Almanya ile birlik olan Osmanlı İmparatorluğu'nu safdışı 
 ederek Türk boğazlarını Rusya'ya >>levazım<< rotası olarak kullanmak 
 istiyorlardı.
 
     <e><p><l>levazım<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-6 lam<n>: 
-    <e><p><l>lam<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 6 kut<n><cpl_ken>: 
@@ -1690,6 +1675,14 @@ ve >>kozmetik<< sanayilerinin yanı sıra telekom anten sektörünün
 izleyeceğini belirtiyor.
 
     <e><p><l>kozmetik<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+6 kola<n>: Iliescu ayr&amp;#305;ca, Avrupa pazarlar&amp;#305;na girmelerini 
+>>kolayla<<&amp;#351;t&amp;#305;raca&amp;#287;&amp;#305;n&amp;#305; söyleyerek 
+Çinli firmalar&amp;#305; Romanya'da yat&amp;#305;r&amp;#305;m yapmaya 
+ça&amp;#287;&amp;#305;rd&amp;#305;.
+
+    <e><p><l>kola<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 6 klima<n>: Pek çok kişi evlerine >>klima<< cihazı almak üzere dükkanlara 
@@ -1793,18 +1786,14 @@ vermedi.
     <e><p><l>haydi<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-6 gani<n>: 
-    <e><p><l>gani<s n="n"/></l><r>@<s n="n"/></r></p></e>
+6 hayali<n>: 
+    <e><p><l>hayali<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 6 forma<n>: Düzenlenen açık artırmada, Kobe Bryant ve Sırp tenisçi Novak Cokoviç'e 
 ait >>formaların<< tanesi 16 bin avroya alıcı buldu.
 
     <e><p><l>forma<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-6 ezeli<n>: 
-    <e><p><l>ezeli<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 6 etüt<n>: Hırvatistan Devlet Başkanı Stipe Mesiç'in daveti üzerine Dubrovnik'te 
@@ -1828,6 +1817,17 @@ görüşmeler >>esnasında<< meydana geldi.
 dakikadaki soğuk >>duş<< buna son verdi.
 
     <e><p><l>duş<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+6 drama<n>: Dikkat çekici tiyatro yapımları arasında klasik Yunan >>draması<< 
+"Electra"nın Büyük Amsterdam Tiyatrosu tarafından, Tennessee Williams'ın 
+"A Streetcar named Desire" ("Tutku Tramvayı") adlı yapıtının Bulgaristan 
+Ordu Tiyatrosu, Emilio Carballido'nun "Two Odours of the Rose" oyununun 
+Belgrad'ın Terazije Tiyatrosu ve "Who, When, Who With" (Kim, Ne Zaman, 
+Kiminle") adlı eserinin İstanbul Şehir Tiyatroları tarafından sahnelenişi 
+yer alıyor.
+
+    <e><p><l>drama<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 6 dinleti<n>: Sergi H&amp;#305;rvat gitarist Predrag Maric'in verece&amp;#287;i bir 
@@ -1920,6 +1920,10 @@ olasılıkla tabutun son >>çivisi<< oldu.
 eleme turundan çıkamad.
 
     <e><p><l>cirit<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+6 cemal<n>: 
+    <e><p><l>cemal<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 6 çal<n><cpl_mis>: 
@@ -2035,13 +2039,6 @@ radyoaktif elementler kullanan cihazların >>artıkları<< saklanacak.
     <e><p><l>ark<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-6 arız<n>: Hırvat bandırasında tespit edilen sorunlar arasında havalandırma 
-cihazlarında >>arıza<<, kapıların hava sızdırmazlığı ve filikalardaki 
-çeşitli sorunlar yer alıyor.
-
-    <e><p><l>arız<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 6 anakara<n>: Peljesac yarımadasını >>anakaraya<< bağlayacak bir köprü inşa edilmesi 
 de gündemde yer aldı.
 
@@ -2105,6 +2102,18 @@ açarken, olayda yaralanan olmadı.
 ================================================================================
 5 veya<n>: 
     <e><p><l>veya<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+5 verdi<n>: Zagrep'te gerçekleştirilen bir zirve sırasında, İtalya, Macaristan, 
+Slovenya ve Hırvatistan başbakanları Hırvatistan'ın Avrupa-Atlantik 
+yapılarına bir n evvel üye olma yönündeki umutlarına tam destek 
+>>verdiler<<. (HINA - 19/01/03 - 16/01/03; Hoover"s, Makfax - 17/01/03; 
+EurActiv - 15/01/03)17 Ocak Cuma günü Zagrep'te gerçekleştirilen bir zirve 
+sırasında İtalya, Macaristan, Slovenya ve Hırvatistan başbakanları 
+Hırvatistan'ın Avrupa-Atlantik yapılarına bir n evvel üye olma yönündeki 
+umutlarına tam destek >>verdiler<<.
+
+    <e><p><l>verdi<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 5 vatansever<n>: Sekuliç yazısında, "Savaş suçu zanlıları iddia ettikleri gibi gerçekten 
@@ -2206,9 +2215,9 @@ barı, bir havuz başı kafe-bar ve "İnternet köşesi"ne sahip, amfiteatr
 şeklinde konuştu ve Lukoviç'in cinayetle hiçbir ilgisi olmadığı 
 iddiasını destekleyecek daha somut kanıtlar sunacağını düşündüğünü 
 belirtti.Şimdi asıl >>soyadı<< olan Ulemek şeklinde çağrılan Lukoviç, 
-aynı zamanda eski Sırbistan Cumhurbaşkanı Ivan Stamboliç'i 2000 yılında 
+aynı zamanda eski Sırbistan Cumhurbaşkanı Ivan Stamboliç' 2000 yılında 
 öldürmek ve muhalefet lideri ve görevdeki Sırbistan-Karadağ Dışişleri 
-Bakanı Vuk Draskoviç'i 1999 yılında öldürmeye teşebbüs etmekle 
+Bakanı Vuk Draskoviç' 1999 yılında öldürmeye teşebbüs etmekle 
 suçlanıyor.
 
     <e><p><l>soyad<s n="n"/></l><r>@<s n="n"/></r></p></e>
@@ -2230,13 +2239,6 @@ yasaları tarafından gerekli kılınan muazzam sayıda -- AB ülkelerinden
 gerekenden üç kat fazla -- izin ve patentin yattığını söylüyor.
 
     <e><p><l>sosyolojik<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-5 sop<n>: Ayrıca reformlar için yararlı bir ivme sağlayarak, Avrupa 
-bütünleşmesinin sağladığı "havucun", geçmişte " >>sopa<<" içeren 
-Brüksel görüşmelerinin yerini almaya başladı.
-
-    <e><p><l>sop<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 5 soba<n>: Kışın, evler odun >>sobalarıyla<< ısınıyor.
@@ -2270,13 +2272,17 @@ isteyen bir mektup gönderdi.
 dayak, cinsel taciz ve cinayetin günlük olaylardan sayıldığı bir yer 
 olduğu söyleniyor.Banoviç Salı günü, beş tutukluyu döverek ölüme 
 >>sebebiyet<< vermek ve 27 başka tutuklunun dövülmesinde rol almaktan suçlu 
-bulundu.Başyargıç Patrick Robinson, Salı günkü duruşmada cezayı 
-açıklamadan önce yaptığı konuşmada, "Mahkeme, sanığın kamptaki 
-görevi sırasında yetkilerini kötüye kullandığını ve insan yaşamı ve 
-haysiyetini tamamen hiçe sayarak tutuklulara kötü muamelede ve 
-aşağılayıcı davranışlarda bulunduğunu tespit etmiştir," dedi.
+bulundu.Başyargıç Patrick Robinson, Salı duruşmada cezayı açıklamadan 
+önce yaptığı konuşmada, "Mahkeme, sanığın kamptaki görevi sırasında 
+yetkilerini kötüye kullandığını ve insan yaşamı ve haysiyetini tamamen 
+hiçe sayarak tutuklulara kötü muamelede ve aşağılayıcı davranışlarda 
+bulunduğunu tespit etmiştir," dedi.
 
     <e><p><l>sebebiyet<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+5 sava<n>: 
+    <e><p><l>sava<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 5 satım<n>: Romanya Yolsuzlukla Mücadele Dairesi (DNA) Nokia'nın Cluj Eyaleti'nin Jucu 
@@ -2371,10 +2377,6 @@ yasalarına ağırlığını koyacak. Southeast European Times için
 tarihi olarak 7 Kasım'ı belirledi.
 
     <e><p><l>plebisit<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-5 platin<n>: 
-    <e><p><l>platin<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 5 pavyon<n>: Paris'te düzenlenen 1867 Dünya Sergisinde, eserlerine Türk >>pavyonunda<< 
@@ -2698,20 +2700,6 @@ Nükleer Santralı'ndaki dört birimden üçünü 2006 sonuna değin
     <e><p><l>kapama<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-5 kanuni<n>: Savcılar, zanlının komutası altındaki güçler üzerinde hem >>kanuni<< 
-hem de fiili iktidar icra ettiğini söyleyerek Kovaçeviç'i cinayet, kötü 
-muamele, sivillere saldırı, askeri gereklilik arz etmeyen yıkım, sivil 
-nesnelere yasadışı saldırı ve din, kültür ve eğitime adanmış 
-kurumlara ve tarihi eserlerle sanat ve bilim çalışmalarına kasten zarar 
-vermekle suçladılar.İddianamede Strugar, Jokiç ve Kovaçeviç'in komutası 
-altındaki Yugoslav Ordu birliklerinin 1 Ekim 1991 tarihinde Dubrovnik'e 
-saldırı düzenlediği ve bunu izleyen üç ay içinde yasadışı bir 
-şekilde kent ve civarını karadan ve denizden top ateşine tuttukları 
-iddiası yer alıyor.
-
-    <e><p><l>kanuni<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 5 iyiniyet<n>: Diplomat, "Görünen o ki, Bay Papadopulos BM ile >>iyiniyetle<< pazarlık 
 etmemiş," dedi.
 
@@ -2788,14 +2776,6 @@ arasında bu konu dışında iyi giden ilişkilere pek etki etmedi.
     <e><p><l>hegemonya<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-5 hay<n>: 
-    <e><p><l>hay<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-5 hayali<n>: 
-    <e><p><l>hayali<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 5 göze<n>: BHT yönetimi haberin içeriğini >>gözen<< geçireceğini söyledi.
 
     <e><p><l>göze<s n="n"/></l><r>@<s n="n"/></r></p></e>
@@ -2835,6 +2815,10 @@ biçimde ele alınabilir.
 işkence görmesi ve öldürülmesini emretmekten beş yıl hapse mahkum edildi.
 
     <e><p><l>garaj<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+5 gani<n>: 
+    <e><p><l>gani<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 5 format<n>: Altı ülkenin temsilcileri, müzakerelerde troyka >>formatı<< izlenmesine 
@@ -2983,6 +2967,10 @@ söyleniyor.
     <e><p><l>dedektif<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+5 cemil<n>: 
+    <e><p><l>cemil<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 5 cebin<n>: Christo'nun son projesi için New Yorkluların >>cebinden<< tek bir dolar 
 harcanmayacak.
 
@@ -3045,7 +3033,7 @@ yaklaşık 9 milyar euro katkıda bulunacak.
 sağlanması gereken bir alan olduğunu ifade ediyor.Sözcü "[Polisle 
 mahkemeler arasında] bir köprü kurmalısınız, böylece davalar >>batağa<< 
 saplanıp kalmaz ve kanıtlar eskimez." diyor.ABPG ayrıca Devlet Sınır 
-Servisi'ni geliştirmeye ve Bosna Hersek polisi ile İnterpol benzeri 
+Servisi'i geliştirmeye ve Bosna Hersek polisi ile İnterpol benzeri 
 uluslararası polis birimleri arasında bir istihbarat takasevi kurulmasına 
 yardımcı olmaya da çalışıyor.Solnes ülkede sürdürülebilir bir polis 
 gücünün oluşturulabilmesi için gözetleme ve danışmanlık yapmanın 
@@ -3054,7 +3042,7 @@ AB'nin düşünebildiği en iyi yol olduğunu belirtiyor.
     <e><p><l>batak<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-5 basım<n>: Djeliç ayrıca Dinkiç'i, halkı kandırmak ve hükümetin bütçe 
+5 basım<n>: Djeliç ayrıca Dinkiç', halkı kandırmak ve hükümetin bütçe 
 masraflarını karşılamak için SUB'yi ve para >>basımını<< kontrol etmek 
 istediği yönünde korkuları kışkırtmakla suçladı.
 
@@ -3088,6 +3076,13 @@ coğrafyanın rolüne bakışı ve yaklaşımı açısından, daha farklı bir
 biçimde ele alınabilir.
 
     <e><p><l>asimetri<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+5 arız<n>: Hırvat bandırasında tespit edilen sorunlar arasında havalandırma 
+cihazlarında >>arıza<<, kapıların hava sızdırmazlığı ve filikalardaki 
+çeşitli sorunlar yer alıyor.
+
+    <e><p><l>arız<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 5 andaç<n>: Balkanlar'da 15 Kasım'dan sonraki iş ve ekonomi haberlerine bir bakış. 
@@ -3279,6 +3274,10 @@ savaş suçlarına katılmaktan zan altında bulunuyor.
     <e><p><l>susuz<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+4 sup<n>: 
+    <e><p><l>sup<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 4 sunak<n>: Arkeologlara göre, tapınağın güneş kültü >>sunağı<<, Balkanlar'da 
 bulunan ilk Trakya >>sunağı<< olma özelliğini taşıyor.
 
@@ -3322,10 +3321,6 @@ bir spor olması bile bunu değiştiremedi.
 Florea erkekler 200m >>sırtüstünde<< üçüncü oldu.
 
     <e><p><l>sırtüst<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-4 sin<n><ki>: 
-    <e><p><l>sin<s n="n"/><s n="ki"/></l><r>@<s n="n"/><s n="ki"/></r></p></e>
 
 ================================================================================
 4 sinerji<n>: İki örgüt, ESF'nin COST'nin idari, teknik ve bilimsel sekreteryasını 
@@ -3487,6 +3482,10 @@ yarışan sporculardan oluşan 158 kişi yer alıyor.
     <e><p><l>podyum<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+4 platin<n>: 
+    <e><p><l>platin<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 4 piyano<n>: Beş hafta sürecek ve 20 Ağustos'ta son erecek olan festivalin 
 kapanışını, Alexander Rudin şefliğinde Rus Musica Viva ile bir konser 
 verecek olan Makedon >>piyano<< virtüözü Simon Trpceski yapacak.
@@ -3498,6 +3497,10 @@ verecek olan Makedon >>piyano<< virtüözü Simon Trpceski yapacak.
 anlamına gelebilen 'Ioma' yazılmış.
 
     <e><p><l>pislik<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+4 pire<n>: 
+    <e><p><l>pire<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 4 pi<n>: Pljeskavica -- soğanla birlikte ızgarada pişirilerek kalın >>pide<< 
@@ -3654,10 +3657,6 @@ gerçekleştirilmesini bekliyoruz.
     <e><p><l>nevzat<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-4 nedim<n>: 
-    <e><p><l>nedim<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 4 namağlup<n>: Hırvatistan ve Sırbistan-Karadağ takımları şampiyonaya eleme maçlarını 
 >>namağlup<< tamamlayarak geldiler.
 
@@ -3671,10 +3670,6 @@ Stamboliç 1986 - 1987 yıllarında Sırbistan Cumhurbaşkanı'yken,
 Miloşeviç 1987'de gerçekleştirdiği bir darbeyle onun yerine geçti.
 
     <e><p><l>müşavir<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-4 muharrem<n>: 
-    <e><p><l>muharrem<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 4 mirza<n>: 
@@ -3790,6 +3785,10 @@ tasarısını kabineye sunduğunu söyledi.
     <e><p><l>lehçe<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+4 lam<n>: 
+    <e><p><l>lam<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 4 krema<n>: Tavernada müzisyenler için bir köşe olacak ve yalnızca ekşi >>krema<<, 
 reçeller, meyve suları, çeşitli ev yapımı turtalar ve nefis Fojnica 
 patatesi gibi ekolojik gıdalar servis edilecek.
@@ -3889,12 +3888,22 @@ karşılanmak üzere at sırtında yeni kocasının evine gidiyor.
     <e><p><l>kayınvalide<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-4 kam<n>: 
-    <e><p><l>kam<s n="n"/></l><r>@<s n="n"/></r></p></e>
+4 kanuni<n>: Savcılar, zanlının komutası altındaki güçler üzerinde hem >>kanuni<< 
+hem de fiili iktidar icra ettiğini söyleyerek Kovaçeviç' cinayet, kötü 
+muamele, sivillere saldırı, askeri gereklilik arz etmeyen yıkım, sivil 
+nesnelere yasadışı saldırı ve din, kültür ve eğitime adanmış 
+kurumlara ve tarihi eserlerle sanat ve bilim çalışmalarına kasten zarar 
+vermekle suçladılar.İddianamede Strugar, Jokiç ve Kovaçeviç'in komutası 
+altındaki Yugoslav Ordu birliklerinin 1 Ekim 1991 tarihinde Dubrovnik'e 
+saldırı düzenlediği ve bunu izleyen üç ay içinde yasadışı bir 
+şekilde kent ve civarını karadan ve denizden top ateşine tuttukları 
+iddiası yer alıyor.
+
+    <e><p><l>kanuni<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-4 kahir<n>: 
-    <e><p><l>kahir<s n="n"/></l><r>@<s n="n"/></r></p></e>
+4 kam<n>: 
+    <e><p><l>kam<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 4 kaburga<n>: Üsküp'teki Kent Hastanesi'ne göre, kameramanın iki >>kaburgası<< 
@@ -3950,13 +3959,6 @@ vatandaşlık bilgileri, >>ikametgah<< ve adres yer alacak.
     <e><p><l>ikametgah<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-4 içinde<n>: Tadiç ile görev süresi sona eren Başbakan Zoran Zivkoviç, eski Başbakan 
-Zoran Cinciç'in Mart ayında suikasta kurban gitmesinin ardından boşalan 
-koltuk için rekabet >>içindeler<<.
-
-    <e><p><l>içinde<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 4 ibare<n>: ABD, bu meselenin çözülmesi ve anayasada yer alan "Makedonya Cumhuriyeti" 
 >>ibaresinin<< resmen tanınması açısından çok önemli bir oynayabilir.SE 
 Times: Makedonya'da hl, Bütünleşme İçin Demokratik Birlik'in (DUI) 
@@ -3984,10 +3986,21 @@ yapma planlarını açıkladı.
     <e><p><l>hem<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+4 hatıra<n>: Gazeteler Sırbistan Cumhurbaşkanı Boris Tadiç'in Potocari ziyaretinin yanı 
+sıra Temmuz 1995'te Srebrenica'da yaşanan olaylarla ilgili yorum ve 
+>>hatıralara<< geniş yer verdiler.
+
+    <e><p><l>hatıra<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 4 harcırah<n>: Normal asker maaşlarına ek olarak, askerlere yüksek riskli bir ortamda 
 görev aldıkları için günde 90 dolar >>harcırah<< verilecek.
 
     <e><p><l>harcırah<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+4 hadise<n>: 
+    <e><p><l>hadise<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 4 gözlük<n>: Tonlarca su, mayolar ve güneş >>gözlükleriyle<< donanmış insanlar, plaj 
@@ -4010,16 +4023,16 @@ Hırvatistan, Makedonya ve Sırbistan-Karadağ'dan - >>gıptayla<< izleniyor.
     <e><p><l>gıpta<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-4 gedik<n>: Yüksek Temsilcilik Ofisi savaş suçu sanığı Radovan Karadziç'i 
-destekleyen ağı çökerterek, söz konusu sanığın yakalanmasını 
-kolaylaştırmayı umuyor. Beth Kampschror Southeast European Times için 
-Saraybosna'dan bildiriyor - 04/03/03Radovan Karadziç Bosna Hersek'te silahlı 
-korumalarla bir güvenli evden diğerine rahatlıkla geçerek sürdürdüğü 
-yaşamını, kendisini BM Savaş Suçları Mahkemesi'nden kaçtığı yedinci 
-yılında koruyan, besleyen ve mal olarak destekleyen kişilerden oluşan ağ 
-olmasa, devam ettirmekte oldukça zorlanırdı kuşkusuz.Yüksek Temsilcilik 
-Ofisi (YTO), söz konusu ağda bir >>gedik<< açarak savaş zamanında Bosnalı 
-Sırplar'a liderlik eden Karadziç'i yakalamayı umuyor.
+4 gedik<n>: Yüksek Temsilcilik Ofisi savaş suçu sanığı Radovan Karadziç' destekleyen 
+ağı çökerterek, söz konusu sanığın yakalanmasını kolaylaştırmayı 
+umuyor. Beth Kampschror Southeast European Times için Saraybosna'dan 
+bildiriyor - 04/03/03Radovan Karadziç Bosna Hersek'te silahlı korumalarla bir 
+güvenli evden diğerine rahatlıkla geçerek sürdürdüğü yaşamını, 
+kendisini BM Savaş Suçları Mahkemesi'nden kaçtığı yedinci yılında 
+koruyan, besleyen ve mal olarak destekleyen kişilerden oluşan ağ olmasa, 
+devam ettirmekte oldukça zorlanırdı kuşkusuz.Yüksek Temsilcilik Ofisi 
+(YTO), söz konusu ağda bir >>gedik<< açarak savaş zamanında Bosnalı 
+Sırplar'a liderlik eden Karadziç' yakalamayı umuyor.
 
     <e><p><l>gedik<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -4076,10 +4089,6 @@ yılında Osmanlı İmparatorluğu tarafından ele geçirilene kadar özerkti.
 yardım kampanyasına katıldılar.
 
     <e><p><l>felaketzede<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-4 faik<n>: 
-    <e><p><l>faik<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 4 eziyet<n>: 2001 yılında gönüllü olarak teslim olmasının ardından hakkındaki 
@@ -4331,10 +4340,6 @@ gösterdiğini söyledi.
     <e><p><l>barometre<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-4 bark<n>: 
-    <e><p><l>bark<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 4 barak<n>: 
     <e><p><l>barak<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -4351,10 +4356,6 @@ bir tebliğ aldılar.
 sürüsü) adlı grup yaklaşık 60 bin üyeye sahip.
 
     <e><p><l>bando<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-4 baki<n>: 
-    <e><p><l>baki<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 4 bağı<n>: 
@@ -4389,6 +4390,10 @@ Sorumlu Komiseri Günter Verheugen Pazar günü Alman ARD televizyonuna
 verdiği röportajda, "Siyasi hasar oldukça büyük," dedi.
 
     <e><p><l>ayrık<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+4 ayın<n><ki>: 
+    <e><p><l>ayın<s n="n"/><s n="ki"/></l><r>@<s n="n"/><s n="ki"/></r></p></e>
 
 ================================================================================
 4 astronot<n>: Kozmonotlar, >>astronotlar<< ve özel uzay yolcuları, uzay uçuşlarının 
@@ -4667,13 +4672,6 @@ serbest yüzmede Spiros Yanniotis.
     <e><p><l>tornado<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-3 tör<n>: Mecliste daha iyi bir temsil sağlanmadan, >>töre<< cinayetleri, kadına 
-yönelik şiddete son verme ve kadınların toplumun tüm alanlarındaki rolü 
-ve katılımını artırma konusunda daha fazla ilerleme kaydedilemez.
-
-    <e><p><l>tör<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 3 topbaş<n>: 
     <e><p><l>topbaş<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -4824,6 +4822,13 @@ durum değişebilir.
     <e><p><l>sözlük<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+3 sop<n>: Ayrıca reformlar için yararlı bir ivme sağlayarak, Avrupa 
+bütünleşmesinin sağladığı "havucun", geçmişte " >>sopa<<" içeren 
+Brüksel görüşmelerinin yerini almaya başladı.
+
+    <e><p><l>sop<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 3 sönük<n>: "Ülke yeni bir kaçakçılık yasasını geçirip bir devlet kaçakçılık 
 sığınma evi açmasına rağmen, bu çabalar yasa uygulama, mağdurları 
 koruma ve kaçakçılığı önleme alanlarında somut ve kritik derecede 
@@ -4842,6 +4847,10 @@ amaçlı bir dizi önlemin alınmasıyla 25 Haziran Çarşamba günü
 Podgorica'da >>sone<< erdi.
 
     <e><p><l>sone<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+3 sofa<n>: 
+    <e><p><l>sofa<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 3 simülatör<n>: Planlayıcılar >>simülatörler<<, bilgisayar donanımı, navigasyon 
@@ -5085,10 +5094,6 @@ konuşmaya çalışıp ortak bir zemin bulmaya çalışabiliriz," dedi.
     <e><p><l>planet<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-3 pire<n>: 
-    <e><p><l>pire<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 3 pilotaj<n>: Rapor hakkında resmi ayrıntılı bilgi verilmezken, basında kazanın 
 >>pilotaj<< hatasından kaynaklandığı yönünde haberler yer alıyor.
 
@@ -5172,10 +5177,6 @@ teknolojinin hazır olduğunu söylüyor.
     <e><p><l>nöroloji<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-3 necip<n>: 
-    <e><p><l>necip<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 3 namevcut<n>: Çalışmada bildirildiğine göre, mahkemeler çoğu zaman mülk devrini yasal 
 bir sözleşme yapılmadan onaylıyorlar ve bu da geçerli yasaya karşıtlık 
 oluşturuyor ve bir çok kayıp veya >>namevcut<< mülk sahibinin olduğu 
@@ -5198,6 +5199,10 @@ ve yeniden yapılanma çalışmalarına acilen ihtiyaç duyulan bu tabloyu
 tamamlayan diğer unsurlar.
 
     <e><p><l>müsait<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+3 muharrem<n>: 
+    <e><p><l>muharrem<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 3 müft<n>: Bulgaristan İçişleri Bakanlığı'ndan 20 Şubat Salı günü yapılan 
@@ -5288,10 +5293,6 @@ yardım teklif etti
     <e><p><l>menenjit<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-3 melih<n>: 
-    <e><p><l>melih<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 3 megavat<n>: Güney Bulgaristan'daki Maritsa Iztok 1 enerji kompleksi sahasında inşa 
 edilecek bu yeni tesis, toplam 670 >>megavat<< kapasiteye sahip iki üniteye ve 
 desülfürizasyon tesisatına sahip olacak.
@@ -5332,8 +5333,15 @@ tarafından çalındığı Ocak ayındaki bir olaydan kaynaklanıyor.
     <e><p><l>limited<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-3 latife<n>: 
-    <e><p><l>latife<s n="n"/></l><r>@<s n="n"/></r></p></e>
+3 lama<n>: Yerel haber ajans&amp;#305; FENA'ya verdi&amp;#287;i röportajda Pasiç, 
+onaylanan bütçelerin yakla&amp;#351;&amp;#305;k 
+yar&amp;#305;s&amp;#305;n&amp;#305;n oy pusulalar&amp;#305;n&amp;#305; 
+kar&amp;#351;&amp;#305; >>lamaya<< bile yetmeyece&amp;#287;i yönündeki 
+endi&amp;#351;elerini dile getirdi.Öte yandan SFOR, Çar&amp;#351;amba günü 
+kuzeydeki Gradiska kenti yak&amp;#305;nlar&amp;#305;nda önemli miktarda silah 
+ele geçirdi&amp;#287;ini bildirdi.
+
+    <e><p><l>lama<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 3 lagün<n>: Bakan, "Bugün itibarıyla, Cuke'nin Butrinti >>lagünü<< yakınlarındaki 
@@ -5403,7 +5411,7 @@ olduğuna dair şüpheler var.
 
 ================================================================================
 3 kriket<n>: Transilvanya Kriket Kulübü ilk uluslararası >>kriket<< maçını İngiliz 
-The Effigies'i konuk ederek oynadı.
+The Effigies' konuk ederek oynadı.
 
     <e><p><l>kriket<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -5485,7 +5493,7 @@ etmenler, çoklu dengeler, yol bağımlılıkları, >>kısırdöngüler<< ve
 
 ================================================================================
 3 kinci<n>: Polis, olay anında aracın içinde bulunan >>kinci<< polis memuru, 31 
-yaşındaki Vassilis Saraliotis'i de işbirliği iddiasıyla tutukladı.
+yaşındaki Vassilis Saraliotis' de işbirliği iddiasıyla tutukladı.
 
     <e><p><l>kinci<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -5542,11 +5550,11 @@ bunları hazırlayacakları >>kataloglar<< ve broşürlerle tanıtacaklar.
 ================================================================================
 3 kast<n>: Ne var ki, polis soruşturmasının ardından Pazar günü bir açıklama yapan 
 Cinciç, olayın yaşamına >>kast<< etmek isteyenlerin bir girişimi olduğunu 
-kabul etti.Sırbistan basınında yayımlanan haberler Cuma günkü kazayı 
-1999 muhalefet lideri olan Vuk Draskoviç'in dört yardımcısının 
+kabul etti.Sırbistan basınında yayımlanan haberler Cuma kazayı 1999 
+muhalefet lideri olan Vuk Draskoviç'in dört yardımcısının 
 öldürüldüğü kazaya benzettiler.Belgrad basınına göre Milenkoviç'in - 
 Miloşeviç'in Lahey'deki yargılanışı sırasında adı sık sık gündeme 
-gelen - eski gizli polis amiri Milorad Lukoviç'le yakın bağları bulunuyor.
+gelen - eski gizli polis amiri Milorad Lukoviç'e yakın bağları bulunuyor.
 
     <e><p><l>kast<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -5596,6 +5604,10 @@ bomba, çok sayıda anti-tank mayın, 75 mm'lik geri tepmesiz bir tüfek ve
 farklı >>kalibrelerde<< 2 bin 500 atışlık mühimmat yer alıyor.
 
     <e><p><l>kalibre<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+3 kahir<n>: 
+    <e><p><l>kahir<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 3 jip<n>: Kamuflaj üniformalarını giymiş olan protestocular yolu >>jipler<< ve 
@@ -5677,7 +5689,7 @@ kentinde meydana gelen deprem felaketi mağdurlarına 110 ton gıda ve
 ================================================================================
 3 idrar<n>: Sırp uzmanların aksine, Almanya'nın Wiesbaden kentinden gelen adli tıp 
 uzmanları Veruoviç'in ifadesine daha yakın sonuçlara vardılar.Bu arada 
-katil zanlısı Zvezdan Jovanoviç'i temsil eden avukat Nenad Vuskanoviç, 
+katil zanlısı Zvezdan Jovanoviç' temsil eden avukat Nenad Vuskanoviç, 
 müvekkilinden kan ve >>idrar<< örnekleri alınmasıyla ilişkili olarak kamu 
 önünde kanıt yaratma suçlamasında bulundu.
 
@@ -5717,15 +5729,11 @@ bulunuyor.
     <e><p><l>havari<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-3 hatıra<n>: Gazeteler Sırbistan Cumhurbaşkanı Boris Tadiç'in Potocari ziyaretinin yanı 
-sıra Temmuz 1995'te Srebrenica'da yaşanan olaylarla ilgili yorum ve 
->>hatıralara<< geniş yer verdiler.
+3 hasıla<n>: Türkiye'nin gayrı safi yurt içi >>hasılası<< (GSYİH) -bir ülkenin belli 
+bir yılda kazandığı veya var ettiği toplam varlık- 2006 yılında %6 
+oranında artarak neredeyse 400 milyar dolara ulaştı.
 
-    <e><p><l>hatıra<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-3 hasıl<n>: 
-    <e><p><l>hasıl<s n="n"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>hasıla<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 3 harçlık<n>: Milletvekillerine erken emeklilik ve normal maaşlarına ek olarak özel 
@@ -5752,7 +5760,7 @@ mali ilişkilerini sürdürüp sürdürmeme konusunda kararsız göründü.
 
 ================================================================================
 3 hala<n>: ATİNA, Yunanistan -- Avrupa İnsan Hakları Mahkemesi Perşembe (28 Kasım) 
-günü aldığı kararla Yunanistan Hükümeti'ni eski kral Konstantin, 
+günü aldığı kararla Yunanistan Hükümeti'i eski kral Konstantin, 
 kızkardeşi Prenses İrene ve >>halası<< Prenses Ekaterini'ye 13.7 milyon 
 Euro tazminat ödemeye mahkum etti.
 
@@ -5806,10 +5814,6 @@ haberi -- 11/08/06 İlk bisiklet eskizini İtalyan Leonardo da Vinci 15.
 yüzyıl sonlarında çizdi.
 
     <e><p><l>görkem<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-3 görel<n>: 
-    <e><p><l>görel<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 3 gömü<n>: Yerel basında Cumartesi günü çıkan haberlere göre, müfettişler 
@@ -5966,17 +5970,6 @@ bilincine kavuştu
     <e><p><l>duayen<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-3 drama<n>: Dikkat çekici tiyatro yapımları arasında klasik Yunan >>draması<< 
-"Electra"nın Büyük Amsterdam Tiyatrosu tarafından, Tennessee Williams'ın 
-"A Streetcar named Desire" ("Tutku Tramvayı") adlı yapıtının Bulgaristan 
-Ordu Tiyatrosu, Emilio Carballido'nun "Two Odours of the Rose" oyununun 
-Belgrad'ın Terazije Tiyatrosu ve "Who, When, Who With" (Kim, Ne Zaman, 
-Kiminle") adlı eserinin İstanbul Şehir Tiyatroları tarafından sahnelenişi 
-yer alıyor.
-
-    <e><p><l>drama<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 3 döşeli<n>: Ancak hiç çekinmeksizin turizmi BH'nin imajını değiştirmek için bir 
 araç olarak kullanmak istiyoruz."Ülke topraklarının yüzde 4'ü mayın 
 >>döşeli<< olsa da, ve BH'nin ufacık Adriyatik kıyı şeridi her yıl 
@@ -6006,8 +5999,8 @@ dahil bir dizi konuyu değerlendirmek üzere Pazartesi günü toplandı.
     <e><p><l>dökme<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-3 doğaçlama<n>: Salı günkü >>doğaçlama<< görüşmeyi Yunan muhalefet lideri Yorgo 
-Papandreu ve Yunanistan Cumhurbaşkanı Karolos Papuliyas ayarladı.
+3 doğaçlama<n>: Salı >>doğaçlama<< görüşmeyi Yunan muhalefet lideri Yorgo Papandreu ve 
+Yunanistan Cumhurbaşkanı Karolos Papuliyas ayarladı.
 
     <e><p><l>doğaçlama<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -6114,10 +6107,6 @@ yolundaki beklentileriyle, Atina Oyunları için >>çıtayı<< oldukça yüksek
 tuttular.
 
     <e><p><l>çıta<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-3 çelebi<n>: 
-    <e><p><l>çelebi<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 3 çeki<n><ca>: 
@@ -6298,10 +6287,6 @@ taraftar" olduklarını kaydetti.
 ================================================================================
 3 ayn<n><cpl_di>: 
     <e><p><l>ayn<s n="n"/><cpl_di></l><r>@<s n="n"/><cpl_di></r></p></e>
-
-================================================================================
-3 ayın<n><ki>: 
-    <e><p><l>ayın<s n="n"/><s n="ki"/></l><r>@<s n="n"/><s n="ki"/></r></p></e>
 
 ================================================================================
 3 avans<n>: Hükümetin Olympic Airways'in yeniden yapılandırılması ve 
@@ -6627,10 +6612,6 @@ sokularak yenilenebilir kaynaklardan enerji üretimine başlanacak.
     <e><p><l>tumba<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-2 tufan<n>: 
-    <e><p><l>tufan<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 2 tüberküloz<n>: UNICEF, 15 yıldır Bulgar >>tüberküloz<< aşılarını da kullanıyor.
 
     <e><p><l>tüberküloz<s n="n"/></l><r>@<s n="n"/></r></p></e>
@@ -6670,6 +6651,13 @@ kafalarının üzerinde durduğu iki buçuk saatlik hazin ve komik bir
 oldukça avantajlı.
 
     <e><p><l>toryum<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+2 tör<n>: Mecliste daha iyi bir temsil sağlanmadan, >>töre<< cinayetleri, kadına 
+yönelik şiddete son verme ve kadınların toplumun tüm alanlarındaki rolü 
+ve katılımını artırma konusunda daha fazla ilerleme kaydedilemez.
+
+    <e><p><l>tör<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 2 toptan<n>: 
@@ -6799,10 +6787,6 @@ bombaatar tüfek ve anti-tank mayını, 17 roket atar ve 105,000 parça
 şarap ve rakı ikram eder.
 
     <e><p><l>süslü<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-2 süryani<n>: 
-    <e><p><l>süryani<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 2 sümen<n>: Yurtiçinde ise &amp;#351;irketlere, siyasi iktidar&amp;#305; güçlendirme ve 
@@ -7029,12 +7013,12 @@ potansiyelini taşıdıklarını da sözlerine ekledi.
     <e><p><l>samuray<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-2 salah<n>: 
-    <e><p><l>salah<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 2 sakın<n><ca>: 
     <e><p><l>sakın<s n="n"/><s n="ca"/></l><r>@<s n="n"/><s n="ca"/></r></p></e>
+
+================================================================================
+2 saka<n>: 
+    <e><p><l>saka<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 2 sağın<n>: 
@@ -7423,6 +7407,10 @@ Lahey'deyken" kutlamak istediğini belirtti.
     <e><p><l>neşriyat<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+2 nedim<n>: 
+    <e><p><l>nedim<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 2 nebze<n>: Geçici olarak serbest bırakıldığı sırada yaptığı bir açıklamada 
 ise, Plavsiç, suçlu olduğunu kabul eden savunmasının "Masum Müslüman, 
 Hırvat ve Sırp kurbanlara bir >>nebze<< teselli sağlamasını" umduğunu 
@@ -7776,6 +7764,10 @@ hastanın verilerini elde etti.
     <e><p><l>koroner<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+2 kora<n>: 
+    <e><p><l>kora<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 2 konsantrasyon<n>: Hırvat kamu petrol rafinerisi INA'nın merkezi olan Sisak'ta kanser 
 vakalarındaki artışa neden olarak, endişe verici düzeydeki hava kalitesi 
 gösterildi. Southeast European Times için Zagreb'den Natasa Radiç'in haberi 
@@ -7806,14 +7798,6 @@ oluşturduğunu, bu nedenle Avrupa düzeyinde koordine edilmesi gerektiğini
 ifade etti.
 
     <e><p><l>komplike<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-2 kola<n>: Iliescu ayr&amp;#305;ca, Avrupa pazarlar&amp;#305;na girmelerini 
->>kolayla<<&amp;#351;t&amp;#305;raca&amp;#287;&amp;#305;n&amp;#305; söyleyerek 
-Çinli firmalar&amp;#305; Romanya'da yat&amp;#305;r&amp;#305;m yapmaya 
-ça&amp;#287;&amp;#305;rd&amp;#305;.
-
-    <e><p><l>kola<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 2 kolaj<n>: Sergide 150 taslak ve >>kolaj<< çalışması yer alıyor.
@@ -8353,11 +8337,8 @@ cumhurbaşkanlığı seçimlerinden yalnızca birkaç hafta önce, 25 Ağustos
     <e><p><l>hasım<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-2 hasıla<n>: Türkiye'nin gayrı safi yurt içi >>hasılası<< (GSYİH) -bir ülkenin belli 
-bir yılda kazandığı veya var ettiği toplam varlık- 2006 yılında %6 
-oranında artarak neredeyse 400 milyar dolara ulaştı.
-
-    <e><p><l>hasıla<s n="n"/></l><r>@<s n="n"/></r></p></e>
+2 hasıl<n>: 
+    <e><p><l>hasıl<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 2 harem<n>: 
@@ -8450,6 +8431,14 @@ sorunlardan ötürü - serbest bırakana değin, birkaç saat yeraltında
 alıkoydular.
 
     <e><p><l>görüşmeci<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+2 görel<n>: 
+    <e><p><l>görel<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+2 göreli<n>: 
+    <e><p><l>göreli<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 2 gömme<n>: 
@@ -8572,10 +8561,10 @@ söylüyor."Bilgi edinmemde bana yardımcı oldular.
 ================================================================================
 2 flama<n>: Uluslararası ana sponsor ise Coca-Cola.Olimpiyatlarda >>flamalar<<, reklam 
 panoları, bayraklar ve mevcut diğer yüzeylerde göreceğimiz diğer markalar 
-arasında ise John Hancock, Kodak, McDonald's, Panasonic, Samsung, 
-Schlumberger, Sports Illustrated/Time, Swatch, VISA ve Xerox yer 
-alıyor.Sponsorluklardan şimdiden 509 milyon euro, yani ATHOC'un hedeflediği 
-rakamın yüzde 37 fazlası elde edildi.
+arasında ise John Hancock, Kodak, McDonald', Panasonic, Samsung, Schlumberger, 
+Sports Illustrated/Time, Swatch, VISA ve Xerox yer alıyor.Sponsorluklardan 
+şimdiden 509 milyon euro, yani ATHOC'un hedeflediği rakamın yüzde 37 
+fazlası elde edildi.
 
     <e><p><l>flama<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -8627,11 +8616,15 @@ kadar sayıda >>fal<< kağıtları da koyar.
 ================================================================================
 2 faks<n>: Görünüşe göre cinayet emirleri veren bir aile ile uğraşıyoruz." dediği 
 belirtildi.Markoviç Pazar günü bir Karadağ gazetesine >>faks<< çekerek, 
-cinayette parmağı olduğunu savını reddederek Hükümet'i kocasının 
+cinayette parmağı olduğunu savını reddederek Hükümet' kocasının 
 Lahey'deki Savaş Suçları Mahkemesi'ndeki "parlak savunma"sına leke sürmeye 
 çalışmakla suçladı.
 
     <e><p><l>faks<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+2 faik<n>: 
+    <e><p><l>faik<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 2 eten<n>: Romen bilişim şirketleri, AB'nin >>eTEN<< teletıp projesine çözüm 
@@ -8829,8 +8822,8 @@ mağaracılık, geriyatri ve bakteriyoloji alanlarında liderlik etmişlerdi.
 
 ================================================================================
 2 doçent<n>: Lefkoşe Üniversitesi'nde >>doçent<< olarak görev yapan siyasi analist 
-Hubert Faustmann, Pazar günkü seçimlerin sonucunun "Kıbrıslı Rumların 
-%65'inin çözüm yanlısı net adaylara oy verdiğini" gösterdiğini söyledi.
+Hubert Faustmann, Pazar seçimlerin sonucunun "Kıbrıslı Rumların %65'inin 
+çözüm yanlısı net adaylara oy verdiğini" gösterdiğini söyledi.
 
     <e><p><l>doçent<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -8902,8 +8895,8 @@ bulunduğu ahşap mobilyalar yer alıyor.
     <e><p><l>dekorasyon<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-2 debi<n>: Tuna'nın Pazartesi günkü >>debisi<<, yılın bu zamanındaki normal hacmin 
-iki katı civarında saniyede 13,3 metreküp olarak ölçüldü.
+2 debi<n>: Tuna'nın Pazartesi >>debisi<<, yılın bu zamanındaki normal hacmin iki katı 
+civarında saniyede 13,3 metreküp olarak ölçüldü.
 
     <e><p><l>debi<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -8931,6 +8924,14 @@ başladım ama kelime >>dağarcığım<< kısıtlıydı,"diye anlatıyor.
     <e><p><l>dağarcık<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+2 cumartesi:gün<n><cpl_sa>: 
+    <e><p><l>cumartesi:gün<cumartesi</l><r>@<cumartesi</r></p></e>
+
+================================================================================
+2 cuma:gün<n><cpl_sa>: 
+    <e><p><l>cuma:gün<cuma</l><r>@<cuma</r></p></e>
+
+================================================================================
 2 conta<n>: 
     <e><p><l>conta<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -8952,6 +8953,14 @@ eleştirilere maruz kaldı.
 ================================================================================
 2 cer<n>: 
     <e><p><l>cer<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+2 çelebi<n>: 
+    <e><p><l>çelebi<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+2 celal<n>: 
+    <e><p><l>celal<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 2 casino<n>: 
@@ -9130,6 +9139,14 @@ galibiyeti getirdi.
     <e><p><l>başçavuş<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+2 bark<n>: 
+    <e><p><l>bark<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+2 barka<n>: 
+    <e><p><l>barka<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 2 barfiks<n>: Yunan jimnastikçi Vlassis Maras, 5 Nisan Pazar günü Milano'da düzenlenen 
 Avrupa Jimnastik Şampiyonası >>barfiks<< kategorisinde altın madalya 
 kazandı.
@@ -9143,10 +9160,6 @@ kazandı.
 ================================================================================
 2 baran<n>: 
     <e><p><l>baran<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-2 bala<n>: 
-    <e><p><l>bala<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 2 bakteriyel<n>: Murad: Kök hücreler, kanser, kardiyovasküler hastalıklar, >>bakteriyel<< 
@@ -9314,7 +9327,7 @@ olduğunu söylüyor.
     <e><p><l>apolitik<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-2 apolet<n>: Giden Genel Müdür Peter Walker, Salı günkü törende sembolik olarak 
+2 apolet<n>: Giden Genel Müdür Peter Walker, Salı törende sembolik olarak 
 >>apoletlerini<< ardılı Huruglica'ya teslim etti.
 
     <e><p><l>apolet<s n="n"/></l><r>@<s n="n"/></r></p></e>
@@ -9414,7 +9427,7 @@ gerçekleştirdi.
     <e><p><l>amfibi<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-2 amel<n>: Tasarı Bosna-Hersek'i, NATO'nun Barış için Ortaklık programı açısından 
+2 amel<n>: Tasarı Bosna-Hersek', NATO'nun Barış için Ortaklık programı açısından 
 güvenilir bir aday haline getirecek. Southeast European Times için 
 Saraybosna'dan Antonio Prlenda'nın haberi - 20/10/03Bosna-Hersek'in (BH) 
 savunma yapılarındaki reform süreci, Savunma Reform Komisyonu'nun (SRK) onay 
@@ -9565,6 +9578,10 @@ attığını söylemek >>abartı<< olmaz.
     <e><p><l>abartı<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+2 aba<n>: 
+    <e><p><l>aba<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 1 zula<n>: 
     <e><p><l>zula<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -9615,8 +9632,8 @@ geceleri kol gezerler.
     <e><p><l>zarp<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-1 yunus<n>: 
-    <e><p><l>yunus<s n="n"/></l><r>@<s n="n"/></r></p></e>
+1 zahiri<n>: 
+    <e><p><l>zahiri<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 1 yumurtalık<n>: 
@@ -9884,11 +9901,6 @@ bağlamında yapılması gerekenleri kapsıyor.
     <e><p><l>vargı<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-1 vah<n>: Yunanistan gerçek bir >>vaha<<," dedi.
-
-    <e><p><l>vah<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 1 vahim<n>: 
     <e><p><l>vahim<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -9941,10 +9953,6 @@ kişi katıldı.
 ================================================================================
 1 tutak<n>: 
     <e><p><l>tutak<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-1 turgay<n>: 
-    <e><p><l>turgay<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 1 tünik<n>: NEMEA, Yunanistan -- 36 ülkeden yüzlerce kişi, organizatörler tarafından 
@@ -10184,13 +10192,13 @@ bulunuyor.
 
 ================================================================================
 1 tekerrür<n>: Ülkelerin bayrakları diğer 19 üyenin bayraklarının yanına 
-çekilecek.International Herald Tribune gazetesinin Pazartesi günkü 
-sayısında, katılan ülkelerin başbakanlarının, "Bu ülkelerimiz için, 
-NATO için, Avrupa için ve tüm Avrupa-Atlantik toplumu için tarihi bir 
-başarıdır," sözleri yer aldı.Liderler, NATO'nun genişlemesindeki bu yeni 
-safhanın "Bölünmemiş, demokratik ve barışçı bir Avrupa yönündeki 
-ortak vizyonumuzun gerçekleşmesi yolunda atılmış bir diğer önemli 
-adımı temsil ettiğini" ve yaklaşık 50 milyon Avrupalının daha, tarihin 
+çekilecek.International Herald Tribune gazetesinin Pazartesi sayısında, 
+katılan ülkelerin başbakanlarının, "Bu ülkelerimiz için, NATO için, 
+Avrupa için ve tüm Avrupa-Atlantik toplumu için tarihi bir başarıdır," 
+sözleri yer aldı.Liderler, NATO'nun genişlemesindeki bu yeni safhanın 
+"Bölünmemiş, demokratik ve barışçı bir Avrupa yönündeki ortak 
+vizyonumuzun gerçekleşmesi yolunda atılmış bir diğer önemli adımı 
+temsil ettiğini" ve yaklaşık 50 milyon Avrupalının daha, tarihin 
 >>tekerrür<< etmeyeceğini bilerek kendisini daha güvende hissetmesini 
 sağlayacağını belirtti.Bulgaristan, Romanya ve diğer beş ülke İttifak 
 üyeliğine Kasım 2002 Prag zirvesinde, yani NATO'nun 1949 yılında 
@@ -10207,6 +10215,10 @@ AB'nin EULEX'in Kosova'nın her yerinde hemen UNMIK'in yerini alması
 karşılaşacağı söyledi.
 
     <e><p><l>tekdir<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+1 tefe<n>: 
+    <e><p><l>tefe<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 1 tefek<n>: Ufak >>tefek<< sorunlar olabilir, fakat gelecek yıl bu eksikliklerin de 
@@ -10346,6 +10358,10 @@ olanaklı hale gelmesiyle, Sırp pazarına geri dönmeye sıcak bakıyor.
 ================================================================================
 1 suskun<n>: 
     <e><p><l>suskun<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+1 süryani<n>: 
+    <e><p><l>süryani<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 1 sürek<n>: Ülke çapında bir dizi toprak kaymasına da yol açan seller yüzünden Sofya 
@@ -10594,10 +10610,6 @@ Trakya mezarı ortaya çıkardılar.
     <e><p><l>sıradağ<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-1 sin<n><cpl_sa>: 
-    <e><p><l>sin<s n="n"/><cpl_sa></l><r>@<s n="n"/><cpl_sa></r></p></e>
-
-================================================================================
 1 sin<n><cpl_mis>: 
     <e><p><l>sin<s n="n"/><cpl_mis></l><r>@<s n="n"/><cpl_mis></r></p></e>
 
@@ -10767,7 +10779,7 @@ eşliğinde üç defa dönerler.
     <e><p><l>semai<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-1 selüloz<n>: Raiffeisen Investment, SAPP ve Drawa Trading'i içine alan Avusturyalı AHW 
+1 selüloz<n>: Raiffeisen Investment, SAPP ve Drawa Trading' içine alan Avusturyalı AHW 
 konsorsiyumu, Bosna-Hersek'in >>selüloz<< ve kağıt üretiminde lider 
 kuruluşu Natron'u yönetecek yeni bir ortak girişimin yüzde 70'ini kontrol 
 edecek.
@@ -10968,6 +10980,10 @@ getirilmesi bekleniyor.
 ================================================================================
 1 salam<n>: 
     <e><p><l>salam<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+1 salah<n>: 
+    <e><p><l>salah<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 1 saksofon<n>: Bas >>saksofon<< ve video ekranı projeksiyonları eşliğinde etkileyici bir 
@@ -11311,6 +11327,10 @@ tütünle ilgili diğer eşyalar sergileniyor.
     <e><p><l>perva<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+1 perşembe:gün<n><cpl_sa>: 
+    <e><p><l>perşembe:gün<perşembe</l><r>@<perşembe</r></p></e>
+
+================================================================================
 1 peroksit<n>: Grubun, askeri fünyeler ve 550 kilogram TNT patlayıcı güce sahip bombalar 
 üretmelerine olanak sağlayacak yaklaşık 730 kilogram hidrojen >>peroksit<< 
 stokladığı iddia ediliyor.
@@ -11357,6 +11377,14 @@ ve >>pedagog<< gibi ben de bakanlığın eğitiminden geçtim ve bundan
 memnunum.
 
     <e><p><l>pedagog<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+1 pazartesi:gün<n><cpl_sa>: 
+    <e><p><l>pazartesi:gün<pazartesi</l><r>@<pazartesi</r></p></e>
+
+================================================================================
+1 pazar:gün<n><cpl_sa>: 
+    <e><p><l>pazar:gün<pazar</l><r>@<pazar</r></p></e>
 
 ================================================================================
 1 patra<n>: 
@@ -11639,7 +11667,7 @@ getirilmesi yer alıyor.
     <e><p><l>obligasyon<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-1 nörolog<n>: Stanisiç'i muayene eden bir >>nörolog<<, Stanisiç'in hala ayakta durma ve 
+1 nörolog<n>: Stanisiç' muayene eden bir >>nörolog<<, Stanisiç'in hala ayakta durma ve 
 yürümede problem yaşadığını söyledi.
 
     <e><p><l>nörolog<s n="n"/></l><r>@<s n="n"/></r></p></e>
@@ -11749,6 +11777,10 @@ etmektedir.
     <e><p><l>nektar<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+1 necip<n>: 
+    <e><p><l>necip<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 1 nazizm<n>: 
     <e><p><l>nazizm<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -11776,7 +11808,7 @@ verilecek.
 Liberal Parti'nin (HSLS) ise, %5 barajın altında kalması bekleniyor.HDZ, 
 Hırvatistan'daki en kuvvetli parti olmasına rağmen, parti lideri Ivo 
 Sanader, sağ ve merkez sağdaki muhalefet partileri (HSLS, eski dışişleri 
-bakanı Mate Granic'in Demokratik Merkez'i ve ortodoks >>nasyonalist<< Anto 
+bakanı Mate Granic'in Demokratik Merkez' ve ortodoks >>nasyonalist<< Anto 
 Dapic liderliğindeki Hırvat Haklar Partisi) ile, sağ partilerden oluşacak 
 muhtemel bir koalisyon üzerine görüşmelere başladı.
 
@@ -11809,10 +11841,6 @@ oluşmaktadır: İlk evrede, semazenler neyin hüzünlü >>nağmeleri<<
 eşliğinde üç defa dönerler.
 
     <e><p><l>nağme<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-1 nafiz<n>: 
-    <e><p><l>nafiz<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 1 müzikolog<n>: 
@@ -11854,8 +11882,8 @@ sürdürmesine verdiği destek yineleniyor.
 
 ================================================================================
 1 mucizevi<n>: LİZBON, Portekiz -- Yunanistan 2004 Avrupa Şampiyonasındaki >>mucizevi<< 
-çıkışını, 1 Temmuz Perşembe gecesi oynanan maçta Çek Cumhuriyeti'ni 
-1-0 yenip finale yükselerek de sürdürdü.
+çıkışını, 1 Temmuz Perşembe gecesi oynanan maçta Çek Cumhuriyeti'i 1-0 
+yenip finale yükselerek de sürdürdü.
 
     <e><p><l>mucizevi<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -11883,10 +11911,6 @@ devam ediyoruz," şeklinde sürdürdü.Yunanistan, güvenlik düzenlemeleri
 için 640 milyon euroluk bir bütçe ayırmış durumda.
 
     <e><p><l>mübalağa<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-1 muazzez<n>: 
-    <e><p><l>muazzez<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 1 muavin<n>: Tihiç'in bu açıklaması, BH Federasyonu Haber Alma Teşkilatı müdür 
@@ -11995,6 +12019,10 @@ bir projeyi 26 Eylül Cuma günü tamamladı.
     <e><p><l>memure<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+1 melih<n>: 
+    <e><p><l>melih<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 1 melankolik<n>: İsveç Akademisi 2006 Nobel Edebiyat Ödülü'nü verirken Pamuk'un "doğduğu 
 şehrin >>melankolik<< ruhunu arayışı"ndan bahsederek, "kültürlerin 
 çarpışması ve birlikteliği için yeni simgeler keşfettiğini" belirtti.
@@ -12088,6 +12116,10 @@ lifli bir yapıya sahip.
     <e><p><l>madam<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+1 maça<n>: 
+    <e><p><l>maça<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 1 longa<n>: Bulgar heykeltraş Yanko Bonev'in çalışmaları ve Bulgaristan'daki SOS 
 Çocuk Köyleri yönetim kurulu başkanı Dr. Rosen Kolarov'un siyah-beyaz 
 fotoğraflarının yer aldığı "Ars >>longa<<, vita brevis est" başlıklı 
@@ -12157,6 +12189,10 @@ ediyorlar.
     <e><p><l>lejyoner<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+1 latife<n>: 
+    <e><p><l>latife<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 1 lanet<n>: Perşembe günü oybirliğiyle kabul edilen bir kararda Konsey, bütün 
 devletleri "bu terör olaylarının faillerini, düzenleyenleri ve 
 destekleyenleri adalete teslim etmek için gösterilen çabalarda 
@@ -12171,17 +12207,6 @@ George Robertson, "Bu barbarlıkları gerçekleştiren teröristler, bütün
 medeni insanların >>lanetini<< almıştır," dedi.
 
     <e><p><l>lanet<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-1 lama<n>: Yerel haber ajans&amp;#305; FENA'ya verdi&amp;#287;i röportajda Pasiç, 
-onaylanan bütçelerin yakla&amp;#351;&amp;#305;k 
-yar&amp;#305;s&amp;#305;n&amp;#305;n oy pusulalar&amp;#305;n&amp;#305; 
-kar&amp;#351;&amp;#305; >>lamaya<< bile yetmeyece&amp;#287;i yönündeki 
-endi&amp;#351;elerini dile getirdi.Öte yandan SFOR, Çar&amp;#351;amba günü 
-kuzeydeki Gradiska kenti yak&amp;#305;nlar&amp;#305;nda önemli miktarda silah 
-ele geçirdi&amp;#287;ini bildirdi.
-
-    <e><p><l>lama<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 1 lak<n>: 
@@ -12351,10 +12376,6 @@ suçlanmışlardı.
     <e><p><l>korelasyon<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-1 kora<n>: 
-    <e><p><l>kora<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 1 konur<n><cpl_sa>: Eski maddeler yeniden >>konursa<<, bunu kimse kabul etmeyecektir," dedi.
 
     <e><p><l>konur<s n="n"/><cpl_sa></l><r>@<s n="n"/><cpl_sa></r></p></e>
@@ -12446,6 +12467,10 @@ kutladıkları film, >>kolektivizmin<< bireysel kaderler üzerindeki etkisini
 konu alan bir trajikomedi.
 
     <e><p><l>kolektivizm<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+1 kola<n><cpl_di>: 
+    <e><p><l>kola<s n="n"/><cpl_di></l><r>@<s n="n"/><cpl_di></r></p></e>
 
 ================================================================================
 1 kokpit<n><ki>: 
@@ -12880,6 +12905,10 @@ sonra köpekler kokuyu tanıyor ve kokuyu aldıkları anda oturmaları
     <e><p><l>kaktüs<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+1 kabile<n><cpl_di>: 
+    <e><p><l>kabile<s n="n"/><cpl_di></l><r>@<s n="n"/><cpl_di></r></p></e>
+
+================================================================================
 1 kabarcık<n>: Yarışmanın birincilik ödülü, "Hava >>kabarcıkları<< ve ses analizi 
 yoluyla soda kalite testi" konulu projesiyle Makedon Riste Popeski-Dimovski'ye 
 verildi.
@@ -13300,6 +13329,10 @@ Basescu'yu görevden alıp Makovey'in istifasını sağlamaya çalışıyor.
     <e><p><l>hele<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+1 hay<n>: 
+    <e><p><l>hay<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 1 haydin<n>: 
     <e><p><l>haydin<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -13449,10 +13482,6 @@ yüzde 16 >>götürü<< kr ve gelir vergisi önerisinde de bulundu.
 uymaması ve tiyatro ruhuna adanmışlığıyla" tanınıyor.
 
     <e><p><l>görenek<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
-1 göreli<n>: 
-    <e><p><l>göreli<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 1 gönen<n>: 
@@ -14622,17 +14651,6 @@ karşıya olduğunu da belirtiyor.
     <e><p><l>cebri<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-1 cebir<n>: İtalyanların ülkelerindeki Rumen toplumunu sorumlu tuttukları bir suç 
-dalgası, göçmenlere karşı tedbir alınması ve asayiş tedbirlerinin 
-artırılması yönünde çağrılara yol açtı. Southeast European Times 
-için Bükreş'ten Paul Ciocoiu'nun haberi -- 02/03/09 İtalya'da son birkaç 
-haftadır artış gösteren ve Rumen göçmenlerin sorumlu tutulduğu >>cebri<< 
-ve cinsel suçlar, benzer bir durumdan bir yıl sonra halk arasında yabancı 
-düşmanlığı duygularını yeniden ateşledi.
-
-    <e><p><l>cebir<s n="n"/></l><r>@<s n="n"/></r></p></e>
-
-================================================================================
 1 çatak<n>: 
     <e><p><l>çatak<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -14654,6 +14672,10 @@ pop müzik festivalinde Altın Geyik ödülünü kazandı.
 ================================================================================
 1 çağdışı<n>: 
     <e><p><l>çağdışı<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
+1 çağa<n>: 
+    <e><p><l>çağa<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 1 buzultaş<n>: Zlatni Mostove (Altın Köprüler) bölhgesinde, dağ yamacından aşağı 
@@ -15086,6 +15108,10 @@ bilinenleridir.
     <e><p><l>bakı<s n="n"/><s n="ca"/></l><r>@<s n="n"/><s n="ca"/></r></p></e>
 
 ================================================================================
+1 baki<n>: 
+    <e><p><l>baki<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 1 baha<n>: 
     <e><p><l>baha<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
@@ -15153,6 +15179,10 @@ günleri yer alıyor.
     <e><p><l>ayartı<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
+1 aya<n>: 
+    <e><p><l>aya<s n="n"/></l><r>@<s n="n"/></r></p></e>
+
+================================================================================
 1 ayaktakım<n>: Araştırmacı gazeteciler ve yolsuzlukla mücadele eden sivil toplum 
 örgütleri arasındaki işbirliğinin arttırılması da yolsuzluk 
 skandalları ve >>ayaktakımı<< karşıtı yayınlar arasında görülen 
@@ -15169,7 +15199,7 @@ bulundu.
     <e><p><l>avanta<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-1 avangart<n>: Rus >>avangardının<< en tanınmış isimlerinden birini -- Kazimir Malevich'i 
+1 avangart<n>: Rus >>avangardının<< en tanınmış isimlerinden birini -- Kazimir Malevich' 
 (1878 - 1935) -- tanıtan sergi 6 Aralık'ta Üsküp'teki Davut Paşa 
 Müzesinde açıldı.
 
@@ -15261,9 +15291,8 @@ bu yılın bütçesinde gelirler ve harcamalarda 20 milyon dolarlık
     <e><p><l>arsenik<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-1 arp<n>: Başlıca ekinler buğday, mısır, >>arpa<<, soya fasulyesi ve patates.
-
-    <e><p><l>arp<s n="n"/></l><r>@<s n="n"/></r></p></e>
+1 arpa<n>: 
+    <e><p><l>arpa<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
 1 ar<n><cpl_mis>: 
@@ -15401,7 +15430,7 @@ doğmuştu.
     <e><p><l>amonyak<s n="n"/></l><r>@<s n="n"/></r></p></e>
 
 ================================================================================
-1 amme<n>: Yargı Konseyi'ni tamamlamamız, >>amme<< davaları yasasını çıkarmamız ve 
+1 amme<n>: Yargı Konseyi'i tamamlamamız, >>amme<< davaları yasasını çıkarmamız ve 
 polis yasasını uygulamaya koymamız gerekiyor." dedi.
 
     <e><p><l>amme<s n="n"/></l><r>@<s n="n"/></r></p></e>
