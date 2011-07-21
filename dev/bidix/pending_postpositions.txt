@@ -1,9 +1,9 @@
     594 ^@yakında<postp>$
-    504 ^@beri<postp>$
-    274 ^@itibaren<postp>$
+    505 ^@beri<postp>$
+    275 ^@itibaren<postp>$
     159 ^@dolayı<postp>$
      37 ^@anki<postp>$
-     18 ^@bile<postp>$
+     19 ^@bile<postp>$
      16 ^@süresince<postp>$
      12 ^@yakında<postp><p2s>$
       2 ^@bile<postp><p2s>$

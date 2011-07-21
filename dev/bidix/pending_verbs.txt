@@ -1,8 +1,8 @@
     440 dur<v><pass><t_imp><2s>/durul<v><t_imp><2s>
     397 yas<v><t_imp><2s>
     253 terk et<v><t_imp><2s>
-    203 kar<v><t_imp><2s>
     201 iade et<v><t_imp><2s>
+    199 kar<v><t_imp><2s>
     183 oy al<v><t_imp><2s>
     180 yerin<v><t_imp><2s>
     139 oy ver<v><t_imp><2s>
@@ -13,14 +13,14 @@
      77 bay<v><t_imp><2s>
      70 sok<v><pass><t_imp><2s>/sokul<v><t_imp><2s>
      66 keşfet<v><t_imp><2s>
-     53 pazarla<v><t_imp><2s>
+     52 pazarla<v><t_imp><2s>
      49 sonuçla<v><pass><t_imp><2s>/sonuçlan<v><t_imp><2s>
+     43 ban<v><t_imp><2s>
      41 yönlen<v><t_imp><2s>
-     41 ban<v><t_imp><2s>
      40 on<v><t_imp><2s>
      38 dil<v><t_imp><2s>
      37 cesaretlen<v><t_imp><2s>
-     35 onurlan<v><t_imp><2s>
+     36 onurlan<v><t_imp><2s>
      26 şekillen<v><t_imp><2s>
      26 resmet<v><t_imp><2s>
      26 kundakla<v><t_imp><2s>
@@ -61,7 +61,6 @@
      12 bağır<v><t_imp><2s>
      11 yeşer<v><t_imp><2s>
      11 üz<v><t_imp><2s>
-     11 tap<v><t_imp><2s>
      11 sıva<v><t_imp><2s>
      11 sakın<v><t_imp><2s>
      11 lekele<v><t_imp><2s>
@@ -71,6 +70,7 @@
      11 damgala<v><t_imp><2s>
      11 dalgalan<v><t_imp><2s>
      10 yuvarla<v><t_imp><2s>
+     10 tap<v><t_imp><2s>
      10 rakamla<v><t_imp><2s>
      10 övün<v><t_imp><2s>
      10 kayna<v><t_imp><2s>
@@ -120,6 +120,7 @@
       7 tekle<v><t_imp><2s>
       7 sakatla<v><t_imp><2s>
       7 sabırsızlan<v><t_imp><2s>
+      7 kilitle<v><t_imp><2s>
       7 havalan<v><t_imp><2s>
       7 hastalan<v><t_imp><2s>
       7 esinle<v><t_imp><2s>
@@ -132,6 +133,7 @@
       6 yelten<v><t_imp><2s>
       6 yasa<v><t_imp><2s>
       6 yalvar<v><t_imp><2s>
+      6 yakınsa<v><t_imp><2s>
       6 tutuş<v><t_imp><2s>
       6 taçlan<v><t_imp><2s>
       6 susa<v><t_imp><2s>
@@ -140,7 +142,6 @@
       6 öfkelen<v><t_imp><2s>
       6 mühürle<v><t_imp><2s>
       6 kıs<v><t_imp><2s>
-      6 kilitle<v><t_imp><2s>
       6 katet<v><t_imp><2s>
       6 işit<v><t_imp><2s>
       6 indirge<v><t_imp><2s>
@@ -169,7 +170,6 @@
       4 yasla<v><t_imp><2s>
       4 yan<v><pass><t_imp><2s>/yanıl<v><t_imp><2s>
       4 yakış<v><t_imp><2s>
-      4 yakınsa<v><t_imp><2s>
       4 yağla<v><t_imp><2s>
       4 tökezle<v><t_imp><2s>
       4 terket<v><t_imp><2s>
@@ -249,7 +249,6 @@
       2 üş<v><t_imp><2s>
       2 usan<v><t_imp><2s>
       2 ürper<v><t_imp><2s>
-      2 ula<v><t_imp><2s>
       2 ufal<v><t_imp><2s>
       2 uçuş<v><t_imp><2s>
       2 üçle<v><t_imp><2s>
@@ -328,7 +327,6 @@
       1 uyukla<v><t_imp><2s>
       1 ut<v><t_imp><2s>
       1 üstele<v><t_imp><2s>
-      1 unla<v><t_imp><2s>
       1 umutlan<v><t_imp><2s>
       1 tütsüle<v><t_imp><2s>
       1 tozlan<v><t_imp><2s>
