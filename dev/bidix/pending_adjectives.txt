@@ -1,26 +1,15 @@
-      8 ^@birleş<v><caus><dvn_yici><adj>$
-      7 ^@hafifle<v><caus><dvn_yici><adj>$
-      6 ^@cay<v><caus><dvn_yici><adj>$
-      4 ^@yıl<v><caus><dvn_yici><adj>$
+    500 ^@kesin<adj>$
       3 ^@yanıl<v><caus><dvn_yici><adj>$
       3 ^@sersemle<v><caus><dvn_yici><adj>$
       3 ^@cesaretlen<v><caus><dvn_yici><adj>$
       2 ^@ürper<v><caus><dvn_yici><adj>$
       1 ^@yüzsüz<adj>$
-      1 ^@yatış<v><caus><dvn_yici><adj>$
       1 ^@tökezle<v><caus><dvn_yici><adj>$
       1 ^@sakın<v><caus><dvn_yici><adj>$
       1 ^@sağal<v><caus><dvn_yici><adj>$
-      1 ^@pekiş<v><caus><dvn_yici><adj>$
       1 ^@pek<adj>$
       1 ^@oyuk<adj>$
       1 ^@gücen<v><caus><dvn_yici><adj>$
-      1 ^@göze<v><caus><dvn_yici><adj>$
       1 ^@eğlen<v><caus><dvn_yici><adj>$
       1 ^@dikey<adj>$
-      1 ^@daral<v><caus><dvn_yici><adj>$
       1 ^@bunal<v><caus><dvn_yici><adj>$
-      1 ^@bilgilen<v><caus><dvn_yici><adj>$
-      1 ^@azmet<v><caus><dvn_yici><adj>$
-      1 ^@arın<v><caus><dvn_yici><adj>$
-      1 ^@alevlen<v><caus><dvn_yici><adj>$

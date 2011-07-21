@@ -1,4 +1,4 @@
-   1582 ^@gün<adv><ki>$
+    294 ^@gün<adv><ki>$
       2 ^@resen<adv>$
       2 ^@iğrenç<adv>$
       1 ^@eğreti<adv>$

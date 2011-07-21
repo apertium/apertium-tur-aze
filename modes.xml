@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
+
   <mode name="tr-az" install="yes">
     <pipeline>
       <program name="hfst-proc">
@@ -18,6 +19,29 @@
         <file name="tr-az.autobil.bin"/>
       </program>
       <program name="hfst-proc $1">
+        <file name="tr-az.autogen.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+ 
+  <mode name="tr-az-debug" install="no">
+    <pipeline>
+      <program name="hfst-proc">
+        <file name="tr-az.automorf.hfst"/>
+      </program>
+      <program name="cg-proc">
+        <file name="tr-az.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="tr-az.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-tr-az.tr-az.t1x"/>
+        <file name="tr-az.t1x.bin"/>
+        <file name="tr-az.autobil.bin"/>
+      </program>
+      <program name="hfst-proc -d">
         <file name="tr-az.autogen.hfst"/>
       </program>
     </pipeline>
