@@ -154,6 +154,7 @@ LIST VN/mak = (vn_mak) ;
 LIST VN/yis = (vn_yis) ;
 LIST CP/ken = (v cpl_ken) ;
 LIST CV/mak = (cv_mak) ;
+LIST CV/dik = (cv_dik) ;
 
 
 ##DERIVATIVES
@@ -195,6 +196,7 @@ LIST POST-MAK = ("için"i postp) ;
 LIST POST-GEN = ("yakında"i postp) ;
 
 
+LIST Aor = t_aor ;
 LIST Past = t_past ;
 
 LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist exist cpl_di cpl_mis ;
@@ -635,3 +637,5 @@ REMOVE Past IF (1 V) ;
 REMOVE (cpl_di) IF (1 VN/mak LINK 1 V) ;
 ## Polislerin hepsi [0]yardım etmek istemeyebiliyor.
 
+REMOVE Aor IF (1 CV/dik);
+## [0]Gerçekler oldukça çatışan sinyaller vermektedir.
