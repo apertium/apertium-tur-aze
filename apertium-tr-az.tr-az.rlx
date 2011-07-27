@@ -199,7 +199,7 @@ LIST POST-GEN = ("yakında"i postp) ;
 LIST Aor = t_aor ;
 LIST Past = t_past ;
 
-LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist exist cpl_di cpl_mis ;
+LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist exist cpl_di cpl_mis t_makta ;
 
 SET FINITE-NOSUB = FINITE - CP/ken ;
 
