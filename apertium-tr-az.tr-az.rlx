@@ -195,6 +195,7 @@ LIST POST-MAK = ("için"i postp) ;
 LIST POST-GEN = ("yakında"i postp) ;
 
 
+LIST Past = t_past ;
 
 LIST FINITE = t_narr t_aor t_cont t_fut t_past nexist exist cpl_di cpl_mis ;
 
@@ -627,3 +628,10 @@ REMOVE Prc/acak IF (NOT 0 ABS);
 SELECT NP IF (1 NP) (0 ABS) (0 ABS) ;
 
 REMOVE Dat IF (1 PUNCT) ;
+
+REMOVE Past IF (1 V) ;
+## Polislerin hepsi [0]yardım etmek istemeyebiliyor.
+
+REMOVE (cpl_di) IF (1 VN/mak LINK 1 V) ;
+## Polislerin hepsi [0]yardım etmek istemeyebiliyor.
+
