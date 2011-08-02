@@ -193,7 +193,7 @@ LIST POST-DAT = ("doğru"i postp) ("göre"i postp) ("kadar"i postp) ("karşı"i 
 LIST POST-ABL = ("önce"i postp) ("sonra"i postp) ("beri"i postp) ("itibaren"i postp) ("dolayı"i postp) ("başka"i postp) ("rağmen"i postp) ("yana"i postp) ;
 LIST POST-TEM = ("sırasında"i N PxSg3 loc *3s) ;
 LIST POST-MAK = ("için"i postp) ;
-LIST POST-GEN = ("yakında"i postp) ;
+LIST POST-GEN = ("yakında"i postp) ("ortasında" postp) ("üstünde" postp) ("altında" postp) ;
 
 
 LIST Aor = t_aor ;
@@ -614,7 +614,7 @@ SELECT ("kadın"i) ;
 SELECT Num IF (1 CA) (2 N) (3 V/SP) ;
 
 ## [0]altı da erker var
-## altı selects N now
+## altı selects Num now
 
 REMOVE Imper IF (NOT 1 EOS) ;
 
