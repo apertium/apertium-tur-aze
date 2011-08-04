@@ -84,7 +84,7 @@
      15 ^@celil<n>$
      15 ^@büyükşehir<n>$
      15 ^@batman<n>$
-     15 ^@acem<n>$
+     15 ^@<n>$
      14 ^@yağma<n>$
      14 ^@taşeron<n>$
      14 ^@mersin<n>$
