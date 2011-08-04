@@ -1,3 +1,15 @@
 /*.bin
+/*.hfst
 /*.mode
+/.deps
+/Makefile
+/Makefile.in
+/aclocal.m4
+/automa4te.cache
+/config
+/config.in
+/config.log
+/install.sh
+/missing
 /modes
+/stamp-h1
