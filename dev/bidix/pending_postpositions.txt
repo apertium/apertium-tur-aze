@@ -2,11 +2,11 @@
     505 ^@beri<postp>$
     275 ^@itibaren<postp>$
     159 ^@dolayı<postp>$
+     37 ^@ortasında<postp>$
      37 ^@anki<postp>$
      19 ^@bile<postp>$
      16 ^@süresince<postp>$
-     12 ^@yakında<postp><p2s>$
-      2 ^@bile<postp><p2s>$
+     14 ^@üstünde<postp>$
       1 ^@yakında<postp><3p>$
-      1 ^@öte<postp><dat>$
+      1 ^@ortasında<postp><cpl_di><3s>$
       1 ^@ile<postp>$

@@ -141,6 +141,7 @@
      27 ^@Jeremiç<np><cog><apos>$
      27 ^@Brankoviç<np><cog><apos>$
      27 ^@Bajiç<np><cog>$
+     26 ^@SETimes<np><al>$
      26 ^@Jociç<np><cog><apos>$
      26 ^@Daviniç<np><cog><apos>$
      26 ^@Caviç<np><cog><apos>$
@@ -412,6 +413,7 @@
       5 ^@Vukoviç<np><cog><apos>$
       5 ^@Vuciniç<np><cog><apos>$
       5 ^@Simonoviç<np><cog><apos>$
+      5 ^@SETimes<np><al><apos>$
       5 ^@Serifoviç<np><cog><apos>$
       5 ^@Serifoviç<np><cog>$
       5 ^@Scekiç<np><cog>$
@@ -455,6 +457,7 @@
       3 ^@Trbiç<np><cog><apos>$
       3 ^@Traykoviç<np><cog><apos>$
       3 ^@Simunoviç<np><cog><apos>$
+      3 ^@SETimes<np><al>$]
       3 ^@Sefer<np>$
       3 ^@Sainoviç<np><cog><apos>$
       3 ^@Sadoviç<np><cog><apos>$
@@ -513,6 +516,7 @@
       1 ^@Topcagiç<np><cog><apos>$
       1 ^@Tihiç<np><cog><apos><cpl_di>$
       1 ^@Simoviç<np><cog><apos>$
+      1 ^@Seçil<np><cpl_di>$
       1 ^@Saffet<np>$
       1 ^@Raseviç<np><cog><apos>$
       1 ^@Ramiç<np><cog><apos>$
