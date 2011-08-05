@@ -1,69 +1,24 @@
-   6029 ^@pazartesi gün<n>$
-   5369 ^@salı gün<n>$
-   5005 ^@perşembe gün<n>$
-   4080 ^@cuma gün<n>$
    2877 ^@pazar gün<n>$
-   2421 ^@bas<n>$
+   2420 ^@bas<n>$
    2222 ^@cumartesi gün<n>$
-   1492 ^@dan<n>$
-    454 ^@car<n>$
-    366 ^@cali<n>$
-    365 ^@tak<n>$
-    316 ^@verdi<n>$
-    313 ^@günü<n>$
-    305 ^@adem<n>$
-    298 ^@baz<n>$
-    268 ^@öl<n>$
-    227 ^@dini<n>$
-    178 ^@öl<n><cpl_di>$
-    160 ^@açacak<n>$
-    145 ^@izlem<n>$
-    134 ^@la<n>$
-    120 ^@anma<n>$
-    109 ^@onu<n>$
      83 ^@daha<n>$
      83 ^@ar<n>$
      74 ^@kay<n>$
      74 ^@bot<n>$
-     72 ^@ayın<n>$
-     69 ^@geleni<n>$
-     63 ^@elem<n>$
-     62 ^@tim<n>$
-     61 ^@aksi<n>$
      53 ^@ti<n>$
      51 ^@dink<n>$
-     50 ^@karı<n>$
-     46 ^@öl<n><cpl_mis>$
      46 ^@no<n>$
-     46 ^@bide<n>$
      45 ^@karasu<n>$
-     38 ^@tem<n>$
      38 ^@re<n>$
      36 ^@od<n>$
-     34 ^@bat<n>$
-     33 ^@bası<n>$
-     31 ^@dul<n>$
-     30 ^@ifa<n>$
      27 ^@taba<n><ca>$
-     27 ^@kesme<n>$
-     27 ^@gen<n>$
      27 ^@bot<n><cpl_sa>$
-     26 ^@bono<n>$
-     26 ^@belen<n>$
-     25 ^@tahmini<n>$
-     25 ^@han<n>$
-     25 ^@erkan<n>$
-     25 ^@eğer<n>$
-     25 ^@çizme<n>$
-     24 ^@örtbas<n>$
-     23 ^@otopark<n>$
-     22 ^@ter<n>$
+     22 ^@dana<n>$
      21 ^@los<n>$
      21 ^@ayn<n>$
      20 ^@karma<n>$
      20 ^@kalbi<n>$
      20 ^@güvenoyu<n>$
-     19 ^@tokyo<n>$
      19 ^@gözönü<n>$
      19 ^@gökyüz<n>$
      18 ^@roketatar<n>$
@@ -75,89 +30,31 @@
      16 ^@oil<n>$
      16 ^@kabir<n>$
      16 ^@it<n>$
-     15 ^@sanatsever<n>$
-     15 ^@pena<n>$
-     15 ^@lake<n>$
      15 ^@karış<n><cpl_mis>$
-     15 ^@hatta<n>$
-     15 ^@dok<n>$
-     15 ^@celil<n>$
-     15 ^@büyükşehir<n>$
-     15 ^@batman<n>$
-     15 ^@acem<n>$
-     14 ^@yağma<n>$
-     14 ^@taşeron<n>$
      14 ^@mersin<n>$
-     14 ^@çalık<n>$
-     14 ^@beşer<n>$
      14 ^@benzin<n>$
-     13 ^@org<n>$
-     13 ^@kut<n>$
-     13 ^@hukuken<n>$
      13 ^@güvenoy<n>$
-     12 ^@sınam<n>$
-     12 ^@samsun<n>$
      12 ^@remi<n>$
-     12 ^@pahal<n>$
-     12 ^@özen<n>$
-     12 ^@laf<n>$
      12 ^@hu<n>$
      12 ^@es<n>$
-     12 ^@bırakı<n>$
-     11 ^@şantiye<n>$
-     11 ^@fırt<n>$
-     11 ^@blum<n>$
-     10 ^@tük<n>$
      10 ^@tayip<n>$
      10 ^@tapu<n>$
-     10 ^@seferi<n>$
      10 ^@malvarlık<n>$
-     10 ^@kardiyolog<n>$
-     10 ^@gereç<n>$
-     10 ^@eşref<n>$
-     10 ^@erg<n>$
-     10 ^@burma<n>$
-     10 ^@birlikte<n>$
-     10 ^@birçok<n>$
-     10 ^@besleme<n>$
       9 ^@tu<n>$
       9 ^@nanoteknoloji<n>$
-      9 ^@muammer<n>$
-      9 ^@mandıra<n>$
-      9 ^@lisansüstü<n>$
-      9 ^@karne<n>$
-      9 ^@ivme<n>$
-      9 ^@hüsran<n>$
-      9 ^@göçü<n>$
-      9 ^@gayrimenkul<n>$
       9 ^@file<n>$
-      9 ^@fenomen<n>$
-      9 ^@enflasyonist<n>$
-      9 ^@başsağlığı<n>$
-      9 ^@basınç<n>$
-      9 ^@bala<n>$
-      9 ^@aşkın<n>$
-      9 ^@altıncı<n>$
-      8 ^@temsili<n>$
-      8 ^@sek<n>$
       8 ^@leb<n>$
       8 ^@kazım<n>$
-      8 ^@karizmatik<n>$
-      8 ^@kafata<n>$
-      8 ^@gen<n><ca>$
-      8 ^@erke<n>$
+      8 ^@ezeli<n>$
       8 ^@eklem<n>$
       8 ^@dilem<n>$
       8 ^@çalma<n>$
-      8 ^@bat<n><cpl_mis>$
       7 ^@yüklem<n>$
       7 ^@taşıt<n>$
-      7 ^@sterlin<n>$
       7 ^@sempatizan<n>$
       7 ^@mansiyon<n>$
       7 ^@lir<n>$
       7 ^@linyit<n>$
-      7 ^@kalamata<n>$
       7 ^@ita<n>$
       7 ^@gerici<n>$
       7 ^@gar<n>$
@@ -165,8 +62,6 @@
       7 ^@fren<n>$
       7 ^@fosfor<n>$
       7 ^@filozof<n>$
-      7 ^@ezeli<n>$
-      7 ^@evli<n>$
       7 ^@element<n>$
       7 ^@edinim<n>$
       7 ^@düzmece<n>$
@@ -229,7 +124,6 @@
       6 ^@midilli<n>$
       6 ^@madeni<n>$
       6 ^@levazım<n>$
-      6 ^@kut<n><cpl_ken>$
       6 ^@kup<n>$
       6 ^@kozmetik<n>$
       6 ^@klima<n>$
@@ -271,7 +165,6 @@
       6 ^@bok<n>$
       6 ^@birileri<n>$
       6 ^@beli<n>$
-      6 ^@bat<n><cpl_di>$
       6 ^@batak<n><ki>$
       6 ^@başyazı<n>$
       6 ^@başyargıcı<n>$
@@ -294,7 +187,6 @@
       5 ^@voyvoda<n>$
       5 ^@vitrin<n>$
       5 ^@veya<n>$
-      5 ^@verdi<n>$ 
       5 ^@vatansever<n>$
       5 ^@uzlaşı<n>$
       5 ^@üzgü<n>$
@@ -418,7 +310,6 @@
       5 ^@bilirkişi<n>$
       5 ^@belkemik<n>$
       5 ^@bedevi<n>$
-      5 ^@baz<n><ki>$
       5 ^@batak<n>$
       5 ^@basım<n>$
       5 ^@bakiye<n>$
@@ -497,7 +388,6 @@
       4 ^@oturacak<n>$
       4 ^@otobiyografi<n>$
       4 ^@ons<n>$
-      4 ^@öl<n><cpl_di>$ 
       4 ^@öge<n>$
       4 ^@nostalji<n>$
       4 ^@nispi<n>$
@@ -585,7 +475,6 @@
       4 ^@doğaçlama<n>$
       4 ^@dize<n>$
       4 ^@dikta<n>$
-      4 ^@dana<n>$
       4 ^@cumhur<n>$
       4 ^@çim<n>$
       4 ^@çıkı<n><ca>$
@@ -612,7 +501,6 @@
       4 ^@azil<n>$
       4 ^@ayyuk<n>$
       4 ^@ayrık<n>$
-      4 ^@ayın<n><ki>$
       4 ^@astronot<n>$
       4 ^@astronom<n>$
       4 ^@asfalt<n>$
@@ -878,7 +766,6 @@
       3 ^@basya<n>$
       3 ^@başrahip<n>$
       3 ^@başkanvekil<n>$
-      3 ^@basınç<n><ki>$
       3 ^@barı<n>$
       3 ^@bap<n>$
       3 ^@balyoz<n>$
@@ -961,7 +848,6 @@
       2 ^@tedavül<n>$
       2 ^@tatar<n>$
       2 ^@tarik<n>$
-      2 ^@tak<n><cpl_mis>$
       2 ^@taklidi<n>$
       2 ^@tablet<n>$
       2 ^@taba<n>$
@@ -1139,7 +1025,6 @@
       2 ^@kask<n>$
       2 ^@karton<n>$
       2 ^@karizma<n>$
-      2 ^@karı<n><ca>$
       2 ^@karbondioksit<n>$
       2 ^@karaman<n>$
       2 ^@karaca<n>$
@@ -1283,7 +1168,6 @@
       2 ^@darphane<n>$
       2 ^@dağarcık<n>$
       2 ^@cumartesi gün<n><cpl_sa>$
-      2 ^@cuma gün<n><cpl_sa>$
       2 ^@conta<n>$
       2 ^@cevir<n>$
       2 ^@çevirim<n>$
@@ -1583,7 +1467,6 @@
       1 ^@şarapev<n>$
       1 ^@saplantı<n>$
       1 ^@santra<n>$
-      1 ^@şantiye<n><ki>$
       1 ^@santim<n>$
       1 ^@santimetre<n>$
       1 ^@sanı<n><ca>$
@@ -1656,7 +1539,6 @@
       1 ^@pezo<n>$
       1 ^@peşkeş<n>$
       1 ^@perva<n>$
-      1 ^@perşembe gün<n><cpl_sa>$
       1 ^@peroksit<n>$
       1 ^@perküsyon<n>$
       1 ^@perçin<n>$
@@ -1664,7 +1546,6 @@
       1 ^@penguen<n>$
       1 ^@pedagojik<n>$
       1 ^@pedagog<n>$
-      1 ^@pazartesi gün<n><cpl_sa>$
       1 ^@pazar gün<n><cpl_sa>$
       1 ^@patra<n>$
       1 ^@patlıcan<n>$
@@ -1691,6 +1572,7 @@
       1 ^@özgül<n>$
       1 ^@öze<n>$
       1 ^@özdeyiş<n>$
+      1 ^@oyuk<n>$
       1 ^@otostop<n>$
       1 ^@otokton<n>$
       1 ^@otistik<n>$
@@ -1882,7 +1764,6 @@
       1 ^@kartvizit<n>$
       1 ^@kartop<n>$
       1 ^@karşıma<n>$
-      1 ^@karizmatik<n><cpl_di>$
       1 ^@karine<n>$
       1 ^@kari<n>$
       1 ^@karayılan<n>$
@@ -1963,7 +1844,6 @@
       1 ^@ideolog<n>$
       1 ^@idea<n>$
       1 ^@içtihat<n>$
-      1 ^@hüsran<n><ki>$
       1 ^@huş<n>$
       1 ^@hora<n>$
       1 ^@homoseksüel<n>$
@@ -1996,7 +1876,6 @@
       1 ^@habip<n>$
       1 ^@gusül<n>$
       1 ^@gurbet<n><ki>$
-      1 ^@günü<n><cpl_di>$
       1 ^@günbatım<n>$
       1 ^@güm<n>$
       1 ^@gülyağ<n>$
@@ -2126,7 +2005,6 @@
       1 ^@dolunay<n>$
       1 ^@dokum<n>$
       1 ^@dökük<n>$
-      1 ^@dok<n><cpl_mis>$
       1 ^@doğumev<n>$
       1 ^@dogmatik<n>$
       1 ^@dizey<n>$
@@ -2221,7 +2099,6 @@
       1 ^@botanik<n>$
       1 ^@borik<n>$
       1 ^@bordo<n>$
-      1 ^@bono<n><ki>$
       1 ^@boncuk<n>$
       1 ^@bomboş<n>$
       1 ^@bolero<n>$
@@ -2256,7 +2133,6 @@
       1 ^@belek<n>$
       1 ^@becet<n>$
       1 ^@bazuka<n>$
-      1 ^@baz<n><cpl_sa>$
       1 ^@bazen<n>$
       1 ^@bateri<n>$
       1 ^@başparmak<n><ki>$
@@ -2275,7 +2151,6 @@
       1 ^@balet<n>$
       1 ^@balerin<n>$
       1 ^@balat<n><cpl_di>$
-      1 ^@bala<n><cpl_di>$
       1 ^@bakteriyoloji<n>$
       1 ^@bakteriyolojik<n>$
       1 ^@baklava<n>$

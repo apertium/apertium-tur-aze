@@ -1,4 +1,5 @@
     949 yardım et<v><t_imp><2s>
+    453 carla<v><t_imp><2s>
     440 dur<v><pass><t_imp><2s>/durul<v><t_imp><2s>
     253 terk et<v><t_imp><2s>
     201 iade et<v><t_imp><2s>

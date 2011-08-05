@@ -1,4 +1,6 @@
     500 ^@kesin<adj>$
+     24 ^@dürüst<adj>$
+      8 ^@karizmatik<adj>$
       3 ^@yanıl<v><caus><dvn_yici><adj>$
       3 ^@cesaretlen<v><caus><dvn_yici><adj>$
       2 ^@ürper<v><caus><dvn_yici><adj>$
@@ -6,7 +8,6 @@
       1 ^@sakın<v><caus><dvn_yici><adj>$
       1 ^@sağal<v><caus><dvn_yici><adj>$
       1 ^@pek<adj>$
-      1 ^@oyuk<adj>$
       1 ^@gücen<v><caus><dvn_yici><adj>$
       1 ^@eğlen<v><caus><dvn_yici><adj>$
       1 ^@dikey<adj>$

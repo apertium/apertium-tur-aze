@@ -1,4 +1,6 @@
+    218 ^@hepsi<prn>$
     149 ^@ora<prn><locp>$
+     85 ^@hep<prn>$
      45 ^@birbiri<prn><pers>$
      16 ^@şura<prn><locp>$
      13 ^@ora<prn><locp><ki>$
