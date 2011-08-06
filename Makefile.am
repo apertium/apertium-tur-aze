@@ -20,13 +20,17 @@ TARGETS_COMMON = $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin  \
 ## Bilingual dictionaries
 ###############################################################################
 
-$(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
-	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
-	lt-comp lr $(BASENAME).$(PREFIX1).dix $@
+.deps/$(BASENAME).$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix lexchoicebil.xsl
+	if [ ! -d .deps ]; then mkdir .deps; fi
+	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > $@
 
-$(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
+$(PREFIX1).autobil.bin: .deps/$(BASENAME).$(PREFIX1).dix
+	apertium-validate-dictionary .deps/$(BASENAME).$(PREFIX1).dix
+	lt-comp lr .deps/$(BASENAME).$(PREFIX1).dix $@
+
+$(PREFIX2).autobil.bin: .deps/$(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
-	lt-comp rl $(BASENAME).$(PREFIX1).dix $@
+	lt-comp rl .deps/$(BASENAME).$(PREFIX1).dix $@
 
 ###############################################################################
 ## Constraint grammar disambiguation

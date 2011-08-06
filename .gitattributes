@@ -45,6 +45,7 @@ dev/verbs1300 -text
 dev/verbs1800 -text
 dev/verbs2200 -text
 dev/verbs2492 -text
+/lexchoicebil.xsl -text
 /modes.xml -text
 morph-az/Makefile.am -text
 morph-az/README -text
