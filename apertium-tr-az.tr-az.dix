@@ -45,6 +45,10 @@
     <e><p><l>değil<s n="not"/></l><r>deyil<s n="not"/></r></p></e>
     <e><p><l>yok<s n="nexist"/></l><r>yox<s n="nexist"/></r></p></e>
     <e><p><l><s n="q"/></l><r><s n="q"/></r></p></e>
+    <e><p><l>mi<s n="q"/></l><r>mi<s n="q"/></r></p></e>
+    <e><p><l>mu<s n="q"/></l><r>mu<s n="q"/></r></p></e>
+    <e><p><l>mı<s n="q"/></l><r>mı<s n="q"/></r></p></e>
+    <e><p><l>mü<s n="q"/></l><r>mü<s n="q"/></r></p></e>
     
     
     <!-- SECTION: Interjections -->
@@ -8492,7 +8496,7 @@
 
     <e><re>%?[0-9]+([.,][0-9]+)?[.,]?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>%?[0-9]+([.,][0-9]+)?([.,][0-9]+)?([.,]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>[.\?;:!]</re><p><l><s n="pnct"/></l><r><s n="pnct"/></r></p></e>
+    <e><re>[.\?;:!]+</re><p><l><s n="pnct"/></l><r><s n="pnct"/></r></p></e>
 
  </section>  
 </dictionary>

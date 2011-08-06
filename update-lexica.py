@@ -147,7 +147,7 @@ for line in retval[1].split('\n'): #{
 	
 		if os.path.exists(trlexpath + f): #{
 			# Grep the lemma out of the original lexicon, and into the trimmed one
-			cmd = 'cat ' + trlexpath + f + ' | grep "^' + llema + '$" >> ' + troutlexpath + f;
+			cmd = 'cat ' + trlexpath + f + ' | grep "^' + llema + '$" | grep -v "^$" >> ' + troutlexpath + f;
 			retval = commands.getstatusoutput(cmd);
 		#}
 	#}
@@ -156,7 +156,7 @@ for line in retval[1].split('\n'): #{
 	for f in lexica[ltags]: #{
 		if os.path.exists(azlexpath + f): #{
 			# Grep the lemma out of the original lexicon, and into the trimmed one
-			cmd = 'cat ' + azlexpath + f + ' | grep "^' + rlema + '$" >> ' + azoutlexpath + f;
+			cmd = 'cat ' + azlexpath + f + ' | grep "^' + rlema + '$" | grep -v "^$" >> ' + azoutlexpath + f;
 			retval = commands.getstatusoutput(cmd);
 		#}
 	#}
