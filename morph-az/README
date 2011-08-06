@@ -5,3 +5,6 @@
 This file is a trimmed[1] copy of the morphology of Azerbaijani found in:
  
   https://apertium.svn.sourceforge.net/svnroot/apertium/branches/azmorph
+
+It is important that you _DO NOT_ make changes here manually, use 
+the update.py script found in the /apertium-tr-az/ module.

@@ -45,6 +45,7 @@ dev/verbs1800 -text
 dev/verbs2200 -text
 dev/verbs2492 -text
 /modes.xml -text
+morph-az/Makefile.am -text
 morph-az/README -text
 morph-az/lexicon/adjectives -text
 morph-az/lexicon/adverbs -text
