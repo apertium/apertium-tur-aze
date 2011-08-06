@@ -1,9 +1,16 @@
 * text=auto !eol
-/Makefile -text
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
 /README -text
 /apertium-tr-az.tr-az.dix -text
 /apertium-tr-az.tr-az.rlx -text
 /apertium-tr-az.tr-az.t1x -text
+/autogen.sh -text
+/az-tr.prob -text svneol=unset#unset
+/configure.ac -text
 dev/bidix/bidix-with-context.sh -text
 dev/bidix/context_nouns.txt -text
 dev/bidix/pending_adjectives.txt -text
@@ -25,6 +32,7 @@ dev/midterm/article.az.txt -text
 dev/midterm/article.tr-az.2011-07-12.txt -text
 dev/midterm/article.tr.txt -text
 dev/missing-bidix-freq.sh -text
+dev/tofix -text
 dev/trans0200 -text
 dev/trans0400 -text
 dev/trans1000 -text
@@ -70,7 +78,6 @@ tests/0021.txt -text
 tests/0022.txt -text
 tests/run-tests.sh -text
 tests/taggedarticle -text
-/tofix -text
 /tr-az.prob -text svneol=unset#unset
 /tr-az.sh -text
 /wiki-tests.sh -text
