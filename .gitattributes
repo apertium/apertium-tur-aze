@@ -46,6 +46,30 @@ dev/verbs2200 -text
 dev/verbs2492 -text
 /modes.xml -text
 morph-az/README -text
+morph-az/lexicon/adjectives -text
+morph-az/lexicon/adverbs -text
+morph-az/lexicon/cnjadv -text
+morph-az/lexicon/cnjcoo -text
+morph-az/lexicon/cnjsub -text
+morph-az/lexicon/det -text
+morph-az/lexicon/interjections -text
+morph-az/lexicon/nouns -text
+morph-az/lexicon/postpositions -text
+morph-az/lexicon/pronouns -text
+morph-az/lexicon/proper_nouns -text
+morph-az/lexicon/verbs -text
+morph-tr/lexicon/adjectives -text
+morph-tr/lexicon/adverbs -text
+morph-tr/lexicon/cnjadv -text
+morph-tr/lexicon/cnjcoo -text
+morph-tr/lexicon/cnjsub -text
+morph-tr/lexicon/det -text
+morph-tr/lexicon/interjections -text
+morph-tr/lexicon/nouns -text
+morph-tr/lexicon/postpositions -text
+morph-tr/lexicon/pronouns -text
+morph-tr/lexicon/proper_nouns -text
+morph-tr/lexicon/verbs -text
 /pending-tests.sh -text
 /regression-tests.sh -text
 tests/0000.dis.txt -text
@@ -80,3 +104,4 @@ tests/0022.txt -text
 tests/run-tests.sh -text
 tests/taggedarticle -text
 /tr-az.prob -text svneol=unset#unset
+/update-lexica.py -text
