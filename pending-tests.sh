@@ -1,14 +1,1 @@
-#!/bin/bash
-
-C=2
-GREP='.'
-if [ $# -eq 1 ]
-then
-    C=$1
-    GREP='WORKS'
-fi
-
-bash wiki-tests.sh Pending tr az update | grep -C $C "$GREP"
-
-#bash wiki-tests.sh Pending az tr update | grep -C $C "$GREP"
-
+aq-regtest -d . tr-az http://wiki.apertium.org/wiki/Special:Export/Turkish_and_Azerbaijani/Pending_tests -X dev/pending-stats.xml

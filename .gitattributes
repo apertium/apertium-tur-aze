@@ -80,4 +80,3 @@ tests/run-tests.sh -text
 tests/taggedarticle -text
 /tr-az.prob -text svneol=unset#unset
 /tr-az.sh -text
-/wiki-tests.sh -text
