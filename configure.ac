@@ -59,4 +59,4 @@ then
   AC_MSG_ERROR([You don't have cg-proc installed.])
 fi
 
-AC_OUTPUT([Makefile morph-az/Makefile])
+AC_OUTPUT([Makefile morph-az/Makefile morph-tr/Makefile])

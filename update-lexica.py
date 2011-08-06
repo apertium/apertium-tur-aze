@@ -28,7 +28,14 @@ lexica = {
 	'<postp>': 'postpositions',
 	'<prn>': 'pronouns',
 	'<np>': 'proper_nouns',
+	'<np><top>': 'toponyms',
+	'<np><cog>': 'pn_cog',
+	'<np><acr>': 'pn_acr',
+	'<np><org>': 'pn_org',
+	'<np><ant>': 'pn_ant',
 	'<v>': 'verbs'
+	'<v><iv>': 'verbs_iv'
+	'<v><tv>': 'verbs_tv'
 	#'': 'misc',
 };
 
@@ -73,8 +80,6 @@ for f in extra_files_common: #{
 	cmd = 'cp ' + azmorph + f + ' ' + azoutpath + f;
 	retval = commands.getstatusoutput(cmd);
 #}
-
-sys.exit(-1);
 
 for pos in lexica: #{
 
