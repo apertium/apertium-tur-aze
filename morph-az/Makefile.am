@@ -12,9 +12,11 @@ TARGETS = $(PREFIX1).autogen.hfst $(PREFIX2).automorf.hfst
 
 $(PREFIX2).automorf.hfst: $(FSTNAME).a
 	hfst-invert -i $< | hfst-fst2fst -O -o $@
+	cp $@ ../
 
 $(PREFIX1).autogen.hfst: $(FSTNAME).a
 	hfst-fst2fst -O -i $< -o $@
+	cp $@ ../
 
 $(FSTNAME).a: num.a deriv.a $(FSTNAME).fst
 	hfst-calculate -w -v -i $(FSTNAME).fst -o $@
