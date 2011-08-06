@@ -1,16 +1,1 @@
-    594 ^@yakında<postp>$
-    505 ^@beri<postp>$
-    275 ^@itibaren<postp>$
-    159 ^@dolayı<postp>$
-    147 ^@altında<postp>$
-     80 ^@ortasında<postp>$
-     37 ^@anki<postp>$
-     36 ^@üstünde<postp>$
-     19 ^@bile<postp>$
-     16 ^@süresince<postp>$
-      2 ^@altında<postp><cpl_di><3s>$
-      1 ^@yakında<postp><3p>$
-      1 ^@ortasında<postp><cpl_di><3s>$
-      1 ^@ortasında<postp><3s><cpl_ken>$
-      1 ^@ile<postp>$
-      1 ^@altında<postp><3s><cpl_ken>$
+     98 ^@<postp><loc>$

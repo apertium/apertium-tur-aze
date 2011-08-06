@@ -1,5 +1,1 @@
-    294 ^@gün<adv><ki>$
-     11 ^@ara sıra<adv>$
-      2 ^@resen<adv>$
-      2 ^@iğrenç<adv>$
-      1 ^@eğreti<adv>$
+   1580 ^@gün<adv><ki>$

@@ -1,6 +1,0 @@
-   1645 ^@gibi<cnjsub>$
-    176 ^@değer<cnjcoo>$
-    148 ^@diye<cnjsub>$
-      1 ^@yok mu<cnjadv>$
-      1 ^@mesela<cnjadv>$
-      1 ^@ha<cnjcoo>$
