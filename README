@@ -1,11 +1,18 @@
-==Dependencies==
+===============================================================================
+                            apertium-tr-az
+                        Turkish and Azerbaijani
+===============================================================================
 
-* HFST
-* VISLCG3
-* Lttoolbox
-* Apertium
+This is an Apertium language pair to translate between Turkish and Azerbaijani.
 
-==Installation==
+== Dependencies ===============================================================
+
+* HFST (>= 3.1.0)
+* VISLCG3 (>= 0.9.7)
+* Lttoolbox (>= 3.2.0)
+* Apertium (>= 3.2.0)
+
+== Installation ===============================================================
 
 Run:
 
@@ -20,7 +27,13 @@ Now test the translator with:
 $ echo "Ahmet biralarını var." | apertium -d . tr-az
   Ahmet pivələrini var.
 
-==Development==
+== Files ======================================================================
+
+* apertium-tr-az.tr-az.dix         - Bilingual dictionary 
+* apertium-tr-az.tr-az.rlx         - Constraint Grammar for Turkish
+* apertium-tr-az.tr-az.t1x         - Transfer rules for Turkish->Azerbaijani 
+
+== Development ================================================================
 
 * If you want to develop with this pair, you will need to check out 
   both 'azmorph'[1] and 'TRmorph'[2]
@@ -28,6 +41,9 @@ $ echo "Ahmet biralarını var." | apertium -d . tr-az
 * Do not make any direct changes to the files in morph-az and morph-tr,
   the file 'update-lexica.py' can be used to update these if you have 
   changed the bilingual dictionary.
+
+* If you want to add words to the two lexica, you need to commit them
+  to azmorph and TRmorph respectively first.
 
 ;Notes
 
