@@ -184,7 +184,7 @@ LIST Der/d_cak = (n d_cak n) ;
 LIST Der/npci  = (np d_ci n) ;
 LIST A/Der0/n = (adj Djn_0 n) ;
 LIST NP/D_CI/adj = (np D_CI adj) ;
-
+LIST Der/yIcI = (v Dvn_yIcI adj) ;
 
 ## 
 
@@ -297,6 +297,9 @@ REMOVE (v pass) IF (0 ("[a-z]+[aeiou]l"ri v) - (pass));
 
 SELECT N IF (0C VN/acak OR N) ;
     ## Yaptıkları her şeyi not ediyorum; bir arkadaşlık ilişkimiz var, onlar benim [0]gelecekteki çalışma arkadaşlarım." diyor.
+
+REMOVE Der/yIcI IF (0C Der/yIcI OR A) ;
+    ## Sonuç olarak EUFOR askerleri son zamanlarda meydana gelen uyuşturucu ve diğer yasadışı ve kaçak mal baskınlarında önemli rol oynadılar.
 
 ###############################################################################
 ## NP internal
@@ -639,3 +642,7 @@ REMOVE (cpl_di) IF (1 VN/mak LINK 1 V) ;
 
 REMOVE Aor IF (1 CV/dik);
 ## [0]Gerçekler oldukça çatışan sinyaller vermektedir.
+
+
+#REMOVE Post IF (-1C 
+## Bir sabah oralardan geçmekte olan bir prens tabutu ve [0]içindeki güzel kızı görmüş.
