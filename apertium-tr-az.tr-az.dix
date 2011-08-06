@@ -50,13 +50,6 @@
     <e><p><l>mı<s n="q"/></l><r>mı<s n="q"/></r></p></e>
     <e><p><l>mü<s n="q"/></l><r>mü<s n="q"/></r></p></e>
     
-    
-    <!-- SECTION: Interjections -->
-    
-        <e><p><l>Tabii<s n="ij"/></l><r>Təbii<s n="ij"/></r></p></e>
-        <e><p><l>Tabii<b/>ki<s n="ij"/></l><r>Təbii<b/>ki<s n="ij"/></r></p></e>
-        <e><p><l>şöyle<s n="ij"/></l><r>belə<s n="ij"/></r></p></e>
-
 
     
     <!-- SECTION: Conjunctions -->
@@ -8484,7 +8477,14 @@
 
 
 
-  
+     
+    <!-- SECTION: Interjections -->
+    
+    <e><p><l>tabii<s n="ij"/></l><r>təbii<s n="ij"/></r></p></e>
+    <e><p><l>tabii<b/>ki<s n="ij"/></l><r>təbii<b/>ki<s n="ij"/></r></p></e>
+    <e><p><l>şöyle<s n="ij"/></l><r>belə<s n="ij"/></r></p></e>
+
+ 
 
 
 

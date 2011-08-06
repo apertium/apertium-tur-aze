@@ -165,3 +165,7 @@ for line in retval[1].split('\n'): #{
 
 	print llema , ltags , r , rlema , rtags ;
 #}
+
+
+# A better way to do this would be to read the bidix into a hash like cat_stem["<adj>"]["blah"];
+# and then do for line in lexicon/adjectives; if line is in cat_stem["<adj>"]; then print
