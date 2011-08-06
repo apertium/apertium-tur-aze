@@ -33,8 +33,8 @@ lexica = {
 	'<np><acr>': 'pn_acr',
 	'<np><org>': 'pn_org',
 	'<np><ant>': 'pn_ant',
-	'<v>': 'verbs'
-	'<v><iv>': 'verbs_iv'
+	'<v>': 'verbs',
+	'<v><iv>': 'verbs_iv',
 	'<v><tv>': 'verbs_tv'
 	#'': 'misc',
 };
