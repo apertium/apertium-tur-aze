@@ -965,38 +965,29 @@ Tag mismatch between transfer and generation
    5377 #Cümə axşamı\<n\>	^Cümə axşamı<n>$
    4449 #Xarici işlər\<n\>	^Xarici işlər<n>$
    4332 #zorla\<v\>\<caus\>\<t_past\>\<3s\>	^zorla<v><caus><t_past><3s>$
-   4199 #köhnə\<adj\>	^köhnə<adj>$
-   4161 #beynəlxalq\<adj\>	^beynəlxalq<adj>$
    3294 #Ancaq\<cnjcoo\>	^Ancaq<cnjcoo>$
-   2506 #xarar\<adj\>	^xarar<adj>$
    2455 #kimi\<postp\>	^kimi<postp>$
    2338 #yenidən\<adv\>	^yenidən<adv>$
    2284 #qarşı\<adv\>	^qarşı<adv>$
    2283 #ayrıca\<adv\>	^ayrıca<adv>$
-   2261 #Beynəlxalq\<adj\>	^Beynəlxalq<adj>$
    2219 #Kənar\<adv\>	^Kənar<adv>$
-   2215 #hərbi\<adj\>	^hərbi<adj>$
    2202 #geri\<adv\>	^geri<adv>$
    2125 #al\<n\>\<cpl_di\>\<3s\>	^al<n><cpl_di><3s>$
    2002 #qarşı\<postp\>	^qarşı<postp>$
-   1816 #bağlı\<adj\>	^bağlı<adj>$
    1672 #yalnız\<adv\>	^yalnız<adv>$
    1649 #yaxşı\<adv\>	^yaxşı<adv>$
    1649 #rəsmi\<n\>	^rəsmi<n>$
    1639 #qoş\<v\>\<t_past\>\<3s\>	^qoş<v><t_past><3s>$
+   1575 #gün\<adv\>\<ki\>	^gün<adv><ki>$
    1499 #təsdiqlə\<v\>\<t_past\>\<3s\>	^təsdiqlə<v><t_past><3s>$
-   1446 #bəzi\<adj\>	^bəzi<adj>$
    1415 #bir\<n\>\<acc\>	^bir<n><acc>$
    1392 #rəğmən\<postp\>	^rəğmən<postp>$
-   1380 #Köhnə\<adj\>	^Köhnə<adj>$
    1344 #ancaq\<cnjcoo\>	^ancaq<cnjcoo>$
    1328 #hələ\<adv\>	^hələ<adv>$
    1285 #Çərşənbə axşamı\<n\>	^Çərşənbə axşamı<n>$
    1224 #həm\<adv\>	^həm<adv>$
    1196 #az\<adv\>	^az<adv>$
-   1192 #gələcək\<adj\>	^gələcək<adj>$
    1189 #halında\<postp\>	^halında<postp>$
-   1168 #ümumxalq\<adj\>	^ümumxalq<adj>$
    1145 #nəzərə çatdır\<v\>\<t_past\>\<3s\>	^nəzərə çatdır<v><t_past><3s>$
    1090 #danış\<v\>\<part_yan\>	^danış<v><part_yan>$
    1088 #qısa\<n\>	^qısa<n>$
@@ -1004,7 +995,6 @@ Tag mismatch between transfer and generation
    1075 #irəli\<adv\>	^irəli<adv>$
    1059 #gərəkli\<n\>	^gərəkli<n>$
    1052 #üzərinə\<postp\>	^üzərinə<postp>$
-   1051 #Cənub-şərq\<adj\>	^Cənub-şərq<adj>$
    1049 #Yenə\<adv\>	^Yenə<adv>$
    1039 #xarici işlər\<n\>	^xarici işlər<n>$
    1033 #kompas\<n\>	^kompas<n>$
@@ -1013,7 +1003,6 @@ Tag mismatch between transfer and generation
     964 #üzre\<postp\>	^üzre<postp>$
     962 #erkən\<adv\>	^erkən<adv>$
     953 #yaran\<v\>\<part_yan\>	^yaran<v><part_yan>$
-    935 #xarici\<adj\>	^xarici<adj>$
     931 #yaşa\<v\>\<pass\>\<part_yan\>	^yaşa<v><pass><part_yan>$
     916 #sonunda\<adv\>	^sonunda<adv>$
     872 #konstitusiya\<n\>	^konstitusiya<n>$
@@ -1022,34 +1011,26 @@ Tag mismatch between transfer and generation
     834 #təkrar\<adv\>	^təkrar<adv>$
     808 #hər hansı bir\<det\>	^hər hansı bir<det>$
     805 #sonra\<adv\>\<ki\>	^sonra<adv><ki>$
-    767 #şimal\<adj\>	^şimal<adj>$
     761 #açıg\<adv\>	^açıg<adv>$
     736 #Bir\<adv\>	^Bir<adv>$
     716 #Müxtəlif\<n\>	^Müxtəlif<n>$
-    699 #cürbəcür\<adj\>	^cürbəcür<adj>$
     697 #öncə\<postp\>	^öncə<postp>$
     691 #Konstitusiya\<n\>	^Konstitusiya<n>$
-    689 #bir neçə\<adj\>	^bir neçə<adj>$
     677 #xəbərdarlıq et\<v\>\<t_past\>\<3s\>	^xəbərdarlıq et<v><t_past><3s>$
     672 #başlıca\<adv\>	^başlıca<adv>$
-    665 #mülki\<adj\>	^mülki<adj>$
     649 #təkrarla\<v\>\<t_past\>\<3s\>	^təkrarla<v><t_past><3s>$
     645 #öncə\<adv\>\<ki\>	^öncə<adv><ki>$
     641 #dərhal\<adv\>	^dərhal<adv>$
-    638 #çox\<adj\>	^çox<adj>$
     635 #qazan\<v\>\<t_past\>\<3s\>	^qazan<v><t_past><3s>$
     635 #istə\<v\>\<t_past\>\<3s\>	^istə<v><t_past><3s>$
-    632 #müstəqil\<adj\>	^müstəqil<adj>$
     621 #dəfələrlə\<adv\>	^dəfələrlə<adv>$
     605 #yaşa\<v\>\<part_yan\>	^yaşa<v><part_yan>$
     604 #qalan\<n\>	^qalan<n>$
     594 #bəri\<adv\>	^bəri<adv>$
-    581 #Bəzi\<adj\>	^Bəzi<adj>$
     573 #çıxış\<n\>	^çıxış<n>$
     562 #yaxı\<n\>\<p2s\>\<loc\>	^yaxı<n><p2s><loc>$
     562 #danış\<v\>\<t_past\>\<3s\>	^danış<v><t_past><3s>$
     558 #al\<n\>\<gen\>\<cpl_di\>\<3s\>	^al<n><gen><cpl_di><3s>$
-    552 #kifayət\<adj\>	^kifayət<adj>$
     552 #fərqləndir\<v\>\<t_past\>\<3s\>	^fərqləndir<v><t_past><3s>$
     548 #yeri\<v\>\<caus\>\<pass\>\<part_yan\>	^yeri<v><caus><pass><part_yan>$
     540 #planlaşdır\<v\>\<pass\>\<part_yan\>	^planlaşdır<v><pass><part_yan>$
@@ -1060,16 +1041,13 @@ Tag mismatch between transfer and generation
     516 #niyə\<adv\>	^niyə<adv>$
     508 #geçici\<n\>	^geçici<n>$
     500 #müxtəlif\<n\>	^müxtəlif<n>$
-    498 #narkotik\<adj\>	^narkotik<adj>$
     497 #tur\<n\>	^tur<n>$
     486 #planlaşdır\<v\>\<t_cont\>\<3s\>	^planlaşdır<v><t_cont><3s>$
     480 #anlaş\<v\>\<vn_mak\>\<acc\>	^anlaş<v><vn_mak><acc>$
     472 #imzala\<v\>\<pass\>\<part_yan\>	^imzala<v><pass><part_yan>$
-    467 #sərt\<adj\>	^sərt<adj>$
     467 #birlikdə\<postp\>	^birlikdə<postp>$
     460 #qanuni\<n\>	^qanuni<n>$
     456 #göstər\<v\>\<t_past\>\<3s\>	^göstər<v><t_past><3s>$
-    453 #təməl\<adj\>	^təməl<adj>$
     444 #göstər\<v\>\<part_yan\>	^göstər<v><part_yan>$
     442 #nəzərdə tut\<v\>\<pass\>\<t_cont\>\<3s\>	^nəzərdə tut<v><pass><t_cont><3s>$
     440 #imzala\<v\>\<t_past\>\<3s\>	^imzala<v><t_past><3s>$
@@ -1077,7 +1055,6 @@ Tag mismatch between transfer and generation
     433 #daimi\<adv\>	^daimi<adv>$
     427 #suçla\<v\>\<pass\>\<t_cont\>\<3s\>	^suçla<v><pass><t_cont><3s>$
     427 #kollektiv\<n\>	^kollektiv<n>$
-    425 #Şimal\<adj\>	^Şimal<adj>$
     423 #tamamilə\<adv\>	^tamamilə<adv>$
     419 #tut\<v\>\<t_past\>\<3s\>	^tut<v><t_past><3s>$
     419 #Ayrıca\<adv\>	^Ayrıca<adv>$
@@ -1085,11 +1062,8 @@ Tag mismatch between transfer and generation
     416 #istə\<v\>\<t_cont\>\<3s\>	^istə<v><t_cont><3s>$
     415 #al\<n\>\<cpl_di\>\<3p\>	^al<n><cpl_di><3p>$
     412 #imzala\<v\>\<pass\>\<t_past\>\<3s\>	^imzala<v><pass><t_past><3s>$
-    411 #qonşu\<adj\>	^qonşu<adj>$
     409 #suçla\<v\>\<pass\>\<part_yan\>	^suçla<v><pass><part_yan>$
     408 #il\<adv\>\<ki\>	^il<adv><ki>$
-    405 #bəlli\<adj\>	^bəlli<adj>$
-    399 #keç\<adj\>	^keç<adj>$
     398 #yenə\<adv\>	^yenə<adv>$
     396 #tətbiq et\<v\>\<pass\>\<cv_ma\>\<p3s\>	^tətbiq et<v><pass><cv_ma><p3s>$
     394 #tənqid et\<v\>\<t_past\>\<3s\>	^tənqid et<v><t_past><3s>$
@@ -1097,10 +1071,7 @@ Tag mismatch between transfer and generation
     390 #ya da\<cnjadv\>	^ya da<cnjadv>$
     388 #becərilmə\<n\>	^becərilmə<n>$
     387 #suçla\<v\>\<t_past\>\<3s\>	^suçla<v><t_past><3s>$
-    387 #konkret\<adj\>	^konkret<adj>$
-    379 #əlavə\<adj\>	^əlavə<adj>$
     377 #doğru\<adv\>	^doğru<adv>$
-    376 #belə\<adj\>	^belə<adj>$
     375 #gerək\<cnjcoo\>	^gerək<cnjcoo>$
     372 #qlobal\<n\>	^qlobal<n>$
     369 #təmin et\<v\>\<cv_acak\>	^təmin et<v><cv_acak>$
@@ -1111,7 +1082,6 @@ Tag mismatch between transfer and generation
     353 #nəzərdə tut\<v\>\<part_yan\>	^nəzərdə tut<v><part_yan>$
     352 #anlaş\<v\>\<vn_mak\>\<dat\>	^anlaş<v><vn_mak><dat>$
     349 #tut\<v\>\<pass\>\<t_past\>\<3s\>	^tut<v><pass><t_past><3s>$
-    345 #Qərb\<adj\>	^Qərb<adj>$
     343 #medal\<n\>	^medal<n>$
     339 #istə\<v\>\<part_dik\>\<p3s\>\<acc\>	^istə<v><part_dik><p3s><acc>$
     337 #qanun\<n\>\<gen\>	^qanun<n><gen>$
@@ -1120,16 +1090,13 @@ Tag mismatch between transfer and generation
     329 #tamamla\<v\>\<pass\>\<cv_ma\>\<p3s\>	^tamamla<v><pass><cv_ma><p3s>$
     329 #qanun\<n\>\<acc\>	^qanun<n><acc>$
     328 #etibarən\<adv\>	^etibarən<adv>$
-    327 #sürətli\<adj\>	^sürətli<adj>$
     326 #zorla\<v\>\<caus\>\<pass\>\<t_cont\>\<3s\>	^zorla<v><caus><pass><t_cont><3s>$
-    325 #Xarici\<adj\>	^Xarici<adj>$
     325 #öncədən\<adv\>	^öncədən<adv>$
     325 #necə\<adv\>	^necə<adv>$
     325 #hazırla\<v\>\<pass\>\<part_yan\>	^hazırla<v><pass><part_yan>$
     323 #bölünmüş\<n\>\<p2s\>\<cpl_mis\>\<3s\>	^bölünmüş<n><p2s><cpl_mis><3s>$
     322 #mübahisə et\<v\>\<t_obl\>\<3s\>	^mübahisə et<v><t_obl><3s>$
     319 #az qala\<adv\>	^az qala<adv>$
-    318 #Hərbi\<adj\>	^Hərbi<adj>$
     316 #tak\<n\>\<1s\>	^tak<n><1s>$
     316 #planlaşdır\<v\>\<part_dik\>\<p3s\>\<acc\>	^planlaşdır<v><part_dik><p3s><acc>$
     314 #naxışla\<v\>\<pass\>\<part_yan\>	^naxışla<v><pass><part_yan>$
@@ -1150,17 +1117,13 @@ Tag mismatch between transfer and generation
     274 #qazan\<v\>\<part_yan\>	^qazan<v><part_yan>$
     271 #təklif et\<v\>\<t_past\>\<3s\>	^təklif et<v><t_past><3s>$
     271 #qısqanan\<n\>	^qısqanan<n>$
-    269 #Şərq\<adj\>	^Şərq<adj>$
     267 #SPECIAL\<v\>\<t_imp\>\<2s\>	^SPECIAL<v><t_imp><2s>$
     263 #yaran\<v\>\<caus\>\<t_cont\>\<3s\>	^yaran<v><caus><t_cont><3s>$
     262 #təmin et\<v\>\<vn_mak\>	^təmin et<v><vn_mak>$
-    261 #Cənub\<adj\>	^Cənub<adj>$
     260 #təmin et\<v\>\<pass\>\<cv_ma\>\<p3s\>	^təmin et<v><pass><cv_ma><p3s>$
     259 #yeri\<v\>\<caus\>\<part_yan\>	^yeri<v><caus><part_yan>$
     258 #qarşıla\<v\>\<t_past\>\<3s\>	^qarşıla<v><t_past><3s>$
     255 #zorla\<v\>\<caus\>\<cv_erek\>	^zorla<v><caus><cv_erek>$
-    255 #ayrıca\<adj\>	^ayrıca<adj>$
-    253 #konstitusiyalı\<adj\>	^konstitusiyalı<adj>$
     253 #göndər\<v\>\<t_past\>\<3s\>	^göndər<v><t_past><3s>$
     253 #Çat\<v\>\<caus\>\<cv_ma\>	^Çat<v><caus><cv_ma>$
     252 #ehtiva et\<v\>\<part_yan\>	^ehtiva et<v><part_yan>$
@@ -1168,50 +1131,37 @@ Tag mismatch between transfer and generation
     251 #canlan\<v\>\<caus\>\<cv_ma\>	^canlan<v><caus><cv_ma>$
     250 #Təsdiqlə\<v\>\<t_past\>\<3s\>	^Təsdiqlə<v><t_past><3s>$
     247 #birləşmə\<n\>	^birləşmə<n>$
-    241 #Ümumxalq\<adj\>	^Ümumxalq<adj>$
     241 #tətbiq et\<v\>\<vn_mak\>\<dat\>	^tətbiq et<v><vn_mak><dat>$
     238 #heç\<adv\>	^heç<adv>$
     236 #təmin et\<v\>\<t_fut\>\<3s\>	^təmin et<v><t_fut><3s>$
     236 #şübhələn\<v\>\<pass\>\<part_yan\>	^şübhələn<v><pass><part_yan>$
-    234 #fövqəladə\<adj\>	^fövqəladə<adj>$
     234 #çat\<v\>\<t_past\>\<3s\>	^çat<v><t_past><3s>$
     233 #tanı\<v\>\<pass\>\<part_yan\>	^tanı<v><pass><part_yan>$
     233 #qanun\<n\>\<p3s\>\<acc\>	^qanun<n><p3s><acc>$
     231 #qanun\<n\>\<p3s\>	^qanun<n><p3s>$
-    230 #Xarar\<adj\>	^Xarar<adj>$
     230 #Ban\<n\>	^Ban<n>$
     229 #danış\<v\>\<cv_ma\>	^danış<v><cv_ma>$
     228 #təklif et\<v\>\<pass\>\<part_yan\>	^təklif et<v><pass><part_yan>$
     226 #lüt\<n\>\<p2s\>	^lüt<n><p2s>$
     226 #bazis\<n\>\<loc\>	^bazis<n><loc>$
-    222 #məhkəmə\<adj\>	^məhkəmə<adj>$
-    221 #cənub\<adj\>	^cənub<adj>$
     220 #verici\<n\>	^verici<n>$
     220 #sürətlən\<v\>\<caus\>\<cv_ma\>	^sürətlən<v><caus><cv_ma>$
     220 #göstər\<v\>\<cv_erek\>	^göstər<v><cv_erek>$
     218 #müqəddəs\<n\>	^müqəddəs<n>$
-    216 #peşəkar\<adj\>	^peşəkar<adj>$
     211 #Rəsmi\<n\>	^Rəsmi<n>$
-    211 #fərqləndirici\<adj\>	^fərqləndirici<adj>$
     210 #təmin et\<v\>\<cv_mak\>	^təmin et<v><cv_mak>$
     208 #düz\<postp\>	^düz<postp>$
     208 #birləş\<v\>\<caus\>\<cv_ma\>	^birləş<v><caus><cv_ma>$
-    206 #Müstəqil\<adj\>	^Müstəqil<adj>$
     204 #çat\<v\>\<caus\>\<cv_ma\>	^çat<v><caus><cv_ma>$
     202 #səsə qoy\<v\>\<cv_ma\>	^səsə qoy<v><cv_ma>$
     201 #təmin et\<v\>\<t_past\>\<3s\>	^təmin et<v><t_past><3s>$
     198 #nəm\<n\>\<cpl_di\>\<3s\>	^nəm<n><cpl_di><3s>$
     197 #Beta\<n\>	^Beta<n>$
-    197 #bərk\<adj\>	^bərk<adj>$
-    196 #yaşıl\<adj\>	^yaşıl<adj>$
     196 #həll etmə\<n\>	^həll etmə<n>$
     193 #yığ\<v\>\<pass\>\<t_past\>\<3s\>	^yığ<v><pass><t_past><3s>$
     193 #gəliş\<v\>\<caus\>\<cv_ma\>	^gəliş<v><caus><cv_ma>$
     192 #maraq\<n\>	^maraq<n>$
     191 #canlan\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>	^canlan<v><caus><pass><cv_ma><p3s>$
-    190 #öldürücü\<adj\>	^öldürücü<adj>$
-    190 #fəal\<adj\>	^fəal<adj>$
-    189 #yayğın\<adj\>	^yayğın<adj>$
     188 #illərdir\<adv\>	^illərdir<adv>$
     187 #təmin et\<v\>\<part_yan\>	^təmin et<v><part_yan>$
     187 #inan\<v\>\<t_cont\>\<3s\>	^inan<v><t_cont><3s>$
@@ -1230,7 +1180,6 @@ Tag mismatch between transfer and generation
     179 #bürü\<v\>\<part_yan\>	^bürü<v><part_yan>$
     178 #yəni\<cnjadv\>	^yəni<cnjadv>$
     178 #təmin et\<v\>\<vn_acak\>\<p3s\>\<acc\>	^təmin et<v><vn_acak><p3s><acc>$
-    177 #saxta\<adj\>	^saxta<adj>$
     177 #irəlilə\<v\>\<vn_mak\>\<acc\>	^irəlilə<v><vn_mak><acc>$
     176 #Qurtul\<v\>\<vn_yis\>	^Qurtul<v><vn_yis>$
     176 #nəm\<n\>\<1s\>	^nəm<n><1s>$
@@ -1245,8 +1194,6 @@ Tag mismatch between transfer and generation
     170 #dola\<v\>\<t_aor\>\<3s\>	^dola<v><t_aor><3s>$
     169 #qaynaq et\<v\>\<part_yan\>	^qaynaq et<v><part_yan>$
     168 #qismən\<adv\>	^qismən<adv>$
-    168 #qapalı\<adj\>	^qapalı<adj>$
-    167 #tibbi\<adj\>	^tibbi<adj>$
     167 #planlaşdır\<v\>\<pass\>\<t_cont\>\<3s\>	^planlaşdır<v><pass><t_cont><3s>$
     165 #yavaş\<adv\>	^yavaş<adv>$
     165 #istifadə et\<v\>\<pass\>\<part_yan\>	^istifadə et<v><pass><part_yan>$
@@ -1255,8 +1202,6 @@ Tag mismatch between transfer and generation
     164 #təmin et\<v\>\<t_past\>\<3p\>	^təmin et<v><t_past><3p>$
     164 #düş\<n\>\<cpl_di\>\<3s\>	^düş<n><cpl_di><3s>$
     164 #bırax\<v\>\<t_past\>\<3s\>	^bırax<v><t_past><3s>$
-    163 #xəfif\<adj\>	^xəfif<adj>$
-    163 #Mülki\<adj\>	^Mülki<adj>$
     163 #imzala\<v\>\<pass\>\<cv_ma\>\<p3s\>	^imzala<v><pass><cv_ma><p3s>$
     162 #göndər\<v\>\<cv_ma\>	^göndər<v><cv_ma>$
     161 #istifadə et\<v\>\<pass\>\<t_fut\>\<3s\>	^istifadə et<v><pass><t_fut><3s>$
@@ -1264,7 +1209,6 @@ Tag mismatch between transfer and generation
     160 #çıxar\<v\>\<t_past\>\<3s\>	^çıxar<v><t_past><3s>$
     160 #anlaş\<v\>\<neg\>\<t_opt\>\<3s\>	^anlaş<v><neg><t_opt><3s>$
     159 #planlaşdır\<v\>\<part_dik\>\<acc\>	^planlaşdır<v><part_dik><acc>$
-    159 #optimist\<adj\>	^optimist<adj>$
     159 #hal-hazırda\<adv\>	^hal-hazırda<adv>$
     159 #göstər\<v\>\<part_dik\>\<p3s\>\<acc\>	^göstər<v><part_dik><p3s><acc>$
     158 #naxışla\<v\>\<pass\>\<cv_mis\>	^naxışla<v><pass><cv_mis>$
@@ -1288,7 +1232,6 @@ Tag mismatch between transfer and generation
     148 #yolçu\<n\>	^yolçu<n>$
     148 #sürmə\<n\>\<p3s\>	^sürmə<n><p3s>$
     146 #istə\<v\>\<cv_dik\>\<p3s\>\<acc\>	^istə<v><cv_dik><p3s><acc>$
-    146 #ilk\<adj\>	^ilk<adj>$
     146 #çıxar\<v\>\<pass\>\<t_past\>\<3s\>	^çıxar<v><pass><t_past><3s>$
     144 #var\<n\>	^var<n>$
     144 #təsdiqlə\<v\>\<t_past\>\<3p\>	^təsdiqlə<v><t_past><3p>$
@@ -1302,7 +1245,6 @@ Tag mismatch between transfer and generation
     141 #çap et\<v\>\<pass\>\<part_yan\>	^çap et<v><pass><part_yan>$
     141 #bank\<n\>\<p3s\>	^bank<n><p3s>$
     140 #qruplaş\<v\>\<t_aor\>\<3s\>	^qruplaş<v><t_aor><3s>$
-    140 #qeyri-kafi\<adj\>	^qeyri-kafi<adj>$
     140 #qanun\<n\>\<p3s\>\<gen\>	^qanun<n><p3s><gen>$
     140 #istə\<v\>\<t_cont\>\<3p\>	^istə<v><t_cont><3p>$
     140 #inan\<v\>\<part_dik\>\<p3s\>\<acc\>	^inan<v><part_dik><p3s><acc>$
@@ -1313,7 +1255,6 @@ Tag mismatch between transfer and generation
     139 #bir neçə\<det\>	^bir neçə<det>$
     138 #mi\<q\>\<3s\>	^mi<q><3s>$
     138 #göstər\<v\>\<pass\>\<t_past\>\<3s\>	^göstər<v><pass><t_past><3s>$
-    137 #zəruri\<adj\>	^zəruri<adj>$
     137 #yaxı\<n\>\<p2s\>\<abl\>	^yaxı<n><p2s><abl>$
     137 #konstitusiya\<n\>\<dat\>	^konstitusiya<n><dat>$
     136 #yarala\<v\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^yarala<v><pass><cv_ma><p3s><dat>$
@@ -1323,8 +1264,6 @@ Tag mismatch between transfer and generation
     133 #oyna\<v\>\<part_dik\>\<acc\>	^oyna<v><part_dik><acc>$
     132 #tur\<n\>\<loc\>	^tur<n><loc>$
     132 #təxirə salma\<n\>	^təxirə salma<n>$
-    132 #şərq\<adj\>	^şərq<adj>$
-    132 #mühacir\<adj\>	^mühacir<adj>$
     131 #Nə var ki\<cnjadv\>	^Nə var ki<cnjadv>$
     131 #bir\<n\>\<p3s\>\<loc\>	^bir<n><p3s><loc>$
     131 #al\<n\>\<cpl_mis\>\<3s\>	^al<n><cpl_mis><3s>$
@@ -1345,7 +1284,6 @@ Tag mismatch between transfer and generation
     125 #təzələ\<v\>\<t_past\>\<3s\>	^təzələ<v><t_past><3s>$
     125 #ratifikasiya\<n\>\<p3s\>	^ratifikasiya<n><p3s>$
     125 #istifadə et\<v\>\<cv_erek\>	^istifadə et<v><cv_erek>$
-    124 #zəngin\<adj\>	^zəngin<adj>$
     124 #tut\<v\>\<pass\>\<part_yan\>	^tut<v><pass><part_yan>$
     124 #saylı\<n\>	^saylı<n>$
     124 #konstitusiya\<n\>\<gen\>	^konstitusiya<n><gen>$
@@ -1364,7 +1302,6 @@ Tag mismatch between transfer and generation
     119 #istə\<v\>\<cv_iyor\>	^istə<v><cv_iyor>$
     118 #tanı\<v\>\<pass\>\<t_narr\>\<3s\>	^tanı<v><pass><t_narr><3s>$
     118 #sürətlən\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>	^sürətlən<v><caus><pass><cv_ma><p3s>$
-    118 #sakit\<adj\>	^sakit<adj>$
     118 #ehtiyat\<n\>\<p3s\>	^ehtiyat<n><p3s>$
     118 #düjün\<n\>\<pl\>\<ca\>	^düjün<n><pl><ca>$
     118 #devir\<v\>\<t_past\>\<3s\>	^devir<v><t_past><3s>$
@@ -1375,14 +1312,12 @@ Tag mismatch between transfer and generation
     116 #tam\<adv\>	^tam<adv>$
     116 #qarşıla\<v\>\<pass\>\<t_past\>\<3s\>	^qarşıla<v><pass><t_past><3s>$
     116 #hər kəs\<n\>	^hər kəs<n>$
-    116 #dərin\<adj\>	^dərin<adj>$
     115 #qumbara at\<v\>\<cv_ma\>	^qumbara at<v><cv_ma>$
     115 #bir\<n\>	^bir<n>$
     113 #qanun\<n\>	^qanun<n>$
     113 #planlaşdır\<v\>\<t_cont\>\<3p\>	^planlaşdır<v><t_cont><3p>$
     113 #köçür\<v\>\<pass\>\<part_yan\>	^köçür<v><pass><part_yan>$
     113 #Bank\<n\>	^Bank<n>$
-    112 #təbii\<adj\>	^təbii<adj>$
     112 #sonraya saxla\<v\>\<t_past\>\<3s\>	^sonraya saxla<v><t_past><3s>$
     112 #mübahisə et\<v\>\<cv_mak\>	^mübahisə et<v><cv_mak>$
     111 #yaşa\<v\>\<part_dik\>\<acc\>	^yaşa<v><part_dik><acc>$
@@ -1392,7 +1327,6 @@ Tag mismatch between transfer and generation
     111 #çıxar\<v\>\<pass\>\<cv_ma\>\<p3s\>	^çıxar<v><pass><cv_ma><p3s>$
     110 #inan\<v\>\<t_cont\>\<1s\>	^inan<v><t_cont><1s>$
     110 #dəstəklə\<v\>\<cv_mak\>	^dəstəklə<v><cv_mak>$
-    110 #cənub-şərq\<adj\>	^cənub-şərq<adj>$
     110 #Açıg\<adv\>	^Açıg<adv>$
     109 #təmin et\<v\>\<pass\>\<part_yan\>	^təmin et<v><pass><part_yan>$
     109 #irəlilə\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>	^irəlilə<v><caus><pass><cv_ma><p3s>$
@@ -1403,7 +1337,6 @@ Tag mismatch between transfer and generation
     108 #dahi\<n\>	^dahi<n>$
     107 #qaynaq et\<v\>\<t_cont\>\<3s\>	^qaynaq et<v><t_cont><3s>$
     107 #göstər\<v\>\<pass\>\<part_yan\>	^göstər<v><pass><part_yan>$
-    107 #bəsit\<adj\>	^bəsit<adj>$
     107 #azal\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>	^azal<v><caus><pass><cv_ma><p3s>$
     106 #tur\<n\>\<p3s\>	^tur<n><p3s>$
     106 #partla\<v\>\<part_yan\>	^partla<v><part_yan>$
@@ -1419,7 +1352,6 @@ Tag mismatch between transfer and generation
     104 #atmaq\<v\>\<part_yan\>	^atmaq<v><part_yan>$
     103 #tanı\<v\>\<t_past\>\<3s\>	^tanı<v><t_past><3s>$
     103 #fikri\<n\>\<p2s\>\<acc\>	^fikri<n><p2s><acc>$
-    103 #div\<adj\>	^div<adj>$
     102 #uzlaş\<v\>\<vn_mak\>\<dat\>	^uzlaş<v><vn_mak><dat>$
     102 #qurtar\<v\>\<cv_ma\>	^qurtar<v><cv_ma>$
     102 #inan\<v\>\<pass\>\<part_yan\>	^inan<v><pass><part_yan>$
@@ -1449,7 +1381,6 @@ Tag mismatch between transfer and generation
      98 #aparat\<n\>	^aparat<n>$
      97 #yeri\<v\>\<caus\>\<part_dik\>\<acc\>	^yeri<v><caus><part_dik><acc>$
      97 #təklif et\<v\>\<part_dik\>\<acc\>	^təklif et<v><part_dik><acc>$
-     97 #şəffaf\<adj\>	^şəffaf<adj>$
      97 #öhdəsinə götür\<v\>\<t_past\>\<3s\>	^öhdəsinə götür<v><t_past><3s>$
      97 #mübahisə et\<v\>\<vn_mak\>\<dat\>	^mübahisə et<v><vn_mak><dat>$
      97 #hər kəs\<n\>\<gen\>	^hər kəs<n><gen>$
@@ -1468,7 +1399,6 @@ Tag mismatch between transfer and generation
      94 #dəstəklə\<v\>\<vn_acak\>\<p3s\>\<acc\>	^dəstəklə<v><vn_acak><p3s><acc>$
      94 #aylardır\<adv\>	^aylardır<adv>$
      94 #Anlaş\<v\>\<vn_mak\>\<dat\>	^Anlaş<v><vn_mak><dat>$
-     93 #yoxsul\<adj\>	^yoxsul<adj>$
      93 #yaşa\<v\>\<t_cont\>\<3s\>	^yaşa<v><t_cont><3s>$
      93 #təsdiqlə\<v\>\<cv_erek\>	^təsdiqlə<v><cv_erek>$
      93 #təkrar et\<v\>\<t_past\>\<3s\>	^təkrar et<v><t_past><3s>$
@@ -1488,7 +1418,6 @@ Tag mismatch between transfer and generation
      89 #suçla\<v\>\<t_cont\>\<3s\>	^suçla<v><t_cont><3s>$
      89 #bir\<n\>\<p3s\>\<dat\>	^bir<n><p3s><dat>$
      88 #separatçı\<n\>	^separatçı<n>$
-     88 #mükəmməl\<adj\>	^mükəmməl<adj>$
      88 #köçür\<v\>\<part_dik\>\<acc\>	^köçür<v><part_dik><acc>$
      88 #istifadə et\<v\>\<part_yan\>	^istifadə et<v><part_yan>$
      88 #hazırla\<v\>\<t_past\>\<3s\>	^hazırla<v><t_past><3s>$
@@ -1497,7 +1426,6 @@ Tag mismatch between transfer and generation
      87 #yox\<cnjadv\>	^yox<cnjadv>$
      87 #yarala\<v\>\<pass\>\<t_narr\>\<cpl_di\>\<3s\>	^yarala<v><pass><t_narr><cpl_di><3s>$
      87 #vasitəsi\<n\>	^vasitəsi<n>$
-     87 #həssas\<adj\>	^həssas<adj>$
      87 #göndər\<v\>\<pass\>\<t_past\>\<3s\>	^göndər<v><pass><t_past><3s>$
      86 #yaxınlaş\<v\>\<vn_mak\>\<loc\>	^yaxınlaş<v><vn_mak><loc>$
      86 #yaşa\<v\>\<pass\>\<t_past\>\<3s\>	^yaşa<v><pass><t_past><3s>$
@@ -1518,19 +1446,15 @@ Tag mismatch between transfer and generation
      84 #Aviasiya\<n\>	^Aviasiya<n>$
      83 #təmin et\<v\>\<pass\>\<t_fut\>\<3s\>	^təmin et<v><pass><t_fut><3s>$
      83 #müəyyən et\<v\>\<cv_mak\>	^müəyyən et<v><cv_mak>$
-     83 #əsas\<adj\>	^əsas<adj>$
      82 #təmin et\<v\>\<vn_mak\>\<acc\>	^təmin et<v><vn_mak><acc>$
      82 #qarşıla\<v\>\<cv_erek\>	^qarşıla<v><cv_erek>$
      82 #öhdəsinə götür\<v\>\<part_yan\>	^öhdəsinə götür<v><part_yan>$
      82 #kimyəvi\<n\>	^kimyəvi<n>$
      82 #göstər\<v\>\<pass\>\<cv_ma\>\<p3s\>	^göstər<v><pass><cv_ma><p3s>$
      82 #göstər\<v\>\<cv_dik\>\<p3s\>\<acc\>	^göstər<v><cv_dik><p3s><acc>$
-     81 #xəstə\<adj\>	^xəstə<adj>$
-     81 #Narkotik\<adj\>	^Narkotik<adj>$
      81 #istifadə et\<v\>\<cv_mak\>	^istifadə et<v><cv_mak>$
      81 #günahsız\<n\>	^günahsız<n>$
      81 #ertə\<n\>\<p3s\>	^ertə<n><p3s>$
-     80 #qərb\<adj\>	^qərb<adj>$
      80 #qarşıla\<v\>\<vn_mak\>	^qarşıla<v><vn_mak>$
      80 #partla\<v\>\<cv_ma\>	^partla<v><cv_ma>$
      80 #Papa\<n\>	^Papa<n>$
@@ -1565,7 +1489,6 @@ Tag mismatch between transfer and generation
      76 #köçür\<v\>\<cv_dik\>\<p3s\>	^köçür<v><cv_dik><p3s>$
      76 #illərlə\<adv\>	^illərlə<adv>$
      76 #güclə\<adv\>	^güclə<adv>$
-     76 #Gələcək\<adj\>	^Gələcək<adj>$
      76 #Erkən\<adv\>	^Erkən<adv>$
      76 #dəstəklə\<v\>\<t_cont\>\<3s\>	^dəstəklə<v><t_cont><3s>$
      76 #benzin\<n\>	^benzin<n>$
@@ -1588,11 +1511,9 @@ Tag mismatch between transfer and generation
      74 #ixdal\<n\>	^ixdal<n>$
      74 #irəlilə\<v\>\<cv_ma\>\<p3s\>\<dat\>	^irəlilə<v><cv_ma><p3s><dat>$
      74 #Hələ\<adv\>	^Hələ<adv>$
-     74 #garşı\<adj\>	^garşı<adj>$
      74 #fərqləndir\<v\>\<part_dik\>\<acc\>	^fərqləndir<v><part_dik><acc>$
      73 #təyinat\<n\>	^təyinat<n>$
      73 #sürətlən\<v\>\<caus\>\<cv_ma\>\<p3s\>	^sürətlən<v><caus><cv_ma><p3s>$
-     73 #müasir\<adj\>	^müasir<adj>$
      73 #ehtimalla\<adv\>	^ehtimalla<adv>$
      72 #zorla\<v\>\<caus\>\<t_narr\>\<cpl_di\>\<3s\>	^zorla<v><caus><t_narr><cpl_di><3s>$
      72 #tənqid et\<v\>\<part_yan\>	^tənqid et<v><part_yan>$
@@ -1642,7 +1563,6 @@ Tag mismatch between transfer and generation
      67 #dəyiş\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>	^dəyiş<v><caus><pass><cv_ma><p3s>$
      67 #dəstəklə\<v\>\<part_dik\>\<acc\>	^dəstəklə<v><part_dik><acc>$
      67 #çıxış\<n\>\<pl\>	^çıxış<n><pl>$
-     67 #aktivist\<adj\>	^aktivist<adj>$
      66 #yeri\<v\>\<caus\>\<cv_ma\>	^yeri<v><caus><cv_ma>$
      66 #Qanun\<n\>\<dat\>	^Qanun<n><dat>$
      66 #izah et\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>	^izah et<v><caus><pass><cv_ma><p3s>$
@@ -1689,7 +1609,6 @@ Tag mismatch between transfer and generation
      62 #canlan\<v\>\<caus\>\<vn_mak\>	^canlan<v><caus><vn_mak>$
      62 #boş\<adv\>	^boş<adv>$
      61 #yığ\<v\>\<part_yan\>	^yığ<v><part_yan>$
-     61 #Yəhudi\<adj\>	^Yəhudi<adj>$
      61 #uğraş\<v\>\<part_yan\>	^uğraş<v><part_yan>$
      61 #sürətlən\<v\>\<caus\>\<cv_mak\>	^sürətlən<v><caus><cv_mak>$
      61 #suçla\<v\>\<t_narr\>\<cpl_di\>\<3s\>	^suçla<v><t_narr><cpl_di><3s>$
@@ -1712,7 +1631,6 @@ Tag mismatch between transfer and generation
      60 #əngəl ol\<v\>\<vn_mak\>	^əngəl ol<v><vn_mak>$
      60 #ələm\<n\>\<dat\>	^ələm<n><dat>$
      60 #bürü\<v\>\<t_cont\>\<3s\>	^bürü<v><t_cont><3s>$
-     60 #baha\<adj\>	^baha<adj>$
      60 #aşağı\<adv\>	^aşağı<adv>$
      59 #tut\<v\>\<t_past\>\<3p\>	^tut<v><t_past><3p>$
      59 #istə\<v\>\<pass\>\<t_past\>\<3s\>	^istə<v><pass><t_past><3s>$
@@ -1728,7 +1646,6 @@ Tag mismatch between transfer and generation
      58 #kokain\<n\>	^kokain<n>$
      58 #ittiham hökmü\<n\>\<acc\>	^ittiham hökmü<n><acc>$
      58 #dəstəklə\<v\>\<cv_acak\>	^dəstəklə<v><cv_acak>$
-     58 #bilən\<adj\>	^bilən<adj>$
      57 #yaran\<v\>\<caus\>\<part_dik\>\<acc\>	^yaran<v><caus><part_dik><acc>$
      57 #təsdiqlə\<v\>\<part_dik\>\<acc\>	^təsdiqlə<v><part_dik><acc>$
      57 #Təklif et\<v\>\<pass\>\<part_yan\>	^Təklif et<v><pass><part_yan>$
@@ -1747,7 +1664,6 @@ Tag mismatch between transfer and generation
      56 #inan\<v\>\<t_cont\>\<1p\>	^inan<v><t_cont><1p>$
      56 #düjün\<n\>	^düjün<n>$
      56 #daya\<v\>\<pass\>\<t_cont\>\<3s\>	^daya<v><pass><t_cont><3s>$
-     56 #çətin\<adj\>	^çətin<adj>$
      55 #tur\<n\>\<p3s\>\<dat\>	^tur<n><p3s><dat>$
      55 #tur\<n\>\<p3s\>\<acc\>	^tur<n><p3s><acc>$
      55 #təmin et\<v\>\<part_dik\>\<p3s\>\<acc\>	^təmin et<v><part_dik><p3s><acc>$
@@ -1825,7 +1741,6 @@ Tag mismatch between transfer and generation
      51 #qarşıla\<v\>\<cv_ma\>\<p3s\>	^qarşıla<v><cv_ma><p3s>$
      51 #nəm\<n\>\<cpl_mis\>\<3s\>	^nəm<n><cpl_mis><3s>$
      51 #naxışla\<v\>\<cv_mak\>\<ins\>	^naxışla<v><cv_mak><ins>$
-     51 #Məhkəmə\<adj\>	^Məhkəmə<adj>$
      51 #irəlilə\<v\>\<neg\>\<cv_dan\>	^irəlilə<v><neg><cv_dan>$
      51 #incələ\<v\>\<cv_mak\>	^incələ<v><cv_mak>$
      51 #hər hansı\<det\>	^hər hansı<det>$
@@ -1842,7 +1757,6 @@ Tag mismatch between transfer and generation
      50 #tamamla\<v\>\<pass\>\<t_fut\>\<3s\>	^tamamla<v><pass><t_fut><3s>$
      50 #sonraya saxla\<v\>\<pass\>\<t_narr\>\<cpl_di\>\<3s\>	^sonraya saxla<v><pass><t_narr><cpl_di><3s>$
      50 #peyk\<n\>	^peyk<n>$
-     50 #Kəndli\<adj\>	^Kəndli<adj>$
      50 #idmançı\<n\>\<pl\>	^idmançı<n><pl>$
      50 #hazırla\<v\>\<cv_ma\>\<p3s\>	^hazırla<v><cv_ma><p3s>$
      50 #dönmə\<n\>\<p3s\>	^dönmə<n><p3s>$
@@ -1850,16 +1764,12 @@ Tag mismatch between transfer and generation
      50 #çıxar\<v\>\<part_dik\>\<acc\>	^çıxar<v><part_dik><acc>$
      50 #barın\<v\>\<caus\>\<part_yan\>	^barın<v><caus><part_yan>$
      50 #bank\<n\>\<p3s\>\<gen\>	^bank<n><p3s><gen>$
-     49 #Yaşıl\<adj\>	^Yaşıl<adj>$
      49 #yaran\<v\>\<caus\>\<cv_dik\>\<p3s\>	^yaran<v><caus><cv_dik><p3s>$
-     49 #tərs\<adj\>	^tərs<adj>$
-     49 #təmiz\<adj\>	^təmiz<adj>$
      49 #təmas et\<v\>\<t_past\>\<3s\>	^təmas et<v><t_past><3s>$
      49 #tamamla\<v\>\<vn_mak\>	^tamamla<v><vn_mak>$
      49 #Tamamla\<v\>\<t_past\>\<3s\>	^Tamamla<v><t_past><3s>$
      49 #qazan\<v\>\<t_past\>\<3p\>	^qazan<v><t_past><3p>$
      49 #planlaşdır\<v\>\<part_dik\>\<pl\>\<acc\>	^planlaşdır<v><part_dik><pl><acc>$
-     49 #natamam\<adj\>	^natamam<adj>$
      49 #lüt\<n\>	^lüt<n>$
      49 #kubmetr\<n\>	^kubmetr<n>$
      49 #istifadə et\<v\>\<vn_mak\>\<ins\>	^istifadə et<v><vn_mak><ins>$
@@ -1871,7 +1781,6 @@ Tag mismatch between transfer and generation
      48 #naxışla\<v\>\<vn_yis\>\<p3s\>\<acc\>	^naxışla<v><vn_yis><p3s><acc>$
      48 #istə\<v\>\<t_aor\>\<3s\>\<cpl_ken\>	^istə<v><t_aor><3s><cpl_ken>$
      48 #imzala\<v\>\<pass\>\<cv_ma\>\<p3s\>\<abl\>	^imzala<v><pass><cv_ma><p3s><abl>$
-     48 #heyvan\<adj\>	^heyvan<adj>$
      48 #etibarlı\<n\>	^etibarlı<n>$
      48 #devir\<v\>\<t_imp\>\<2s\>	^devir<v><t_imp><2s>$
      48 #çıxar\<v\>\<part_yan\>	^çıxar<v><part_yan>$
@@ -1906,12 +1815,9 @@ Tag mismatch between transfer and generation
      46 #yaxınlaş\<v\>\<t_makta\>\<3s\>	^yaxınlaş<v><t_makta><3s>$
      46 #yaxala\<v\>\<pass\>\<part_yan\>	^yaxala<v><pass><part_yan>$
      46 #təsdiqlə\<v\>\<pass\>\<cv_mis\>	^təsdiqlə<v><pass><cv_mis>$
-     46 #təhsilli\<adj\>	^təhsilli<adj>$
      46 #Tədqiqatçı\<n\>	^Tədqiqatçı<n>$
      46 #tanı\<v\>\<vn_mak\>\<acc\>	^tanı<v><vn_mak><acc>$
-     46 #Qonşu\<adj\>	^Qonşu<adj>$
      46 #qarşıla\<v\>\<cv_mak\>\<ins\>	^qarşıla<v><cv_mak><ins>$
-     46 #Məsləhətçi\<adj\>	^Məsləhətçi<adj>$
      46 #imzala\<v\>\<vn_mak\>\<dat\>	^imzala<v><vn_mak><dat>$
      46 #hem de\<adv\>	^hem de<adv>$
      46 #göndər\<v\>\<part_dik\>\<p3s\>\<acc\>	^göndər<v><part_dik><p3s><acc>$
@@ -1922,7 +1828,6 @@ Tag mismatch between transfer and generation
      45 #yarışma\<n\>	^yarışma<n>$
      45 #xəbərləş\<v\>\<pass\>\<part_yan\>	^xəbərləş<v><pass><part_yan>$
      45 #uza\<v\>\<caus\>\<t_past\>\<3s\>	^uza<v><caus><t_past><3s>$
-     45 #təcavüzkar\<adj\>	^təcavüzkar<adj>$
      45 #tamamla\<v\>\<t_narr\>\<3s\>	^tamamla<v><t_narr><3s>$
      45 #qiymətləndir\<v\>\<caus\>\<cv_ma\>\<p3s\>	^qiymətləndir<v><caus><cv_ma><p3s>$
      45 #qarış\<v\>\<part_dik\>\<acc\>	^qarış<v><part_dik><acc>$
@@ -1930,8 +1835,6 @@ Tag mismatch between transfer and generation
      45 #qaçın\<v\>\<t_past\>\<3s\>	^qaçın<v><t_past><3s>$
      45 #Partiyalı\<n\>	^Partiyalı<n>$
      45 #öhdəsinə götür\<v\>\<t_fut\>\<3s\>	^öhdəsinə götür<v><t_fut><3s>$
-     45 #mütləq\<adj\>	^mütləq<adj>$
-     45 #müstəqbəl\<adj\>	^müstəqbəl<adj>$
      45 #içəri\<n\>\<p3s\>\<loc\>	^içəri<n><p3s><loc>$
      45 #hər şey\<n\>\<acc\>	^hər şey<n><acc>$
      45 #gözəl\<adv\>	^gözəl<adv>$
@@ -1939,7 +1842,6 @@ Tag mismatch between transfer and generation
      45 #ehtiyat\<n\>\<p3s\>\<acc\>	^ehtiyat<n><p3s><acc>$
      45 #devir\<v\>\<cv_ma\>	^devir<v><cv_ma>$
      45 #dəstəklə\<v\>\<neg\>\<t_opt\>\<3s\>	^dəstəklə<v><neg><t_opt><3s>$
-     45 #cəza\<adj\>	^cəza<adj>$
      45 #başqa\<postp\>	^başqa<postp>$
      44 #yığ\<v\>\<pass\>\<cv_erek\>	^yığ<v><pass><cv_erek>$
      44 #yaran\<v\>\<caus\>\<cv_mak\>	^yaran<v><caus><cv_mak>$
@@ -1958,9 +1860,6 @@ Tag mismatch between transfer and generation
      44 #Mübahisə et\<v\>\<t_obl\>\<3s\>	^Mübahisə et<v><t_obl><3s>$
      44 #məsələn\<cnjadv\>	^məsələn<cnjadv>$
      44 #maraq\<n\>\<p3s\>\<acc\>	^maraq<n><p3s><acc>$
-     44 #Konstitusiyalı\<adj\>	^Konstitusiyalı<adj>$
-     44 #gərgin\<adj\>	^gərgin<adj>$
-     44 #Bir neçə\<adj\>	^Bir neçə<adj>$
      44 #basketbol\<n\>	^basketbol<n>$
      43 #yük maşını\<n\>	^yük maşını<n>$
      43 #yoxla\<v\>\<vn_mak\>\<dat\>	^yoxla<v><vn_mak><dat>$
@@ -2005,7 +1904,6 @@ Tag mismatch between transfer and generation
      42 #Forum\<n\>\<dat\>	^Forum<n><dat>$
      42 #bəzi\<det\>	^bəzi<det>$
      42 #Bank\<n\>\<p3s\>\<gen\>	^Bank<n><p3s><gen>$
-     42 #açıg\<adj\>	^açıg<adj>$
      41 #zorla\<v\>\<caus\>\<t_cont\>\<3p\>	^zorla<v><caus><t_cont><3p>$
      41 #Yığ\<v\>\<pass\>\<t_past\>\<3s\>	^Yığ<v><pass><t_past><3s>$
      41 #Yenilikçi\<n\>	^Yenilikçi<n>$
@@ -2018,7 +1916,6 @@ Tag mismatch between transfer and generation
      41 #qazan\<v\>\<t_narr\>\<cpl_di\>\<3s\>	^qazan<v><t_narr><cpl_di><3s>$
      41 #qarış\<v\>\<part_yan\>	^qarış<v><part_yan>$
      41 #qadağan et\<v\>\<t_past\>\<3s\>	^qadağan et<v><t_past><3s>$
-     41 #plagiat\<adj\>	^plagiat<adj>$
      41 #Obama\<np\>	^Obama<np>$
      41 #mübahisə et\<v\>\<t_past\>\<3s\>	^mübahisə et<v><t_past><3s>$
      41 #konstitusiya\<n\>\<p3s\>\<acc\>	^konstitusiya<n><p3s><acc>$
@@ -2032,8 +1929,6 @@ Tag mismatch between transfer and generation
      41 #bir\<n\>\<1s\>	^bir<n><1s>$
      41 #bank\<n\>	^bank<n>$
      41 #ani\<n\>	^ani<n>$
-     40 #ziyadə\<adj\>	^ziyadə<adj>$
-     40 #zidd\<adj\>	^zidd<adj>$
      40 #yeri\<v\>\<caus\>\<pass\>\<cv_acak\>	^yeri<v><caus><pass><cv_acak>$
      40 #Yakış\<v\>\<t_imp\>\<2s\>	^Yakış<v><t_imp><2s>$
      40 #təmin et\<v\>\<vn_acak\>\<acc\>	^təmin et<v><vn_acak><acc>$
@@ -2049,7 +1944,6 @@ Tag mismatch between transfer and generation
      40 #istifadə et\<v\>\<vn_mak\>\<acc\>	^istifadə et<v><vn_mak><acc>$
      40 #istə\<v\>\<part_dik\>\<pl\>\<acc\>	^istə<v><part_dik><pl><acc>$
      40 #inan\<v\>\<cv_dik\>\<p3s\>\<acc\>	^inan<v><cv_dik><p3s><acc>$
-     40 #əxlaq\<adj\>	^əxlaq<adj>$
      40 #əngəl ol\<v\>\<part_yan\>	^əngəl ol<v><part_yan>$
      40 #əks et\<v\>\<caus\>\<t_cont\>\<3s\>	^əks et<v><caus><t_cont><3s>$
      40 #dəstəklə\<v\>\<t_aor\>\<3s\>\<cpl_ken\>	^dəstəklə<v><t_aor><3s><cpl_ken>$
@@ -2079,7 +1973,6 @@ Tag mismatch between transfer and generation
      39 #forum\<n\>	^forum<n>$
      39 #dönüş\<n\>	^dönüş<n>$
      39 #beləcə\<adv\>	^beləcə<adv>$
-     39 #Belə\<adj\>	^Belə<adj>$
      38 #yeri\<v\>\<caus\>\<t_fut\>\<3s\>	^yeri<v><caus><t_fut><3s>$
      38 #yeri\<v\>\<caus\>\<cv_acak\>	^yeri<v><caus><cv_acak>$
      38 #yaxala\<v\>\<t_past\>\<3s\>	^yaxala<v><t_past><3s>$
@@ -2097,7 +1990,6 @@ Tag mismatch between transfer and generation
      38 #Planlaşdır\<v\>\<cv_ma\>	^Planlaşdır<v><cv_ma>$
      38 #nəzərdə tut\<v\>\<t_past\>\<3s\>	^nəzərdə tut<v><t_past><3s>$
      38 #korla\<v\>\<t_aor\>\<3s\>	^korla<v><t_aor><3s>$
-     38 #kəskin\<adj\>	^kəskin<adj>$
      38 #göstər\<v\>\<t_aor\>\<3s\>\<cpl_ken\>	^göstər<v><t_aor><3s><cpl_ken>$
      38 #gəliş\<v\>\<caus\>\<vn_mak\>	^gəliş<v><caus><vn_mak>$
      38 #dışarı\<adv\>	^dışarı<adv>$
@@ -2149,7 +2041,6 @@ Tag mismatch between transfer and generation
      36 #Qurtar\<v\>\<cv_ma\>	^Qurtar<v><cv_ma>$
      36 #qına\<v\>\<cv_erek\>	^qına<v><cv_erek>$
      36 #qazan\<v\>\<caus\>\<cv_ma\>	^qazan<v><caus><cv_ma>$
-     36 #Qatı\<adj\>	^Qatı<adj>$
      36 #müəyyən et\<v\>\<part_dik\>\<acc\>	^müəyyən et<v><part_dik><acc>$
      36 #Kollektiv\<n\>	^Kollektiv<n>$
      36 #kifayət qədər\<n\>	^kifayət qədər<n>$
@@ -2171,7 +2062,6 @@ Tag mismatch between transfer and generation
      35 #yarış\<v\>\<part_yan\>	^yarış<v><part_yan>$
      35 #yaran\<v\>\<caus\>\<vn_mak\>\<dat\>	^yaran<v><caus><vn_mak><dat>$
      35 #yanlış\<n\>	^yanlış<n>$
-     35 #xam\<adj\>	^xam<adj>$
      35 #tut\<v\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^tut<v><pass><cv_ma><p3s><dat>$
      35 #təxirə salma\<n\>\<gen\>	^təxirə salma<n><gen>$
      35 #təqib et\<v\>\<vn_acak\>\<p3s\>\<acc\>	^təqib et<v><vn_acak><p3s><acc>$
@@ -2180,11 +2070,9 @@ Tag mismatch between transfer and generation
      35 #təklif et\<v\>\<t_cont\>\<3s\>	^təklif et<v><t_cont><3s>$
      35 #tanı\<v\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^tanı<v><pass><cv_ma><p3s><dat>$
      35 #sürmə\<n\>\<p3s\>\<acc\>	^sürmə<n><p3s><acc>$
-     35 #süni\<adj\>	^süni<adj>$
      35 #suçla\<v\>\<part_dik\>\<acc\>	^suçla<v><part_dik><acc>$
      35 #Sərhədsiz\<n\>	^Sərhədsiz<n>$
      35 #qanun\<n\>\<ins\>	^qanun<n><ins>$
-     35 #pirat\<adj\>	^pirat<adj>$
      35 #partizan\<n\>	^partizan<n>$
      35 #öhdəsinə götür\<v\>\<part_dik\>\<acc\>	^öhdəsinə götür<v><part_dik><acc>$
      35 #ödə\<v\>\<cv_mak\>	^ödə<v><cv_mak>$
@@ -2214,7 +2102,6 @@ Tag mismatch between transfer and generation
      34 #yaran\<v\>\<caus\>\<cv_dik\>\<p3s\>\<acc\>	^yaran<v><caus><cv_dik><p3s><acc>$
      34 #tut\<v\>\<pass\>\<part_dik\>\<p3s\>	^tut<v><pass><part_dik><p3s>$
      34 #tanı\<v\>\<cv_mak\>	^tanı<v><cv_mak>$
-     34 #Sürətli\<adj\>	^Sürətli<adj>$
      34 #suçla\<v\>\<t_cont\>\<3p\>	^suçla<v><t_cont><3p>$
      34 #sonraya saxla\<v\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^sonraya saxla<v><pass><cv_ma><p3s><dat>$
      34 #sına\<v\>\<t_cont\>\<3s\>	^sına<v><t_cont><3s>$
@@ -2299,7 +2186,6 @@ Tag mismatch between transfer and generation
      32 #irəlilə\<v\>\<caus\>\<vn_mak\>	^irəlilə<v><caus><vn_mak>$
      32 #incələ\<v\>\<part_yan\>	^incələ<v><part_yan>$
      32 #imzala\<v\>\<vn_acak\>\<p3s\>\<acc\>	^imzala<v><vn_acak><p3s><acc>$
-     32 #Humanist\<adj\>	^Humanist<adj>$
      32 #hazırla\<v\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^hazırla<v><pass><cv_ma><p3s><dat>$
      32 #hazırla\<v\>\<cv_acak\>	^hazırla<v><cv_acak>$
      32 #göstər\<v\>\<t_fut\>\<3s\>	^göstər<v><t_fut><3s>$
@@ -2325,14 +2211,11 @@ Tag mismatch between transfer and generation
      31 #Tak\<n\>\<1s\>	^Tak<n><1s>$
      31 #şimal-şərq\<n\>\<p3s\>\<loc\>\<ki\>	^şimal-şərq<n><p3s><loc><ki>$
      31 #radar\<n\>	^radar<n>$
-     31 #quru\<adj\>	^quru<adj>$
      31 #qızdır\<v\>\<cv_ma\>	^qızdır<v><cv_ma>$
      31 #qabaqcıl\<n\>\<acc\>	^qabaqcıl<n><acc>$
      31 #Partla\<v\>\<cv_ma\>	^Partla<v><cv_ma>$
      31 #oyna\<v\>\<vn_mak\>\<dat\>	^oyna<v><vn_mak><dat>$
-     31 #operativ\<adj\>	^operativ<adj>$
      31 #Opera\<n\>	^Opera<n>$
-     31 #məsum\<adj\>	^məsum<adj>$
      31 #Kanton\<n\>	^Kanton<n>$
      31 #jandarma\<n\>	^jandarma<n>$
      31 #istə\<v\>\<neg\>\<part_dik\>\<p3s\>\<acc\>	^istə<v><neg><part_dik><p3s><acc>$
@@ -2340,7 +2223,6 @@ Tag mismatch between transfer and generation
      31 #göndər\<v\>\<t_fut\>\<3s\>	^göndər<v><t_fut><3s>$
      31 #gizlə\<v\>\<pass\>\<cv_mis\>	^gizlə<v><pass><cv_mis>$
      31 #fərqləndir\<v\>\<pass\>\<t_past\>\<3s\>	^fərqləndir<v><pass><t_past><3s>$
-     31 #faciəli\<adj\>	^faciəli<adj>$
      31 #dul\<n\>	^dul<n>$
      31 #Doğru\<adv\>	^Doğru<adv>$
      31 #dəyiş\<v\>\<caus\>\<cv_ma\>\<p3s\>	^dəyiş<v><caus><cv_ma><p3s>$
@@ -2364,7 +2246,6 @@ Tag mismatch between transfer and generation
      30 #tamamla\<v\>\<pass\>\<cv_mis\>	^tamamla<v><pass><cv_mis>$
      30 #sonraya saxla\<v\>\<vn_mak\>\<dat\>	^sonraya saxla<v><vn_mak><dat>$
      30 #silahlan\<v\>\<t_aor\>\<3s\>	^silahlan<v><t_aor><3s>$
-     30 #seriya\<adj\>	^seriya<adj>$
      30 #qazan\<v\>\<cv_dik\>\<p3s\>\<acc\>	^qazan<v><cv_dik><p3s><acc>$
      30 #qanun\<n\>\<p3s\>\<loc\>\<ki\>	^qanun<n><p3s><loc><ki>$
      30 #Planlaşdır\<v\>\<pass\>\<part_yan\>	^Planlaşdır<v><pass><part_yan>$
@@ -2372,7 +2253,6 @@ Tag mismatch between transfer and generation
      30 #örtük\<n\>	^örtük<n>$
      30 #Nəm\<n\>\<cpl_di\>\<3s\>	^Nəm<n><cpl_di><3s>$
      30 #minomyot\<n\>	^minomyot<n>$
-     30 #maliyyə\<adj\>	^maliyyə<adj>$
      30 #Korp\<n\>\<p3s\>	^Korp<n><p3s>$
      30 #kod\<n\>	^kod<n>$
      30 #izah et\<v\>\<part_yan\>	^izah et<v><part_yan>$
@@ -2410,7 +2290,6 @@ Tag mismatch between transfer and generation
      29 #planlaşdır\<v\>\<cv_dik\>\<p3s\>	^planlaşdır<v><cv_dik><p3s>$
      29 #oyna\<v\>\<cv_ma\>\<p3s\>	^oyna<v><cv_ma><p3s>$
      29 #öhdəsinə götür\<v\>\<cv_ma\>\<p3s\>	^öhdəsinə götür<v><cv_ma><p3s>$
-     29 #neçə\<adj\>	^neçə<adj>$
      29 #məhdudlaşdır\<v\>\<part_yan\>	^məhdudlaşdır<v><part_yan>$
      29 #Konstitusiya\<n\>\<dat\>	^Konstitusiya<n><dat>$
      29 #kömür\<n\>	^kömür<n>$
@@ -2431,14 +2310,12 @@ Tag mismatch between transfer and generation
      29 #Bir çox\<det\>	^Bir çox<det>$
      29 #beş\<n\>	^beş<n>$
      29 #bağla\<v\>\<caus\>\<vn_mak\>\<acc\>	^bağla<v><caus><vn_mak><acc>$
-     29 #adəti\<adj\>	^adəti<adj>$
      28 #yüksəl\<v\>\<cv_erek\>	^yüksəl<v><cv_erek>$
      28 #yük maşını\<n\>\<gen\>	^yük maşını<n><gen>$
      28 #yeri\<v\>\<caus\>\<t_makta\>\<3s\>	^yeri<v><caus><t_makta><3s>$
      28 #yara\<v\>\<caus\>\<t_past\>\<3s\>	^yara<v><caus><t_past><3s>$
      28 #yara\<v\>\<caus\>\<cv_dik\>\<p3s\>	^yara<v><caus><cv_dik><p3s>$
      28 #voleybol\<n\>	^voleybol<n>$
-     28 #üsul\<adj\>	^üsul<adj>$
      28 #tut\<v\>\<t_narr\>\<cpl_di\>\<3s\>	^tut<v><t_narr><cpl_di><3s>$
      28 #Təyin et\<v\>\<t_past\>\<3s\>	^Təyin et<v><t_past><3s>$
      28 #təqib et\<v\>\<vn_mak\>\<dat\>	^təqib et<v><vn_mak><dat>$
@@ -2446,7 +2323,6 @@ Tag mismatch between transfer and generation
      28 #təmin et\<v\>\<pass\>\<abil\>\<neg\>\<cv_ma\>\<p3s\>	^təmin et<v><pass><abil><neg><cv_ma><p3s>$
      28 #Təbrik et\<v\>\<t_past\>\<3s\>	^Təbrik et<v><t_past><3s>$
      28 #təbrik et\<v\>\<part_yan\>	^təbrik et<v><part_yan>$
-     28 #tazə\<adj\>	^tazə<adj>$
      28 #tanı\<v\>\<pass\>\<t_past\>\<3s\>	^tanı<v><pass><t_past><3s>$
      28 #tanı\<v\>\<neg\>\<vn_acak\>\<p3s\>\<acc\>	^tanı<v><neg><vn_acak><p3s><acc>$
      28 #sürt\<v\>\<cv_ma\>	^sürt<v><cv_ma>$
@@ -2492,7 +2368,6 @@ Tag mismatch between transfer and generation
      27 #yara\<v\>\<caus\>\<part_dik\>\<acc\>	^yara<v><caus><part_dik><acc>$
      27 #yaran\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^yaran<v><caus><pass><cv_ma><p3s><dat>$
      27 #Xaç\<n\>	^Xaç<n>$
-     27 #üstəgəl\<adj\>	^üstəgəl<adj>$
      27 #uğra\<v\>\<cv_dik\>\<p3s\>\<acc\>	^uğra<v><cv_dik><p3s><acc>$
      27 #tut\<v\>\<vn_mak\>	^tut<v><vn_mak>$
      27 #Tut\<v\>\<pass\>\<t_past\>\<3s\>	^Tut<v><pass><t_past><3s>$
@@ -2504,13 +2379,11 @@ Tag mismatch between transfer and generation
      27 #suçla\<v\>\<vn_mak\>\<acc\>	^suçla<v><vn_mak><acc>$
      27 #sonraya saxla\<v\>\<pass\>\<cv_mis\>	^sonraya saxla<v><pass><cv_mis>$
      27 #sərhədsiz\<n\>	^sərhədsiz<n>$
-     27 #qızğın\<adj\>	^qızğın<adj>$
      27 #qiymət vermə\<v\>\<t_past\>\<3s\>	^qiymət vermə<v><t_past><3s>$
      27 #Qəzzafi\<np\>	^Qəzzafi<np>$
      27 #qanun\<n\>\<pl\>\<loc\>	^qanun<n><pl><loc>$
      27 #qanun\<n\>\<pl\>\<ins\>	^qanun<n><pl><ins>$
      27 #qadağan et\<v\>\<cv_ma\>	^qadağan et<v><cv_ma>$
-     27 #qaçılmaz\<adj\>	^qaçılmaz<adj>$
      27 #Orkestr\<n\>\<p3s\>	^Orkestr<n><p3s>$
      27 #naxışla\<v\>\<part_dik\>\<p3p\>	^naxışla<v><part_dik><p3p>$
      27 #kollektiv\<n\>\<p3s\>	^kollektiv<n><p3s>$
@@ -2550,11 +2423,9 @@ Tag mismatch between transfer and generation
      26 #Üzərinə\<postp\>	^Üzərinə<postp>$
      26 #tut\<v\>\<pass\>\<cv_ma\>\<p3s\>\<abl\>	^tut<v><pass><cv_ma><p3s><abl>$
      26 #tut\<v\>\<cv_erek\>	^tut<v><cv_erek>$
-     26 #təcili\<adj\>	^təcili<adj>$
      26 #təbrik et\<v\>\<cv_mak\>	^təbrik et<v><cv_mak>$
      26 #tamamla\<v\>\<vn_acak\>\<p3s\>\<acc\>	^tamamla<v><vn_acak><p3s><acc>$
      26 #sözləş\<v\>\<vn_mak\>\<dat\>	^sözləş<v><vn_mak><dat>$
-     26 #söz\<adj\>	^söz<adj>$
      26 #sərgiyə qoy\<v\>\<pass\>\<t_cont\>\<3s\>	^sərgiyə qoy<v><pass><t_cont><3s>$
      26 #qışqır\<v\>\<caus\>\<Dvn_yIcI\>\<adj\>	^qışqır<v><caus><Dvn_yIcI><adj>$
      26 #qazan\<v\>\<t_fut\>\<3s\>	^qazan<v><t_fut><3s>$
@@ -2585,7 +2456,6 @@ Tag mismatch between transfer and generation
      26 #azal\<v\>\<t_past\>\<3s\>	^azal<v><t_past><3s>$
      26 #Axmaq\<adv\>	^Axmaq<adv>$
      26 #avtomatik\<n\>	^avtomatik<n>$
-     26 #arxa\<adj\>	^arxa<adj>$
      25 #yüksəl\<v\>\<vn_yis\>\<dat\>	^yüksəl<v><vn_yis><dat>$
      25 #yoxla\<v\>\<neg\>\<t_opt\>\<3s\>	^yoxla<v><neg><t_opt><3s>$
      25 #yaxınlaş\<v\>\<t_past\>\<3s\>	^yaxınlaş<v><t_past><3s>$
@@ -2621,7 +2491,6 @@ Tag mismatch between transfer and generation
      25 #mühakimə et\<v\>\<pass\>\<part_dik\>\<acc\>	^mühakimə et<v><pass><part_dik><acc>$
      25 #mühakimə et\<v\>\<pass\>\<cv_ma\>	^mühakimə et<v><pass><cv_ma>$
      25 #mübahisə et\<v\>\<pass\>\<cv_ma\>\<p3s\>	^mübahisə et<v><pass><cv_ma><p3s>$
-     25 #məcbur\<adj\>	^məcbur<adj>$
      25 #mane ol\<v\>\<vn_mak\>\<dat\>	^mane ol<v><vn_mak><dat>$
      25 #kvartal\<n\>\<gen\>	^kvartal<n><gen>$
      25 #istə\<v\>\<neg\>\<cv_dik\>\<p3s\>\<acc\>	^istə<v><neg><cv_dik><p3s><acc>$
@@ -2685,7 +2554,6 @@ Tag mismatch between transfer and generation
      24 #müəyyən et\<v\>\<vn_mak\>\<dat\>	^müəyyən et<v><vn_mak><dat>$
      24 #Müəyyən et\<v\>\<t_past\>\<3s\>	^Müəyyən et<v><t_past><3s>$
      24 #müəyyən et\<v\>\<t_past\>\<3p\>	^müəyyən et<v><t_past><3p>$
-     24 #kövrək\<adj\>	^kövrək<adj>$
      24 #Keçmişdə\<adv\>	^Keçmişdə<adv>$
      24 #istə\<v\>\<t_cont\>\<3p\>\<cpl_sa\>	^istə<v><t_cont><3p><cpl_sa>$
      24 #irəlilə\<v\>\<caus\>\<neg\>\<t_opt\>\<3s\>	^irəlilə<v><caus><neg><t_opt><3s>$
@@ -2695,8 +2563,6 @@ Tag mismatch between transfer and generation
      24 #göndər\<v\>\<pass\>\<vn_acak\>\<p3s\>\<acc\>	^göndər<v><pass><vn_acak><p3s><acc>$
      24 #Göndər\<v\>\<cv_ma\>	^Göndər<v><cv_ma>$
      24 #forum\<n\>\<gen\>	^forum<n><gen>$
-     24 #Əlavə\<adj\>	^Əlavə<adj>$
-     24 #əla\<adj\>	^əla<adj>$
      24 #ehtimalı\<n\>	^ehtimalı<n>$
      24 #dostcasına\<adv\>	^dostcasına<adv>$
      24 #dönmə\<n\>\<p3s\>\<acc\>	^dönmə<n><p3s><acc>$
@@ -2739,7 +2605,6 @@ Tag mismatch between transfer and generation
      23 #qurtul\<v\>\<part_yan\>	^qurtul<v><part_yan>$
      23 #qeydə\<n\>	^qeydə<n>$
      23 #qadağan et\<v\>\<pass\>\<cv_ma\>\<p3s\>	^qadağan et<v><pass><cv_ma><p3s>$
-     23 #Peşəkar\<adj\>	^Peşəkar<adj>$
      23 #paylaş\<v\>\<t_past\>\<3s\>	^paylaş<v><t_past><3s>$
      23 #oyna\<v\>\<pass\>\<cv_acak\>	^oyna<v><pass><cv_acak>$
      23 #ödə\<v\>\<neg\>\<t_opt\>\<3s\>	^ödə<v><neg><t_opt><3s>$
@@ -2768,11 +2633,8 @@ Tag mismatch between transfer and generation
      23 #idarə et\<v\>\<pass\>\<t_cont\>\<3s\>	^idarə et<v><pass><t_cont><3s>$
      23 #hazırla\<v\>\<pass\>\<part_dik\>\<acc\>	^hazırla<v><pass><part_dik><acc>$
      23 #göndər\<v\>\<cv_mak\>	^göndər<v><cv_mak>$
-     23 #faktiki\<adj\>	^faktiki<adj>$
      23 #əngəl ol\<v\>\<pass\>\<cv_ma\>\<p3s\>	^əngəl ol<v><pass><cv_ma><p3s>$
      23 #əks et\<v\>\<caus\>\<part_yan\>	^əks et<v><caus><part_yan>$
-     23 #ehtimali\<adj\>	^ehtimali<adj>$
-     23 #əhliləşmiş\<adj\>	^əhliləşmiş<adj>$
      23 #düzə\<n\>\<dat\>	^düzə<n><dat>$
      23 #dəyiş\<v\>\<cv_ma\>\<p3s\>	^dəyiş<v><cv_ma><p3s>$
      23 #Devir\<v\>\<t_past\>\<3s\>	^Devir<v><t_past><3s>$
@@ -2832,25 +2694,21 @@ Tag mismatch between transfer and generation
      22 #Obama\<np\>\<gen\>	^Obama<np><gen>$
      22 #müəyyən et\<v\>\<pass\>\<t_fut\>\<3s\>	^müəyyən et<v><pass><t_fut><3s>$
      22 #medal\<n\>\<p3s\>	^medal<n><p3s>$
-     22 #keyfiyyət\<adj\>	^keyfiyyət<adj>$
      22 #keçir\<v\>\<vn_mak\>\<acc\>	^keçir<v><vn_mak><acc>$
      22 #ixdal\<n\>\<p3s\>	^ixdal<n><p3s>$
      22 #istifadə et\<v\>\<pass\>\<cv_dik\>\<p3s\>	^istifadə et<v><pass><cv_dik><p3s>$
      22 #istifadə et\<v\>\<pass\>\<abil\>\<cv_acak\>	^istifadə et<v><pass><abil><cv_acak>$
      22 #istifadə et\<v\>\<cv_ip\>	^istifadə et<v><cv_ip>$
      22 #istə\<v\>\<cv_ma\>\<p3s\>	^istə<v><cv_ma><p3s>$
-     22 #Iltifatlı\<adj\>	^Iltifatlı<adj>$
      22 #hazırla\<v\>\<t_past\>\<3p\>	^hazırla<v><t_past><3p>$
      22 #hazırla\<v\>\<pass\>\<t_aor\>\<3s\>\<cpl_ken\>	^hazırla<v><pass><t_aor><3s><cpl_ken>$
      22 #hazırla\<v\>\<part_dik\>\<pl\>\<acc\>	^hazırla<v><part_dik><pl><acc>$
      22 #hazırla\<v\>\<cv_ip\>	^hazırla<v><cv_ip>$
      22 #göstər\<v\>\<vn_acak\>\<acc\>	^göstər<v><vn_acak><acc>$
      22 #göndər\<v\>\<part_dik\>\<pl\>\<acc\>	^göndər<v><part_dik><pl><acc>$
-     22 #Fövqəladə\<adj\>	^Fövqəladə<adj>$
      22 #folklor\<n\>	^folklor<n>$
      22 #Filarmoniya\<n\>	^Filarmoniya<n>$
      22 #elita\<n\>	^elita<n>$
-     22 #ekspedisiya\<adj\>	^ekspedisiya<adj>$
      22 #diktatör\<n\>	^diktatör<n>$
      22 #dəyiş\<v\>\<caus\>\<cv_erek\>	^dəyiş<v><caus><cv_erek>$
      22 #Dərhal\<adv\>	^Dərhal<adv>$
@@ -2861,7 +2719,6 @@ Tag mismatch between transfer and generation
      22 #bırax\<v\>\<vn_acak\>\<p3s\>\<acc\>	^bırax<v><vn_acak><p3s><acc>$
      22 #balet\<n\>	^balet<n>$
      22 #azal\<v\>\<t_cont\>\<3s\>	^azal<v><t_cont><3s>$
-     22 #ayrılmış\<adj\>	^ayrılmış<adj>$
      22 #ala\<n\>\<gen\>	^ala<n><gen>$
      21 #zorla\<v\>\<caus\>\<pass\>\<cv_erek\>	^zorla<v><caus><pass><cv_erek>$
      21 #yığ\<v\>\<vn_mak\>	^yığ<v><vn_mak>$
@@ -2888,7 +2745,6 @@ Tag mismatch between transfer and generation
      21 #Sırala\<v\>\<t_past\>\<3s\>	^Sırala<v><t_past><3s>$
      21 #sinə\<n\>	^sinə<n>$
      21 #şimal-şərq\<n\>\<p3s\>\<loc\>	^şimal-şərq<n><p3s><loc>$
-     21 #şimal-şərq\<adj\>	^şimal-şərq<adj>$
      21 #şimal-qərb\<n\>\<p3s\>\<loc\>\<ki\>	^şimal-qərb<n><p3s><loc><ki>$
      21 #səsə qoy\<v\>\<cv_ma\>\<p3s\>\<dat\>	^səsə qoy<v><cv_ma><p3s><dat>$
      21 #şəkli\<n\>\<p2s\>\<acc\>	^şəkli<n><p2s><acc>$
@@ -2908,7 +2764,6 @@ Tag mismatch between transfer and generation
      21 #ödə\<v\>\<pass\>\<t_fut\>\<3s\>	^ödə<v><pass><t_fut><3s>$
      21 #mühakimə et\<v\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^mühakimə et<v><pass><cv_ma><p3s><dat>$
      21 #mübahisə et\<v\>\<pass\>\<t_fut\>\<3s\>	^mübahisə et<v><pass><t_fut><3s>$
-     21 #mətin\<adj\>	^mətin<adj>$
      21 #mane ol\<v\>\<cv_acak\>	^mane ol<v><cv_acak>$
      21 #kaos\<n\>	^kaos<n>$
      21 #istifadə et\<v\>\<t_aor\>\<3s\>\<cpl_ken\>	^istifadə et<v><t_aor><3s><cpl_ken>$
@@ -3006,7 +2861,6 @@ Tag mismatch between transfer and generation
      20 #Daimi\<adv\>	^Daimi<adv>$
      20 #çıxar\<v\>\<vn_acak\>\<p3s\>\<acc\>	^çıxar<v><vn_acak><p3s><acc>$
      20 #çıxar\<v\>\<pass\>\<cv_acak\>	^çıxar<v><pass><cv_acak>$
-     20 #cəfəngiyat\<adj\>	^cəfəngiyat<adj>$
      20 #çat\<v\>\<cv_mis\>	^çat<v><cv_mis>$
      20 #çat\<v\>\<cv_mak\>	^çat<v><cv_mak>$
      20 #Bölünmüş\<n\>\<p2s\>\<cpl_mis\>\<3s\>	^Bölünmüş<n><p2s><cpl_mis><3s>$
@@ -3041,7 +2895,6 @@ Tag mismatch between transfer and generation
      19 #tanı\<v\>\<part_dik\>\<p3s\>\<acc\>	^tanı<v><part_dik><p3s><acc>$
      19 #tä'minat\<n\>\<p3s\>	^tä'minat<n><p3s>$
      19 #Tamamla\<v\>\<pass\>\<t_past\>\<3s\>	^Tamamla<v><pass><t_past><3s>$
-     19 #şimal-qərb\<adj\>	^şimal-qərb<adj>$
      19 #səsə qoy\<v\>\<t_fut\>\<3s\>	^səsə qoy<v><t_fut><3s>$
      19 #sərgiyə qoy\<v\>\<cv_erek\>	^sərgiyə qoy<v><cv_erek>$
      19 #radiasiya\<n\>	^radiasiya<n>$
@@ -3050,7 +2903,6 @@ Tag mismatch between transfer and generation
      19 #qeyd-şərt\<n\>\<pl\>\<p3s\>\<acc\>	^qeyd-şərt<n><pl><p3s><acc>$
      19 #qazan\<v\>\<vn_acak\>\<p3s\>\<acc\>	^qazan<v><vn_acak><p3s><acc>$
      19 #qarış\<v\>\<vn_mak\>\<ins\>	^qarış<v><vn_mak><ins>$
-     19 #produktiv\<adj\>	^produktiv<adj>$
      19 #populist\<n\>	^populist<n>$
      19 #paylaş\<v\>\<vn_mak\>\<dat\>	^paylaş<v><vn_mak><dat>$
      19 #oyna\<v\>\<vn_acak\>\<p3s\>\<acc\>	^oyna<v><vn_acak><p3s><acc>$
@@ -3062,7 +2914,6 @@ Tag mismatch between transfer and generation
      19 #naxışla\<v\>\<pass\>\<cv_dik\>\<p3s\>	^naxışla<v><pass><cv_dik><p3s>$
      19 #müəyyən et\<v\>\<pass\>\<neg\>\<t_past\>\<3s\>	^müəyyən et<v><pass><neg><t_past><3s>$
      19 #mübahisə et\<v\>\<pass\>\<t_past\>\<3s\>	^mübahisə et<v><pass><t_past><3s>$
-     19 #möhtəşəm\<adj\>	^möhtəşəm<adj>$
      19 #Mini\<n\>	^Mini<n>$
      19 #məhdudlaşdır\<v\>\<t_aor\>\<3s\>	^məhdudlaşdır<v><t_aor><3s>$
      19 #mane ol\<v\>\<t_past\>\<3s\>	^mane ol<v><t_past><3s>$
@@ -3075,7 +2926,6 @@ Tag mismatch between transfer and generation
      19 #istifadə et\<v\>\<vn_mak\>	^istifadə et<v><vn_mak>$
      19 #istifadə et\<v\>\<pass\>\<vn_acak\>\<p3s\>\<acc\>	^istifadə et<v><pass><vn_acak><p3s><acc>$
      19 #istə\<v\>\<t_aor\>\<1s\>	^istə<v><t_aor><1s>$
-     19 #istəkli\<adj\>	^istəkli<adj>$
      19 #işəgötürən\<n\>	^işəgötürən<n>$
      19 #irəlilə\<v\>\<caus\>\<vn_mak\>\<acc\>	^irəlilə<v><caus><vn_mak><acc>$
      19 #inan\<v\>\<neg\>\<part_dik\>\<p3s\>\<acc\>	^inan<v><neg><part_dik><p3s><acc>$
@@ -3096,7 +2946,6 @@ Tag mismatch between transfer and generation
      19 #gəliş\<v\>\<caus\>\<cv_ma\>\<p3s\>	^gəliş<v><caus><cv_ma><p3s>$
      19 #Forum\<n\>\<gen\>	^Forum<n><gen>$
      19 #əngəl ol\<v\>\<t_cont\>\<3s\>	^əngəl ol<v><t_cont><3s>$
-     19 #elə\<adj\>	^elə<adj>$
      19 #dizüstü\<n\>	^dizüstü<n>$
      19 #dəyiş\<v\>\<caus\>\<vn_mak\>\<acc\>	^dəyiş<v><caus><vn_mak><acc>$
      19 #dəyiş\<v\>\<caus\>\<pass\>\<t_past\>\<3s\>	^dəyiş<v><caus><pass><t_past><3s>$
@@ -3140,7 +2989,6 @@ Tag mismatch between transfer and generation
      18 #tənqid et\<v\>\<pass\>\<part_yan\>	^tənqid et<v><pass><part_yan>$
      18 #Tənqid et\<v\>\<part_yan\>\<3p\>	^Tənqid et<v><part_yan><3p>$
      18 #təmin et\<v\>\<cv_mak\>\<ins\>	^təmin et<v><cv_mak><ins>$
-     18 #Təməl\<adj\>	^Təməl<adj>$
      18 #təklif et\<v\>\<t_fut\>\<3s\>	^təklif et<v><t_fut><3s>$
      18 #tanı\<v\>\<caus\>\<cv_mak\>	^tanı<v><caus><cv_mak>$
      18 #tamamla\<v\>\<pass\>\<cv_dik\>\<abl\>	^tamamla<v><pass><cv_dik><abl>$
@@ -3190,7 +3038,6 @@ Tag mismatch between transfer and generation
      18 #gəliş\<v\>\<caus\>\<pass\>\<part_yan\>	^gəliş<v><caus><pass><part_yan>$
      18 #gəliş\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^gəliş<v><caus><pass><cv_ma><p3s><dat>$
      18 #fokusa yığ\<v\>\<pass\>\<neg\>\<t_opt\>\<3s\>	^fokusa yığ<v><pass><neg><t_opt><3s>$
-     18 #epidemiya\<adj\>	^epidemiya<adj>$
      18 #düzə\<n\>\<gen\>	^düzə<n><gen>$
      18 #düzəl\<v\>\<caus\>\<cv_ma\>	^düzəl<v><caus><cv_ma>$
      18 #dəyiş\<v\>\<caus\>\<cv_ip\>	^dəyiş<v><caus><cv_ip>$
@@ -3207,7 +3054,6 @@ Tag mismatch between transfer and generation
      18 #bu gün\<adv\>\<ki\>	^bu gün<adv><ki>$
      18 #bölünmüş\<n\>\<p2s\>\<cpl_di\>\<3s\>	^bölünmüş<n><p2s><cpl_di><3s>$
      18 #bırax\<v\>\<t_narr\>\<cpl_di\>\<3s\>	^bırax<v><t_narr><cpl_di><3s>$
-     18 #Bəlli\<adj\>	^Bəlli<adj>$
      18 #BAT\<n\>	^BAT<n>$
      18 #arxa\<n\>\<p3s\>\<dat\>	^arxa<n><p3s><dat>$
      17 #yolçu\<n\>\<pl\>\<gen\>	^yolçu<n><pl><gen>$
@@ -3246,7 +3092,6 @@ Tag mismatch between transfer and generation
      17 #soprano\<n\>	^soprano<n>$
      17 #sırala\<v\>\<part_yan\>	^sırala<v><part_yan>$
      17 #Silahsızlaşdırma\<n\>	^Silahsızlaşdırma<n>$
-     17 #Sərt\<adj\>	^Sərt<adj>$
      17 #ratifikasiya\<n\>\<pl\>\<acc\>	^ratifikasiya<n><pl><acc>$
      17 #rastlaş\<v\>\<pass\>\<part_yan\>	^rastlaş<v><pass><part_yan>$
      17 #qoş\<v\>\<pass\>\<t_fut\>\<3s\>	^qoş<v><pass><t_fut><3s>$
@@ -3266,7 +3111,6 @@ Tag mismatch between transfer and generation
      17 #ödəniş\<n\>	^ödəniş<n>$
      17 #nəzərdə tut\<v\>\<pass\>\<t_cont\>\<cpl_di\>\<3s\>	^nəzərdə tut<v><pass><t_cont><cpl_di><3s>$
      17 #nəzərdə tut\<v\>\<pass\>\<part_dik\>\<p3s\>\<acc\>	^nəzərdə tut<v><pass><part_dik><p3s><acc>$
-     17 #nəhəng\<adj\>	^nəhəng<adj>$
      17 #naxışla\<v\>\<t_narr\>\<3s\>	^naxışla<v><t_narr><3s>$
      17 #müraciət et\<v\>\<t_past\>\<3s\>	^müraciət et<v><t_past><3s>$
      17 #mühakimə et\<v\>\<vn_mak\>	^mühakimə et<v><vn_mak>$
@@ -3286,7 +3130,6 @@ Tag mismatch between transfer and generation
      17 #istə\<v\>\<neg\>\<part_yan\>	^istə<v><neg><part_yan>$
      17 #istə\<v\>\<cv_acak\>	^istə<v><cv_acak>$
      17 #isbat et\<v\>\<vn_mak\>	^isbat et<v><vn_mak>$
-     17 #inkar\<adj\>	^inkar<adj>$
      17 #incələ\<v\>\<t_past\>\<3s\>	^incələ<v><t_past><3s>$
      17 #incələ\<v\>\<cv_acak\>	^incələ<v><cv_acak>$
      17 #imzala\<v\>\<part_dik\>\<p3s\>\<acc\>	^imzala<v><part_dik><p3s><acc>$
@@ -3296,7 +3139,6 @@ Tag mismatch between transfer and generation
      17 #hazırla\<v\>\<vn_acak\>\<acc\>	^hazırla<v><vn_acak><acc>$
      17 #hazırla\<v\>\<cv_mak\>\<ins\>	^hazırla<v><cv_mak><ins>$
      17 #güney-qərb\<n\>\<p3s\>\<loc\>\<ki\>	^güney-qərb<n><p3s><loc><ki>$
-     17 #gülünc\<adj\>	^gülünc<adj>$
      17 #Gözlənilən\<n\>\<1s\>	^Gözlənilən<n><1s>$
      17 #göstər\<v\>\<t_narr\>\<3s\>\<dir\>	^göstər<v><t_narr><3s><dir>$
      17 #golf\<n\>	^golf<n>$
@@ -3324,7 +3166,6 @@ Tag mismatch between transfer and generation
      17 #bürü\<v\>\<cv_ma\>\<p3s\>	^bürü<v><cv_ma><p3s>$
      17 #birləş\<v\>\<caus\>\<vn_mak\>\<acc\>	^birləş<v><caus><vn_mak><acc>$
      17 #birisi\<n\>\<gen\>	^birisi<n><gen>$
-     17 #Bərk\<adj\>	^Bərk<adj>$
      17 #Bəla\<n\>	^Bəla<n>$
      17 #bank\<n\>\<pl\>\<acc\>	^bank<n><pl><acc>$
      17 #bağla\<v\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^bağla<v><pass><cv_ma><p3s><dat>$
@@ -3351,7 +3192,6 @@ Tag mismatch between transfer and generation
      16 #yaran\<v\>\<caus\>\<cv_erek\>	^yaran<v><caus><cv_erek>$
      16 #yarala\<v\>\<pass\>\<part_dik\>\<p3s\>	^yarala<v><pass><part_dik><p3s>$
      16 #Xizək\<n\>	^Xizək<n>$
-     16 #Xəfif\<adj\>	^Xəfif<adj>$
      16 #Uza\<v\>\<caus\>\<t_past\>\<3s\>	^Uza<v><caus><t_past><3s>$
      16 #tut\<v\>\<pass\>\<cv_dik\>\<p3s\>\<acc\>	^tut<v><pass><cv_dik><p3s><acc>$
      16 #tunel\<n\>	^tunel<n>$
@@ -3362,10 +3202,8 @@ Tag mismatch between transfer and generation
      16 #təsnifat\<n\>\<p3s\>	^təsnifat<n><p3s>$
      16 #təsir et\<v\>\<part_dik\>\<p3s\>\<acc\>	^təsir et<v><part_dik><p3s><acc>$
      16 #Tənqidçi\<n\>\<pl\>	^Tənqidçi<n><pl>$
-     16 #temsili\<adj\>	^temsili<adj>$
      16 #təmin et\<v\>\<vn_mak\>\<3s\>\<dir\>	^təmin et<v><vn_mak><3s><dir>$
      16 #təmin et\<v\>\<abil\>\<neg\>\<cv_ma\>\<p3s\>	^təmin et<v><abil><neg><cv_ma><p3s>$
-     16 #təminat\<adj\>	^təminat<adj>$
      16 #təklif et\<v\>\<cv_ma\>\<p3s\>	^təklif et<v><cv_ma><p3s>$
      16 #tasarla\<v\>\<pass\>\<part_yan\>	^tasarla<v><pass><part_yan>$
      16 #Tarixi\<n\>	^Tarixi<n>$
@@ -3383,9 +3221,7 @@ Tag mismatch between transfer and generation
      16 #qiymətləndir\<v\>\<caus\>\<cv_ma\>\<p3s\>\<dat\>	^qiymətləndir<v><caus><cv_ma><p3s><dat>$
      16 #qışqır\<v\>\<caus\>\<cv_mak\>	^qışqır<v><caus><cv_mak>$
      16 #qeyb ol\<v\>\<cv_ma\>\<p3s\>	^qeyb ol<v><cv_ma><p3s>$
-     16 #qəhrəman\<adj\>	^qəhrəman<adj>$
      16 #qarış\<v\>\<part_dik\>\<pl\>\<acc\>	^qarış<v><part_dik><pl><acc>$
-     16 #Qapalı\<adj\>	^Qapalı<adj>$
      16 #qanun\<n\>\<pl\>\<p3s\>\<loc\>	^qanun<n><pl><p3s><loc>$
      16 #qalan\<n\>\<pl\>	^qalan<n><pl>$
      16 #Oil\<n\>	^Oil<n>$
@@ -3399,7 +3235,6 @@ Tag mismatch between transfer and generation
      16 #mu\<q\>\<2p\>	^mu<q><2p>$
      16 #müəyyən et\<v\>\<vn_mak\>\<acc\>	^müəyyən et<v><vn_mak><acc>$
      16 #müəyyən et\<v\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^müəyyən et<v><pass><cv_ma><p3s><dat>$
-     16 #məşhur\<adj\>	^məşhur<adj>$
      16 #məhdudlaşdır\<v\>\<cv_ma\>	^məhdudlaşdır<v><cv_ma>$
      16 #Konstitusiya\<n\>\<p3s\>\<dat\>	^Konstitusiya<n><p3s><dat>$
      16 #Konstitusiya\<n\>\<loc\>	^Konstitusiya<n><loc>$
@@ -3517,10 +3352,8 @@ Tag mismatch between transfer and generation
      15 #planlaşdır\<v\>\<pass\>\<cv_mis\>	^planlaşdır<v><pass><cv_mis>$
      15 #parçala\<v\>\<pass\>\<cv_ma\>\<p3s\>	^parçala<v><pass><cv_ma><p3s>$
      15 #önşərt\<n\>	^önşərt<n>$
-     15 #ölkədaxili\<adj\>	^ölkədaxili<adj>$
      15 #ödə\<v\>\<pass\>\<cv_acak\>	^ödə<v><pass><cv_acak>$
      15 #nəzərdə tut\<v\>\<t_cont\>\<3p\>	^nəzərdə tut<v><t_cont><3p>$
-     15 #Müstəqbəl\<adj\>	^Müstəqbəl<adj>$
      15 #monarxiya\<n\>\<gen\>	^monarxiya<n><gen>$
      15 #Mizrab\<n\>	^Mizrab<n>$
      15 #məhdudlaşdır\<v\>\<cv_acak\>	^məhdudlaşdır<v><cv_acak>$
@@ -3529,7 +3362,6 @@ Tag mismatch between transfer and generation
      15 #Lak\<n\>	^Lak<n>$
      15 #kvadrat metr\<n\>	^kvadrat metr<n>$
      15 #konvoy\<n\>\<p3s\>\<dat\>	^konvoy<n><p3s><dat>$
-     15 #Kifayət\<adj\>	^Kifayət<adj>$
      15 #kadem\<n\>\<dat\>	^kadem<n><dat>$
      15 #istifadə et\<v\>\<t_fut\>\<3s\>	^istifadə et<v><t_fut><3s>$
      15 #istə\<v\>\<cv_ip\>	^istə<v><cv_ip>$
@@ -3538,7 +3370,6 @@ Tag mismatch between transfer and generation
      15 #Hətta\<cnjadv\>	^Hətta<cnjadv>$
      15 #həll etmə\<n\>\<gen\>	^həll etmə<n><gen>$
      15 #haqq\<n\>\<p3p\>	^haqq<n><p3p>$
-     15 #hamilə\<adj\>	^hamilə<adj>$
      15 #göstər\<v\>\<pass\>\<t_narr\>\<cpl_di\>\<3s\>	^göstər<v><pass><t_narr><cpl_di><3s>$
      15 #göstər\<v\>\<pass\>\<cv_acak\>	^göstər<v><pass><cv_acak>$
      15 #forma\<n\>	^forma<n>$
@@ -3548,7 +3379,6 @@ Tag mismatch between transfer and generation
      15 #Əgər\<n\>	^Əgər<n>$
      15 #dinlə\<v\>\<t_past\>\<3s\>	^dinlə<v><t_past><3s>$
      15 #dilim\<n\>\<gen\>	^dilim<n><gen>$
-     15 #dəymiş\<adj\>	^dəymiş<adj>$
      15 #dəyiş\<v\>\<t_past\>\<3s\>	^dəyiş<v><t_past><3s>$
      15 #dəyiş\<v\>\<t_fut\>\<3s\>	^dəyiş<v><t_fut><3s>$
      15 #dəstəklə\<v\>\<vn_acak\>\<acc\>	^dəstəklə<v><vn_acak><acc>$
@@ -3591,7 +3421,6 @@ Tag mismatch between transfer and generation
      14 #yüksəl\<v\>\<caus\>\<cv_mak\>	^yüksəl<v><caus><cv_mak>$
      14 #Yığ\<v\>\<pass\>\<cv_acak\>	^Yığ<v><pass><cv_acak>$
      14 #yerləş\<v\>\<caus\>\<cv_ma\>	^yerləş<v><caus><cv_ma>$
-     14 #yeganə\<adj\>	^yeganə<adj>$
      14 #yaxınlaş\<v\>\<caus\>\<cv_acak\>	^yaxınlaş<v><caus><cv_acak>$
      14 #yaxala\<v\>\<t_past\>\<3p\>	^yaxala<v><t_past><3p>$
      14 #yaxala\<v\>\<pass\>\<neg\>\<cv_dik\>\<D_ca\>	^yaxala<v><pass><neg><cv_dik><D_ca>$
@@ -3669,7 +3498,6 @@ Tag mismatch between transfer and generation
      14 #müəyyən et\<v\>\<part_dik\>\<p3s\>\<acc\>	^müəyyən et<v><part_dik><p3s><acc>$
      14 #model\<n\>\<p3s\>\<gen\>	^model<n><p3s><gen>$
      14 #model\<n\>\<p3s\>\<dat\>	^model<n><p3s><dat>$
-     14 #Mətin\<adj\>	^Mətin<adj>$
      14 #medal\<n\>\<gen\>	^medal<n><gen>$
      14 #Mayor\<n\>	^Mayor<n>$
      14 #maraq\<n\>\<p3s\>\<gen\>	^maraq<n><p3s><gen>$
@@ -3734,7 +3562,6 @@ Tag mismatch between transfer and generation
      14 #birləş\<v\>\<t_past\>\<3p\>	^birləş<v><t_past><3p>$
      14 #birləş\<v\>\<caus\>\<vn_mak\>	^birləş<v><caus><vn_mak>$
      14 #birləşmə\<n\>\<gen\>	^birləşmə<n><gen>$
-     14 #bir az\<adj\>	^bir az<adj>$
      14 #bırax\<v\>\<part_dik\>\<acc\>	^bırax<v><part_dik><acc>$
      14 #bırax\<v\>\<cv_acak\>	^bırax<v><cv_acak>$
      14 #beş\<n\>\<p3s\>	^beş<n><p3s>$
@@ -3747,7 +3574,6 @@ Tag mismatch between transfer and generation
      14 #aryerqard\<n\>	^aryerqard<n>$
      14 #art\<v\>\<caus\>\<t_fut\>\<3s\>	^art<v><caus><t_fut><3s>$
      14 #anla\<v\>\<cv_dik\>\<p3s\>\<acc\>	^anla<v><cv_dik><p3s><acc>$
-     13 #Zəruri\<adj\>	^Zəruri<adj>$
      13 #yolçu\<n\>\<pl\>	^yolçu<n><pl>$
      13 #yığ\<v\>\<pass\>\<vn_acak\>\<p3s\>\<acc\>	^yığ<v><pass><vn_acak><p3s><acc>$
      13 #yığ\<v\>\<part_dik\>\<acc\>	^yığ<v><part_dik><acc>$
@@ -3774,7 +3600,6 @@ Tag mismatch between transfer and generation
      13 #Tut\<v\>\<pass\>\<part_yan\>	^Tut<v><pass><part_yan>$
      13 #Tokyo\<np\>	^Tokyo<np>$
      13 #Tiran\<n\>\<dat\>	^Tiran<n><dat>$
-     13 #Tibbi\<adj\>	^Tibbi<adj>$
      13 #təyin et\<v\>\<pass\>\<t_fut\>\<3s\>	^təyin et<v><pass><t_fut><3s>$
      13 #təyin et\<v\>\<neg\>\<t_opt\>\<3s\>	^təyin et<v><neg><t_opt><3s>$
      13 #Təyinat\<n\>	^Təyinat<n>$
@@ -3847,7 +3672,6 @@ Tag mismatch between transfer and generation
      13 #müəyyən et\<v\>\<pass\>\<cv_mak\>	^müəyyən et<v><pass><cv_mak>$
      13 #məşq\<n\>	^məşq<n>$
      13 #məsələn\<n\>\<acc\>	^məsələn<n><acc>$
-     13 #mərkəzçi\<adj\>	^mərkəzçi<adj>$
      13 #məlumat\<n\>	^məlumat<n>$
      13 #Məhkəməyə cəlb et\<v\>\<cv_ma\>	^Məhkəməyə cəlb et<v><cv_ma>$
      13 #məhdudlaşdır\<v\>\<pass\>\<cv_ma\>\<p3s\>	^məhdudlaşdır<v><pass><cv_ma><p3s>$
@@ -3898,7 +3722,6 @@ Tag mismatch between transfer and generation
      13 #filo\<n\>\<p3s\>\<acc\>	^filo<n><p3s><acc>$
      13 #fərqləndir\<v\>\<pass\>\<t_cont\>\<3s\>	^fərqləndir<v><pass><t_cont><3s>$
      13 #əngəl ol\<v\>\<pass\>\<t_past\>\<3s\>	^əngəl ol<v><pass><t_past><3s>$
-     13 #ekvivalent\<adj\>	^ekvivalent<adj>$
      13 #düstur\<n\>	^düstur<n>$
      13 #dönmə\<n\>\<p3s\>\<gen\>	^dönmə<n><p3s><gen>$
      13 #dönmə\<n\>\<acc\>	^dönmə<n><acc>$
@@ -3912,7 +3735,6 @@ Tag mismatch between transfer and generation
      13 #davran\<v\>\<vn_yis\>\<pl\>\<acc\>	^davran<v><vn_yis><pl><acc>$
      13 #davran\<v\>\<cv_dik\>\<p3s\>\<acc\>	^davran<v><cv_dik><p3s><acc>$
      13 #danış\<v\>\<vn_mak\>\<acc\>	^danış<v><vn_mak><acc>$
-     13 #Çox\<adj\>	^Çox<adj>$
      13 #çıxar\<v\>\<pass\>\<cv_ip\>	^çıxar<v><pass><cv_ip>$
      13 #cins\<n\>\<dat\>	^cins<n><dat>$
      13 #çat\<v\>\<abil\>\<vn_acak\>\<p3s\>\<acc\>	^çat<v><abil><vn_acak><p3s><acc>$
@@ -3952,7 +3774,6 @@ Tag mismatch between transfer and generation
      12 #yalana çıxart\<v\>\<part_yan\>	^yalana çıxart<v><part_yan>$
      12 #yalana çıxart\<v\>\<cv_erek\>	^yalana çıxart<v><cv_erek>$
      12 #xeyir gətir\<v\>\<t_fut\>\<3s\>	^xeyir gətir<v><t_fut><3s>$
-     12 #Xəstə\<adj\>	^Xəstə<adj>$
      12 #xərc\<n\>\<pl\>\<loc\>	^xərc<n><pl><loc>$
      12 #uğra\<v\>\<cv_dik\>\<p3s\>	^uğra<v><cv_dik><p3s>$
      12 #tut\<v\>\<vn_mak\>\<loc\>	^tut<v><vn_mak><loc>$
@@ -4037,7 +3858,6 @@ Tag mismatch between transfer and generation
      12 #konsentrə\<n\>	^konsentrə<n>$
      12 #köçür\<v\>\<pass\>\<t_past\>\<3s\>	^köçür<v><pass><t_past><3s>$
      12 #köçür\<v\>\<cv_ma\>	^köçür<v><cv_ma>$
-     12 #kəndli\<adj\>	^kəndli<adj>$
      12 #kafe\<n\>	^kafe<n>$
      12 #judo\<n\>	^judo<n>$
      12 #izah et\<v\>\<caus\>\<t_past\>\<3s\>	^izah et<v><caus><t_past><3s>$
@@ -4074,7 +3894,6 @@ Tag mismatch between transfer and generation
      12 #əri\<v\>\<cv_iyor\>	^əri<v><cv_iyor>$
      12 #əngəl ol\<v\>\<cv_erek\>	^əngəl ol<v><cv_erek>$
      12 #əngəl ol\<v\>\<cv_dik\>\<p3s\>\<acc\>	^əngəl ol<v><cv_dik><p3s><acc>$
-     12 #əməkdaş\<adj\>	^əməkdaş<adj>$
      12 #embarqo\<n\>\<p3s\>\<acc\>	^embarqo<n><p3s><acc>$
      12 #ehtiva et\<v\>\<cv_acak\>	^ehtiva et<v><cv_acak>$
      12 #Əfsanəvi\<n\>	^Əfsanəvi<n>$
@@ -4118,7 +3937,6 @@ Tag mismatch between transfer and generation
      12 #bəslə\<v\>\<t_cont\>\<3s\>	^bəslə<v><t_cont><3s>$
      12 #Bəli\<adv\>	^Bəli<adv>$
      12 #Belene\<np\>\<loc\>	^Belene<np><loc>$
-     12 #bədbəxt\<adj\>	^bədbəxt<adj>$
      12 #baxım\<n\>\<dat\>	^baxım<n><dat>$
      12 #bat\<n\>\<cpl_di\>\<3s\>	^bat<n><cpl_di><3s>$
      12 #batalyon\<n\>\<acc\>	^batalyon<n><acc>$
@@ -4162,7 +3980,6 @@ Tag mismatch between transfer and generation
      11 #yaran\<v\>\<caus\>\<t_past\>\<3p\>	^yaran<v><caus><t_past><3p>$
      11 #yarala\<v\>\<pass\>\<cv_mis\>	^yarala<v><pass><cv_mis>$
      11 #xeyir gətir\<v\>\<cv_ma\>\<p3s\>	^xeyir gətir<v><cv_ma><p3s>$
-     11 #xas\<adj\>	^xas<adj>$
      11 #xaç\<n\>	^xaç<n>$
      11 #verici\<n\>\<3s\>\<dir\>	^verici<n><3s><dir>$
      11 #uza\<v\>\<caus\>\<vn_mak\>\<dat\>	^uza<v><caus><vn_mak><dat>$
@@ -4189,7 +4006,6 @@ Tag mismatch between transfer and generation
      11 #təmas et\<v\>\<pass\>\<t_cont\>\<3s\>	^təmas et<v><pass><t_cont><3s>$
      11 #təkrar et\<v\>\<pass\>\<t_past\>\<3s\>	^təkrar et<v><pass><t_past><3s>$
      11 #təftiş et\<v\>\<pass\>\<cv_ma\>\<p3s\>	^təftiş et<v><pass><cv_ma><p3s>$
-     11 #Təcavüzkar\<adj\>	^Təcavüzkar<adj>$
      11 #təbrik et\<v\>\<cv_erek\>	^təbrik et<v><cv_erek>$
      11 #təbii qaz\<n\>\<gen\>	^təbii qaz<n><gen>$
      11 #Təbii qaz\<n\>	^Təbii qaz<n>$
@@ -4218,7 +4034,6 @@ Tag mismatch between transfer and generation
      11 #şəkli\<n\>\<p2s\>\<dat\>	^şəkli<n><p2s><dat>$
      11 #şəkli\<n\>\<ins\>	^şəkli<n><ins>$
      11 #sayma\<n\>\<p3s\>\<gen\>	^sayma<n><p3s><gen>$
-     11 #Saxta\<adj\>	^Saxta<adj>$
      11 #Samsun\<n\>	^Samsun<n>$
      11 #rastlaş\<v\>\<pass\>\<part_dik\>\<p3s\>\<acc\>	^rastlaş<v><pass><part_dik><p3s><acc>$
      11 #qu quşu\<n\>\<loc\>	^qu quşu<n><loc>$
@@ -4252,15 +4067,12 @@ Tag mismatch between transfer and generation
      11 #Nişanə\<n\>\<gen\>	^Nişanə<n><gen>$
      11 #nəzərdə tut\<v\>\<pass\>\<cv_dik\>\<p3s\>	^nəzərdə tut<v><pass><cv_dik><p3s>$
      11 #nəzərdə tut\<v\>\<part_dik\>\<acc\>	^nəzərdə tut<v><part_dik><acc>$
-     11 #neylon\<adj\>	^neylon<adj>$
      11 #naxışla\<v\>\<vn_yis\>	^naxışla<v><vn_yis>$
      11 #naxışla\<v\>\<vn_mak\>\<dat\>	^naxışla<v><vn_mak><dat>$
      11 #müraciət et\<v\>\<part_yan\>	^müraciət et<v><part_yan>$
      11 #Mü\<q\>\<3s\>\<dir\>	^Mü<q><3s><dir>$
-     11 #Mühacir\<adj\>	^Mühacir<adj>$
      11 #mübahisə et\<v\>\<t_fut\>\<3s\>	^mübahisə et<v><t_fut><3s>$
      11 #mübahisə et\<v\>\<cv_acak\>	^mübahisə et<v><cv_acak>$
-     11 #Müasir\<adj\>	^Müasir<adj>$
      11 #motor\<n\>\<acc\>	^motor<n><acc>$
      11 #mod\<n\>\<loc\>	^mod<n><loc>$
      11 #metr\<n\>\<dat\>	^metr<n><dat>$
@@ -4432,7 +4244,6 @@ Tag mismatch between transfer and generation
      10 #təqib et\<v\>\<cv_ma\>	^təqib et<v><cv_ma>$
      10 #təqdimat\<n\>\<pl\>	^təqdimat<n><pl>$
      10 #təqdimat\<n\>\<p3s\>\<dat\>	^təqdimat<n><p3s><dat>$
-     10 #Təmiz\<adj\>	^Təmiz<adj>$
      10 #təmin et\<v\>\<vn_mak\>\<ins\>	^təmin et<v><vn_mak><ins>$
      10 #təmin et\<v\>\<part_dik\>\<p3p\>	^təmin et<v><part_dik><p3p>$
      10 #təminat\<n\>\<p3s\>	^təminat<n><p3s>$
@@ -4514,8 +4325,6 @@ Tag mismatch between transfer and generation
      10 #məhkəməyə cəlb et\<v\>\<pass\>\<cv_ma\>\<p3s\>	^məhkəməyə cəlb et<v><pass><cv_ma><p3s>$
      10 #medal\<n\>\<acc\>	^medal<n><acc>$
      10 #maraq\<n\>\<gen\>	^maraq<n><gen>$
-     10 #malum növ\<adj\>	^malum növ<adj>$
-     10 #maaşlı\<adj\>	^maaşlı<adj>$
      10 #kvartal\<n\>\<acc\>	^kvartal<n><acc>$
      10 #Konvensiya\<n\>\<p3s\>	^Konvensiya<n><p3s>$
      10 #kobudca\<adv\>	^kobudca<adv>$
@@ -4523,7 +4332,6 @@ Tag mismatch between transfer and generation
      10 #kəs\<v\>\<t_aor\>\<3s\>	^kəs<v><t_aor><3s>$
      10 #kəskin\<n\>	^kəskin<n>$
      10 #keşik\<n\>	^keşik<n>$
-     10 #Keç\<adj\>	^Keç<adj>$
      10 #karbon\<n\>	^karbon<n>$
      10 #kadastr\<n\>	^kadastr<n>$
      10 #izah et\<v\>\<vn_mak\>\<dat\>	^izah et<v><vn_mak><dat>$
@@ -4559,7 +4367,6 @@ Tag mismatch between transfer and generation
      10 #Hazırla\<v\>\<pass\>\<cv_ma\>\<p3s\>	^Hazırla<v><pass><cv_ma><p3s>$
      10 #hazırla\<v\>\<pass\>\<cv_mak\>	^hazırla<v><pass><cv_mak>$
      10 #hazırla\<v\>\<part_yan\>\<3p\>	^hazırla<v><part_yan><3p>$
-     10 #güney-qərb\<adj\>	^güney-qərb<adj>$
      10 #göstər\<v\>\<t_makta\>\<3s\>	^göstər<v><t_makta><3s>$
      10 #göstər\<v\>\<neg\>\<cv_dik\>\<p3s\>	^göstər<v><neg><cv_dik><p3s>$
      10 #görün\<v\>\<t_cont\>\<3p\>	^görün<v><t_cont><3p>$
@@ -4574,7 +4381,6 @@ Tag mismatch between transfer and generation
      10 #fotoaparat\<n\>\<pl\>\<acc\>	^fotoaparat<n><pl><acc>$
      10 #forum\<n\>\<p3s\>	^forum<n><p3s>$
      10 #filo\<n\>\<p3s\>\<gen\>	^filo<n><p3s><gen>$
-     10 #Faktiki\<adj\>	^Faktiki<adj>$
      10 #əngəl ol\<v\>\<t_past\>\<3p\>	^əngəl ol<v><t_past><3p>$
      10 #elm\<n\>\<pl\>	^elm<n><pl>$
      10 #əks et\<v\>\<caus\>\<cv_ma\>\<p3s\>	^əks et<v><caus><cv_ma><p3s>$
@@ -4660,7 +4466,6 @@ Tag mismatch between transfer and generation
       9 #Yağ zavod\<n\>	^Yağ zavod<n>$
       9 #xərc\<n\>\<p3p\>\<dat\>	^xərc<n><p3p><dat>$
       9 #xatırla\<v\>\<caus\>\<part_yan\>	^xatırla<v><caus><part_yan>$
-      9 #xaotik\<adj\>	^xaotik<adj>$
       9 #vaz keç\<v\>\<cv_ma\>	^vaz keç<v><cv_ma>$
       9 #Vasitəsi\<n\>\<p2s\>	^Vasitəsi<n><p2s>$
       9 #valideynlər\<n\>\<pl\>	^valideynlər<n><pl>$
@@ -4754,7 +4559,6 @@ Tag mismatch between transfer and generation
       9 #qanun\<n\>\<loc\>\<ki\>	^qanun<n><loc><ki>$
       9 #qanunilik\<n\>	^qanunilik<n>$
       9 #qana\<v\>\<t_past\>\<2s\>	^qana<v><t_past><2s>$
-      9 #qalın\<adj\>	^qalın<adj>$
       9 #qaçın\<v\>\<cv_ma\>\<p3s\>	^qaçın<v><cv_ma><p3s>$
       9 #qaçın\<v\>\<cv_mak\>\<ins\>	^qaçın<v><cv_mak><ins>$
       9 #qaçın\<v\>\<cv_ma\>	^qaçın<v><cv_ma>$
@@ -4826,7 +4630,6 @@ Tag mismatch between transfer and generation
       9 #isbat et\<v\>\<t_cont\>\<3s\>	^isbat et<v><t_cont><3s>$
       9 #isbat et\<v\>\<pass\>\<cv_mis\>	^isbat et<v><pass><cv_mis>$
       9 #irəlilə\<v\>\<caus\>\<cv_ip\>	^irəlilə<v><caus><cv_ip>$
-      9 #inflyasiyalı\<adj\>	^inflyasiyalı<adj>$
       9 #infeksiya\<n\>	^infeksiya<n>$
       9 #incəl\<v\>\<t_cont\>\<3p\>	^incəl<v><t_cont><3p>$
       9 #incələ\<v\>\<t_past\>\<3p\>	^incələ<v><t_past><3p>$
@@ -4871,7 +4674,6 @@ Tag mismatch between transfer and generation
       9 #gizlət\<v\>\<pass\>\<t_cont\>\<3s\>	^gizlət<v><pass><t_cont><3s>$
       9 #giriş\<v\>\<part_dik\>\<acc\>	^giriş<v><part_dik><acc>$
       9 #gəliş\<v\>\<t_imp\>\<2s\>	^gəliş<v><t_imp><2s>$
-      9 #Garşı\<adj\>	^Garşı<adj>$
       9 #fotoaparat\<n\>	^fotoaparat<n>$
       9 #fokusa yığ\<v\>\<pass\>\<t_fut\>\<3s\>	^fokusa yığ<v><pass><t_fut><3s>$
       9 #fokusa yığ\<v\>\<pass\>\<cv_mak\>	^fokusa yığ<v><pass><cv_mak>$
@@ -4881,7 +4683,6 @@ Tag mismatch between transfer and generation
       9 #Erg\<n\>\<gen\>	^Erg<n><gen>$
       9 #əngəl ol\<v\>\<abil\>\<t_aor\>\<3s\>	^əngəl ol<v><abil><t_aor><3s>$
       9 #elm\<n\>\<dat\>	^elm<n><dat>$
-      9 #Əla\<adj\>	^Əla<adj>$
       9 #ehtiva et\<v\>\<cv_ma\>\<p3s\>	^ehtiva et<v><cv_ma><p3s>$
       9 #edama\<n\>	^edama<n>$
       9 #Düş\<n\>\<p3s\>\<ca\>	^Düş<n><p3s><ca>$
@@ -4891,7 +4692,6 @@ Tag mismatch between transfer and generation
       9 #dönmə moment\<n\>\<p2s\>	^dönmə moment<n><p2s>$
       9 #döner\<n\>\<3s\>\<cpl_ken\>	^döner<n><3s><cpl_ken>$
       9 #dondurma\<n\>\<dat\>	^dondurma<n><dat>$
-      9 #Div\<adj\>	^Div<adj>$
       9 #disk\<n\>	^disk<n>$
       9 #diplom\<n\>\<p3s\>	^diplom<n><p3s>$
       9 #dinlə\<v\>\<t_aor\>\<3s\>	^dinlə<v><t_aor><3s>$
@@ -4904,7 +4704,6 @@ Tag mismatch between transfer and generation
       9 #daya\<v\>\<pass\>\<t_makta\>\<3s\>\<dir\>	^daya<v><pass><t_makta><3s><dir>$
       9 #davran\<v\>\<cv_ma\>\<p3s\>	^davran<v><cv_ma><p3s>$
       9 #davamlı\<n\>	^davamlı<n>$
-      9 #davamlı\<adj\>	^davamlı<adj>$
       9 #danış\<v\>\<pass\>\<t_past\>\<3s\>	^danış<v><pass><t_past><3s>$
       9 #danış\<v\>\<part_dik\>\<acc\>	^danış<v><part_dik><acc>$
       9 #danış\<v\>\<neg\>\<t_opt\>\<3s\>	^danış<v><neg><t_opt><3s>$
@@ -4935,7 +4734,6 @@ Tag mismatch between transfer and generation
       9 #bırax\<v\>\<pass\>\<t_fut\>\<3s\>	^bırax<v><pass><t_fut><3s>$
       9 #bırax\<v\>\<neg\>\<t_cont\>\<3s\>	^bırax<v><neg><t_cont><3s>$
       9 #bırax\<v\>\<cv_dik\>\<p3s\>	^bırax<v><cv_dik><p3s>$
-      9 #BƏZI\<adj\>	^BƏZI<adj>$
       9 #Bəlkə\<adv\>	^Bəlkə<adv>$
       9 #baxım\<n\>\<acc\>	^baxım<n><acc>$
       9 #barın\<v\>\<caus\>\<t_cont\>\<3s\>	^barın<v><caus><t_cont><3s>$
@@ -4964,9 +4762,6 @@ Tag mismatch between transfer and generation
       8 #zorla\<v\>\<caus\>\<cv_ma\>	^zorla<v><caus><cv_ma>$
       8 #Ziyarətçi\<n\>\<pl\>	^Ziyarətçi<n><pl>$
       8 #ziyarətçi\<n\>\<pl\>	^ziyarətçi<n><pl>$
-      8 #Zərif\<adj\>	^Zərif<adj>$
-      8 #Zəngin\<adj\>	^Zəngin<adj>$
-      8 #Zəki\<adj\>	^Zəki<adj>$
       8 #zədələ\<v\>\<cv_ma\>	^zədələ<v><cv_ma>$
       8 #Yumurta\<n\>	^Yumurta<n>$
       8 #yumşalt\<v\>\<caus\>\<vn_mak\>	^yumşalt<v><caus><vn_mak>$
@@ -5008,7 +4803,6 @@ Tag mismatch between transfer and generation
       8 #yabançı\<n\>	^yabançı<n>$
       8 #xatırla\<v\>\<caus\>\<cv_erek\>	^xatırla<v><caus><cv_erek>$
       8 #xana\<n\>	^xana<n>$
-      8 #vəkil\<adj\>	^vəkil<adj>$
       8 #vaz keç\<v\>\<vn_mak\>\<dat\>	^vaz keç<v><vn_mak><dat>$
       8 #vaz keç\<v\>\<t_past\>\<3s\>	^vaz keç<v><t_past><3s>$
       8 #vaz keç\<v\>\<cv_mak\>	^vaz keç<v><cv_mak>$
@@ -5120,11 +4914,9 @@ Tag mismatch between transfer and generation
       8 #qoş\<v\>\<cv_iyor\>	^qoş<v><cv_iyor>$
       8 #qoşqu\<n\>\<p3s\>	^qoşqu<n><p3s>$
       8 #qızışdır\<v\>\<t_past\>\<3s\>	^qızışdır<v><t_past><3s>$
-      8 #qismən\<adj\>	^qismən<adj>$
       8 #qına\<v\>\<cv_dik\>\<p3s\>\<acc\>	^qına<v><cv_dik><p3s><acc>$
       8 #qeydol\<v\>\<part_yan\>	^qeydol<v><part_yan>$
       8 #qeyb ol\<v\>\<part_dik\>\<acc\>	^qeyb ol<v><part_dik><acc>$
-      8 #qərəzli\<adj\>	^qərəzli<adj>$
       8 #qazıma\<n\>\<dat\>	^qazıma<n><dat>$
       8 #qazan\<v\>\<cv_acak\>\<p3s\>\<dat\>	^qazan<v><cv_acak><p3s><dat>$
       8 #Qazan\<v\>\<caus\>\<cv_ma\>	^Qazan<v><caus><cv_ma>$
@@ -5142,7 +4934,6 @@ Tag mismatch between transfer and generation
       8 #planlaşdır\<v\>\<cv_mak\>\<abl\>	^planlaşdır<v><cv_mak><abl>$
       8 #planlaşdır\<v\>\<cv_dik\>\<p3s\>\<abl\>	^planlaşdır<v><cv_dik><p3s><abl>$
       8 #plakat\<n\>\<pl\>	^plakat<n><pl>$
-      8 #piyada\<adj\>	^piyada<adj>$
       8 #peşəkar\<n\>\<ca\>	^peşəkar<n><ca>$
       8 #patogen\<n\>	^patogen<n>$
       8 #partla\<v\>\<cv_ma\>\<p3s\>\<dat\>	^partla<v><cv_ma><p3s><dat>$
@@ -5154,7 +4945,6 @@ Tag mismatch between transfer and generation
       8 #ovçu\<n\>	^ovçu<n>$
       8 #Orta əsrlər\<n\>	^Orta əsrlər<n>$
       8 #orkestr\<n\>	^orkestr<n>$
-      8 #ölümyayan\<adj\>	^ölümyayan<adj>$
       8 #ölçmə\<n\>	^ölçmə<n>$
       8 #öhdəsinə götür\<v\>\<part_dik\>\<p3s\>\<acc\>	^öhdəsinə götür<v><part_dik><p3s><acc>$
       8 #od\<n\>\<gen\>	^od<n><gen>$
@@ -5182,7 +4972,6 @@ Tag mismatch between transfer and generation
       8 #mübahisə et\<v\>\<pass\>\<cv_dik\>\<p3s\>	^mübahisə et<v><pass><cv_dik><p3s>$
       8 #mübahisə et\<v\>\<part_dik\>\<acc\>	^mübahisə et<v><part_dik><acc>$
       8 #moratoryum\<n\>	^moratoryum<n>$
-      8 #möhtərəm\<adj\>	^möhtərəm<adj>$
       8 #möhtac\<n\>	^möhtac<n>$
       8 #Mod\<n\>\<dat\>	^Mod<n><dat>$
       8 #model\<n\>\<p3s\>	^model<n><p3s>$
@@ -5190,19 +4979,16 @@ Tag mismatch between transfer and generation
       8 #minibus\<n\>\<gen\>	^minibus<n><gen>$
       8 #milli su\<n\>\<pl\>\<p3s\>\<loc\>	^milli su<n><pl><p3s><loc>$
       8 #milli su\<n\>\<pl\>\<acc\>	^milli su<n><pl><acc>$
-      8 #meylli\<adj\>	^meylli<adj>$
       8 #məşəl\<n\>\<p3s\>	^məşəl<n><p3s>$
       8 #mənimsə\<v\>\<cv_ma\>\<p3s\>	^mənimsə<v><cv_ma><p3s>$
       8 #məhdudlaşdır\<v\>\<vn_mak\>\<dat\>	^məhdudlaşdır<v><vn_mak><dat>$
       8 #marjinal\<n\>	^marjinal<n>$
       8 #maraq\<n\>\<pl\>\<p3s\>\<acc\>	^maraq<n><pl><p3s><acc>$
       8 #mane ol\<v\>\<cv_ma\>\<p3s\>	^mane ol<v><cv_ma><p3s>$
-      8 #Maliyyə\<adj\>	^Maliyyə<adj>$
       8 #lirə\<n\>	^lirə<n>$
       8 #Lələk\<n\>	^Lələk<n>$
       8 #kurs\<n\>\<p3p\>	^kurs<n><p3p>$
       8 #konvoy\<n\>	^konvoy<n>$
-      8 #Konkret\<adj\>	^Konkret<adj>$
       8 #koloniya\<n\>\<p3s\>	^koloniya<n><p3s>$
       8 #kiçil\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>	^kiçil<v><caus><pass><cv_ma><p3s>$
       8 #kəsmə\<n\>\<dat\>	^kəsmə<n><dat>$
@@ -5227,10 +5013,8 @@ Tag mismatch between transfer and generation
       8 #irəlilə\<v\>\<caus\>\<vn_acak\>\<p3s\>\<acc\>	^irəlilə<v><caus><vn_acak><p3s><acc>$
       8 #incələ\<v\>\<pass\>\<t_fut\>\<3s\>	^incələ<v><pass><t_fut><3s>$
       8 #incələ\<v\>\<pass\>\<t_cont\>\<3s\>	^incələ<v><pass><t_cont><3s>$
-      8 #incə\<adj\>	^incə<adj>$
       8 #inadçı\<n\>	^inadçı<n>$
       8 #imzala\<v\>\<neg\>\<vn_acak\>\<p3s\>\<acc\>	^imzala<v><neg><vn_acak><p3s><acc>$
-      8 #hüquqi\<adj\>	^hüquqi<adj>$
       8 #hovuz\<n\>\<acc\>	^hovuz<n><acc>$
       8 #hesabla\<v\>\<cv_ma\>	^hesabla<v><cv_ma>$
       8 #hazırla\<v\>\<t_aor\>\<3s\>	^hazırla<v><t_aor><3s>$
@@ -5264,11 +5048,8 @@ Tag mismatch between transfer and generation
       8 #fokusa yığ\<v\>\<pass\>\<cv_erek\>	^fokusa yığ<v><pass><cv_erek>$
       8 #Federasiya\<n\>	^Federasiya<n>$
       8 #faşizm\<n\>	^faşizm<n>$
-      8 #fağır\<adj\>	^fağır<adj>$
       8 #eyni\<det\>	^eyni<det>$
-      8 #əsl\<adj\>	^əsl<adj>$
       8 #ertə\<n\>\<p3s\>\<loc\>	^ertə<n><p3s><loc>$
-      8 #əqli\<adj\>	^əqli<adj>$
       8 #əngəl ol\<v\>\<vn_mak\>\<acc\>	^əngəl ol<v><vn_mak><acc>$
       8 #əməl\<n\>	^əməl<n>$
       8 #embarqo\<n\>\<p3s\>	^embarqo<n><p3s>$
@@ -5304,7 +5085,6 @@ Tag mismatch between transfer and generation
       8 #çıxar\<v\>\<caus\>\<cv_erek\>	^çıxar<v><caus><cv_erek>$
       8 #Cezire\<n\>	^Cezire<n>$
       8 #çevril\<v\>\<caus\>\<cv_mak\>	^çevril<v><caus><cv_mak>$
-      8 #Çətin\<adj\>	^Çətin<adj>$
       8 #çəkməyə\<n\>\<dat\>	^çəkməyə<n><dat>$
       8 #çat\<v\>\<t_narr\>\<cpl_di\>\<3s\>	^çat<v><t_narr><cpl_di><3s>$
       8 #çat\<v\>\<pass\>\<t_past\>\<3s\>	^çat<v><pass><t_past><3s>$
@@ -5470,7 +5250,6 @@ Tag mismatch between transfer and generation
       7 #təqib et\<v\>\<t_fut\>\<3s\>\<dir\>	^təqib et<v><t_fut><3s><dir>$
       7 #təqib et\<v\>\<t_fut\>\<3p\>	^təqib et<v><t_fut><3p>$
       7 #təqib et\<v\>\<t_cont\>\<3p\>	^təqib et<v><t_cont><3p>$
-      7 #təptəzə\<adj\>	^təptəzə<adj>$
       7 #tənzimlə\<v\>\<pass\>\<cv_ma\>\<p3s\>	^tənzimlə<v><pass><cv_ma><p3s>$
       7 #Tənzimlə\<v\>\<cv_ma\>	^Tənzimlə<v><cv_ma>$
       7 #tənqid et\<v\>\<pass\>\<part_dik\>\<acc\>	^tənqid et<v><pass><part_dik><acc>$
@@ -5496,7 +5275,6 @@ Tag mismatch between transfer and generation
       7 #təbrik et\<v\>\<pass\>\<t_fut\>\<3s\>	^təbrik et<v><pass><t_fut><3s>$
       7 #təbrik et\<v\>\<pass\>\<cv_acak\>	^təbrik et<v><pass><cv_acak>$
       7 #təbii qaz\<n\>\<dat\>	^təbii qaz<n><dat>$
-      7 #Tazə\<adj\>	^Tazə<adj>$
       7 #tasarla\<v\>\<part_dik\>\<acc\>	^tasarla<v><part_dik><acc>$
       7 #tar-mar\<n\>\<dat\>	^tar-mar<n><dat>$
       7 #Tanı\<v\>\<t_past\>\<3s\>	^Tanı<v><t_past><3s>$
@@ -5533,8 +5311,6 @@ Tag mismatch between transfer and generation
       7 #sırala\<v\>\<pass\>\<t_past\>\<3s\>	^sırala<v><pass><t_past><3s>$
       7 #sırala\<v\>\<neg\>\<t_opt\>\<3s\>	^sırala<v><neg><t_opt><3s>$
       7 #sına\<v\>\<t_imp\>\<2s\>	^sına<v><t_imp><2s>$
-      7 #şikəst\<adj\>	^şikəst<adj>$
-      7 #səsli\<adj\>	^səsli<adj>$
       7 #səs-küy\<n\>	^səs-küy<n>$
       7 #seriya\<n\>\<p3s\>	^seriya<n><p3s>$
       7 #sərgiyə qoy\<v\>\<t_cont\>\<3p\>	^sərgiyə qoy<v><t_cont><3p>$
@@ -5544,7 +5320,6 @@ Tag mismatch between transfer and generation
       7 #sent\<n\>	^sent<n>$
       7 #sensasional\<n\>	^sensasional<n>$
       7 #sənətpərvər\<n\>\<pl\>\<gen\>	^sənətpərvər<n><pl><gen>$
-      7 #səlahiyyətli\<adj\>	^səlahiyyətli<adj>$
       7 #səkkiz\<n\>\<dat\>	^səkkiz<n><dat>$
       7 #səciyyələndir\<v\>\<t_past\>\<3p\>	^səciyyələndir<v><t_past><3p>$
       7 #səciyyələndir\<v\>\<t_aor\>\<3s\>\<cpl_ken\>	^səciyyələndir<v><t_aor><3s><cpl_ken>$
@@ -5558,11 +5333,9 @@ Tag mismatch between transfer and generation
       7 #sakitləş\<v\>\<caus\>\<vn_mak\>\<dat\>	^sakitləş<v><caus><vn_mak><dat>$
       7 #revizyon\<n\>\<p3s\>	^revizyon<n><p3s>$
       7 #rəsmi\<n\>\<p2s\>\<acc\>	^rəsmi<n><p2s><acc>$
-      7 #rəsmən\<adj\>	^rəsmən<adj>$
       7 #rektor\<n\>\<p3p\>	^rektor<n><p3p>$
       7 #ratifikasiya\<n\>\<p3s\>\<ins\>	^ratifikasiya<n><p3s><ins>$
       7 #rastlaş\<v\>\<pass\>\<t_past\>\<3s\>	^rastlaş<v><pass><t_past><3s>$
-      7 #Quzuqulağı\<adj\>	^Quzuqulağı<adj>$
       7 #Quru\<v\>\<cv_iyor\>	^Quru<v><cv_iyor>$
       7 #qurtar\<v\>\<vn_mak\>\<dat\>	^qurtar<v><vn_mak><dat>$
       7 #qurtar\<v\>\<pass\>\<cv_ma\>\<p3s\>	^qurtar<v><pass><cv_ma><p3s>$
@@ -5615,7 +5388,6 @@ Tag mismatch between transfer and generation
       7 #planlaşdır\<v\>\<cv_ma\>\<p3s\>\<dat\>	^planlaşdır<v><cv_ma><p3s><dat>$
       7 #plaka\<n\>	^plaka<n>$
       7 #pitoresk\<n\>	^pitoresk<n>$
-      7 #Pirat\<adj\>	^Pirat<adj>$
       7 #paylaş\<v\>\<pass\>\<t_fut\>\<3s\>	^paylaş<v><pass><t_fut><3s>$
       7 #paylaş\<v\>\<pass\>\<part_yan\>	^paylaş<v><pass><part_yan>$
       7 #paylaş\<v\>\<cv_dik\>\<p3s\>	^paylaş<v><cv_dik><p3s>$
@@ -5625,7 +5397,6 @@ Tag mismatch between transfer and generation
       7 #PAL\<n\>	^PAL<n>$
       7 #oxşayan\<n\>\<pl\>\<dat\>	^oxşayan<n><pl><dat>$
       7 #oxşayan\<n\>\<dat\>	^oxşayan<n><dat>$
-      7 #Öldürücü\<adj\>	^Öldürücü<adj>$
       7 #öhdəsinə götür\<v\>\<vn_mak\>\<acc\>	^öhdəsinə götür<v><vn_mak><acc>$
       7 #öhdəsinə götür\<v\>\<vn_acak\>\<p3s\>\<acc\>	^öhdəsinə götür<v><vn_acak><p3s><acc>$
       7 #Öhdəsinə götür\<v\>\<t_past\>\<3s\>	^Öhdəsinə götür<v><t_past><3s>$
@@ -5650,12 +5421,10 @@ Tag mismatch between transfer and generation
       7 #müəyyən et\<v\>\<pass\>\<cv_dik\>\<p3s\>	^müəyyən et<v><pass><cv_dik><p3s>$
       7 #mübahisə et\<v\>\<pass\>\<vn_acak\>\<p3s\>\<acc\>	^mübahisə et<v><pass><vn_acak><p3s><acc>$
       7 #mübahisə et\<v\>\<pass\>\<cv_acak\>	^mübahisə et<v><pass><cv_acak>$
-      7 #mövzu\<adj\>	^mövzu<adj>$
       7 #Metro\<n\>	^Metro<n>$
       7 #Meteorologiya\<n\>	^Meteorologiya<n>$
       7 #Məşəl\<n\>\<p3s\>\<gen\>	^Məşəl<n><p3s><gen>$
       7 #mənimsə\<v\>\<part_yan\>	^mənimsə<v><part_yan>$
-      7 #mənəvi\<adj\>	^mənəvi<adj>$
       7 #məlumat\<n\>\<dat\>	^məlumat<n><dat>$
       7 #məhkumiyyət\<n\>	^məhkumiyyət<n>$
       7 #məhkəməyə cəlb et\<v\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^məhkəməyə cəlb et<v><pass><cv_ma><p3s><dat>$
@@ -5736,7 +5505,6 @@ Tag mismatch between transfer and generation
       7 #gərəkli\<n\>\<cpl_di\>\<3s\>	^gərəkli<n><cpl_di><3s>$
       7 #gecik\<v\>\<t_obl\>\<3s\>	^gecik<v><t_obl><3s>$
       7 #gecik\<v\>\<caus\>\<vn_acak\>\<p3s\>\<acc\>	^gecik<v><caus><vn_acak><p3s><acc>$
-      7 #Gazı\<adj\>	^Gazı<adj>$
       7 #fotoaparat\<n\>\<p3s\>	^fotoaparat<n><p3s>$
       7 #fokusa yığ\<v\>\<pass\>\<part_dik\>\<p3s\>\<acc\>	^fokusa yığ<v><pass><part_dik><p3s><acc>$
       7 #fokusa yığ\<v\>\<pass\>\<cv_mis\>	^fokusa yığ<v><pass><cv_mis>$
@@ -5745,7 +5513,6 @@ Tag mismatch between transfer and generation
       7 #fərqləndir\<v\>\<t_cont\>\<3p\>	^fərqləndir<v><t_cont><3p>$
       7 #eynilə\<adv\>	^eynilə<adv>$
       7 #əsirgə\<v\>\<cv_ma\>	^əsirgə<v><cv_ma>$
-      7 #Əsas\<adj\>	^Əsas<adj>$
       7 #əngəl ol\<v\>\<t_narr\>\<3s\>	^əngəl ol<v><t_narr><3s>$
       7 #emissiya\<n\>\<p3p\>	^emissiya<n><p3p>$
       7 #Elm\<n\>\<pl\>\<acc\>	^Elm<n><pl><acc>$
@@ -5759,7 +5526,6 @@ Tag mismatch between transfer and generation
       7 #düstur\<n\>\<acc\>	^düstur<n><acc>$
       7 #düş\<n\>\<cpl_di\>\<3p\>	^düş<n><cpl_di><3p>$
       7 #döyüşçü\<n\>\<pl\>	^döyüşçü<n><pl>$
-      7 #dostyana\<adj\>	^dostyana<adj>$
       7 #dönmə\<n\>\<pl\>\<acc\>	^dönmə<n><pl><acc>$
       7 #dönmə\<n\>\<p3p\>\<acc\>	^dönmə<n><p3p><acc>$
       7 #dola\<v\>\<pass\>\<t_imp\>\<2s\>	^dola<v><pass><t_imp><2s>$
@@ -5832,7 +5598,6 @@ Tag mismatch between transfer and generation
       7 #birləş\<v\>\<caus\>\<cv_erek\>	^birləş<v><caus><cv_erek>$
       7 #bırax\<v\>\<pass\>\<cv_erek\>	^bırax<v><pass><cv_erek>$
       7 #bırax\<v\>\<pass\>\<cv_dik\>\<p3s\>\<acc\>	^bırax<v><pass><cv_dik><p3s><acc>$
-      7 #Bəsit\<adj\>	^Bəsit<adj>$
       7 #bərki\<v\>\<caus\>\<t_past\>\<3s\>	^bərki<v><caus><t_past><3s>$
       7 #Baxım\<n\>	^Baxım<n>$
       7 #baş rol\<n\>	^baş rol<n>$
@@ -5850,7 +5615,6 @@ Tag mismatch between transfer and generation
       7 #azal\<v\>\<caus\>\<pass\>\<t_fut\>\<3s\>	^azal<v><caus><pass><t_fut><3s>$
       7 #azal\<v\>\<caus\>\<pass\>\<cv_erek\>	^azal<v><caus><pass><cv_erek>$
       7 #Azal\<v\>\<caus\>\<cv_acak\>	^Azal<v><caus><cv_acak>$
-      7 #Ayrıca\<adj\>	^Ayrıca<adj>$
       7 #ayin\<n\>	^ayin<n>$
       7 #at\<v\>\<cv_ma\>\<p3s\>\<dat\>	^at<v><cv_ma><p3s><dat>$
       7 #atmaq\<v\>\<pass\>\<part_dik\>\<acc\>	^atmaq<v><pass><part_dik><acc>$
@@ -5867,7 +5631,6 @@ Tag mismatch between transfer and generation
       7 #aqrar\<n\>	^aqrar<n>$
       7 #altı\<n\>\<dat\>	^altı<n><dat>$
       7 #alış\<v\>\<t_imp\>\<2s\>	^alış<v><t_imp><2s>$
-      7 #Alicənab\<adj\>	^Alicənab<adj>$
       7 #adaptə et\<v\>\<pass\>\<cv_ma\>\<p3s\>	^adaptə et<v><pass><cv_ma><p3s>$
       7 #aciliyeti\<n\>	^aciliyeti<n>$
       6 #zorla\<v\>\<vn_acak\>\<p3s\>\<acc\>	^zorla<v><vn_acak><p3s><acc>$
@@ -5919,8 +5682,6 @@ Tag mismatch between transfer and generation
       6 #yavaşla\<v\>\<cv_ma\>\<p3s\>	^yavaşla<v><cv_ma><p3s>$
       6 #yavaşla\<v\>\<cv_dik\>\<p3s\>\<acc\>	^yavaşla<v><cv_dik><p3s><acc>$
       6 #yavaşla\<v\>\<caus\>\<vn_acak\>\<acc\>	^yavaşla<v><caus><vn_acak><acc>$
-      6 #Yava\<adj\>	^Yava<adj>$
-      6 #yaşlı\<adj\>	^yaşlı<adj>$
       6 #yaşa\<v\>\<t_narr\>\<cpl_di\>\<3s\>	^yaşa<v><t_narr><cpl_di><3s>$
       6 #yaşa\<v\>\<pass\>\<vn_acak\>\<acc\>	^yaşa<v><pass><vn_acak><acc>$
       6 #yaşa\<v\>\<pass\>\<part_yan\>\<pl\>\<dat\>	^yaşa<v><pass><part_yan><pl><dat>$
@@ -5941,7 +5702,6 @@ Tag mismatch between transfer and generation
       6 #xeyir gətir\<v\>\<part_yan\>	^xeyir gətir<v><part_yan>$
       6 #xəbərləş\<v\>\<pass\>\<t_past\>\<3s\>	^xəbərləş<v><pass><t_past><3s>$
       6 #xəbərləş\<v\>\<pass\>\<cv_acak\>	^xəbərləş<v><pass><cv_acak>$
-      6 #xəbərçi\<adj\>	^xəbərçi<adj>$
       6 #xatırla\<v\>\<pass\>\<t_fut\>\<3s\>	^xatırla<v><pass><t_fut><3s>$
       6 #Xarici işlər\<n\>\<p2s\>\<abl\>	^Xarici işlər<n><p2s><abl>$
       6 #voleybol\<n\>\<loc\>	^voleybol<n><loc>$
@@ -6097,14 +5857,12 @@ Tag mismatch between transfer and generation
       6 #şarapnel\<n\>	^şarapnel<n>$
       6 #sakitləş\<v\>\<caus\>\<vn_mak\>	^sakitləş<v><caus><vn_mak>$
       6 #sakitləş\<v\>\<caus\>\<cv_mak\>	^sakitləş<v><caus><cv_mak>$
-      6 #Sakit\<adj\>	^Sakit<adj>$
       6 #rezerv\<n\>\<p3p\>\<abl\>	^rezerv<n><p3p><abl>$
       6 #rezervasiya\<n\>	^rezervasiya<n>$
       6 #Reyqan\<np\>\<gen\>	^Reyqan<np><gen>$
       6 #Revizyon\<n\>	^Revizyon<n>$
       6 #ratifikasiya\<n\>\<abl\>	^ratifikasiya<n><abl>$
       6 #rastlaş\<v\>\<pass\>\<cv_dik\>\<p3s\>\<acc\>	^rastlaş<v><pass><cv_dik><p3s><acc>$
-      6 #radio\<adj\>	^radio<adj>$
       6 #quru\<v\>\<t_cont\>\<3s\>	^quru<v><t_cont><3s>$
       6 #quru\<v\>\<caus\>\<cv_ma\>	^quru<v><caus><cv_ma>$
       6 #qurtul\<v\>\<cv_ma\>\<p3s\>	^qurtul<v><cv_ma><p3s>$
@@ -6153,7 +5911,6 @@ Tag mismatch between transfer and generation
       6 #qaçın\<v\>\<cv_erek\>	^qaçın<v><cv_erek>$
       6 #püskür\<v\>\<t_past\>\<3s\>	^püskür<v><t_past><3s>$
       6 #planlaşdır\<v\>\<pass\>\<cv_iyor\>	^planlaşdır<v><pass><cv_iyor>$
-      6 #Plagiat\<adj\>	^Plagiat<adj>$
       6 #peyk\<n\>\<p3s\>	^peyk<n><p3s>$
       6 #peşəkar\<n\>\<pl\>\<gen\>	^peşəkar<n><pl><gen>$
       6 #peşəkar\<n\>	^peşəkar<n>$
@@ -6174,7 +5931,6 @@ Tag mismatch between transfer and generation
       6 #otur\<v\>\<vn_mak\>\<acc\>	^otur<v><vn_mak><acc>$
       6 #otur\<v\>\<cv_ma\>\<p3s\>	^otur<v><cv_ma><p3s>$
       6 #orta əsrlər\<n\>\<dat\>	^orta əsrlər<n><dat>$
-      6 #Ölkədaxili\<adj\>	^Ölkədaxili<adj>$
       6 #öhdəsinə götür\<v\>\<vn_mak\>	^öhdəsinə götür<v><vn_mak>$
       6 #öhdəsinə götür\<v\>\<vn_acak\>\<acc\>	^öhdəsinə götür<v><vn_acak><acc>$
       6 #öhdəsinə götür\<v\>\<cv_ma\>\<p3s\>\<dat\>	^öhdəsinə götür<v><cv_ma><p3s><dat>$
@@ -6191,7 +5947,6 @@ Tag mismatch between transfer and generation
       6 #naxışla\<v\>\<neg\>\<part_dik\>\<acc\>	^naxışla<v><neg><part_dik><acc>$
       6 #naxışla\<v\>\<cv_iyor\>	^naxışla<v><cv_iyor>$
       6 #naxışla\<v\>\<caus\>\<vn_mak\>\<dat\>	^naxışla<v><caus><vn_mak><dat>$
-      6 #Natamam\<adj\>	^Natamam<adj>$
       6 #müraciət et\<v\>\<t_narr\>\<cpl_di\>\<3s\>	^müraciət et<v><t_narr><cpl_di><3s>$
       6 #müraciət et\<v\>\<cv_ma\>\<p3s\>	^müraciət et<v><cv_ma><p3s>$
       6 #müraciət et\<v\>\<cv_mak\>	^müraciət et<v><cv_mak>$
@@ -6217,8 +5972,6 @@ Tag mismatch between transfer and generation
       6 #minibus\<n\>\<acc\>	^minibus<n><acc>$
       6 #Mexanik\<n\>	^Mexanik<n>$
       6 #mexanik\<n\>	^mexanik<n>$
-      6 #Məsum\<adj\>	^Məsum<adj>$
-      6 #məsləhətçi\<adj\>	^məsləhətçi<adj>$
       6 #məşəl\<n\>\<p3s\>\<acc\>	^məşəl<n><p3s><acc>$
       6 #Məşəl\<n\>\<p3s\>	^Məşəl<n><p3s>$
       6 #mənimsə\<v\>\<vn_mak\>\<dat\>	^mənimsə<v><vn_mak><dat>$
@@ -6242,7 +5995,6 @@ Tag mismatch between transfer and generation
       6 #Konvansiyonal\<n\>	^Konvansiyonal<n>$
       6 #konstitusiya\<n\>\<loc\>\<ki\>	^konstitusiya<n><loc><ki>$
       6 #konfederasiya\<n\>	^konfederasiya<n>$
-      6 #Komik\<adj\>	^Komik<adj>$
       6 #kollektiv\<n\>\<pl\>\<acc\>	^kollektiv<n><pl><acc>$
       6 #kollektiv\<n\>\<p3s\>\<acc\>	^kollektiv<n><p3s><acc>$
       6 #köhnəl\<v\>\<t_opt\>\<3s\>	^köhnəl<v><t_opt><3s>$
@@ -6354,7 +6106,6 @@ Tag mismatch between transfer and generation
       6 #düyün\<n\>\<gen\>	^düyün<n><gen>$
       6 #düstur\<n\>\<p3s\>	^düstur<n><p3s>$
       6 #duş\<n\>	^duş<n>$
-      6 #durğun\<adj\>	^durğun<adj>$
       6 #döyüşçü\<n\>\<p3s\>	^döyüşçü<n><p3s>$
       6 #dönmə\<n\>\<pl\>\<p3s\>\<gen\>	^dönmə<n><pl><p3s><gen>$
       6 #dönmə\<n\>\<pl\>\<p3s\>\<dat\>	^dönmə<n><pl><p3s><dat>$
@@ -6411,8 +6162,6 @@ Tag mismatch between transfer and generation
       6 #çıxar\<v\>\<caus\>\<vn_mak\>\<acc\>	^çıxar<v><caus><vn_mak><acc>$
       6 #çıxar\<v\>\<caus\>\<vn_acak\>\<p3s\>\<acc\>	^çıxar<v><caus><vn_acak><p3s><acc>$
       6 #çıxar\<v\>\<caus\>\<t_narr\>\<cpl_di\>\<3s\>	^çıxar<v><caus><t_narr><cpl_di><3s>$
-      6 #ciddi\<adj\>	^ciddi<adj>$
-      6 #Cəza\<adj\>	^Cəza<adj>$
       6 #çevril\<v\>\<caus\>\<pass\>\<t_fut\>\<3s\>	^çevril<v><caus><pass><t_fut><3s>$
       6 #cavabdeh olmayan\<n\>\<ca\>	^cavabdeh olmayan<n><ca>$
       6 #çat\<v\>\<t_past\>\<3p\>	^çat<v><t_past><3p>$
@@ -6435,7 +6184,6 @@ Tag mismatch between transfer and generation
       6 #bombardman\<n\>\<acc\>	^bombardman<n><acc>$
       6 #bölmə\<n\>\<dat\>	^bölmə<n><dat>$
       6 #Bok\<n\>\<dat\>	^Bok<n><dat>$
-      6 #bitişdirilmiş\<adj\>	^bitişdirilmiş<adj>$
       6 #birləş\<v\>\<caus\>\<neg\>\<t_opt\>\<3s\>	^birləş<v><caus><neg><t_opt><3s>$
       6 #birləş\<v\>\<caus\>\<cv_ip\>	^birləş<v><caus><cv_ip>$
       6 #birləşmə\<n\>\<pl\>\<acc\>	^birləşmə<n><pl><acc>$
@@ -6586,7 +6334,6 @@ Tag mismatch between transfer and generation
       5 #xəbərdarlıq et\<v\>\<part_dik\>\<p3s\>\<acc\>	^xəbərdarlıq et<v><part_dik><p3s><acc>$
       5 #xəbərçi\<n\>\<acc\>	^xəbərçi<n><acc>$
       5 #xatırla\<v\>\<t_cont\>\<3s\>	^xatırla<v><t_cont><3s>$
-      5 #xain\<adj\>	^xain<adj>$
       5 #Voyvoda\<n\>	^Voyvoda<n>$
       5 #Vizual\<n\>	^Vizual<n>$
       5 #virtuoz\<n\>\<acc\>	^virtuoz<n><acc>$
@@ -6646,7 +6393,6 @@ Tag mismatch between transfer and generation
       5 #təsdiqlə\<v\>\<cv_ma\>	^təsdiqlə<v><cv_ma>$
       5 #təsdiqlə\<v\>\<cv_dik\>\<p3s\>\<dat\>	^təsdiqlə<v><cv_dik><p3s><dat>$
       5 #təsdiqlə\<v\>\<abil\>\<neg\>\<t_past\>\<3s\>	^təsdiqlə<v><abil><neg><t_past><3s>$
-      5 #tesadüfən\<adj\>	^tesadüfən<adj>$
       5 #tərs\<n\>\<p3s\>\<acc\>	^tərs<n><p3s><acc>$
       5 #tərcihən\<adv\>	^tərcihən<adv>$
       5 #tərbiyə ver\<v\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^tərbiyə ver<v><pass><cv_ma><p3s><dat>$
@@ -6688,7 +6434,6 @@ Tag mismatch between transfer and generation
       5 #Təəssüf ki\<adv\>	^Təəssüf ki<adv>$
       5 #tədqiqatçı\<n\>\<pl\>\<gen\>	^tədqiqatçı<n><pl><gen>$
       5 #təbrik et\<v\>\<neg\>\<t_opt\>\<3s\>	^təbrik et<v><neg><t_opt><3s>$
-      5 #Təbii\<adj\>	^Təbii<adj>$
       5 #tarixi\<n\>\<ins\>	^tarixi<n><ins>$
       5 #tarazlaşdır\<v\>\<vn_mak\>	^tarazlaşdır<v><vn_mak>$
       5 #tarazlaşdır\<v\>\<cv_ma\>	^tarazlaşdır<v><cv_ma>$
@@ -6740,7 +6485,6 @@ Tag mismatch between transfer and generation
       5 #sonraya saxla\<v\>\<pass\>\<abil\>\<cv_acak\>\<p3s\>	^sonraya saxla<v><pass><abil><cv_acak><p3s>$
       5 #sol\<n\>	^sol<n>$
       5 #solçu\<n\>	^solçu<n>$
-      5 #şirniyyat\<adj\>	^şirniyyat<adj>$
       5 #sırala\<v\>\<t_cont\>\<3s\>	^sırala<v><t_cont><3s>$
       5 #sırala\<v\>\<part_dik\>\<acc\>	^sırala<v><part_dik><acc>$
       5 #Sinfoniya\<n\>	^Sinfoniya<n>$
@@ -6751,7 +6495,6 @@ Tag mismatch between transfer and generation
       5 #silmə\<n\>\<p3s\>	^silmə<n><p3s>$
       5 #silahsızlaşdır\<v\>\<caus\>\<cv_ma\>	^silahsızlaşdır<v><caus><cv_ma>$
       5 #sikkə\<n\>	^sikkə<n>$
-      5 #şıg\<adj\>	^şıg<adj>$
       5 #sıçrantı\<n\>	^sıçrantı<n>$
       5 #səsə qoy\<v\>\<t_past\>\<3p\>	^səsə qoy<v><t_past><3p>$
       5 #səsə qoy\<v\>\<t_aor\>\<3s\>	^səsə qoy<v><t_aor><3s>$
@@ -6803,7 +6546,6 @@ Tag mismatch between transfer and generation
       5 #qovuş\<v\>\<cv_acak\>	^qovuş<v><cv_acak>$
       5 #qızışdır\<v\>\<cv_mak\>	^qızışdır<v><cv_mak>$
       5 #qızışdır\<v\>\<cv_dik\>\<p3s\>	^qızışdır<v><cv_dik><p3s>$
-      5 #Qızğın\<adj\>	^Qızğın<adj>$
       5 #qiymət vermə\<v\>\<t_past\>\<3p\>	^qiymət vermə<v><t_past><3p>$
       5 #qiymətləndir\<v\>\<caus\>\<t_fut\>\<1p\>	^qiymətləndir<v><caus><t_fut><1p>$
       5 #qiymətləndir\<v\>\<caus\>\<t_cont\>\<2p\>	^qiymətləndir<v><caus><t_cont><2p>$
@@ -6818,7 +6560,6 @@ Tag mismatch between transfer and generation
       5 #qına\<v\>\<t_narr\>\<cpl_di\>\<3s\>	^qına<v><t_narr><cpl_di><3s>$
       5 #qına\<v\>\<t_cont\>\<1p\>	^qına<v><t_cont><1p>$
       5 #Qəzzafi\<np\>\<acc\>	^Qəzzafi<np><acc>$
-      5 #Qeyri-kafi\<adj\>	^Qeyri-kafi<adj>$
       5 #qeyd-şərt\<n\>\<pl\>\<acc\>	^qeyd-şərt<n><pl><acc>$
       5 #qeydol\<v\>\<part_dik\>\<p3s\>\<acc\>	^qeydol<v><part_dik><p3s><acc>$
       5 #qeydə\<n\>\<p3s\>	^qeydə<n><p3s>$
@@ -6832,9 +6573,6 @@ Tag mismatch between transfer and generation
       5 #qaynaq et\<v\>\<t_makta\>\<3s\>\<dir\>	^qaynaq et<v><t_makta><3s><dir>$
       5 #qaynaq et\<v\>\<t_cont\>\<cpl_di\>\<3s\>	^qaynaq et<v><t_cont><cpl_di><3s>$
       5 #qatla\<v\>\<cv_ip\>	^qatla<v><cv_ip>$
-      5 #qatı\<adj\>	^qatı<adj>$
-      5 #Qaşqabaqlı\<adj\>	^Qaşqabaqlı<adj>$
-      5 #qaşqabaqlı\<adj\>	^qaşqabaqlı<adj>$
       5 #qarşıla\<v\>\<vn_acak\>\<pl\>\<p3s\>\<acc\>	^qarşıla<v><vn_acak><pl><p3s><acc>$
       5 #qarşıla\<v\>\<t_makta\>\<3s\>	^qarşıla<v><t_makta><3s>$
       5 #qarşıla\<v\>\<t_aor\>\<3s\>	^qarşıla<v><t_aor><3s>$
@@ -6965,7 +6703,6 @@ Tag mismatch between transfer and generation
       5 #linyit\<n\>	^linyit<n>$
       5 #LA\<n\>	^LA<n>$
       5 #kuzen\<n\>\<gen\>	^kuzen<n><gen>$
-      5 #kor\<adj\>	^kor<adj>$
       5 #konvoy\<n\>\<dat\>	^konvoy<n><dat>$
       5 #kontinent\<n\>\<dat\>	^kontinent<n><dat>$
       5 #konsensus\<n\>\<gen\>	^konsensus<n><gen>$
@@ -7021,7 +6758,6 @@ Tag mismatch between transfer and generation
       5 #istə\<v\>\<neg\>\<t_past\>\<3s\>	^istə<v><neg><t_past><3s>$
       5 #istə\<v\>\<neg\>\<cv_iyor\>	^istə<v><neg><cv_iyor>$
       5 #istə\<v\>\<neg\>\<cv_dan\>	^istə<v><neg><cv_dan>$
-      5 #Istəkli\<adj\>	^Istəkli<adj>$
       5 #isbat et\<v\>\<t_makta\>\<3s\>\<dir\>	^isbat et<v><t_makta><3s><dir>$
       5 #irəlilə\<v\>\<vn_yis\>\<p3s\>\<acc\>	^irəlilə<v><vn_yis><p3s><acc>$
       5 #irəlilə\<v\>\<t_past\>\<3s\>	^irəlilə<v><t_past><3s>$
@@ -7041,7 +6777,6 @@ Tag mismatch between transfer and generation
       5 #idarə et\<v\>\<vn_yis\>\<p1s\>\<acc\>	^idarə et<v><vn_yis><p1s><acc>$
       5 #ictimaiyyət\<n\>\<p3s\>	^ictimaiyyət<n><p3s>$
       5 #içəri\<n\>\<abl\>	^içəri<n><abl>$
-      5 #Hüquqi\<adj\>	^Hüquqi<adj>$
       5 #hovuz\<n\>	^hovuz<n>$
       5 #hesabla\<v\>\<t_cont\>\<3s\>	^hesabla<v><t_cont><3s>$
       5 #hesabla\<v\>\<t_aor\>\<3s\>	^hesabla<v><t_aor><3s>$
@@ -7064,7 +6799,7 @@ Tag mismatch between transfer and generation
       5 #güvən\<v\>\<t_cont\>\<1p\>	^güvən<v><t_cont><1p>$
       5 #güvən\<v\>\<pass\>\<neg\>\<t_aor\>\<3s\>	^güvən<v><pass><neg><t_aor><3s>$
       5 #Günlerle\<adv\>	^Günlerle<adv>$
-      5 #Güney-qərb\<adj\>	^Güney-qərb<adj>$
+      5 #Gün\<adv\>\<ki\>	^Gün<adv><ki>$
       5 #Gücün\<n\>\<loc\>	^Gücün<n><loc>$
       5 #Gözlə\<v\>\<t_aor\>\<3s\>	^Gözlə<v><t_aor><3s>$
       5 #Gözəl\<adv\>	^Gözəl<adv>$
@@ -7117,7 +6852,6 @@ Tag mismatch between transfer and generation
       5 #fərqləndir\<v\>\<pass\>\<part_dik\>\<acc\>	^fərqləndir<v><pass><part_dik><acc>$
       5 #eyib\<n\>	^eyib<n>$
       5 #Əritmə\<n\>	^Əritmə<n>$
-      5 #Əngin\<adj\>	^Əngin<adj>$
       5 #əngəl ol\<v\>\<cv_dik\>\<p3s\>\<dat\>	^əngəl ol<v><cv_dik><p3s><dat>$
       5 #əleyhdarı\<n\>\<p3s\>	^əleyhdarı<n><p3s>$
       5 #əks et\<v\>\<caus\>\<t_fut\>\<3s\>	^əks et<v><caus><t_fut><3s>$
@@ -7286,7 +7020,6 @@ Tag mismatch between transfer and generation
       5 #asanlaşdır\<v\>\<caus\>\<t_past\>\<3s\>	^asanlaşdır<v><caus><t_past><3s>$
       5 #asanlaşdır\<v\>\<caus\>\<cv_acak\>	^asanlaşdır<v><caus><cv_acak>$
       5 #arxa\<n\>\<p3s\>\<gen\>	^arxa<n><p3s><gen>$
-      5 #Arxa\<adj\>	^Arxa<adj>$
       5 #art\<v\>\<caus\>\<vn_mak\>\<acc\>	^art<v><caus><vn_mak><acc>$
       5 #art\<v\>\<caus\>\<pass\>\<cv_mis\>	^art<v><caus><pass><cv_mis>$
       5 #art\<v\>\<caus\>\<cv_dik\>\<p3s\>	^art<v><caus><cv_dik><p3s>$
@@ -7307,7 +7040,6 @@ Tag mismatch between transfer and generation
       5 #alış\<n\>\<p3s\>\<loc\>	^alış<n><p3s><loc>$
       5 #alış\<n\>\<p3s\>\<ins\>	^alış<n><p3s><ins>$
       5 #ala\<n\>\<dat\>	^ala<n><dat>$
-      5 #Aktivist\<adj\>	^Aktivist<adj>$
       4 #zorla\<v\>\<pass\>\<neg\>\<t_past\>\<3s\>	^zorla<v><pass><neg><t_past><3s>$
       4 #zorla\<v\>\<pass\>\<cv_dik\>\<p3s\>\<acc\>	^zorla<v><pass><cv_dik><p3s><acc>$
       4 #zorla\<v\>\<caus\>\<pass\>\<part_dik\>\<p3s\>\<acc\>	^zorla<v><caus><pass><part_dik><p3s><acc>$
@@ -7330,7 +7062,6 @@ Tag mismatch between transfer and generation
       4 #Yük maşını\<n\>	^Yük maşını<n>$
       4 #yox\<n\>\<cpl_di\>\<3s\>	^yox<n><cpl_di><3s>$
       4 #yoxla\<v\>\<t_aor\>\<3s\>\<cpl_ken\>	^yoxla<v><t_aor><3s><cpl_ken>$
-      4 #yorğun\<adj\>	^yorğun<adj>$
       4 #yönəl\<v\>\<caus\>\<pass\>\<t_narr\>\<cpl_di\>\<3s\>	^yönəl<v><caus><pass><t_narr><cpl_di><3s>$
       4 #yönəl\<v\>\<caus\>\<part_yan\>	^yönəl<v><caus><part_yan>$
       4 #yönəl\<v\>\<caus\>\<cv_dik\>\<p3s\>	^yönəl<v><caus><cv_dik><p3s>$
@@ -7443,8 +7174,6 @@ Tag mismatch between transfer and generation
       4 #xeyir gətir\<v\>\<cv_mak\>	^xeyir gətir<v><cv_mak>$
       4 #xeyir gətir\<v\>\<cv_acak\>	^xeyir gətir<v><cv_acak>$
       4 #xeyir gətir\<v\>\<abil\>\<cv_ma\>\<p3s\>	^xeyir gətir<v><abil><cv_ma><p3s>$
-      4 #Xeyir\<adj\>	^Xeyir<adj>$
-      4 #xətərli\<adj\>	^xətərli<adj>$
       4 #xərc\<n\>\<p3s\>\<acc\>	^xərc<n><p3s><acc>$
       4 #xəbərləş\<v\>\<vn_mak\>	^xəbərləş<v><vn_mak>$
       4 #xəbərdarlıq et\<v\>\<cv_mis\>	^xəbərdarlıq et<v><cv_mis>$
@@ -7465,7 +7194,6 @@ Tag mismatch between transfer and generation
       4 #uza\<v\>\<caus\>\<pass\>\<cv_ma\>	^uza<v><caus><pass><cv_ma>$
       4 #uza\<v\>\<caus\>\<pass\>\<abil\>\<vn_acak\>\<p3s\>\<acc\>	^uza<v><caus><pass><abil><vn_acak><p3s><acc>$
       4 #uyuş\<v\>\<neg\>\<part_yan\>	^uyuş<v><neg><part_yan>$
-      4 #Üsul\<adj\>	^Üsul<adj>$
       4 #Uğra\<v\>\<t_past\>\<3s\>	^Uğra<v><t_past><3s>$
       4 #uğra\<v\>\<t_aor\>\<cpl_sa\>\<3s\>	^uğra<v><t_aor><cpl_sa><3s>$
       4 #uğra\<v\>\<caus\>\<vn_acak\>\<p3s\>\<acc\>	^uğra<v><caus><vn_acak><p3s><acc>$
@@ -7480,7 +7208,6 @@ Tag mismatch between transfer and generation
       4 #tut\<v\>\<part_dik\>\<pl\>\<p3s\>\<acc\>	^tut<v><part_dik><pl><p3s><acc>$
       4 #tut\<v\>\<neg\>\<cv_ma\>\<p3s\>	^tut<v><neg><cv_ma><p3s>$
       4 #tut\<v\>\<cv_mak\>\<ins\>	^tut<v><cv_mak><ins>$
-      4 #TUTQUN\<adj\>	^TUTQUN<adj>$
       4 #tur\<n\>\<pl\>\<acc\>	^tur<n><pl><acc>$
       4 #tur\<n\>\<p3p\>	^tur<n><p3p>$
       4 #tükən\<v\>\<vn_mak\>\<loc\>	^tükən<v><vn_mak><loc>$
@@ -7488,7 +7215,6 @@ Tag mismatch between transfer and generation
       4 #tükən\<v\>\<cv_mis\>	^tükən<v><cv_mis>$
       4 #trend\<n\>\<p3p\>	^trend<n><p3p>$
       4 #toy\<n\>\<abl\>	^toy<n><abl>$
-      4 #toxtaq\<adj\>	^toxtaq<adj>$
       4 #Toplanış\<n\>\<p3s\>	^Toplanış<n><p3s>$
       4 #tonnaj\<n\>\<p3s\>\<gen\>	^tonnaj<n><p3s><gen>$
       4 #tıxa\<v\>\<cv_erek\>	^tıxa<v><cv_erek>$
@@ -7634,14 +7360,12 @@ Tag mismatch between transfer and generation
       4 #Tamamla\<v\>\<cv_ma\>\<p3s\>	^Tamamla<v><cv_ma><p3s>$
       4 #tamamla\<v\>\<cv_acak\>\<p3s\>\<abl\>	^tamamla<v><cv_acak><p3s><abl>$
       4 #tak\<n\>\<ins\>	^tak<n><ins>$
-      4 #tabsız\<adj\>	^tabsız<adj>$
       4 #Sürmə\<n\>\<p3s\>	^Sürmə<n><p3s>$
       4 #sürətlən\<v\>\<cv_ma\>	^sürətlən<v><cv_ma>$
       4 #sürətlən\<v\>\<caus\>\<Dvn_yIcI\>\<adj\>	^sürətlən<v><caus><Dvn_yIcI><adj>$
       4 #Sürətlən\<v\>\<caus\>\<cv_mak\>	^Sürətlən<v><caus><cv_mak>$
       4 #Sunami\<n\>	^Sunami<n>$
       4 #Sumo\<n\>	^Sumo<n>$
-      4 #sulu boya\<adj\>	^sulu boya<adj>$
       4 #Sükunət\<n\>	^Sükunət<n>$
       4 #Suçla\<v\>\<t_aor\>\<3s\>	^Suçla<v><t_aor><3s>$
       4 #suçla\<v\>\<pass\>\<part_yan\>\<pl\>\<gen\>	^suçla<v><pass><part_yan><pl><gen>$
@@ -7657,7 +7381,6 @@ Tag mismatch between transfer and generation
       4 #SPECIAL\<v\>\<pass\>\<cv_ma\>	^SPECIAL<v><pass><cv_ma>$
       4 #SPECIAL\<v\>\<caus\>\<cv_acak\>	^SPECIAL<v><caus><cv_acak>$
       4 #sözləş\<v\>\<t_past\>\<3s\>	^sözləş<v><t_past><3s>$
-      4 #Söz\<adj\>	^Söz<adj>$
       4 #sovur\<v\>\<t_past\>\<3s\>	^sovur<v><t_past><3s>$
       4 #sövğiyyat\<n\>\<p3s\>\<loc\>	^sövğiyyat<n><p3s><loc>$
       4 #sonraya saxla\<v\>\<vn_acak\>\<pl\>\<p3s\>\<acc\>	^sonraya saxla<v><vn_acak><pl><p3s><acc>$
@@ -7683,7 +7406,6 @@ Tag mismatch between transfer and generation
       4 #simptom\<n\>\<pl\>\<ins\>	^simptom<n><pl><ins>$
       4 #simptom\<n\>\<pl\>\<gen\>	^simptom<n><pl><gen>$
       4 #şimal-şərq\<n\>\<p3s\>	^şimal-şərq<n><p3s>$
-      4 #Şimal-şərq\<adj\>	^Şimal-şərq<adj>$
       4 #sığın\<v\>\<vn_mak\>\<dat\>	^sığın<v><vn_mak><dat>$
       4 #sığın\<v\>\<part_dik\>\<acc\>	^sığın<v><part_dik><acc>$
       4 #şiddətlən\<v\>\<part_yan\>	^şiddətlən<v><part_yan>$
@@ -7814,7 +7536,6 @@ Tag mismatch between transfer and generation
       4 #Planlaşdır\<v\>\<pass\>\<cv_iyor\>	^Planlaşdır<v><pass><cv_iyor>$
       4 #planlaşdır\<v\>\<part_dik\>\<p3p\>\<abl\>	^planlaşdır<v><part_dik><p3p><abl>$
       4 #planet\<n\>\<gen\>	^planet<n><gen>$
-      4 #Pis\<adj\>	^Pis<adj>$
       4 #Peyk\<n\>	^Peyk<n>$
       4 #peşəkar\<n\>\<pl\>\<dat\>	^peşəkar<n><pl><dat>$
       4 #peşəkar\<n\>\<pl\>\<abl\>	^peşəkar<n><pl><abl>$
@@ -7946,7 +7667,6 @@ Tag mismatch between transfer and generation
       4 #medal\<n\>\<p3s\>\<ins\>	^medal<n><p3s><ins>$
       4 #medal\<n\>\<p3s\>\<dat\>	^medal<n><p3s><dat>$
       4 #medal\<n\>\<p3p\>	^medal<n><p3p>$
-      4 #məchul\<adj\>	^məchul<adj>$
       4 #mebel\<n\>\<pl\>	^mebel<n><pl>$
       4 #mayor\<n\>	^mayor<n>$
       4 #Maslahatgüzar\<n\>	^Maslahatgüzar<n>$
@@ -7995,7 +7715,6 @@ Tag mismatch between transfer and generation
       4 #kiçil\<v\>\<caus\>\<vn_mak\>	^kiçil<v><caus><vn_mak>$
       4 #kiçil\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^kiçil<v><caus><pass><cv_ma><p3s><dat>$
       4 #kiçil\<v\>\<caus\>\<pass\>\<cv_acak\>	^kiçil<v><caus><pass><cv_acak>$
-      4 #Keyfiyyət\<adj\>	^Keyfiyyət<adj>$
       4 #kəs\<v\>\<t_past\>\<3p\>	^kəs<v><t_past><3p>$
       4 #Kennedy\<np\>\<apos\>	^Kennedy<np><apos>$
       4 #keçir\<v\>\<t_cont\>\<3p\>	^keçir<v><t_cont><3p>$
@@ -8174,7 +7893,6 @@ Tag mismatch between transfer and generation
       4 #gecik\<v\>\<caus\>\<pass\>\<neg\>\<cv_dan\>	^gecik<v><caus><pass><neg><cv_dan>$
       4 #gecik\<v\>\<caus\>\<cv_mak\>\<ins\>	^gecik<v><caus><cv_mak><ins>$
       4 #gecik\<v\>\<caus\>\<cv_erek\>	^gecik<v><caus><cv_erek>$
-      4 #gazı\<adj\>	^gazı<adj>$
       4 #fresk\<n\>	^fresk<n>$
       4 #freqat\<n\>\<acc\>	^freqat<n><acc>$
       4 #fraksiya\<n\>\<pl\>\<acc\>	^fraksiya<n><pl><acc>$
@@ -8193,13 +7911,11 @@ Tag mismatch between transfer and generation
       4 #Fərqləndir\<v\>\<t_past\>\<3s\>	^Fərqləndir<v><t_past><3s>$
       4 #fərqləndir\<v\>\<part_dik\>\<pl\>\<acc\>	^fərqləndir<v><part_dik><pl><acc>$
       4 #fərqləndir\<v\>\<part_dik\>\<p3s\>\<acc\>	^fərqləndir<v><part_dik><p3s><acc>$
-      4 #Fəal\<adj\>	^Fəal<adj>$
       4 #fahişəxana\<n\>	^fahişəxana<n>$
       4 #evlən\<v\>\<t_narr\>\<cpl_di\>\<3s\>	^evlən<v><t_narr><cpl_di><3s>$
       4 #Etibarlı\<n\>	^Etibarlı<n>$
       4 #əri\<v\>\<caus\>\<pass\>\<cv_mis\>	^əri<v><caus><pass><cv_mis>$
       4 #əri\<v\>\<caus\>\<cv_ma\>	^əri<v><caus><cv_ma>$
-      4 #əngin\<adj\>	^əngin<adj>$
       4 #əngəl ol\<v\>\<t_cont\>\<3p\>	^əngəl ol<v><t_cont><3p>$
       4 #əngəl ol\<v\>\<pass\>\<vn_mak\>\<dat\>	^əngəl ol<v><pass><vn_mak><dat>$
       4 #əngəl ol\<v\>\<pass\>\<part_dik\>\<p3s\>\<acc\>	^əngəl ol<v><pass><part_dik><p3s><acc>$
@@ -8217,13 +7933,11 @@ Tag mismatch between transfer and generation
       4 #əks et\<v\>\<caus\>\<t_makta\>\<3s\>\<dir\>	^əks et<v><caus><t_makta><3s><dir>$
       4 #əks et\<v\>\<caus\>\<neg\>\<cv_dik\>\<p3s\>\<acc\>	^əks et<v><caus><neg><cv_dik><p3s><acc>$
       4 #əks et\<v\>\<caus\>\<cv_iyor\>	^əks et<v><caus><cv_iyor>$
-      4 #əkiz\<adj\>	^əkiz<adj>$
       4 #ehtiyat\<n\>\<pl\>\<p3s\>\<dat\>	^ehtiyat<n><pl><p3s><dat>$
       4 #ehtiva et\<v\>\<t_makta\>\<3s\>\<dir\>	^ehtiva et<v><t_makta><3s><dir>$
       4 #ehtiva et\<v\>\<cv_ma\>\<p3s\>\<dat\>	^ehtiva et<v><cv_ma><p3s><dat>$
       4 #ehtimalı\<n\>\<ins\>	^ehtimalı<n><ins>$
       4 #əgər\<cnjadv\>	^əgər<cnjadv>$
-      4 #əcələ\<adj\>	^əcələ<adj>$
       4 #düzəlt\<v\>\<pass\>\<cv_ma\>\<p3s\>	^düzəlt<v><pass><cv_ma><p3s>$
       4 #düzəlt\<v\>\<part_yan\>\<cpl_mis\>\<3s\>	^düzəlt<v><part_yan><cpl_mis><3s>$
       4 #düzəlt\<v\>\<cv_mak\>	^düzəlt<v><cv_mak>$
@@ -8308,7 +8022,6 @@ Tag mismatch between transfer and generation
       4 #Danış\<v\>\<cv_ma\>	^Danış<v><cv_ma>$
       4 #dalğa\<n\>\<pl\>	^dalğa<n><pl>$
       4 #dalan\<n\>\<acc\>	^dalan<n><acc>$
-      4 #dahakı\<adj\>	^dahakı<adj>$
       4 #dağıt\<v\>\<vn_mak\>\<acc\>	^dağıt<v><vn_mak><acc>$
       4 #dağıt\<v\>\<pass\>\<vn_acak\>\<p3s\>\<acc\>	^dağıt<v><pass><vn_acak><p3s><acc>$
       4 #dağıt\<v\>\<pass\>\<neg\>\<cv_dan\>	^dağıt<v><pass><neg><cv_dan>$
@@ -8411,7 +8124,6 @@ Tag mismatch between transfer and generation
       4 #biçimli\<adv\>	^biçimli<adv>$
       4 #bəyən\<v\>\<pass\>\<cv_ma\>\<p3s\>	^bəyən<v><pass><cv_ma><p3s>$
       4 #bəyən\<v\>\<part_yan\>	^bəyən<v><part_yan>$
-      4 #bəxtəbəxt\<adj\>	^bəxtəbəxt<adj>$
       4 #Beta\<np\>\<gen\>	^Beta<np><gen>$
       4 #beş\<n\>\<gen\>	^beş<n><gen>$
       4 #beş\<n\>\<dat\>	^beş<n><dat>$
@@ -8423,7 +8135,6 @@ Tag mismatch between transfer and generation
       4 #bərki\<v\>\<caus\>\<vn_mak\>	^bərki<v><caus><vn_mak>$
       4 #bərki\<v\>\<caus\>\<cv_mak\>	^bərki<v><caus><cv_mak>$
       4 #Bəri\<adv\>	^Bəri<adv>$
-      4 #bərbad\<adj\>	^bərbad<adj>$
       4 #Benzin\<n\>	^Benzin<n>$
       4 #belə\<n\>\<p3s\>\<dat\>	^belə<n><p3s><dat>$
       4 #Belene\<np\>\<loc\>\<ki\>	^Belene<np><loc><ki>$
@@ -8534,7 +8245,6 @@ Tag mismatch between transfer and generation
       3 #zorla\<v\>\<caus\>\<neg\>\<part_dik\>\<acc\>	^zorla<v><caus><neg><part_dik><acc>$
       3 #zorla\<v\>\<caus\>\<cv_iyor\>	^zorla<v><caus><cv_iyor>$
       3 #zidd ol\<v\>\<t_cont\>\<3s\>	^zidd ol<v><t_cont><3s>$
-      3 #zərif\<adj\>	^zərif<adj>$
       3 #zəiflə\<v\>\<cv_ma\>\<p3s\>	^zəiflə<v><cv_ma><p3s>$
       3 #zəiflə\<v\>\<caus\>\<t_cont\>\<3s\>	^zəiflə<v><caus><t_cont><3s>$
       3 #zəifləşdir\<v\>\<caus\>\<pass\>\<cv_mis\>	^zəifləşdir<v><caus><pass><cv_mis>$
@@ -8556,7 +8266,6 @@ Tag mismatch between transfer and generation
       3 #Yüksəl\<v\>\<caus\>\<cv_mak\>	^Yüksəl<v><caus><cv_mak>$
       3 #Yük maşını\<n\>\<gen\>	^Yük maşını<n><gen>$
       3 #yüklə\<v\>\<pass\>\<t_past\>\<3s\>	^yüklə<v><pass><t_past><3s>$
-      3 #Yoxsul\<adj\>	^Yoxsul<adj>$
       3 #Yoxla\<v\>\<vn_mak\>\<dat\>	^Yoxla<v><vn_mak><dat>$
       3 #Yoxla\<v\>\<vn_mak\>\<acc\>	^Yoxla<v><vn_mak><acc>$
       3 #yoxla\<v\>\<pass\>\<vn_mak\>\<loc\>	^yoxla<v><pass><vn_mak><loc>$
@@ -8564,7 +8273,6 @@ Tag mismatch between transfer and generation
       3 #yönəl\<v\>\<caus\>\<pass\>\<t_fut\>\<3s\>	^yönəl<v><caus><pass><t_fut><3s>$
       3 #yönəl\<v\>\<caus\>\<pass\>\<part_dik\>\<acc\>	^yönəl<v><caus><pass><part_dik><acc>$
       3 #yönəl\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>	^yönəl<v><caus><pass><cv_ma><p3s>$
-      3 #yolundan çıxan\<adj\>	^yolundan çıxan<adj>$
       3 #Yolçu\<n\>\<pl\>\<gen\>	^Yolçu<n><pl><gen>$
       3 #yolçu\<n\>\<p3s\>	^yolçu<n><p3s>$
       3 #yolçu\<n\>\<acc\>	^yolçu<n><acc>$
@@ -8714,10 +8422,8 @@ Tag mismatch between transfer and generation
       3 #xatırla\<v\>\<caus\>\<t_aor\>\<1s\>	^xatırla<v><caus><t_aor><1s>$
       3 #xatırla\<v\>\<caus\>\<pass\>\<t_past\>\<3s\>	^xatırla<v><caus><pass><t_past><3s>$
       3 #xaşla\<v\>\<t_past\>\<3s\>	^xaşla<v><t_past><3s>$
-      3 #Xas\<adj\>	^Xas<adj>$
       3 #xammal\<n\>\<pl\>\<dat\>	^xammal<n><pl><dat>$
       3 #xammal\<n\>\<pl\>	^xammal<n><pl>$
-      3 #Xam\<adj\>	^Xam<adj>$
       3 #Xaç\<n\>\<acc\>	^Xaç<n><acc>$
       3 #vokalist\<n\>\<p3s\>	^vokalist<n><p3s>$
       3 #villa\<n\>\<loc\>	^villa<n><loc>$
@@ -8731,7 +8437,6 @@ Tag mismatch between transfer and generation
       3 #vasitəsi\<n\>\<p2s\>\<abl\>	^vasitəsi<n><p2s><abl>$
       3 #valideynlər\<n\>\<pl\>\<p3s\>\<gen\>	^valideynlər<n><pl><p3s><gen>$
       3 #valideynlər\<n\>\<pl\>\<dat\>	^valideynlər<n><pl><dat>$
-      3 #üzrlü\<adj\>	^üzrlü<adj>$
       3 #üzləş\<v\>\<vn_mak\>\<dat\>	^üzləş<v><vn_mak><dat>$
       3 #Üzləş\<v\>\<cv_ma\>	^Üzləş<v><cv_ma>$
       3 #üzləş\<v\>\<cv_ma\>	^üzləş<v><cv_ma>$
@@ -8759,7 +8464,6 @@ Tag mismatch between transfer and generation
       3 #uğra\<v\>\<abil\>\<t_aor\>\<3s\>	^uğra<v><abil><t_aor><3s>$
       3 #uğraş\<v\>\<cv_ma\>	^uğraş<v><cv_ma>$
       3 #uğraş\<v\>\<cv_dik\>\<p3s\>\<acc\>	^uğraş<v><cv_dik><p3s><acc>$
-      3 #üçbucaq\<adj\>	^üçbucaq<adj>$
       3 #Tut\<v\>\<pass\>\<part_yan\>\<pl\>\<abl\>	^Tut<v><pass><part_yan><pl><abl>$
       3 #tut\<v\>\<pass\>\<part_dik\>\<pl\>\<acc\>	^tut<v><pass><part_dik><pl><acc>$
       3 #tut\<v\>\<pass\>\<neg\>\<cv_ma\>\<p3s\>	^tut<v><pass><neg><cv_ma><p3s>$
@@ -8771,7 +8475,6 @@ Tag mismatch between transfer and generation
       3 #tur\<n\>\<p3s\>\<ins\>	^tur<n><p3s><ins>$
       3 #turne\<n\>\<p3s\>\<acc\>	^turne<n><p3s><acc>$
       3 #Turne\<n\>	^Turne<n>$
-      3 #Türk\<adj\>	^Türk<adj>$
       3 #tunel\<n\>\<acc\>	^tunel<n><acc>$
       3 #tükən\<v\>\<t_makta\>\<3s\>	^tükən<v><t_makta><3s>$
       3 #tükən\<v\>\<cv_ma\>	^tükən<v><cv_ma>$
@@ -8783,7 +8486,6 @@ Tag mismatch between transfer and generation
       3 #traktör\<n\>\<pl\>\<p3s\>\<ins\>	^traktör<n><pl><p3s><ins>$
       3 #traktör\<n\>\<pl\>	^traktör<n><pl>$
       3 #toy\<n\>\<loc\>	^toy<n><loc>$
-      3 #toxunaqlı\<adj\>	^toxunaqlı<adj>$
       3 #topla\<v\>\<t_aor\>\<3s\>\<cpl_ken\>	^topla<v><t_aor><3s><cpl_ken>$
       3 #topla\<v\>\<pass\>\<part_yan\>	^topla<v><pass><part_yan>$
       3 #Tol\<n\>\<dat\>	^Tol<n><dat>$
@@ -8793,7 +8495,6 @@ Tag mismatch between transfer and generation
       3 #tıxa\<v\>\<cv_mak\>\<ins\>	^tıxa<v><cv_mak><ins>$
       3 #tıxa\<v\>\<cv_mak\>	^tıxa<v><cv_mak>$
       3 #tıxa\<v\>\<cv_ma\>	^tıxa<v><cv_ma>$
-      3 #Tiryəki\<adj\>	^Tiryəki<adj>$
       3 #tikinti meydança\<n\>	^tikinti meydança<n>$
       3 #tezlik\<n\>	^tezlik<n>$
       3 #TƏZƏ ULDUZ\<n\>	^TƏZƏ ULDUZ<n>$
@@ -8865,7 +8566,6 @@ Tag mismatch between transfer and generation
       3 #təsdiqlə\<v\>\<cv_iyor\>	^təsdiqlə<v><cv_iyor>$
       3 #təsdiqlə\<v\>\<cv_acak\>\<p3s\>\<abl\>	^təsdiqlə<v><cv_acak><p3s><abl>$
       3 #təsdiqlə\<v\>\<abil\>\<neg\>\<vn_acak\>\<p3s\>\<acc\>	^təsdiqlə<v><abil><neg><vn_acak><p3s><acc>$
-      3 #Tərs\<adj\>	^Tərs<adj>$
       3 #tərif\<n\>\<p3s\>\<ins\>	^tərif<n><p3s><ins>$
       3 #tərcüməçi\<n\>\<acc\>	^tərcüməçi<n><acc>$
       3 #tərbiyə ver\<v\>\<vn_mak\>\<ins\>	^tərbiyə ver<v><vn_mak><ins>$
@@ -8931,7 +8631,6 @@ Tag mismatch between transfer and generation
       3 #təmas et\<v\>\<pass\>\<cv_ma\>\<p3s\>	^təmas et<v><pass><cv_ma><p3s>$
       3 #təlimçi\<n\>\<p3p\>	^təlimçi<n><p3p>$
       3 #teleqraf\<n\>\<loc\>	^teleqraf<n><loc>$
-      3 #tələbkar\<adj\>	^tələbkar<adj>$
       3 #tələb et\<v\>\<t_aor\>\<3s\>	^tələb et<v><t_aor><3s>$
       3 #tekvando\<n\>\<loc\>	^tekvando<n><loc>$
       3 #Tekvando\<n\>	^Tekvando<n>$
@@ -8960,7 +8659,6 @@ Tag mismatch between transfer and generation
       3 #təftiş et\<v\>\<cv_ma\>\<p3s\>	^təftiş et<v><cv_ma><p3s>$
       3 #Təftiş et\<v\>\<cv_iyor\>	^Təftiş et<v><cv_iyor>$
       3 #tədqiqatçı\<n\>\<pl\>\<acc\>	^tədqiqatçı<n><pl><acc>$
-      3 #təcrübəçi\<adj\>	^təcrübəçi<adj>$
       3 #təbrik et\<v\>\<vn_mak\>\<dat\>	^təbrik et<v><vn_mak><dat>$
       3 #təbrik et\<v\>\<part_dik\>\<pl\>\<acc\>	^təbrik et<v><part_dik><pl><acc>$
       3 #Təbrik et\<v\>\<cv_iyor\>	^Təbrik et<v><cv_iyor>$
@@ -9022,7 +8720,6 @@ Tag mismatch between transfer and generation
       3 #sürüklə\<v\>\<part_yan\>	^sürüklə<v><part_yan>$
       3 #sürt\<v\>\<neg\>\<t_imp\>\<2s\>	^sürt<v><neg><t_imp><2s>$
       3 #Sürmə\<n\>\<p3s\>\<acc\>	^Sürmə<n><p3s><acc>$
-      3 #sürgün\<adj\>	^sürgün<adj>$
       3 #sürətlən\<v\>\<caus\>\<t_fut\>\<3s\>	^sürətlən<v><caus><t_fut><3s>$
       3 #sürətlən\<v\>\<caus\>\<pass\>\<vn_acak\>\<acc\>	^sürətlən<v><caus><pass><vn_acak><acc>$
       3 #sürətlən\<v\>\<caus\>\<pass\>\<t_past\>\<3s\>	^sürətlən<v><caus><pass><t_past><3s>$
@@ -9084,7 +8781,6 @@ Tag mismatch between transfer and generation
       3 #Sol\<n\>\<acc\>	^Sol<n><acc>$
       3 #solist\<n\>\<acc\>	^solist<n><acc>$
       3 #skor\<n\>\<acc\>	^skor<n><acc>$
-      3 #Şirniyyat\<adj\>	^Şirniyyat<adj>$
       3 #sırala\<v\>\<t_aor\>\<3s\>	^sırala<v><t_aor><3s>$
       3 #sırala\<v\>\<pass\>\<part_dik\>\<acc\>	^sırala<v><pass><part_dik><acc>$
       3 #sına\<v\>\<vn_mak\>\<acc\>	^sına<v><vn_mak><acc>$
@@ -9112,7 +8808,6 @@ Tag mismatch between transfer and generation
       3 #sığın\<v\>\<neg\>\<t_imp\>\<2s\>	^sığın<v><neg><t_imp><2s>$
       3 #şifrə\<n\>\<p3s\>\<acc\>	^şifrə<n><p3s><acc>$
       3 #şifrə\<n\>	^şifrə<n>$
-      3 #səyyah\<adj\>	^səyyah<adj>$
       3 #səsə qoy\<v\>\<vn_acak\>\<acc\>	^səsə qoy<v><vn_acak><acc>$
       3 #səsə qoy\<v\>\<t_obl\>\<3s\>	^səsə qoy<v><t_obl><3s>$
       3 #səsə qoy\<v\>\<pass\>\<t_aor\>\<3s\>\<cpl_ken\>	^səsə qoy<v><pass><t_aor><3s><cpl_ken>$
@@ -9172,7 +8867,6 @@ Tag mismatch between transfer and generation
       3 #rahatla\<v\>\<caus\>\<cv_mak\>	^rahatla<v><caus><cv_mak>$
       3 #Rafting\<n\>	^Rafting<n>$
       3 #quru\<v\>\<caus\>\<cv_mak\>	^quru<v><caus><cv_mak>$
-      3 #Quru\<adj\>	^Quru<adj>$
       3 #qurtul\<v\>\<vn_yis\>	^qurtul<v><vn_yis>$
       3 #qurtul\<v\>\<part_yan\>\<3p\>	^qurtul<v><part_yan><3p>$
       3 #qurtul\<v\>\<part_dik\>\<acc\>	^qurtul<v><part_dik><acc>$
@@ -9381,7 +9075,6 @@ Tag mismatch between transfer and generation
       3 #parametr\<n\>\<p3p\>	^parametr<n><p3p>$
       3 #Pantomima\<n\>	^Pantomima<n>$
       3 #Özyönetim\<n\>	^Özyönetim<n>$
-      3 #özgə\<adj\>	^özgə<adj>$
       3 #öyün\<v\>\<t_cont\>\<3s\>	^öyün<v><t_cont><3s>$
       3 #öyün\<v\>\<part_yan\>	^öyün<v><part_yan>$
       3 #öyrət\<v\>\<t_cont\>\<3s\>	^öyrət<v><t_cont><3s>$
@@ -9408,7 +9101,6 @@ Tag mismatch between transfer and generation
       3 #Ötür\<n\>	^Ötür<n>$
       3 #ötürmə\<n\>\<p3s\>\<acc\>	^ötürmə<n><p3s><acc>$
       3 #Orkestr\<n\>\<p3s\>\<gen\>	^Orkestr<n><p3s><gen>$
-      3 #Operativ\<adj\>	^Operativ<adj>$
       3 #Opera\<n\>\<p3s\>\<gen\>	^Opera<n><p3s><gen>$
       3 #opera\<n\>\<p3s\>\<gen\>	^opera<n><p3s><gen>$
       3 #opera\<n\>\<p3s\>	^opera<n><p3s>$
@@ -9459,7 +9151,6 @@ Tag mismatch between transfer and generation
       3 #Nəzərdə tut\<v\>\<cv_iyor\>	^Nəzərdə tut<v><cv_iyor>$
       3 #nəzərdə tut\<v\>\<cv_dik\>\<p3s\>\<acc\>	^nəzərdə tut<v><cv_dik><p3s><acc>$
       3 #Nəysə\<cnjadv\>	^Nəysə<cnjadv>$
-      3 #nəfs\<adj\>	^nəfs<adj>$
       3 #naxışla\<v\>\<vn_yis\>\<gen\>	^naxışla<v><vn_yis><gen>$
       3 #naxışla\<v\>\<t_past\>\<3s\>	^naxışla<v><t_past><3s>$
       3 #naxışla\<v\>\<pass\>\<t_narr\>\<3s\>\<dir\>	^naxışla<v><pass><t_narr><3s><dir>$
@@ -9480,7 +9171,6 @@ Tag mismatch between transfer and generation
       3 #müqəddəs\<n\>\<gen\>	^müqəddəs<n><gen>$
       3 #mü\<q\>\<3s\>	^mü<q><3s>$
       3 #münsif\<n\>\<p3s\>	^münsif<n><p3s>$
-      3 #Mükəmməl\<adj\>	^Mükəmməl<adj>$
       3 #mükafatlandır\<v\>\<pass\>\<cv_ma\>\<p3s\>	^mükafatlandır<v><pass><cv_ma><p3s>$
       3 #mühasirə et\<v\>\<pass\>\<cv_mis\>	^mühasirə et<v><pass><cv_mis>$
       3 #mühakimə et\<v\>\<t_cont\>\<3s\>	^mühakimə et<v><t_cont><3s>$
@@ -9573,7 +9263,6 @@ Tag mismatch between transfer and generation
       3 #lokomotiv\<n\>\<p3p\>\<abl\>	^lokomotiv<n><p3p><abl>$
       3 #Lirə\<n\>\<p3s\>	^Lirə<n><p3s>$
       3 #lirə\<n\>\<p3s\>	^lirə<n><p3s>$
-      3 #ləziz\<adj\>	^ləziz<adj>$
       3 #Ley\<n\>\<gen\>	^Ley<n><gen>$
       3 #ley\<n\>\<gen\>	^ley<n><gen>$
       3 #La\<n\>\<p2s\>\<dat\>	^La<n><p2s><dat>$
@@ -9704,7 +9393,6 @@ Tag mismatch between transfer and generation
       3 #istə\<v\>\<cv_dik\>\<p3s\>\<abl\>	^istə<v><cv_dik><p3s><abl>$
       3 #istə\<v\>\<abil\>\<t_aor\>\<3s\>	^istə<v><abil><t_aor><3s>$
       3 #istehsalat\<n\>\<acc\>	^istehsalat<n><acc>$
-      3 #issız\<adj\>	^issız<adj>$
       3 #işəgötürən\<n\>\<p3p\>	^işəgötürən<n><p3p>$
       3 #isbat et\<v\>\<t_fut\>\<3s\>\<dir\>	^isbat et<v><t_fut><3s><dir>$
       3 #isbat et\<v\>\<pass\>\<part_dik\>\<acc\>	^isbat et<v><pass><part_dik><acc>$
@@ -9783,8 +9471,6 @@ Tag mismatch between transfer and generation
       3 #HOP\<adv\>	^HOP<adv>$
       3 #himayəçilik et\<v\>\<cv_ma\>	^himayəçilik et<v><cv_ma>$
       3 #heyvanat\<n\>	^heyvanat<n>$
-      3 #Heyvan\<adj\>	^Heyvan<adj>$
-      3 #heyran\<adj\>	^heyran<adj>$
       3 #hesabla\<v\>\<pass\>\<part_yan\>	^hesabla<v><pass><part_yan>$
       3 #Hər şey\<n\>\<gen\>	^Hər şey<n><gen>$
       3 #Hər şey\<n\>\<abl\>	^Hər şey<n><abl>$
@@ -9914,7 +9600,6 @@ Tag mismatch between transfer and generation
       3 #form\<n\>\<dat\>	^form<n><dat>$
       3 #forma\<n\>\<pl\>\<acc\>	^forma<n><pl><acc>$
       3 #fokusa yığ\<v\>\<pass\>\<t_obl\>\<3s\>\<dir\>	^fokusa yığ<v><pass><t_obl><3s><dir>$
-      3 #filarmoniya\<adj\>	^filarmoniya<adj>$
       3 #Fikri\<n\>\<p2s\>\<dat\>	^Fikri<n><p2s><dat>$
       3 #fikri\<n\>\<p1p\>	^fikri<n><p1p>$
       3 #fərqləndir\<v\>\<cv_mak\>\<ins\>	^fərqləndir<v><cv_mak><ins>$
@@ -9930,7 +9615,6 @@ Tag mismatch between transfer and generation
       3 #erkan\<n\>\<ins\>	^erkan<n><ins>$
       3 #əri\<v\>\<part_yan\>	^əri<v><part_yan>$
       3 #əri\<v\>\<cv_ma\>\<p3s\>	^əri<v><cv_ma><p3s>$
-      3 #Epidemiya\<adj\>	^Epidemiya<adj>$
       3 #EN\<n\>\<acc\>	^EN<n><acc>$
       3 #əngəl ol\<v\>\<vn_acak\>\<pl\>\<p3s\>\<acc\>	^əngəl ol<v><vn_acak><pl><p3s><acc>$
       3 #Əngəl ol\<v\>\<t_past\>\<3s\>	^Əngəl ol<v><t_past><3s>$
@@ -9950,7 +9634,6 @@ Tag mismatch between transfer and generation
       3 #Elita\<n\>	^Elita<n>$
       3 #Ələm\<n\>\<dat\>	^Ələm<n><dat>$
       3 #Element\<n\>	^Element<n>$
-      3 #El-ele\<adj\>	^El-ele<adj>$
       3 #elebaşı\<n\>\<pl\>\<acc\>	^elebaşı<n><pl><acc>$
       3 #elebaşı\<n\>\<p3s\>\<gen\>	^elebaşı<n><p3s><gen>$
       3 #əldə etmə\<n\>\<pl\>\<p3s\>\<gen\>	^əldə etmə<n><pl><p3s><gen>$
@@ -9960,5 +9643,5 @@ Summary
 ===============================================================================
    410 /tmp/tr-az.multiform
    535 /tmp/tr-az.multibidix
-  8996 /tmp/tr-az.tagmismatch
-  9941 total
+  8679 /tmp/tr-az.tagmismatch
+  9624 total
