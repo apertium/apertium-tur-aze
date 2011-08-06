@@ -1,25 +1,35 @@
+==Dependencies==
+
+* HFST
+* VISLCG3
+* Lttoolbox
+* Apertium
 
 ==Installation==
 
-You will need:
+Run:
 
- http://wiki.apertium.org/wiki/Trmorph
+$ ./autogen.sh
 
-and 
+then
 
- https://apertium.svn.sourceforge.net/svnroot/apertium/branches/azmorph
-
-First download and compile them. To make tr-mor.ol, run the following 
-in the trmorph directory:
-
- hfst-invert -i trmorph.a | hfst-fst2fst -O -o tr-mor.ol
-
-You need to make two symlinks from the analyser/generator:
-
- ln -s /path/to/tr-mor.ol tr-az.automorf.hfst
- ln -s /path/to/az-gen.ol tr-az.autogen.hfst
+$ make
 
 Now test the translator with:
 
- echo "Ahmet biralarını var." | apertium -d . tr-az
- Ahmet pivələrini var.
+$ echo "Ahmet biralarını var." | apertium -d . tr-az
+  Ahmet pivələrini var.
+
+==Development==
+
+* If you want to develop with this pair, you will need to check out 
+  both 'azmorph'[1] and 'TRmorph'[2]
+
+* Do not make any direct changes to the files in morph-az and morph-tr,
+  the file 'update-lexica.py' can be used to update these if you have 
+  changed the bilingual dictionary.
+
+;Notes
+
+1. https://apertium.svn.sourceforge.net/svnroot/apertium/branches/azmorph
+2. https://github.com/coltekin/TRmorph

@@ -86,10 +86,10 @@ for pos in lexica: #{
 	# Remove all existing entries from the trimmed lexica
 	for f in lexica[pos]: #{
 		if os.path.exists(trlexpath + '/' + f): 
-			cmd = 'echo "" > ' + troutlexpath + f;
+			cmd = 'echo -n "" > ' + troutlexpath + f;
 			retval = commands.getstatusoutput(cmd);
 		if os.path.exists(azlexpath + '/' + f): 
-			cmd = 'echo "" > ' + azoutlexpath + f;
+			cmd = 'echo -n "" > ' + azoutlexpath + f;
 			retval = commands.getstatusoutput(cmd);
 	#}
 #}	
@@ -143,25 +143,22 @@ for line in retval[1].split('\n'): #{
 	#}
 
 	# The left side tag lexicon is found here
-	lexleft = '';
 	for f in lexica[ltags]: #{
-		if os.path.exists(trlexpath + f): #{
-			lexleft = lexleft + trlexpath + f + ' ';
-		#}
 	
-		# Grep the lemma out of the original lexicon, and into the trimmed one
-		cmd = 'cat ' + lexleft + ' | grep "^' + llema + '$" >> ' + troutlexpath + f;
-		retval = commands.getstatusoutput(cmd);
+		if os.path.exists(trlexpath + f): #{
+			# Grep the lemma out of the original lexicon, and into the trimmed one
+			cmd = 'cat ' + trlexpath + f + ' | grep "^' + llema + '$" >> ' + troutlexpath + f;
+			retval = commands.getstatusoutput(cmd);
+		#}
 	#}
+
 	# The right side tag lexicon is found here
-	lexright = '';
 	for f in lexica[ltags]: #{
 		if os.path.exists(azlexpath + f): #{
-			lexright = lexright + azlexpath + f + ' ';
+			# Grep the lemma out of the original lexicon, and into the trimmed one
+			cmd = 'cat ' + azlexpath + f + ' | grep "^' + rlema + '$" >> ' + azoutlexpath + f;
+			retval = commands.getstatusoutput(cmd);
 		#}
-		# Grep the lemma out of the original lexicon, and into the trimmed one
-		cmd = 'cat ' + lexright + ' | grep "^' + rlema + '$" >> ' + azoutlexpath + f;
-		retval = commands.getstatusoutput(cmd);
 	#}
 
 
