@@ -6,7 +6,7 @@
 ## Dictionary trimming script for TRmorph style transducers
 ###############################################################################
 
-import sys, codecs, copy, commands;
+import sys, codecs, copy, commands, os;
 
 sys.stdin  = codecs.getreader('utf-8')(sys.stdin);
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout);
@@ -17,25 +17,25 @@ LTEXPAND = 'lt-expand';
 # Relationship between tag in the bilingual dictionary and 
 # lexicon file in the morphological transducer.
 lexica = {
-	'<adj>': 'adjectives',
-	'<adv>': 'adverbs',
-	'<cnjadv>': 'cnjadv',
-	'<cnjcoo>': 'cnjcoo',
-	'<cnjsub>': 'cnjsub',
-	'<det>': 'det',
-	'<ij>': 'interjections',
-	'<n>': 'nouns',
-	'<postp>': 'postpositions',
-	'<prn>': 'pronouns',
-	'<np>': 'proper_nouns',
-	'<np><top>': 'toponyms',
-	'<np><cog>': 'pn_cog',
-	'<np><acr>': 'pn_acr',
-	'<np><org>': 'pn_org',
-	'<np><ant>': 'pn_ant',
-	'<v>': 'verbs',
-	'<v><iv>': 'verbs_iv',
-	'<v><tv>': 'verbs_tv'
+	'<adj>': ['adjectives'],
+	'<adv>': ['adverbs'],
+	'<cnjadv>': ['cnjadv'],
+	'<cnjcoo>': ['cnjcoo'],
+	'<cnjsub>': ['cnjsub'],
+	'<det>': ['det'],
+	'<ij>': ['interjections'],
+	'<n>': ['nouns'],
+	'<postp>': ['postpositions', 'postpositions_infl'],
+	'<prn>': ['pronouns'],
+	'<np>': ['proper_nouns'],
+	'<np><top>': ['toponyms'],
+	'<np><cog>': ['pn_cog'],
+	'<np><acr>': ['pn_acr'],
+	'<np><org>': ['pn_org'],
+	'<np><ant>': ['pn_ant'],
+	'<v>': ['verbs'],
+	'<v><iv>': ['verbs_iv'],
+	'<v><tv>': ['verbs_tv']
 	#'': 'misc',
 };
 
@@ -84,10 +84,14 @@ for f in extra_files_common: #{
 for pos in lexica: #{
 
 	# Remove all existing entries from the trimmed lexica
-	cmd = 'echo "" > ' + troutlexpath + lexica[pos];
-	retval = commands.getstatusoutput(cmd);
-	cmd = 'echo "" > ' + azoutlexpath + lexica[pos];
-	retval = commands.getstatusoutput(cmd);
+	for f in lexica[pos]: #{
+		if os.path.exists(trlexpath + '/' + f): 
+			cmd = 'echo "" > ' + troutlexpath + f;
+			retval = commands.getstatusoutput(cmd);
+		if os.path.exists(azlexpath + '/' + f): 
+			cmd = 'echo "" > ' + azoutlexpath + f;
+			retval = commands.getstatusoutput(cmd);
+	#}
 #}	
 
 # Expand the bilingual dictionary using lt-expand
@@ -139,17 +143,28 @@ for line in retval[1].split('\n'): #{
 	#}
 
 	# The left side tag lexicon is found here
-	lexleft = trlexpath + lexica[ltags];
+	lexleft = '';
+	for f in lexica[ltags]: #{
+		if os.path.exists(trlexpath + f): #{
+			lexleft = lexleft + trlexpath + f + ' ';
+		#}
+	
+		# Grep the lemma out of the original lexicon, and into the trimmed one
+		cmd = 'cat ' + lexleft + ' | grep "^' + llema + '$" >> ' + troutlexpath + f;
+		retval = commands.getstatusoutput(cmd);
+	#}
 	# The right side tag lexicon is found here
-	lexright = azlexpath + lexica[ltags];
+	lexright = '';
+	for f in lexica[ltags]: #{
+		if os.path.exists(azlexpath + f): #{
+			lexright = lexright + azlexpath + f + ' ';
+		#}
+		# Grep the lemma out of the original lexicon, and into the trimmed one
+		cmd = 'cat ' + lexright + ' | grep "^' + rlema + '$" >> ' + azoutlexpath + f;
+		retval = commands.getstatusoutput(cmd);
+	#}
 
-	# Grep the lemma out of the original lexicon, and into the trimmed one
-	cmd = 'cat ' + lexleft + ' | grep "^' + llema + '$" >> ' + troutlexpath + lexica[ltags];
-	retval = commands.getstatusoutput(cmd);
 
-	# Grep the lemma out of the original lexicon, and into the trimmed one
-	cmd = 'cat ' + lexright + ' | grep "^' + rlema + '$" >> ' + azoutlexpath + lexica[rtags];
-	retval = commands.getstatusoutput(cmd);
 
 	print llema , ltags , r , rlema , rtags ;
 #}
