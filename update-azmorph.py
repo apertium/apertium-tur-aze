@@ -14,7 +14,7 @@ sys.stderr = codecs.getwriter('utf-8')(sys.stderr);
 
 tag_files = {
 	'adjectives': '<adj>',
-	'adverbs': '<adv>',
+	'adverbs.dix': '<adv>',
 	'cnjadv': '<cnjadv>',
 	'cnjcoo': '<cnjcoo>',
 	'cnjsub': '<cnjsub>',
@@ -87,7 +87,11 @@ for f in tag_files.keys(): #{
 	if not os.path.exists(azmorph + '/lexicon/' + f): #{
 		continue
 	#}
-	outfile = file(azout + '/lexicon/' + f, 'w+');
+	if f.count('.dix') > 0: #{
+		outfile = file(azout + '/lexicon/' + f.replace('.dix', ''), 'w+');
+	else: #{
+		outfile = file(azout + '/lexicon/' + f, 'w+');
+	#}
 	for line in file(azmorph + '/lexicon/' + f).read().split('\n'): #{
 		if line == '': #{
 			continue;
@@ -95,6 +99,8 @@ for f in tag_files.keys(): #{
 		lema = '';
 		if line.count('#') > 0: #{
 			lema = line.split('#')[1].strip();
+		elif line.count('<e lm="') > 0: #{
+			lema = line.split('lm="')[1].split('"')[0].strip();
 		else: #{
 			lema = line.strip();
 		#}
@@ -102,6 +108,8 @@ for f in tag_files.keys(): #{
 			print '+' , f , lema , line;
 			if line.count('\t') > 0: #{
 				outfile.write(line.split('\t')[0] + '\n');
+			elif line.count('<i>') > 0: #{
+				outfile.write(line.split('<i>')[1].split('</i>')[0].replace('<s n="', '<').replace('"/>', '>').replace('<b/>', ' ') + '\n');
 			else: #{
 				outfile.write(line + '\n');
 			#}
