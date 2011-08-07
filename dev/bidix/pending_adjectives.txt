@@ -1,0 +1,6 @@
+    500 ^@kesin<adj>$
+     24 ^@dürüst<adj>$
+      8 ^@karizmatik<adj>$
+      1 ^@yüzsüz<adj>$
+      1 ^@yudum<adj>$
+      1 ^@eğreti<adj>$
