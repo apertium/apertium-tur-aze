@@ -154,5 +154,6 @@ tests/0022.txt -text
 tests/run-tests.sh -text
 tests/taggedarticle -text
 /tr-az.prob -text svneol=unset#unset
+/update-azmorph.py -text
 /update-lexica.py -text
 /update-trmorph.py -text
