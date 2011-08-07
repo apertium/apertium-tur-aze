@@ -119,6 +119,7 @@ morph-tr/phon/140-v_harmony.fst -text
 morph-tr/phon/Makefile -text
 morph-tr/phon/phon+bm.fst -text
 morph-tr/phon/phon.fst -text
+morph-tr/update-static-files.sh -text
 morph-tr/version.fst -text
 /pending-tests.sh -text
 /regression-tests.sh -text
