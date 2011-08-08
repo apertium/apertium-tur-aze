@@ -64,11 +64,11 @@ for line in retval[1].split('\n'): #{
 #}
 
 for tags in tags_stems.keys(): #{
-	print tags , len(tags_stems[tags]);
+	print tags.decode('utf-8') , len(tags_stems[tags]);
 #}
 
 for f in tag_files.keys(): #{
-	print '\n*' , f + ':';
+	print '\n*' , f.decode('utf-8') + ':';
 	# Read lexicon file and check to see if there is an entry for each line in the bidix	
 
 	if tag_files[f] not in tags_stems: #{
@@ -87,14 +87,14 @@ for f in tag_files.keys(): #{
 			lema = line.strip();
 		#}
 		if lema in tags_stems[tag_files[f]]: #{
-			print '+' , f , lema , line;
+			print '+' , f.decode('utf-8') , lema.decode('utf-8') , line.decode('utf-8');
 			if line.count('\t') > 0: #{
 				outfile.write(line.split('\t')[0] + '\n');
 			else: #{
 				outfile.write(line + '\n');
 			#}
 		else: #{
-			print '-' , f , lema , line;
+			print '-' , f.decode('utf-8') , lema.decode('utf-8') , line.decode('utf-8');
 		#}
 	#}
 	outfile.close();

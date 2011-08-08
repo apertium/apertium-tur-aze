@@ -38,9 +38,10 @@ $ echo "Ahmet biralarını var." | apertium -d . tr-az
 * If you want to develop with this pair, you will need to check out 
   both 'azmorph'[1] and 'TRmorph'[2]
 
-* Do not make any direct changes to the files in morph-az and morph-tr,
-  the file 'update-lexica.py' can be used to update these if you have 
-  changed the bilingual dictionary.
+* Do not make any direct changes to the files in morph-az and
+  morph-tr, the files 'update-azmorph.py' and 'update-trmorph.py' can
+  be used to update these if you have changed the bilingual
+  dictionary.
 
 * If you want to add words to the two lexica, you need to commit them
   to azmorph and TRmorph respectively first.
@@ -48,4 +49,5 @@ $ echo "Ahmet biralarını var." | apertium -d . tr-az
 ;Notes
 
 1. https://apertium.svn.sourceforge.net/svnroot/apertium/branches/azmorph
-2. https://github.com/coltekin/TRmorph
+2. https://github.com/coltekin/TRmorph, check out with
+   $ git clone -b apertium https://github.com/coltekin/TRmorph
