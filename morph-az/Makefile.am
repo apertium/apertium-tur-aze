@@ -6,6 +6,8 @@ PREFIX2=$(LANG2)-$(LANG1)
 
 BASENAME=apertium-$(PREFIX1)
 
+SUBDIRS=phon
+
 FSTNAME=azmorph
 
 TARGETS = $(PREFIX1).autogen.hfst $(PREFIX2).automorf.hfst
