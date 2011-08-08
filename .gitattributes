@@ -88,6 +88,7 @@ morph-az/phon/phon+bm.fst -text
 morph-az/phon/phon.fst -text
 morph-az/symbols.fst -text
 morph-az/vinfl.fst -text
+morph-tr/Makefile.am -text
 morph-tr/lexicon/adjectives -text
 morph-tr/lexicon/adverbs -text
 morph-tr/lexicon/cnjadv -text
