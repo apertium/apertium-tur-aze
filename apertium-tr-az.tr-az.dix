@@ -25,6 +25,7 @@
     <sdef n="pers"       c="Personal"/>
     <sdef n="dem"       c="Demonstrative"/>
     <sdef n="qst"       c="Interrogative"/>
+    <sdef n="locp"       c="Locative pron"/>
 
     <sdef n="top"       c="Toponym"/>
     <sdef n="acr"       c="Acronym"/>
@@ -174,7 +175,7 @@
     <e><p><l>kendi<s n="prn"/></l><r>öz<s n="prn"/></r></p></e> <!-- Reflexive -->
 
     <e><p><l>nere<s n="prn"/><s n="locp"/></l><r>hara<s n="prn"/><s n="locp"/></r></p></e>
-    <e><p><l>hangi<s n="prn"/><s n="qst"/></l><r>hansı<s n="prn"/><s n="qst/></r></p></e>
+    <e><p><l>hangi<s n="prn"/><s n="qst"/></l><r>hansı<s n="prn"/><s n="qst"/></r></p></e>
     
 
     <e><p><l>bura<s n="prn"/><s n="locp"/></l><r>bura<s n="prn"/><s n="locp"/></r></p></e> <!-- This is dirty as fuck, remove -->
