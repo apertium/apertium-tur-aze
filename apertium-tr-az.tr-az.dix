@@ -180,9 +180,9 @@
 
     <e><p><l>bura<s n="prn"/><s n="locp"/></l><r>bura<s n="prn"/><s n="locp"/></r></p></e> <!-- This is dirty as fuck, remove -->
     
-    <e><p><l>bu<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
-    <e><p><l>bazı<s n="det"/><s n="dem"/></l><r>bəzi<s n="det"/><s n="dem"/></r></p></e> 
-    <e><p><l>bir<s n="det"/><s n="dem"/></l><r>bir<s n="det"/><s n="dem"/></r></p></e> <!-- Det -->
+    <e><p><l>bu<s n="det"/></l><r>bu<s n="det"/></r></p></e> <!-- Dem -->
+    <e><p><l>bazı<s n="det"/></l><r>bəzi<s n="det"/></r></p></e>  <!-- Dem -->
+    <e><p><l>bir<s n="det"/></l><r>bir<s n="det"/></r></p></e> <!-- Dem -->
     <e><p><l>her<s n="det"/></l><r>hər<s n="det"/></r></p></e> 
     <e><p><l>tek<s n="det"/></l><r>tək<s n="det"/></r></p></e> 
     <e><p><l>hiçbir<s n="det"/></l><r>heç<b/>bir<s n="det"/></r></p></e> 
@@ -5530,8 +5530,8 @@
 
     <e><p><l>Soner<s n="np"/></l><r>Soner<s n="np"/></r></p></e> <!-- Nom.sg -->
     <e><p><l>Yalçın<s n="np"/></l><r>Yalçın<s n="np"/></r></p></e> <!-- Cog.sg -->
-    <e><p><l>Stankoviç<s n="np"/></l><r>Stankoviç<s n="np"/></r></p></e> <!-- Cog.sg -->
-    <e><p><l>Nikola<s n="np"/></l><r>Nikola<s n="np"/></r></p></e> <!-- Nom.sg -->
+    <e><p><l>Stankoviç<s n="np"/><s n="cog"/></l><r>Stankoviç<s n="np"/></r></p></e> <!-- Cog.sg -->
+    <e><p><l>Nikola<s n="np"/><s n="ant"/></l><r>Nikola<s n="np"/></r></p></e> <!-- Nom.sg -->
 
     <e><p><l>Ergenekon<s n="np"/></l><r>Ergenekon<s n="np"/></r></p></e> <!-- Top -->
 
@@ -5578,7 +5578,7 @@
     <e><p><l>İsviçre<s n="np"/><s n="top"/></l><r>İsviçrə<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Kürt<s n="np"/><s n="top"/></l><r>Kürd<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Havacılık<s n="np"/><s n="top"/></l><r>Aviasiya<s n="np"/></r></p></e> <!-- Top -->
-    <e><p><l>Nemanja<s n="np"/><s n="top"/></l><r>Nemanja<s n="np"/></r></p></e> <!-- Top -->
+    <e><p><l>Nemanja<s n="np"/><s n="ant"/></l><r>Nemanja<s n="np"/></r></p></e> <!-- Top -->
 
     <e><p><l>Çekoslovakya<s n="np"/><s n="top"/></l><r>Çexoslovakiya<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Danimarka<s n="np"/><s n="top"/></l><r>Danimarka<s n="np"/></r></p></e> <!-- Top -->
@@ -5700,7 +5700,7 @@
     <e><p><l>Yunanistan<s n="np"/><s n="top"/></l><r>Yunanıstan<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Zagreb<s n="np"/><s n="top"/></l><r>Zaqreb<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Zagrep<s n="np"/><s n="top"/></l><r>Zaqreb<s n="np"/></r></p></e> <!-- Top -->
-    <e><p><l>Ana<s n="np"/></l><r>Ana<s n="np"/></r></p></e> <!-- Ant.Fmn.Sg -->
+    <e><p><l>Ana<s n="np"/><s n="ant"/></l><r>Ana<s n="np"/></r></p></e> <!-- Ant.Fmn.Sg -->
 
     <e><p><l>Ahmet<s n="np"/></l><r>Ahmet<s n="np"/></r></p></e> <!-- Ant.Masch.Sg -->
 
@@ -5815,7 +5815,6 @@
     <e><p><l>Ermeni<s n="np"/></l><r>Ermeni<s n="np"/></r></p></e>
     <e><p><l>Richard<s n="np"/></l><r>Richard<s n="np"/></r></p></e>
     <e><p><l>İstanbul<s n="np"/></l><r>İstanbul<s n="np"/></r></p></e>
-    <e><p><l>Saraybosna<s n="np"/></l><r>Saraybosna<s n="np"/></r></p></e>
     <e><p><l>İslami<s n="np"/></l><r>İslami<s n="np"/></r></p></e>
     <e><p><l>Verdi<s n="np"/></l><r>Verdi<s n="np"/></r></p></e>
     <e><p><l>Filistinli<s n="np"/></l><r>Filistinli<s n="np"/></r></p></e>
@@ -6942,7 +6941,7 @@
     <e><p><l>Sarıgül<s n="np"/></l><r>Sarıgül<s n="np"/></r></p></e>
     <e><p><l>Sarıalp<s n="np"/></l><r>Sarıalp<s n="np"/></r></p></e>
     <e><p><l>Sargan<s n="np"/></l><r>Sargan<s n="np"/></r></p></e>
-    <e><p><l>Sara<s n="np"/></l><r>Sara<s n="np"/></r></p></e>
+    <e><p><l>Sara<s n="np"/><s n="ant"/></l><r>Sara<s n="np"/></r></p></e>
     <e><p><l>Şara<s n="np"/></l><r>Şara<s n="np"/></r></p></e>
     <e><p><l>Samsat<s n="np"/></l><r>Samsat<s n="np"/></r></p></e>
     <e><p><l>Şam<s n="np"/></l><r>Şam<s n="np"/></r></p></e>
@@ -7394,7 +7393,7 @@
 
     <e><p><l>G4<s n="np"/></l><r>G4<s n="np"/></r></p></e> 
     <e><p><l>Tadiç<s n="np"/></l><r>Tadiç<s n="np"/></r></p></e> 
-    <e><p><l>Anja<s n="np"/></l><r>Anja<s n="np"/></r></p></e> 
+    <e><p><l>Anja<s n="np"/><s n="ant"/></l><r>Anja<s n="np"/></r></p></e> 
     <e><p><l>Krneta<s n="np"/></l><r>Krneta<s n="np"/></r></p></e> 
     <e><p><l>Gazela<s n="np"/></l><r>Gazela<s n="np"/></r></p></e> 
     <e><p><l>Ruziç<s n="np"/></l><r>Ruziç<s n="np"/></r></p></e> 
