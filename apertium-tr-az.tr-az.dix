@@ -217,7 +217,7 @@
 
     <e><p><l>bu<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/></r></p></e> <!-- Det -->
 
-    <e><p><l>kim<s n="prn"/></l><r>kim<s n="prn"/></r></p></e> <!-- Itg -->
+    <e><p><l>kim<s n="prn"/><s n="qst"/></l><r>kim<s n="prn"/><s n="qst"/></r></p></e> <!-- Itg -->
     <e><p><l>ne<s n="prn"/></l><r>nə<s n="prn"/></r></p></e>
     <e><p><l>öteki<s n="prn"/></l><r>digər<s n="prn"/></r></p></e> <!-- Ind 'other' -->
     <e><p><l>şu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e> <!-- Dem -->
