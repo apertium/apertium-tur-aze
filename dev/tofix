@@ -1,67 +1,502 @@
-23/05/2011 NOTES
-
-TO DO: ADd months as NP
-
-STARTED FROM ZURNA
-
-
-
-REMOVE haf
-
-ADD rule IF IT IS IN CAPS IT IS PROBABLY A NP
-
-
-    255 ^@mira<n>$ THE HELL İS THİS
-    254 ^@reji<n>$ PROBABLY REJİM
-    246 ^@haki<n>$ NO İDEA
-    244 ^@san<n><cpldi>$ NO İDEA
-    239 ^@ban<n>$ NO İDEA
-    234 ^@bek<n><dla><v><cv>$. NONSENSE
-    228 ^@karayol<n>$ DOESNT EXİST İN TURKİSH it is karayolu
-    227 ^@stratej<n>$ REMOVE?
-    225 ^@tutu<n>$ REMOVE?
-    222 ^@si<n>$ ???
-    217 ^@leh<n>$ CHECK
-    202 ^@kapat<v><dma><n>$ ????
-
-COMPOUND NOUNS INTHE FORM OF CEZAVI are added as cezaev, i think to handle cases better. INVESTIGATE
-
-    197 ^@finanse<n>$  REMOVE?
-    195 ^@zem<n>$ ????
-    186 ^@say<n>$ sayı NUMBER?
-    186 ^@kal<n>$ CHECK
-    183 ^@ira<n>$ ??? wutsthat
-    179 ^@üste<n>$ it is actually üst dative
-    176 ^@tu<n>$ whatsthıs
-    160 ^@rom<n>$ CHECK
-    132 ^@düzine<n><ca>$ ???
-    132 ^@düzen<n><dla><v><tpast>$. ???
-    127 ^@kana<n><dli><n>$ ????
-
-frank ADD AS NP
-
-    124 ^@hayati<n>$ ???
-    115 ^@erte<n>$ ??? ertesi i suspect but probably missssssssssss
-    112 ^@dink<n>$ PROBABLY NP
-    111 ^@mil<n>$ CHECK
-    110 ^@ti<n>$ ????
-    108 ^@kana<n><dli><adj>$
-    102 ^@mark<n>$ MARKA?
-
-NAMES LIKE ISYERI HAVE TO BE INVESTIGATED
-
-    101 ^@uy<v><dma><n>$
-    100 ^@taba<n>$ ?????
-     99 ^@denktaş<n>$ ?? NP?
-     98 ^@ele<v><dma><n>$ ???????
-     97 ^@kanto<n>$ THE FUCK IS THIS?
-     84 ^@fırt<n>$ PROBABLY FIRTINA
-
-
-
-martin IS PROBABLY A NP
-     80 ^@cemil<n>$ PROBABLY A NP
-
-
-
-
+Corpus in: /home/fran/corpora/turkish
+      8 düşünüləbilməz/düşünüləməz	^düşün<v><pass><abil><neg><t_aor><3s>$
+      6 çeviriləbilməz/çeviriləməz	^çevir<v><pass><abil><neg><t_aor><3s>$
+      6 alabilməz/alamaz	^al<v><abil><neg><t_aor><3s>$
+      5 söyləyəbilməik/söyləyəməik	^söylə<v><abil><neg><t_aor><1p>$
+      5 alınabilməz/alınamaz	^al<v><pass><abil><neg><t_aor><3s>$
+      4 söylənəbilməz/söylənəməz	^söylə<v><pass><abil><neg><t_aor><3s>$
+      4 qaltabilməik/qaltamaık	^qal<v><caus><abil><neg><t_aor><1p>$
+      4 müvəffəq olabilməzsə/müvəffəq olamazsa	^müvəffəq ol<v><abil><neg><t_aor><cpl_sa><3s>$
+      4 alınabilmədən/alınamadan	^al<v><pass><abil><neg><cv_dan>$
+      3 sunun/suyunun	^su<n><p2s><gen>$
+      3 söyləyəbilməm/söyləyəməm	^söylə<v><abil><neg><t_aor><1s>$
+      3 qaltabilməz/qaltamaz	^qal<v><caus><abil><neg><t_aor><3s>$
+      3 qalabilməz/qalamaz	^qal<v><abil><neg><t_aor><3s>$
+	^yabançı<n><pl><ins>/xarici<n><pl><ins>$
+	^Yabançı<n><pl><dat>/Xarici<n><pl><dat>$
+	^usan<v><cv_dik><p3s><acc>/təngə gəl<v><cv_dik><p3s><acc>$
+	^usan<v><caus><part_yan>/təngə gəl<v><caus><part_yan>$
+	^tətbiq<n><pl><p3s><ins>/ərizə<n><pl><p3s><ins>$
+	^tətbiq<n><pl><loc>/ərizə<n><pl><loc>$
+	^Tətbiq<n><pl>/Ərizə<n><pl>$
+	^Tətbiq<n><pl><acc>/Ərizə<n><pl><acc>$
+	^Tətbiq<n><p3s><gen>/Ərizə<n><p3s><gen>$
+	^Tətbiq<n><p3p><acc>/Ərizə<n><p3p><acc>$
+	^tətbiq<n><p3p><abl>/ərizə<n><p3p><abl>$
+	^Tətbiq<n><gen>/Ərizə<n><gen>$
+	^tətbiq<n><3s><dir>/ərizə<n><3s><dir>$
+	^Təbrik<n><pl><loc>/Şənlik<n><pl><loc>$
+	^Təbrik<n><pl><acc>/Şənlik<n><pl><acc>$
+	^təbrik<n><gen>/şənlik<n><gen>$
+	^Savaş<n><p3s><loc>/Hərb<n><p3s><loc>$
+	^Savaş<n><p3s><acc>/Hərb<n><p3s><acc>$
+	^Savaş<n><dat>/Hərb<n><dat>$
+	^şarab<n><pl><p3s><acc>/şərab<n><pl><p3s><acc>$
+	^sandıq<n><pl><p3s>/sandıg<n><pl><p3s>$
+	^ŞAM<np>/ŞAM<np>$
+	^qıs<v><pass><part_yan>/azalt<v><pass><part_yan>$
+	^qırıqlıq<n><p3s><ins>/əzginlik<n><p3s><ins>$
+	^Qırıqlıq<n><p3s>/Əzginlik<n><p3s>$
+	^qətilik<n><abl>/dəqiqlik<n><abl>$
+	^ortaq<n><pl><p1p><dat>/ortag<n><pl><p1p><dat>$
+	^Ortaq<n><pl><p1p><acc>/Ortag<n><pl><p1p><acc>$
+	^ortaq<n><pl><p1p><acc>/ortag<n><pl><p1p><acc>$
+	^ortaq<n><pl><abl>/ortag<n><pl><abl>$
+	^ortaq<n><p3s><dat>/ortag<n><p3s><dat>$
+	^ortaq<n><p3s><cpl_di><3s>/ortag<n><p3s><cpl_di><3s>$
+	^ortaq<n><p3s><abl>/ortag<n><p3s><abl>$
+	^ortaq<n><abl>/ortag<n><abl>$
+	^Onsuz da<adv>/Illərdir<adv>$
+	^Nə üçün<adv>/Gecələri<adv>$
+	^nere<prn><qst><p3s><loc>/hara<prn><qst><p3s><loc>$
+	^Nere<prn><qst><loc><1p>/Hara<prn><qst><loc><1p>$
+	^nere<prn><qst><abl><A>/hara<prn><qst><abl><A>$
+	^nəqliyyat<n><p3s><ins>/daşıma<n><p3s><ins>$
+	^nəqliyyat<n><p3s><dat>/daşıma<n><p3s><dat>$
+	^nəqliyyat<n><loc><ki>/daşıma<n><loc><ki>$
+	^nəqliyyat<n><loc>/daşıma<n><loc>$
+	^məsuliyyət<n><pl><p3s><dat>/cavabdehlik<n><pl><p3s><dat>$
+	^məsuliyyət<n><pl><p3s><abl>/öhdəçilik<n><pl><p3s><abl>$
+	^məsuliyyət<n><pl><p1p><dat>/öhdəçilik<n><pl><p1p><dat>$
+	^Məsuliyyət<n><pl>/Cavabdehlik<n><pl>$
+	^məsuliyyət<n><p3s><ins>/cavabdehlik<n><p3s><ins>$
+	^məsuliyyət<n><p3s><gen>/öhdəçilik<n><p3s><gen>$
+	^məsuliyyət<n><p3s><dat>/öhdəçilik<n><p3s><dat>$
+	^Məsuliyyət<n><p3s>/Cavabdehlik<n><p3s>$
+	^Məsuliyyət<n><p3s><acc>/Cavabdehlik<n><p3s><acc>$
+	^məsuliyyət<n><p3p><dat>/cavabdehlik<n><p3p><dat>$
+	^məsuliyyət<n><p3p><abl>/öhdəçilik<n><p3p><abl>$
+	^məsuliyyət<n><p1p><gen>/öhdəçilik<n><p1p><gen>$
+	^Məsuliyyət<n><acc>/Cavabdehlik<n><acc>$
+	^məsuliyyət<n><abl>/öhdəçilik<n><abl>$
+	^məsuliyyət<n><abl>/cavabdehlik<n><abl>$
+	^məsuliyyət<n><3s><dir>/cavabdehlik<n><3s><dir>$
+	^məsuliyyət<n><1s>/öhdəçilik<n><1s>$
+	^kifayət<n><pl><p3s><acc>/gabiliyyat<n><pl><p3s><acc>$
+	^kifayət<n><pl>/gabiliyyat<n><pl>$
+	^kifayət<n><pl><acc>/gabiliyyat<n><pl><acc>$
+	^kifayət<n><p3s><gen>/gabiliyyat<n><p3s><gen>$
+	^kifayət<n><p3s>/gabiliyyat<n><p3s>$
+	^kifayət<n><p3s><acc>/gabiliyyat<n><p3s><acc>$
+	^kifayət<n><dat>/gabiliyyat<n><dat>$
+	^imza<n><pl><p3s><acc>/əmalət<n><pl><p3s><acc>$
+	^imza<n><p3p><ins>/əmalət<n><p3p><ins>$
+	^CEM<np>/CEM<np>$
+	^ÇANAKKALE<np>/ÇANAKKALE<np>$
+	^BURSA<np>/BURSA<np>$
+	^ZONGULDAK<np>/ZONGULDAK<np>$
+	^Yabançı<n><pl><gen>/Xarici<n><pl><gen>$
+	^yabançı<n><loc>/xarici<n><loc>$
+	^yabançı<n><ins>/xarici<n><ins>$
+	^yabançı<n><3s><dir>/xarici<n><3s><dir>$
+	^Yabançı<n><3p><cpl_sa>/Xarici<n><3p><cpl_sa>$
+	^usan<v><t_past><3s>/təngə gəl<v><t_past><3s>$
+	^usan<v><t_past><3p>/təngə gəl<v><t_past><3p>$
+	^usan<v><t_past><1p>/təngə gəl<v><t_past><1p>$
+	^usan<v><t_narr><3s>/təngə gəl<v><t_narr><3s>$
+	^Usan<v><part_yan>/Təngə gəl<v><part_yan>$
+	^usan<v><part_dik>/təngə gəl<v><part_dik>$
+	^usan<v><part_dik><p3s><acc>/təngə gəl<v><part_dik><p3s><acc>$
+	^usan<v><part_dik><acc>/təngə gəl<v><part_dik><acc>$
+	^usan<v><part_dik><1s>/təngə gəl<v><part_dik><1s>$
+	^usan<v><cv_ip>/təngə gəl<v><cv_ip>$
+	^usan<v><cv_dik><p3s><dat>/təngə gəl<v><cv_dik><p3s><dat>$
+	^usan<v><caus><t_cont><3s>/təngə gəl<v><caus><t_cont><3s>$
+	^tətbiq<n><pl><p1p><gen>/ərizə<n><pl><p1p><gen>$
+	^tətbiq<n><pl><loc><ki>/ərizə<n><pl><loc><ki>$
+	^tətbiq<n><p3s><loc><ki>/ərizə<n><p3s><loc><ki>$
+	^Tətbiq<n><p3s><loc>/Ərizə<n><p3s><loc>$
+	^Tətbiq<n><p3s><dat>/Ərizə<n><p3s><dat>$
+	^tətbiq<n><p3p><loc><ki>/ərizə<n><p3p><loc><ki>$
+	^Tətbiq<n><p3p><ins>/Ərizə<n><p3p><ins>$
+	^tətbiq<n><p1p><gen>/ərizə<n><p1p><gen>$
+	^Tətbiq<n><loc><ki>/Ərizə<n><loc><ki>$
+	^Tətbiq<n><ins>/Ərizə<n><ins>$
+	^tətbiq<n><cpl_di><3s>/ərizə<n><cpl_di><3s>$
+	^Tətbiq<n><acc>/Ərizə<n><acc>$
+	^tətbiq<n><3p><dir>/ərizə<n><3p><dir>$
+	^təbrik<n><pl><p3s><loc>/şənlik<n><pl><p3s><loc>$
+	^təbrik<n><pl><p3s><ins>/şənlik<n><pl><p3s><ins>$
+	^təbrik<n><pl><p3s><gen>/şənlik<n><pl><p3s><gen>$
+	^təbrik<n><pl><p3s><abl>/şənlik<n><pl><p3s><abl>$
+	^təbrik<n><p3s><dat>/şənlik<n><p3s><dat>$
+	^Təbrik<n><p3p><loc>/Şənlik<n><p3p><loc>$
+	^təbrik<n><p3p><gen>/şənlik<n><p3p><gen>$
+	^Təbrik<n><p3p><dat>/Şənlik<n><p3p><dat>$
+	^təbrik<n><p3p><abl>/şənlik<n><p3p><abl>$
+	^təbrik<n><loc>/şənlik<n><loc>$
+	^savaş<n><pl><p3s><loc>/hərb<n><pl><p3s><loc>$
+	^Savaş<n><pl><p3s>/Hərb<n><pl><p3s>$
+	^Savaş<n><pl><p3s><gen>/Hərb<n><pl><p3s><gen>$
+	^savaş<n><pl><p3s><gen>/hərb<n><pl><p3s><gen>$
+	^savaş<n><pl><dat>/hərb<n><pl><dat>$
+	^savaş<n><pl><acc>/hərb<n><pl><acc>$
+	^savaş<n><p3p>/hərb<n><p3p>$
+	^savaş<n><p1s><acc>/hərb<n><p1s><acc>$
+	^savaş<n><p1p><gen>/hərb<n><p1p><gen>$
+	^savaş<n><1s>/hərb<n><1s>$
+	^Şarab<n><pl>/Şərab<n><pl>$
+	^şarab<n><pl><p3s><gen>/şərab<n><pl><p3s><gen>$
+	^şarab<n><pl><gen>/şərab<n><pl><gen>$
+	^şarab<n><p3p>/şərab<n><p3p>$
+	^şarab<n><p3p><ins>/şərab<n><p3p><ins>$
+	^şarab<n><dat>/şərab<n><dat>$
+	^Qıs<v><vn_mak><dat>/Azalt<v><vn_mak><dat>$
+	^Qıs<v><t_past><3s>/Azalt<v><t_past><3s>$
+	^qıs<v><t_imp><2p>/azalt<v><t_imp><2p>$
+	^qıs<v><pass><vn_acak><p3s><acc>/azalt<v><pass><vn_acak><p3s><acc>$
+	^qıs<v><pass><cv_ma><p3s><dat>/azalt<v><pass><cv_ma><p3s><dat>$
+	^Qıs<v><pass><cv_ma><p3s>/Azalt<v><pass><cv_ma><p3s>$
+	^qıs<v><pass><cv_mak>/azalt<v><pass><cv_mak>$
+	^qıs<v><pass><cv_erek>/azalt<v><pass><cv_erek>$
+	^qıs<v><pass><cv_dik><p3s>/azalt<v><pass><cv_dik><p3s>$
+	^qıs<v><pass><abil><vn_acak><acc>/azalt<v><pass><abil><vn_acak><acc>$
+	^qıs<v><neg><part_dik><acc>/azalt<v><neg><part_dik><acc>$
+	^qıs<v><cv_mis>/azalt<v><cv_mis>$
+	^Qıs<v><cv_iyor>/Azalt<v><cv_iyor>$
+	^qıs<v><cv_dik><p3s><acc>/azalt<v><cv_dik><p3s><acc>$
+	^qıs<v><caus><t_past><3s>/azalt<v><caus><t_past><3s>$
+	^qırıqlıq<n><p3s><gen>/əzginlik<n><p3s><gen>$
+	^qırıqlıq<n><p3p><ins>/əzginlik<n><p3p><ins>$
+	^qırıqlıq<n><p3p><dat>/əzginlik<n><p3p><dat>$
+	^qırıqlıq<n><p3p><acc>/əzginlik<n><p3p><acc>$
+	^qırıqlıq<n><p3p><abl>/əzginlik<n><p3p><abl>$
+	^qətilik<n><p3s><acc>/dəqiqlik<n><p3s><acc>$
+	^qətilik<n><dat>/dəqiqlik<n><dat>$
+	^OXFORD<np>/OXFORD<np>$
+	^ortaq<n><pl><p3s><acc>/ortag<n><pl><p3s><acc>$
+	^ortaq<n><pl><p2p><acc>/ortag<n><pl><p2p><acc>$
+	^Ortaq<n><pl><p1p><abl>/Ortag<n><pl><p1p><abl>$
+	^ortaq<n><pl><dat>/ortag<n><pl><dat>$
+	^Ortaq<n><pl><abl>/Ortag<n><pl><abl>$
+	^Ortaq<n><p3s><gen>/Ortag<n><p3s><gen>$
+	^Ortaq<n><p3p><gen>/Ortag<n><p3p><gen>$
+	^Ortaq<n><p3p><dat>/Ortag<n><p3p><dat>$
+	^Ortaq<n><p3p><acc>/Ortag<n><p3p><acc>$
+	^Ortaq<n><acc><3s><dir>/Ortag<n><acc><3s><dir>$
+	^ortaq<n><acc><3s><dir>/ortag<n><acc><3s><dir>$
+	^Ortaq<n><3p><dir>/Ortag<n><3p><dir>$
+	^nere<prn><qst><pl><dat>/hara<prn><qst><pl><dat>$
+	^Nere<prn><qst><dat>/Hara<prn><qst><dat>$
+	^Nəqliyyat<n><p3s><acc>/Daşıma<n><p3s><acc>$
+	^Nəqliyyat<n><acc>/Daşıma<n><acc>$
+	^məsuliyyət<n><pl><p3s><ins>/cavabdehlik<n><pl><p3s><ins>$
+	^məsuliyyət<n><pl><p3s>/cavabdehlik<n><pl><p3s>$
+	^Məsuliyyət<n><pl><p3s><acc>/Öhdəçilik<n><pl><p3s><acc>$
+	^Məsuliyyət<n><pl><p1p><gen>/Öhdəçilik<n><pl><p1p><gen>$
+	^məsuliyyət<n><pl><p1p><gen>/cavabdehlik<n><pl><p1p><gen>$
+	^Məsuliyyət<n><pl><p1p>/Cavabdehlik<n><pl><p1p>$
+	^məsuliyyət<n><pl><loc>/öhdəçilik<n><pl><loc>$
+	^məsuliyyət<n><pl><ins>/öhdəçilik<n><pl><ins>$
+	^Məsuliyyət<n><pl><gen>/Öhdəçilik<n><pl><gen>$
+	^Məsuliyyət<n><pl><gen>/Cavabdehlik<n><pl><gen>$
+	^Məsuliyyət<n><pl><acc>/Cavabdehlik<n><pl><acc>$
+	^məsuliyyət<n><pl><abl>/cavabdehlik<n><pl><abl>$
+	^məsuliyyət<n><pl><1s>/öhdəçilik<n><pl><1s>$
+	^məsuliyyət<n><p3s><loc>/öhdəçilik<n><p3s><loc>$
+	^məsuliyyət<n><p3s><ins>/öhdəçilik<n><p3s><ins>$
+	^məsuliyyət<n><p3s><abl>/öhdəçilik<n><p3s><abl>$
+	^Məsuliyyət<n><p3p>/Öhdəçilik<n><p3p>$
+	^məsuliyyət<n><p3p><ins>/öhdəçilik<n><p3p><ins>$
+	^Məsuliyyət<n><p3p><gen>/Öhdəçilik<n><p3p><gen>$
+	^Məsuliyyət<n><p3p><acc>/Cavabdehlik<n><p3p><acc>$
+	^məsuliyyət<n><p3p><abl>/cavabdehlik<n><p3p><abl>$
+	^məsuliyyət<n><p1p><gen>/cavabdehlik<n><p1p><gen>$
+	^məsuliyyət<n><p1p><dat>/öhdəçilik<n><p1p><dat>$
+	^məsuliyyət<n><p1p><3s><dir>/öhdəçilik<n><p1p><3s><dir>$
+	^məsuliyyət<n><p1p><3s><dir>/cavabdehlik<n><p1p><3s><dir>$
+	^məsuliyyət<n><loc>/öhdəçilik<n><loc>$
+	^məsuliyyət<n><loc>/cavabdehlik<n><loc>$
+	^məsuliyyət<n><dat>/öhdəçilik<n><dat>$
+	^məsuliyyət<n><3s><dir>/öhdəçilik<n><3s><dir>$
+	^məsuliyyət<n><1s>/cavabdehlik<n><1s>$
+	^kifayət<n><pl><p3s><ins>/gabiliyyat<n><pl><p3s><ins>$
+	^kifayət<n><pl><p1p><gen>/gabiliyyat<n><pl><p1p><gen>$
+	^kifayət<n><pl><gen>/gabiliyyat<n><pl><gen>$
+	^kifayət<n><pl><dat>/gabiliyyat<n><pl><dat>$
+	^Kifayət<n><p3p>/Gabiliyyat<n><p3p>$
+	^kifayət<n><p3p><dat>/gabiliyyat<n><p3p><dat>$
+	^kifayət<n><p1p><acc>/gabiliyyat<n><p1p><acc>$
+	^Kifayət<n><gen>/Gabiliyyat<n><gen>$
+	^kifayət<n><gen>/gabiliyyat<n><gen>$
+	^imza<n><p3s><ins>/əmalət<n><p3s><ins>$
+	^imza<n><p3p><acc>/əmalət<n><p3p><acc>$
+	^imza<n><p1p><acc>/əmalət<n><p1p><acc>$
+	^hangi<prn><qst><pl><p3s><acc>/hansı<prn><qst><pl><p3s><acc>$
+	^hangi<prn><qst><p3s>/hansı<prn><qst><p3s>$
+	^hangi<prn><qst><p3s><cpl_di><3s>/hansı<prn><qst><p3s><cpl_di><3s>$
+	^hangi<prn><qst><p3s><acc>/hansı<prn><qst><p3s><acc>$
+	^hangi<prn><qst><p3p>/hansı<prn><qst><p3p>$
+	^girov<n><p3s>/pəhriz<n><p3s>$
+	^Elastik<adj>/Əyilgən<adj>$
+	^Əcəmi<n><pl>/Naşı<n><pl>$
+	^əcəmi<n><pl>/naşı<n><pl>$
+	^Əcəmi<n><pl><dat>/Naşı<n><pl><dat>$
+	^əcəmi<n><pl><abl>/naşı<n><pl><abl>$
+	^EBU<np>/EBU<np>$
+	^CEYHAN<np>/CEYHAN<np>$
+	^ARIS<np>/ARIS<np>$
+	^ADANA<np>/ADANA<np>$
+   2198 #ortaq\<adj\>\/ortag\<adj\>	^ortaq<adj>/ortag<adj>$
+    742 #yabançı\<adj\>\/xarici\<adj\>	^yabançı<adj>/xarici<adj>$
+    463 #LAHEY\<np\>\/LAHEY\<np\>	^LAHEY<np>/LAHEY<np>$
+    393 #tətbiq\<n\>\<dat\>\/ərizə\<n\>\<dat\>	^tətbiq<n><dat>/ərizə<n><dat>$
+    312 #WASHINGTON\<np\>\/WASHINGTON\<np\>	^WASHINGTON<np>/WASHINGTON<np>$
+    242 #məsuliyyət\<n\>\<p3s\>\<acc\>\/cavabdehlik\<n\>\<p3s\>\<acc\>	^məsuliyyət<n><p3s><acc>/cavabdehlik<n><p3s><acc>$
+    238 #Ortaq\<adj\>\/Ortag\<adj\>	^Ortaq<adj>/Ortag<adj>$
+    192 #ortaq\<n\>\<p3s\>\/ortag\<n\>\<p3s\>	^ortaq<n><p3s>/ortag<n><p3s>$
+    176 #qətilik\<n\>\<ins\>\/dəqiqlik\<n\>\<ins\>	^qətilik<n><ins>/dəqiqlik<n><ins>$
+    163 #İSTANBUL\<np\>\/İSTANBUL\<np\>	^İSTANBUL<np>/İSTANBUL<np>$
+    156 #məsuliyyət\<n\>\<pl\>\<p3s\>\<acc\>\/öhdəçilik\<n\>\<pl\>\<p3s\>\<acc\>	^məsuliyyət<n><pl><p3s><acc>/öhdəçilik<n><pl><p3s><acc>$
+    140 #nere\<prn\>\<qst\>\<loc\>\/hara\<prn\>\<qst\>\<loc\>	^nere<prn><qst><loc>/hara<prn><qst><loc>$
+    118 #onsuz da\<adv\>\/illərdir\<adv\>	^onsuz da<adv>/illərdir<adv>$
+    113 #Savaş\<n\>\<p3s\>\/Hərb\<n\>\<p3s\>	^Savaş<n><p3s>/Hərb<n><p3s>$
+    107 #tətbiq\<n\>\<loc\>\/ərizə\<n\>\<loc\>	^tətbiq<n><loc>/ərizə<n><loc>$
+    106 #tətbiq\<n\>\<p3s\>\/ərizə\<n\>\<p3s\>	^tətbiq<n><p3s>/ərizə<n><p3s>$
+    104 #qırıqlıq\<n\>\<p3s\>\<dat\>\/əzginlik\<n\>\<p3s\>\<dat\>	^qırıqlıq<n><p3s><dat>/əzginlik<n><p3s><dat>$
+    102 #qeyri\<adv\>\/qeyri az\<adv\>	^qeyri<adv>/qeyri az<adv>$
+     93 #ortaq\<n\>\<p3p\>\/ortag\<n\>\<p3p\>	^ortaq<n><p3p>/ortag<n><p3p>$
+     91 #savaş\<n\>\<gen\>\/hərb\<n\>\<gen\>	^savaş<n><gen>/hərb<n><gen>$
+     91 #savaş\<n\>\<acc\>\/hərb\<n\>\<acc\>	^savaş<n><acc>/hərb<n><acc>$
+     91 #ortaq\<n\>\<acc\>\/ortag\<n\>\<acc\>	^ortaq<n><acc>/ortag<n><acc>$
+     88 #məsuliyyət\<n\>\<p3p\>\<acc\>\/öhdəçilik\<n\>\<p3p\>\<acc\>	^məsuliyyət<n><p3p><acc>/öhdəçilik<n><p3p><acc>$
+     85 #hangi\<prn\>\<qst\>\/hansı\<prn\>\<qst\>	^hangi<prn><qst>/hansı<prn><qst>$
+     83 #Yabançı\<adj\>\/Xarici\<adj\>	^Yabançı<adj>/Xarici<adj>$
+     68 #imza\<n\>\<p3s\>\/əmalət\<n\>\<p3s\>	^imza<n><p3s>/əmalət<n><p3s>$
+     62 #məsuliyyət\<n\>\<acc\>\/cavabdehlik\<n\>\<acc\>	^məsuliyyət<n><acc>/cavabdehlik<n><acc>$
+     58 #ROMA\<np\>\/ROMA\<np\>	^ROMA<np>/ROMA<np>$
+     57 #qıs\<v\>\<t_opt\>\<3s\>\/azalt\<v\>\<t_opt\>\<3s\>	^qıs<v><t_opt><3s>/azalt<v><t_opt><3s>$
+     56 #tətbiq\<n\>\<p3s\>\<acc\>\/ərizə\<n\>\<p3s\>\<acc\>	^tətbiq<n><p3s><acc>/ərizə<n><p3s><acc>$
+     56 #savaş\<n\>\<abl\>\/hərb\<n\>\<abl\>	^savaş<n><abl>/hərb<n><abl>$
+     53 #tətbiq\<n\>\<acc\>\/ərizə\<n\>\<acc\>	^tətbiq<n><acc>/ərizə<n><acc>$
+     53 #məsuliyyət\<n\>\<pl\>\<acc\>\/öhdəçilik\<n\>\<pl\>\<acc\>	^məsuliyyət<n><pl><acc>/öhdəçilik<n><pl><acc>$
+     51 #qırıqlıq\<n\>\<p3s\>\<acc\>\/əzginlik\<n\>\<p3s\>\<acc\>	^qırıqlıq<n><p3s><acc>/əzginlik<n><p3s><acc>$
+     49 #tətbiq\<n\>\<p3s\>\<dat\>\/ərizə\<n\>\<p3s\>\<dat\>	^tətbiq<n><p3s><dat>/ərizə<n><p3s><dat>$
+     48 #məsuliyyət\<n\>\<pl\>\<gen\>\/öhdəçilik\<n\>\<pl\>\<gen\>	^məsuliyyət<n><pl><gen>/öhdəçilik<n><pl><gen>$
+     47 #elastik\<adj\>\/əyilgən\<adj\>	^elastik<adj>/əyilgən<adj>$
+     45 #təbrik\<n\>\<p3p\>\/şənlik\<n\>\<p3p\>	^təbrik<n><p3p>/şənlik<n><p3p>$
+     44 #qırıqlıq\<n\>\<p3s\>\/əzginlik\<n\>\<p3s\>	^qırıqlıq<n><p3s>/əzginlik<n><p3s>$
+     43 #məsuliyyət\<n\>\<p3s\>\/cavabdehlik\<n\>\<p3s\>	^məsuliyyət<n><p3s>/cavabdehlik<n><p3s>$
+     42 #məsuliyyət\<n\>\<pl\>\<p3s\>\<acc\>\/cavabdehlik\<n\>\<pl\>\<p3s\>\<acc\>	^məsuliyyət<n><pl><p3s><acc>/cavabdehlik<n><pl><p3s><acc>$
+     41 #MOSTAR\<np\>\/MOSTAR\<np\>	^MOSTAR<np>/MOSTAR<np>$
+     39 #savaş\<n\>\<dat\>\/hərb\<n\>\<dat\>	^savaş<n><dat>/hərb<n><dat>$
+     39 #nəqliyyat\<n\>\<p3s\>\/daşıma\<n\>\<p3s\>	^nəqliyyat<n><p3s>/daşıma<n><p3s>$
+     38 #savaş\<n\>\<loc\>\/hərb\<n\>\<loc\>	^savaş<n><loc>/hərb<n><loc>$
+     35 #tətbiq\<n\>\<p3s\>\<gen\>\/ərizə\<n\>\<p3s\>\<gen\>	^tətbiq<n><p3s><gen>/ərizə<n><p3s><gen>$
+     34 #yabançı\<n\>\<pl\>\<dat\>\/xarici\<n\>\<pl\>\<dat\>	^yabançı<n><pl><dat>/xarici<n><pl><dat>$
+     34 #tətbiq\<n\>\<gen\>\/ərizə\<n\>\<gen\>	^tətbiq<n><gen>/ərizə<n><gen>$
+     32 #yabançı\<n\>\<pl\>\/xarici\<n\>\<pl\>	^yabançı<n><pl>/xarici<n><pl>$
+     32 #məsuliyyət\<n\>\<pl\>\<acc\>\/cavabdehlik\<n\>\<pl\>\<acc\>	^məsuliyyət<n><pl><acc>/cavabdehlik<n><pl><acc>$
+     28 #savaş\<n\>\<p3s\>\/hərb\<n\>\<p3s\>	^savaş<n><p3s>/hərb<n><p3s>$
+     28 #məsuliyyət\<n\>\<acc\>\/öhdəçilik\<n\>\<acc\>	^məsuliyyət<n><acc>/öhdəçilik<n><acc>$
+     26 #məsuliyyət\<n\>\<pl\>\/öhdəçilik\<n\>\<pl\>	^məsuliyyət<n><pl>/öhdəçilik<n><pl>$
+     25 #tətbiq\<n\>\<pl\>\<acc\>\/ərizə\<n\>\<pl\>\<acc\>	^tətbiq<n><pl><acc>/ərizə<n><pl><acc>$
+     25 #təbrik\<n\>\<pl\>\/şənlik\<n\>\<pl\>	^təbrik<n><pl>/şənlik<n><pl>$
+     25 #başdan\<adv\>\/ümumiyyətlə\<adv\>	^başdan<adv>/ümumiyyətlə<adv>$
+     24 #ortaq\<n\>\<p3p\>\<abl\>\/ortag\<n\>\<p3p\>\<abl\>	^ortaq<n><p3p><abl>/ortag<n><p3p><abl>$
+     23 #yabançı\<n\>\<pl\>\<gen\>\/xarici\<n\>\<pl\>\<gen\>	^yabançı<n><pl><gen>/xarici<n><pl><gen>$
+     23 #tətbiq\<n\>\<p3p\>\/ərizə\<n\>\<p3p\>	^tətbiq<n><p3p>/ərizə<n><p3p>$
+     23 #ortaq\<n\>\<pl\>\/ortag\<n\>\<pl\>	^ortaq<n><pl>/ortag<n><pl>$
+     21 #savaş\<n\>\<p3s\>\<gen\>\/hərb\<n\>\<p3s\>\<gen\>	^savaş<n><p3s><gen>/hərb<n><p3s><gen>$
+     21 #imza\<n\>\<p3s\>\<dat\>\/əmalət\<n\>\<p3s\>\<dat\>	^imza<n><p3s><dat>/əmalət<n><p3s><dat>$
+     20 #məsuliyyət\<n\>\<pl\>\<gen\>\/cavabdehlik\<n\>\<pl\>\<gen\>	^məsuliyyət<n><pl><gen>/cavabdehlik<n><pl><gen>$
+     20 #imza\<n\>\<p3p\>\/əmalət\<n\>\<p3p\>	^imza<n><p3p>/əmalət<n><p3p>$
+     18 #ortaq\<n\>\<pl\>\<p3s\>\<abl\>\/ortag\<n\>\<pl\>\<p3s\>\<abl\>	^ortaq<n><pl><p3s><abl>/ortag<n><pl><p3s><abl>$
+     18 #məsuliyyət\<n\>\<p3p\>\/öhdəçilik\<n\>\<p3p\>	^məsuliyyət<n><p3p>/öhdəçilik<n><p3p>$
+     18 #məsuliyyət\<n\>\<p3p\>\<acc\>\/cavabdehlik\<n\>\<p3p\>\<acc\>	^məsuliyyət<n><p3p><acc>/cavabdehlik<n><p3p><acc>$
+     18 #AKEL\<np\>\/AKEL\<np\>	^AKEL<np>/AKEL<np>$
+     17 #Tətbiq\<n\>\<dat\>\/Ərizə\<n\>\<dat\>	^Tətbiq<n><dat>/Ərizə<n><dat>$
+     17 #savaş\<n\>\<cpl_mis\>\<3s\>\/hərb\<n\>\<cpl_mis\>\<3s\>	^savaş<n><cpl_mis><3s>/hərb<n><cpl_mis><3s>$
+     17 #Savaş\<n\>\<acc\>\/Hərb\<n\>\<acc\>	^Savaş<n><acc>/Hərb<n><acc>$
+     17 #ortaq\<n\>\<pl\>\<ins\>\/ortag\<n\>\<pl\>\<ins\>	^ortaq<n><pl><ins>/ortag<n><pl><ins>$
+     17 #məsuliyyət\<n\>\<gen\>\/cavabdehlik\<n\>\<gen\>	^məsuliyyət<n><gen>/cavabdehlik<n><gen>$
+     17 #imza\<n\>\<p3s\>\<acc\>\/əmalət\<n\>\<p3s\>\<acc\>	^imza<n><p3s><acc>/əmalət<n><p3s><acc>$
+     16 #tətbiq\<n\>\<pl\>\<gen\>\/ərizə\<n\>\<pl\>\<gen\>	^tətbiq<n><pl><gen>/ərizə<n><pl><gen>$
+     16 #tətbiq\<n\>\<pl\>\/ərizə\<n\>\<pl\>	^tətbiq<n><pl>/ərizə<n><pl>$
+     16 #təbrik\<n\>\<pl\>\<dat\>\/şənlik\<n\>\<pl\>\<dat\>	^təbrik<n><pl><dat>/şənlik<n><pl><dat>$
+     16 #məsuliyyət\<n\>\<p3s\>\<acc\>\/öhdəçilik\<n\>\<p3s\>\<acc\>	^məsuliyyət<n><p3s><acc>/öhdəçilik<n><p3s><acc>$
+     15 #təbrik\<n\>\<p3p\>\<dat\>\/şənlik\<n\>\<p3p\>\<dat\>	^təbrik<n><p3p><dat>/şənlik<n><p3p><dat>$
+     15 #ortaq\<n\>\<p3p\>\<ins\>\/ortag\<n\>\<p3p\>\<ins\>	^ortaq<n><p3p><ins>/ortag<n><p3p><ins>$
+     15 #ortaq\<n\>\<p3p\>\<gen\>\/ortag\<n\>\<p3p\>\<gen\>	^ortaq<n><p3p><gen>/ortag<n><p3p><gen>$
+     15 #nere\<prn\>\<qst\>\<dat\>\/hara\<prn\>\<qst\>\<dat\>	^nere<prn><qst><dat>/hara<prn><qst><dat>$
+     14 #tətbiq\<n\>\<pl\>\<dat\>\/ərizə\<n\>\<pl\>\<dat\>	^tətbiq<n><pl><dat>/ərizə<n><pl><dat>$
+     14 #tətbiq\<n\>\<loc\>\<ki\>\/ərizə\<n\>\<loc\>\<ki\>	^tətbiq<n><loc><ki>/ərizə<n><loc><ki>$
+     14 #savaş\<n\>\<p3s\>\<abl\>\/hərb\<n\>\<p3s\>\<abl\>	^savaş<n><p3s><abl>/hərb<n><p3s><abl>$
+     14 #Savaş\<n\>\<abl\>\/Hərb\<n\>\<abl\>	^Savaş<n><abl>/Hərb<n><abl>$
+     14 #məsuliyyət\<n\>\<p3s\>\<gen\>\/cavabdehlik\<n\>\<p3s\>\<gen\>	^məsuliyyət<n><p3s><gen>/cavabdehlik<n><p3s><gen>$
+     14 #KALKANDERE\<np\>\/KALKANDERE\<np\>	^KALKANDERE<np>/KALKANDERE<np>$
+     14 #imza\<n\>\<gen\>\/əmalət\<n\>\<gen\>	^imza<n><gen>/əmalət<n><gen>$
+     13 #tətbiq\<n\>\<p3p\>\<acc\>\/ərizə\<n\>\<p3p\>\<acc\>	^tətbiq<n><p3p><acc>/ərizə<n><p3p><acc>$
+     13 #təbrik\<n\>\<p3p\>\<loc\>\/şənlik\<n\>\<p3p\>\<loc\>	^təbrik<n><p3p><loc>/şənlik<n><p3p><loc>$
+     13 #ortaq\<n\>\<pl\>\<acc\>\/ortag\<n\>\<pl\>\<acc\>	^ortaq<n><pl><acc>/ortag<n><pl><acc>$
+     13 #məsuliyyət\<n\>\<p3p\>\/cavabdehlik\<n\>\<p3p\>	^məsuliyyət<n><p3p>/cavabdehlik<n><p3p>$
+     12 #tətbiq\<n\>\<pl\>\<p3s\>\<acc\>\/ərizə\<n\>\<pl\>\<p3s\>\<acc\>	^tətbiq<n><pl><p3s><acc>/ərizə<n><pl><p3s><acc>$
+     12 #tətbiq\<n\>\<p3s\>\<loc\>\/ərizə\<n\>\<p3s\>\<loc\>	^tətbiq<n><p3s><loc>/ərizə<n><p3s><loc>$
+     12 #savaş\<n\>\<pl\>\/hərb\<n\>\<pl\>	^savaş<n><pl>/hərb<n><pl>$
+     12 #nə üçün\<adv\>\/gecələri\<adv\>	^nə üçün<adv>/gecələri<adv>$
+     12 #məsuliyyət\<n\>\<dat\>\/cavabdehlik\<n\>\<dat\>	^məsuliyyət<n><dat>/cavabdehlik<n><dat>$
+     12 #dünən\<adv\>\/nadir hallarda\<adv\>	^dünən<adv>/nadir hallarda<adv>$
+     11 #Savaş\<n\>\<gen\>\/Hərb\<n\>\<gen\>	^Savaş<n><gen>/Hərb<n><gen>$
+     11 #qıs\<v\>\<vn_mak\>\<dat\>\/azalt\<v\>\<vn_mak\>\<dat\>	^qıs<v><vn_mak><dat>/azalt<v><vn_mak><dat>$
+     11 #nəqliyyat\<n\>\<p3s\>\<gen\>\/daşıma\<n\>\<p3s\>\<gen\>	^nəqliyyat<n><p3s><gen>/daşıma<n><p3s><gen>$
+     11 #məsuliyyət\<n\>\<pl\>\<p3s\>\<gen\>\/cavabdehlik\<n\>\<pl\>\<p3s\>\<gen\>	^məsuliyyət<n><pl><p3s><gen>/cavabdehlik<n><pl><p3s><gen>$
+     11 #məsuliyyət\<n\>\<p3p\>\<gen\>\/cavabdehlik\<n\>\<p3p\>\<gen\>	^məsuliyyət<n><p3p><gen>/cavabdehlik<n><p3p><gen>$
+     11 #imza\<n\>\<pl\>\<acc\>\/əmalət\<n\>\<pl\>\<acc\>	^imza<n><pl><acc>/əmalət<n><pl><acc>$
+     10 #Yeter\<adj\>\/Bəzi\<adj\>	^Yeter<adj>/Bəzi<adj>$
+     10 #tətbiq\<n\>\<p3p\>\<gen\>\/ərizə\<n\>\<p3p\>\<gen\>	^tətbiq<n><p3p><gen>/ərizə<n><p3p><gen>$
+     10 #Təbrik\<n\>\<pl\>\/Şənlik\<n\>\<pl\>	^Təbrik<n><pl>/Şənlik<n><pl>$
+     10 #savaş\<n\>\<pl\>\<loc\>\/hərb\<n\>\<pl\>\<loc\>	^savaş<n><pl><loc>/hərb<n><pl><loc>$
+     10 #savaş\<n\>\<p3s\>\<loc\>\/hərb\<n\>\<p3s\>\<loc\>	^savaş<n><p3s><loc>/hərb<n><p3s><loc>$
+     10 #savaş\<n\>\<p3s\>\<acc\>\/hərb\<n\>\<p3s\>\<acc\>	^savaş<n><p3s><acc>/hərb<n><p3s><acc>$
+     10 #sandıq\<n\>\<pl\>\/sandıg\<n\>\<pl\>	^sandıq<n><pl>/sandıg<n><pl>$
+     10 #ortaq\<n\>\<pl\>\<gen\>\/ortag\<n\>\<pl\>\<gen\>	^ortaq<n><pl><gen>/ortag<n><pl><gen>$
+     10 #nere\<prn\>\<qst\>\<abl\>\/hara\<prn\>\<qst\>\<abl\>	^nere<prn><qst><abl>/hara<prn><qst><abl>$
+     10 #imza\<n\>\<p3s\>\<gen\>\/əmalət\<n\>\<p3s\>\<gen\>	^imza<n><p3s><gen>/əmalət<n><p3s><gen>$
+      9 #yeter\<adj\>\/bəzi\<adj\>	^yeter<adj>/bəzi<adj>$
+      9 #Yabançı\<n\>\<pl\>\/Xarici\<n\>\<pl\>	^Yabançı<n><pl>/Xarici<n><pl>$
+      9 #yabançı\<n\>\<gen\>\/xarici\<n\>\<gen\>	^yabançı<n><gen>/xarici<n><gen>$
+      9 #yabançı\<n\>\<acc\>\/xarici\<n\>\<acc\>	^yabançı<n><acc>/xarici<n><acc>$
+      9 #usan\<v\>\<cv_mis\>\/təngə gəl\<v\>\<cv_mis\>	^usan<v><cv_mis>/təngə gəl<v><cv_mis>$
+      9 #tətbiq\<n\>\<p3p\>\<loc\>\/ərizə\<n\>\<p3p\>\<loc\>	^tətbiq<n><p3p><loc>/ərizə<n><p3p><loc>$
+      9 #ortaq\<n\>\<p3s\>\<gen\>\/ortag\<n\>\<p3s\>\<gen\>	^ortaq<n><p3s><gen>/ortag<n><p3s><gen>$
+      9 #məsuliyyət\<n\>\<pl\>\<p3s\>\<dat\>\/öhdəçilik\<n\>\<pl\>\<p3s\>\<dat\>	^məsuliyyət<n><pl><p3s><dat>/öhdəçilik<n><pl><p3s><dat>$
+      9 #məsuliyyət\<n\>\<pl\>\<p1p\>\<acc\>\/öhdəçilik\<n\>\<pl\>\<p1p\>\<acc\>	^məsuliyyət<n><pl><p1p><acc>/öhdəçilik<n><pl><p1p><acc>$
+      9 #imza\<n\>\<p3s\>\<abl\>\/əmalət\<n\>\<p3s\>\<abl\>	^imza<n><p3s><abl>/əmalət<n><p3s><abl>$
+      8 #savaş\<n\>\<loc\>\<ki\>\/hərb\<n\>\<loc\>\<ki\>	^savaş<n><loc><ki>/hərb<n><loc><ki>$
+      8 #Qətilik\<n\>\<ins\>\/Dəqiqlik\<n\>\<ins\>	^Qətilik<n><ins>/Dəqiqlik<n><ins>$
+      8 #ortaq\<n\>\<pl\>\<p3s\>\<ins\>\/ortag\<n\>\<pl\>\<p3s\>\<ins\>	^ortaq<n><pl><p3s><ins>/ortag<n><pl><p3s><ins>$
+      8 #ortaq\<n\>\<pl\>\<p3s\>\<dat\>\/ortag\<n\>\<pl\>\<p3s\>\<dat\>	^ortaq<n><pl><p3s><dat>/ortag<n><pl><p3s><dat>$
+      8 #Ortaq\<n\>\<p3p\>\/Ortag\<n\>\<p3p\>	^Ortaq<n><p3p>/Ortag<n><p3p>$
+      8 #ortaq\<n\>\<p3p\>\<dat\>\/ortag\<n\>\<p3p\>\<dat\>	^ortaq<n><p3p><dat>/ortag<n><p3p><dat>$
+      8 #nəqliyyat\<n\>\<acc\>\/daşıma\<n\>\<acc\>	^nəqliyyat<n><acc>/daşıma<n><acc>$
+      8 #məsuliyyət\<n\>\<p3s\>\<dat\>\/cavabdehlik\<n\>\<p3s\>\<dat\>	^məsuliyyət<n><p3s><dat>/cavabdehlik<n><p3s><dat>$
+      8 #məsuliyyət\<n\>\<p3s\>\<abl\>\/cavabdehlik\<n\>\<p3s\>\<abl\>	^məsuliyyət<n><p3s><abl>/cavabdehlik<n><p3s><abl>$
+      8 #ANTALYA\<np\>\/ANTALYA\<np\>	^ANTALYA<np>/ANTALYA<np>$
+      7 #tətbiq\<n\>\<pl\>\<p3s\>\<dat\>\/ərizə\<n\>\<pl\>\<p3s\>\<dat\>	^tətbiq<n><pl><p3s><dat>/ərizə<n><pl><p3s><dat>$
+      7 #Tətbiq\<n\>\<p3s\>\/Ərizə\<n\>\<p3s\>	^Tətbiq<n><p3s>/Ərizə<n><p3s>$
+      7 #tətbiq\<n\>\<p3p\>\<dat\>\/ərizə\<n\>\<p3p\>\<dat\>	^tətbiq<n><p3p><dat>/ərizə<n><p3p><dat>$
+      7 #savaş\<n\>\<pl\>\<abl\>\/hərb\<n\>\<pl\>\<abl\>	^savaş<n><pl><abl>/hərb<n><pl><abl>$
+      7 #Savaş\<n\>\<p3s\>\<abl\>\/Hərb\<n\>\<p3s\>\<abl\>	^Savaş<n><p3s><abl>/Hərb<n><p3s><abl>$
+      7 #qıs\<v\>\<pass\>\<cv_ma\>\<p3s\>\/azalt\<v\>\<pass\>\<cv_ma\>\<p3s\>	^qıs<v><pass><cv_ma><p3s>/azalt<v><pass><cv_ma><p3s>$
+      7 #qıs\<v\>\<cv_mak\>\/azalt\<v\>\<cv_mak\>	^qıs<v><cv_mak>/azalt<v><cv_mak>$
+      7 #ortaq\<n\>\<pl\>\<p3s\>\<gen\>\/ortag\<n\>\<pl\>\<p3s\>\<gen\>	^ortaq<n><pl><p3s><gen>/ortag<n><pl><p3s><gen>$
+      7 #Ortaq\<n\>\<pl\>\/Ortag\<n\>\<pl\>	^Ortaq<n><pl>/Ortag<n><pl>$
+      7 #Ortaq\<n\>\<p3s\>\/Ortag\<n\>\<p3s\>	^Ortaq<n><p3s>/Ortag<n><p3s>$
+      7 #Nere\<prn\>\<qst\>\<loc\>\/Hara\<prn\>\<qst\>\<loc\>	^Nere<prn><qst><loc>/Hara<prn><qst><loc>$
+      7 #nəqliyyat\<n\>\<p3s\>\<acc\>\/daşıma\<n\>\<p3s\>\<acc\>	^nəqliyyat<n><p3s><acc>/daşıma<n><p3s><acc>$
+      7 #məsuliyyət\<n\>\<pl\>\<dat\>\/cavabdehlik\<n\>\<pl\>\<dat\>	^məsuliyyət<n><pl><dat>/cavabdehlik<n><pl><dat>$
+      7 #məsuliyyət\<n\>\<pl\>\/cavabdehlik\<n\>\<pl\>	^məsuliyyət<n><pl>/cavabdehlik<n><pl>$
+      7 #Hangi\<prn\>\<qst\>\/Hansı\<prn\>\<qst\>	^Hangi<prn><qst>/Hansı<prn><qst>$
+      7 #DAVOS\<np\>\/DAVOS\<np\>	^DAVOS<np>/DAVOS<np>$
+      6 #yabançı\<n\>\<pl\>\<acc\>\/xarici\<n\>\<pl\>\<acc\>	^yabançı<n><pl><acc>/xarici<n><pl><acc>$
+      6 #tətbiq\<n\>\<pl\>\<p3s\>\<gen\>\/ərizə\<n\>\<pl\>\<p3s\>\<gen\>	^tətbiq<n><pl><p3s><gen>/ərizə<n><pl><p3s><gen>$
+      6 #tətbiq\<n\>\<pl\>\<ins\>\/ərizə\<n\>\<pl\>\<ins\>	^tətbiq<n><pl><ins>/ərizə<n><pl><ins>$
+      6 #TAHRAN\<np\>\/TAHRAN\<np\>	^TAHRAN<np>/TAHRAN<np>$
+      6 #savaş\<n\>\<p3s\>\<ins\>\/hərb\<n\>\<p3s\>\<ins\>	^savaş<n><p3s><ins>/hərb<n><p3s><ins>$
+      6 #savaş\<n\>\<p3s\>\<dat\>\/hərb\<n\>\<p3s\>\<dat\>	^savaş<n><p3s><dat>/hərb<n><p3s><dat>$
+      6 #Ortaq\<n\>\<pl\>\<acc\>\/Ortag\<n\>\<pl\>\<acc\>	^Ortaq<n><pl><acc>/Ortag<n><pl><acc>$
+      6 #ortaq\<n\>\<ins\>\/ortag\<n\>\<ins\>	^ortaq<n><ins>/ortag<n><ins>$
+      6 #nəqliyyat\<n\>\<p3s\>\<loc\>\/daşıma\<n\>\<p3s\>\<loc\>	^nəqliyyat<n><p3s><loc>/daşıma<n><p3s><loc>$
+      6 #MINA\<np\>\/MINA\<np\>	^MINA<np>/MINA<np>$
+      6 #məsuliyyət\<n\>\<gen\>\/öhdəçilik\<n\>\<gen\>	^məsuliyyət<n><gen>/öhdəçilik<n><gen>$
+      6 #imza\<n\>\<abl\>\/əmalət\<n\>\<abl\>	^imza<n><abl>/əmalət<n><abl>$
+      6 #hangi\<prn\>\<qst\>\<p3s\>\<gen\>\/hansı\<prn\>\<qst\>\<p3s\>\<gen\>	^hangi<prn><qst><p3s><gen>/hansı<prn><qst><p3s><gen>$
+      6 #əksine\<cnjadv\>\/əksinə\<cnjadv\>	^əksine<cnjadv>/əksinə<cnjadv>$
+      6 #Başdan\<adv\>\/Ümumiyyətlə\<adv\>	^Başdan<adv>/Ümumiyyətlə<adv>$
+      5 #yabançı\<n\>\<dat\>\/xarici\<n\>\<dat\>	^yabançı<n><dat>/xarici<n><dat>$
+      5 #Tətbiq\<n\>\<p3s\>\<acc\>\/Ərizə\<n\>\<p3s\>\<acc\>	^Tətbiq<n><p3s><acc>/Ərizə<n><p3s><acc>$
+      5 #tətbiq\<n\>\<p1s\>\<dat\>\/ərizə\<n\>\<p1s\>\<dat\>	^tətbiq<n><p1s><dat>/ərizə<n><p1s><dat>$
+      5 #Tətbiq\<n\>\<loc\>\/Ərizə\<n\>\<loc\>	^Tətbiq<n><loc>/Ərizə<n><loc>$
+      5 #tətbiq\<n\>\<abl\>\/ərizə\<n\>\<abl\>	^tətbiq<n><abl>/ərizə<n><abl>$
+      5 #təbrik\<n\>\<pl\>\<gen\>\/şənlik\<n\>\<pl\>\<gen\>	^təbrik<n><pl><gen>/şənlik<n><pl><gen>$
+      5 #təbrik\<n\>\<p3p\>\<acc\>\/şənlik\<n\>\<p3p\>\<acc\>	^təbrik<n><p3p><acc>/şənlik<n><p3p><acc>$
+      5 #savaş\<n\>\<p3s\>\<loc\>\<ki\>\/hərb\<n\>\<p3s\>\<loc\>\<ki\>	^savaş<n><p3s><loc><ki>/hərb<n><p3s><loc><ki>$
+      5 #savaş\<n\>\<ins\>\/hərb\<n\>\<ins\>	^savaş<n><ins>/hərb<n><ins>$
+      5 #şarab\<n\>\<gen\>\/şərab\<n\>\<gen\>	^şarab<n><gen>/şərab<n><gen>$
+      5 #Qeyri\<adv\>\/Qeyri az\<adv\>	^Qeyri<adv>/Qeyri az<adv>$
+      5 #ortaq\<n\>\<pl\>\<p1p\>\<ins\>\/ortag\<n\>\<pl\>\<p1p\>\<ins\>	^ortaq<n><pl><p1p><ins>/ortag<n><pl><p1p><ins>$
+      5 #ortaq\<n\>\<p3s\>\<ins\>\/ortag\<n\>\<p3s\>\<ins\>	^ortaq<n><p3s><ins>/ortag<n><p3s><ins>$
+      5 #ortaq\<n\>\<gen\>\/ortag\<n\>\<gen\>	^ortaq<n><gen>/ortag<n><gen>$
+      5 #nəqliyyat\<n\>\<gen\>\/daşıma\<n\>\<gen\>	^nəqliyyat<n><gen>/daşıma<n><gen>$
+      5 #məsuliyyət\<n\>\<pl\>\<p3s\>\<gen\>\/öhdəçilik\<n\>\<pl\>\<p3s\>\<gen\>	^məsuliyyət<n><pl><p3s><gen>/öhdəçilik<n><pl><p3s><gen>$
+      5 #məsuliyyət\<n\>\<pl\>\<dat\>\/öhdəçilik\<n\>\<pl\>\<dat\>	^məsuliyyət<n><pl><dat>/öhdəçilik<n><pl><dat>$
+      5 #məsuliyyət\<n\>\<p3s\>\/öhdəçilik\<n\>\<p3s\>	^məsuliyyət<n><p3s>/öhdəçilik<n><p3s>$
+      5 #məsuliyyət\<n\>\<p3p\>\<gen\>\/öhdəçilik\<n\>\<p3p\>\<gen\>	^məsuliyyət<n><p3p><gen>/öhdəçilik<n><p3p><gen>$
+      5 #məsuliyyət\<n\>\<p1p\>\/öhdəçilik\<n\>\<p1p\>	^məsuliyyət<n><p1p>/öhdəçilik<n><p1p>$
+      5 #KONYA\<np\>\/KONYA\<np\>	^KONYA<np>/KONYA<np>$
+      5 #imza\<n\>\<p3p\>\<dat\>\/əmalət\<n\>\<p3p\>\<dat\>	^imza<n><p3p><dat>/əmalət<n><p3p><dat>$
+      5 #CENEVRE\<np\>\/CENEVRE\<np\>	^CENEVRE<np>/CENEVRE<np>$
+      4 #yabançı\<n\>\<pl\>\<abl\>\/xarici\<n\>\<pl\>\<abl\>	^yabançı<n><pl><abl>/xarici<n><pl><abl>$
+      4 #tətbiq\<n\>\<pl\>\<abl\>\/ərizə\<n\>\<pl\>\<abl\>	^tətbiq<n><pl><abl>/ərizə<n><pl><abl>$
+      4 #tətbiq\<n\>\<p3s\>\<ins\>\/ərizə\<n\>\<p3s\>\<ins\>	^tətbiq<n><p3s><ins>/ərizə<n><p3s><ins>$
+      4 #tətbiq\<n\>\<p3s\>\<abl\>\/ərizə\<n\>\<p3s\>\<abl\>	^tətbiq<n><p3s><abl>/ərizə<n><p3s><abl>$
+      4 #təbrik\<n\>\<pl\>\<p3s\>\<dat\>\/şənlik\<n\>\<pl\>\<p3s\>\<dat\>	^təbrik<n><pl><p3s><dat>/şənlik<n><pl><p3s><dat>$
+      4 #təbrik\<n\>\<pl\>\<loc\>\/şənlik\<n\>\<pl\>\<loc\>	^təbrik<n><pl><loc>/şənlik<n><pl><loc>$
+      4 #Təbrik\<n\>\<pl\>\<gen\>\/Şənlik\<n\>\<pl\>\<gen\>	^Təbrik<n><pl><gen>/Şənlik<n><pl><gen>$
+      4 #Təbrik\<n\>\<pl\>\<dat\>\/Şənlik\<n\>\<pl\>\<dat\>	^Təbrik<n><pl><dat>/Şənlik<n><pl><dat>$
+      4 #təbrik\<n\>\<pl\>\<acc\>\/şənlik\<n\>\<pl\>\<acc\>	^təbrik<n><pl><acc>/şənlik<n><pl><acc>$
+      4 #təbrik\<n\>\<p3s\>\/şənlik\<n\>\<p3s\>	^təbrik<n><p3s>/şənlik<n><p3s>$
+      4 #savaş\<n\>\<pl\>\<gen\>\/hərb\<n\>\<pl\>\<gen\>	^savaş<n><pl><gen>/hərb<n><pl><gen>$
+      4 #Qıs\<v\>\<t_opt\>\<3s\>\/Azalt\<v\>\<t_opt\>\<3s\>	^Qıs<v><t_opt><3s>/Azalt<v><t_opt><3s>$
+      4 #qıs\<v\>\<cv_erek\>\/azalt\<v\>\<cv_erek\>	^qıs<v><cv_erek>/azalt<v><cv_erek>$
+      4 #qırıqlıq\<n\>\<p3p\>\/əzginlik\<n\>\<p3p\>	^qırıqlıq<n><p3p>/əzginlik<n><p3p>$
+      4 #ortaq\<n\>\<pl\>\<p1p\>\/ortag\<n\>\<pl\>\<p1p\>	^ortaq<n><pl><p1p>/ortag<n><pl><p1p>$
+      4 #ortaq\<n\>\<p3p\>\<acc\>\/ortag\<n\>\<p3p\>\<acc\>	^ortaq<n><p3p><acc>/ortag<n><p3p><acc>$
+      4 #ortaq\<n\>\<dat\>\/ortag\<n\>\<dat\>	^ortaq<n><dat>/ortag<n><dat>$
+      4 #Nəqliyyat\<n\>\<p3s\>\/Daşıma\<n\>\<p3s\>	^Nəqliyyat<n><p3s>/Daşıma<n><p3s>$
+      4 #məsuliyyət\<n\>\<pl\>\<p3s\>\<abl\>\/cavabdehlik\<n\>\<pl\>\<p3s\>\<abl\>	^məsuliyyət<n><pl><p3s><abl>/cavabdehlik<n><pl><p3s><abl>$
+      4 #məsuliyyət\<n\>\<p3s\>\<loc\>\/cavabdehlik\<n\>\<p3s\>\<loc\>	^məsuliyyət<n><p3s><loc>/cavabdehlik<n><p3s><loc>$
+      4 #məsuliyyət\<n\>\<p3s\>\<3s\>\<dir\>\/cavabdehlik\<n\>\<p3s\>\<3s\>\<dir\>	^məsuliyyət<n><p3s><3s><dir>/cavabdehlik<n><p3s><3s><dir>$
+      4 #məsuliyyət\<n\>\<p1p\>\/cavabdehlik\<n\>\<p1p\>	^məsuliyyət<n><p1p>/cavabdehlik<n><p1p>$
+      4 #məsuliyyət\<n\>\<ins\>\/cavabdehlik\<n\>\<ins\>	^məsuliyyət<n><ins>/cavabdehlik<n><ins>$
+      4 #KUDÜS\<np\>\/KUDÜS\<np\>	^KUDÜS<np>/KUDÜS<np>$
+      4 #kifayət\<n\>\<pl\>\<p3s\>\<dat\>\/gabiliyyat\<n\>\<pl\>\<p3s\>\<dat\>	^kifayət<n><pl><p3s><dat>/gabiliyyat<n><pl><p3s><dat>$
+      4 #kifayət\<n\>\<p3s\>\<dat\>\/gabiliyyat\<n\>\<p3s\>\<dat\>	^kifayət<n><p3s><dat>/gabiliyyat<n><p3s><dat>$
+      4 #kifayət\<n\>\<p3p\>\<acc\>\/gabiliyyat\<n\>\<p3p\>\<acc\>	^kifayət<n><p3p><acc>/gabiliyyat<n><p3p><acc>$
+      4 #kifayət\<n\>\<acc\>\/gabiliyyat\<n\>\<acc\>	^kifayət<n><acc>/gabiliyyat<n><acc>$
+      4 #imza\<n\>\<pl\>\<p3s\>\<dat\>\/əmalət\<n\>\<pl\>\<p3s\>\<dat\>	^imza<n><pl><p3s><dat>/əmalət<n><pl><p3s><dat>$
+      4 #imza\<n\>\<p1s\>\<dat\>\/əmalət\<n\>\<p1s\>\<dat\>	^imza<n><p1s><dat>/əmalət<n><p1s><dat>$
+      4 #BURGAZ\<np\>\/BURGAZ\<np\>	^BURGAZ<np>/BURGAZ<np>$
+      3 #YETER\<adj\>\/BƏZI\<adj\>	^YETER<adj>/BƏZI<adj>$
+      3 #VAN\<np\>\/VAN\<np\>	^VAN<np>/VAN<np>$
+      3 #usan\<v\>\<part_yan\>\/təngə gəl\<v\>\<part_yan\>	^usan<v><part_yan>/təngə gəl<v><part_yan>$
+      3 #tətbiq\<n\>\<p3p\>\<ins\>\/ərizə\<n\>\<p3p\>\<ins\>	^tətbiq<n><p3p><ins>/ərizə<n><p3p><ins>$
+      3 #tətbiq\<n\>\<ins\>\/ərizə\<n\>\<ins\>	^tətbiq<n><ins>/ərizə<n><ins>$
+      3 #təbrik\<n\>\<pl\>\<ins\>\/şənlik\<n\>\<pl\>\<ins\>	^təbrik<n><pl><ins>/şənlik<n><pl><ins>$
+      3 #savaş\<n\>\<pl\>\<loc\>\<ki\>\/hərb\<n\>\<pl\>\<loc\>\<ki\>	^savaş<n><pl><loc><ki>/hərb<n><pl><loc><ki>$
+      3 #savaş\<n\>\<pl\>\<ins\>\/hərb\<n\>\<pl\>\<ins\>	^savaş<n><pl><ins>/hərb<n><pl><ins>$
+      3 #Savaş\<n\>\<pl\>\/Hərb\<n\>\<pl\>	^Savaş<n><pl>/Hərb<n><pl>$
+      3 #Savaş\<n\>\<p3s\>\<gen\>\/Hərb\<n\>\<p3s\>\<gen\>	^Savaş<n><p3s><gen>/Hərb<n><p3s><gen>$
+      3 #savaş\<n\>\<p3p\>\<loc\>\/hərb\<n\>\<p3p\>\<loc\>	^savaş<n><p3p><loc>/hərb<n><p3p><loc>$
+      3 #savaş\<n\>\<p3p\>\<gen\>\/hərb\<n\>\<p3p\>\<gen\>	^savaş<n><p3p><gen>/hərb<n><p3p><gen>$
+      3 #savaş\<n\>\<p3p\>\<abl\>\/hərb\<n\>\<p3p\>\<abl\>	^savaş<n><p3p><abl>/hərb<n><p3p><abl>$
+      3 #Savaş\<n\>\<loc\>\/Hərb\<n\>\<loc\>	^Savaş<n><loc>/Hərb<n><loc>$
+      3 #savaş\<n\>\<3s\>\<dir\>\/hərb\<n\>\<3s\>\<dir\>	^savaş<n><3s><dir>/hərb<n><3s><dir>$
+      3 #şarab\<n\>\<pl\>\/şərab\<n\>\<pl\>	^şarab<n><pl>/şərab<n><pl>$
+      3 #Sandıq\<n\>\<pl\>\/Sandıg\<n\>\<pl\>	^Sandıq<n><pl>/Sandıg<n><pl>$
+      3 #qıs\<v\>\<vn_mak\>\/azalt\<v\>\<vn_mak\>	^qıs<v><vn_mak>/azalt<v><vn_mak>$
+      3 #qıs\<v\>\<vn_mak\>\<acc\>\/azalt\<v\>\<vn_mak\>\<acc\>	^qıs<v><vn_mak><acc>/azalt<v><vn_mak><acc>$
+      3 #qıs\<v\>\<cv_ma\>\<p3s\>\/azalt\<v\>\<cv_ma\>\<p3s\>	^qıs<v><cv_ma><p3s>/azalt<v><cv_ma><p3s>$
+      3 #qıs\<v\>\<cv_ip\>\/azalt\<v\>\<cv_ip\>	^qıs<v><cv_ip>/azalt<v><cv_ip>$
+      3 #Qırıqlıq\<n\>\<p3s\>\<dat\>\/Əzginlik\<n\>\<p3s\>\<dat\>	^Qırıqlıq<n><p3s><dat>/Əzginlik<n><p3s><dat>$
+      3 #ortaq\<n\>\<pl\>\<p1p\>\<gen\>\/ortag\<n\>\<pl\>\<p1p\>\<gen\>	^ortaq<n><pl><p1p><gen>/ortag<n><pl><p1p><gen>$
+      3 #ortaq\<n\>\<p3s\>\<acc\>\/ortag\<n\>\<p3s\>\<acc\>	^ortaq<n><p3s><acc>/ortag<n><p3s><acc>$
+      3 #ortaq\<n\>\<p3s\>\<3s\>\<dir\>\/ortag\<n\>\<p3s\>\<3s\>\<dir\>	^ortaq<n><p3s><3s><dir>/ortag<n><p3s><3s><dir>$
+      3 #Ortaq\<n\>\<p3p\>\<ins\>\/Ortag\<n\>\<p3p\>\<ins\>	^Ortaq<n><p3p><ins>/Ortag<n><p3p><ins>$
+      3 #ortaq\<n\>\<p1p\>\/ortag\<n\>\<p1p\>	^ortaq<n><p1p>/ortag<n><p1p>$
+      3 #Ortaq\<n\>\<acc\>\/Ortag\<n\>\<acc\>	^Ortaq<n><acc>/Ortag<n><acc>$
+      3 #nere\<prn\>\<qst\>\<pl\>\<loc\>\/hara\<prn\>\<qst\>\<pl\>\<loc\>	^nere<prn><qst><pl><loc>/hara<prn><qst><pl><loc>$
+      3 #nəqliyyat\<n\>\<p3s\>\<loc\>\<ki\>\/daşıma\<n\>\<p3s\>\<loc\>\<ki\>	^nəqliyyat<n><p3s><loc><ki>/daşıma<n><p3s><loc><ki>$
+      3 #nəqliyyat\<n\>\<dat\>\/daşıma\<n\>\<dat\>	^nəqliyyat<n><dat>/daşıma<n><dat>$
+      3 #məsuliyyət\<n\>\<pl\>\<p3s\>\/öhdəçilik\<n\>\<pl\>\<p3s\>	^məsuliyyət<n><pl><p3s>/öhdəçilik<n><pl><p3s>$
+      3 #məsuliyyət\<n\>\<pl\>\<abl\>\/öhdəçilik\<n\>\<pl\>\<abl\>	^məsuliyyət<n><pl><abl>/öhdəçilik<n><pl><abl>$
+      3 #məsuliyyət\<n\>\<p3p\>\<ins\>\/cavabdehlik\<n\>\<p3p\>\<ins\>	^məsuliyyət<n><p3p><ins>/cavabdehlik<n><p3p><ins>$
+      3 #məsuliyyət\<n\>\<p3p\>\<dat\>\/öhdəçilik\<n\>\<p3p\>\<dat\>	^məsuliyyət<n><p3p><dat>/öhdəçilik<n><p3p><dat>$
+      3 #Məsuliyyət\<n\>\<p3p\>\<acc\>\/Öhdəçilik\<n\>\<p3p\>\<acc\>	^Məsuliyyət<n><p3p><acc>/Öhdəçilik<n><p3p><acc>$
+      3 #məsuliyyət\<n\>\<acc\>\<3s\>\<dir\>\/cavabdehlik\<n\>\<acc\>\<3s\>\<dir\>	^məsuliyyət<n><acc><3s><dir>/cavabdehlik<n><acc><3s><dir>$
+      3 #imza\<n\>\<pl\>\<p3s\>\<gen\>\/əmalət\<n\>\<pl\>\<p3s\>\<gen\>	^imza<n><pl><p3s><gen>/əmalət<n><pl><p3s><gen>$
+      3 #imza\<n\>\<pl\>\<p3s\>\<abl\>\/əmalət\<n\>\<pl\>\<p3s\>\<abl\>	^imza<n><pl><p3s><abl>/əmalət<n><pl><p3s><abl>$
+      3 #hangi\<prn\>\<qst\>\<pl\>\<p3s\>\<gen\>\/hansı\<prn\>\<qst\>\<pl\>\<p3s\>\<gen\>	^hangi<prn><qst><pl><p3s><gen>/hansı<prn><qst><pl><p3s><gen>$
+   238 /tmp/tr-az.multiform
+   260 /tmp/tr-az.multibidix
+ 11793 /tmp/tr-az.tagmismatch
