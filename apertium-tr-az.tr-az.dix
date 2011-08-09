@@ -2704,7 +2704,6 @@
     <e><p><l>vücut</l><r>vücud</r></p><par n="nominal"/></e>
     <e><p><l>vurgu</l><r>vurğu</r></p><par n="nominal"/></e>
     <e><p><l>yaba</l><r>yaba</r></p><par n="nominal"/></e>
-    <e><p><l>yabancı</l><r>xarici</r></p><par n="nominal"/></e>
     <e><p><l>yadigar</l><r>yadigar</r></p><par n="nominal"/></e>
     <e><p><l>yağcı</l><r>yaltag</r></p><par n="nominal"/></e>
     <e><p><l>yağ</l><r>yağ</r></p><par n="nominal"/></e>
@@ -5732,9 +5731,9 @@
     <e><p><l>Stalin<s n="np"/></l><r>Stalin<s n="np"/></r></p></e> <!-- Cog.Sg -->
     <e><p><l>Tito<s n="np"/></l><r>Tito<s n="np"/></r></p></e> <!-- Cog.Sg -->
     <e><p><l>Yeltsin<s n="np"/></l><r>Yeltsin<s n="np"/></r></p></e> <!-- Cog.Sg -->
-    <e><p><l>Erdoğan<s n="np"/></l><r>Ərdoğan<s n="np"/></r></p></e> <!-- Cog.Sg -->
+    <e><p><l>Erdoğan<s n="np"/><s n="cog"/></l><r>Ərdoğan<s n="np"/></r></p></e> <!-- Cog.Sg -->
     <e><p><l>Tayyip<s n="np"/></l><r>Tayyib<s n="np"/></r></p></e> <!-- Nom.Sg -->
-    <e><p><l>Emine<s n="np"/></l><r>Əmine<s n="np"/></r></p></e> <!-- Nom.Sg -->
+    <e><p><l>Emine<s n="np"/><s n="ant"/></l><r>Əmine<s n="np"/></r></p></e> <!-- Nom.Sg -->
     <e><p><l>İlgi<s n="np"/></l><r>İlgi<s n="np"/></r></p></e> <!-- Nom.Sg -->
     <e><p><l>Filistin<s n="np"/></l><r>Fələstin<s n="np"/></r></p></e> <!-- Nom.Sg -->
     <e><p><l>Osman<s n="np"/></l><r>Osman<s n="np"/></r></p></e> <!-- Nom.Sg -->
