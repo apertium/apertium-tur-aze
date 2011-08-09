@@ -634,7 +634,6 @@ REMOVE Post IF (NOT -1 N) ;
 REMOVE Prc/acak IF (NOT 0 ABS); 
 ## "Yaptıkları her şeyi not ediyorum; bir arkadaşlık ilişkimiz var, onlar benim [0]gelecekteki çalışma arkadaşlarım." diyor.
 
-SELECT NP IF (1 NP) (0 ABS) (0 ABS) ;
 
 REMOVE Dat IF (1 PUNCT) ;
 
