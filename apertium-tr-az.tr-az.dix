@@ -287,7 +287,7 @@
    
 
  <!-- SECTION: Nouns -->
-     <e><p><l>havacılık</l><r>Aviasiya</r></p><par n="nominal"/></e>
+     <e><p><l>havacılık</l><r>aviasiya</r></p><par n="nominal"/></e>
 
     <e><p><l>yer</l><r>yer</r></p><par n="nominal"/></e>
     <e><p><l>ön</l><r>ön</r></p><par n="nominal"/></e>
@@ -4047,7 +4047,7 @@
     <e><p><l>muhtemel</l><r>ehtimali</r></p><par n="nominal"/></e>
     <e><p><l>menkul</l><r>hərəkətsiz</r></p><par n="nominal"/></e>
     <e><p><l>mecbur</l><r>məcbur</r></p><par n="nominal"/></e>
-    <e><p><l>makedonca</l><r>Makedoniyaca</r></p><par n="nominal"/></e>
+    <e><p><l>makedonca</l><r>makedoniyaca</r></p><par n="nominal"/></e>
     <e><p><l>kuzeydoğu</l><r>şimal-şərq</r></p><par n="nominal"/></e>
     <e><p><l>kablosuz</l><r>simsiz</r></p><par n="nominal"/></e>
     <e><p><l>ters</l><r>tərs</r></p><par n="nominal"/></e>
@@ -4413,7 +4413,7 @@
     <e><p><l>mağrur</l><r>məğrur</r></p><par n="nominal"/></e>
     <e><p><l>kürk</l><r>kürk</r></p><par n="nominal"/></e>
     <e><p><l>kullanışlı</l><r>rahat</r></p><par n="nominal"/></e>
-    <e><p><l>küçükbaş</l><r>Qoyun</r></p><par n="nominal"/></e>
+    <e><p><l>küçükbaş</l><r>qoyun</r></p><par n="nominal"/></e>
     <e><p><l>küçücük</l><r>kiçik</r></p><par n="nominal"/></e>
     <e><p><l>konjonktürel</l><r>konjonktürel</r></p><par n="nominal"/></e>
     <e><p><l>kibar</l><r>nəzakətli</r></p><par n="nominal"/></e>
@@ -4650,7 +4650,7 @@
     <e><p><l>kulübe</l><r>daxma</r></p><par n="nominal"/></e>
     <e><p><l>kros</l><r>elm</r></p><par n="nominal"/></e>
     <e><p><l>kitle</l><r>kütləvi</r></p><par n="nominal"/></e>
-    <e><p><l>kerim</l><r>Kərim</r></p><par n="nominal"/></e>
+    <e><p><l>kerim</l><r>kərim</r></p><par n="nominal"/></e>
     <e><p><l>havuz</l><r>hovuz</r></p><par n="nominal"/></e>
     <e><p><l>fert</l><r>fərd</r></p><par n="nominal"/></e>
     <e><p><l>fazilet</l><r>fəzilət</r></p><par n="nominal"/></e>
@@ -4819,7 +4819,7 @@
     <e><p><l>olimpik</l><r>olimpik</r></p><par n="nominal"/></e>
     <e><p><l>mozaik</l><r>mozaika</r></p><par n="nominal"/></e>
     <e><p><l>motosiklet</l><r>motosiklet</r></p><par n="nominal"/></e>
-    <e><p><l>maslahatgüzar</l><r>Maslahatgüzar</r></p><par n="nominal"/></e>
+    <e><p><l>maslahatgüzar</l><r>maslahatgüzar</r></p><par n="nominal"/></e>
     <e><p><l>lokomotif</l><r>lokomotiv</r></p><par n="nominal"/></e>
     <e><p><l>kot</l><r>cins</r></p><par n="nominal"/></e>
     <e><p><l>kızkardeş</l><r>bacı</r></p><par n="nominal"/></e>
@@ -4860,7 +4860,7 @@
     <e><p><l>kötülük</l><r>pislik</r></p><par n="nominal"/></e>
     <e><p><l>kordon</l><r>kordon</r></p><par n="nominal"/></e>
     <e><p><l>karnaval</l><r>karnaval</r></p><par n="nominal"/></e>
-    <e><p><l>işbaş</l><r> işbaş</r></p><par n="nominal"/></e>
+    <e><p><l>işbaş</l><r>işbaş</r></p><par n="nominal"/></e>
     <e><p><l>ibraz</l><r>məlumat</r></p><par n="nominal"/></e>
     <e><p><l>hint</l><r>hindu</r></p><par n="nominal"/></e>
     <e><p><l>hayvanat</l><r>heyvanat</r></p><par n="nominal"/></e>
@@ -4969,7 +4969,7 @@
     <e><p><l>organik</l><r>üzvi</r></p><par n="nominal"/></e>
     <e><p><l>ödenek</l><r>qrant</r></p><par n="nominal"/></e>
     <e><p><l>mutasyon</l><r>mutasiya</r></p><par n="nominal"/></e>
-    <e><p><l>neolitik</l><r>Neolit</r></p><par n="nominal"/></e>
+    <e><p><l>neolitik</l><r>neolit</r></p><par n="nominal"/></e>
     <e><p><l>müfrez</l><r>müfreze</r></p><par n="nominal"/></e>
     <e><p><l>minimum</l><r>minimum</r></p><par n="nominal"/></e>
     <e><p><l>meteoroloji</l><r>meteorologiya</r></p><par n="nominal"/></e>
@@ -4997,7 +4997,7 @@
     <e><p><l>çar</l><r>Çar</r></p><par n="nominal"/></e>
     <e><p><l>biyolog</l><r>bioloq</r></p><par n="nominal"/></e>
     <e><p><l>birliktelik</l><r>birlikdəlik</r></p><par n="nominal"/></e>
-    <e><p><l>batılı</l><r>Qərb</r></p><par n="nominal"/></e>
+    <e><p><l>batılı</l><r>qərb</r></p><par n="nominal"/></e>
     <e><p><l>başkomutan</l><r>baş<b/>komandan</r></p><par n="nominal"/></e>
     <e><p><l>baro</l><r>bar</r></p><par n="nominal"/></e>
     <e><p><l>ayırt</l><r>ayırt</r></p><par n="nominal"/></e>
@@ -5021,7 +5021,7 @@
     <e><p><l>psikolog</l><r>psixoloq</r></p><par n="nominal"/></e>
     <e><p><l>peşin</l><r>nağd</r></p><par n="nominal"/></e>
     <e><p><l>patrikhane</l><r>patriarxiya</r></p><par n="nominal"/></e>
-    <e><p><l>oyluk</l><r>Oylum</r></p><par n="nominal"/></e>
+    <e><p><l>oyluk</l><r>oylum</r></p><par n="nominal"/></e>
     <e><p><l>ördek</l><r>ördək</r></p><par n="nominal"/></e>
     <e><p><l>oligarşi</l><r>oliqarxiya</r></p><par n="nominal"/></e>
     <e><p><l>öğlen</l><r>günorta</r></p><par n="nominal"/></e>
@@ -5042,9 +5042,9 @@
     <e><p><l>kilovat</l><r>kilovatt</r></p><par n="nominal"/></e>
     <e><p><l>kilometrekare</l><r>kvadrat<b/>kilometr</r></p><par n="nominal"/></e>
     <e><p><l>katalizör</l><r>katalizator</r></p><par n="nominal"/></e>
-    <e><p><l>kapıkule</l><r>Kapıkule</r></p><par n="nominal"/></e>
+    <e><p><l>kapıkule</l><r>kapıkule</r></p><par n="nominal"/></e>
     <e><p><l>kanto</l><r>kanto</r></p><par n="nominal"/></e>
-    <e><p><l>kalaşnikof</l><r>Kalaşnikov<b/>avtomat</r></p><par n="nominal"/></e>
+    <e><p><l>kalaşnikof</l><r>kalaşnikov<b/>avtomat</r></p><par n="nominal"/></e>
     <e><p><l>kabuk</l><r>qabıq</r></p><par n="nominal"/></e>
     <e><p><l>ilköğretim</l><r>ibtidai<b/>təhsil</r></p><par n="nominal"/></e>
     <e><p><l>gözyaş</l><r>gözyaş</r></p><par n="nominal"/></e>
@@ -5169,8 +5169,8 @@
     <e><p><l>kubbe</l><r>qübbə</r></p><par n="nominal"/></e>
     <e><p><l>kripto</l><r>kripto</r></p><par n="nominal"/></e>
     <e><p><l>kostüm</l><r>kostyum</r></p><par n="nominal"/></e>
-    <e><p><l>kontrolör</l><r>Kontrolör</r></p><par n="nominal"/></e>
-    <e><p><l>kızılhaç</l><r>Qızıl<b/>Xaç</r></p><par n="nominal"/></e>
+    <e><p><l>kontrolör</l><r>kontrolör</r></p><par n="nominal"/></e>
+    <e><p><l>kızılhaç</l><r>qızıl<b/>haç</r></p><par n="nominal"/></e>
     <e><p><l>kıymet</l><r>qiymət</r></p><par n="nominal"/></e>
     <e><p><l>kil</l><r>gil</r></p><par n="nominal"/></e>
     <e><p><l>karikatürist</l><r>karikaturaçı</r></p><par n="nominal"/></e>
@@ -5188,7 +5188,7 @@
     <e><p><l>hububat</l><r>taxıl</r></p><par n="nominal"/></e>
     <e><p><l>hınç</l><r>qisas</r></p><par n="nominal"/></e>
     <e><p><l>hidrojen</l><r>hidrogen</r></p><par n="nominal"/></e>
-    <e><p><l>hepatit</l><r>Hepatit</r></p><par n="nominal"/></e>
+    <e><p><l>hepatit</l><r>hepatit</r></p><par n="nominal"/></e>
     <e><p><l>güpegündüz</l><r>gündüz</r></p><par n="nominal"/></e>
     <e><p><l>güdü</l><r>motiv</r></p><par n="nominal"/></e>
     <e><p><l>görü</l><r>intuisiya</r></p><par n="nominal"/></e>

@@ -13,26 +13,26 @@ sys.stdout = codecs.getwriter('utf-8')(sys.stdout);
 sys.stderr = codecs.getwriter('utf-8')(sys.stderr);
 
 tag_files = {
-	'adjectives': '<adj>',
+	'adjectives.dix': '<adj>',
 	'adverbs.dix': '<adv>',
-	'cnjadv': '<cnjadv>',
-	'cnjcoo': '<cnjcoo>',
-	'cnjsub': '<cnjsub>',
-	'det': '<det>',
-	'interjections': '<ij>',
-	'nouns': '<n>',
-	'pn_acr': '<np><acr>',
-	'pn_ant': '<np><ant>',
-	'pn_cog': '<np><cog>',
-	'pn_org': '<np><org>',
-	'postpositions': '<postp>',
-	'postpositions_infl': '<postp>',
-	'pronouns': '<prn>',
-	'proper_nouns': '<np>',
-	'toponyms': '<np><top>',
-	'verbs': '<v>',
-	'verbs_iv': '<v><iv>',
-	'verbs_tv': '<v><tv>'
+	'cnjadv.dix': '<cnjadv>',
+	'cnjcoo.dix': '<cnjcoo>',
+	'cnjsub.dix': '<cnjsub>',
+	'det.dix': '<det>',
+	'interjections.dix': '<ij>',
+	'nouns.dix': '<n>',
+	'pn_acr.dix': '<np><acr>',
+	'pn_ant.dix': '<np><ant>',
+	'pn_cog.dix': '<np><cog>',
+	'pn_org.dix': '<np><org>',
+	'postpositions.dix': '<postp>',
+	'postpositions_infl.dix': '<postp>',
+	'pronouns.dix': '<prn>',
+	'proper_nouns.dix': '<np>',
+	'toponyms.dix': '<np><top>',
+	'verbs.dix': '<v>',
+	'verbs_iv.dix': '<v><iv>',
+	'verbs_tv.dix': '<v><tv>'
 };
 
 tags_stems = {};
@@ -70,6 +70,7 @@ for line in retval[1].split('\n'): #{
 		tags_stems[tags] = [];
 	#}
 	tags_stems[tags].append(lema);
+	print '~' , lema ; 
 #}
 
 for tags in tags_stems.keys(): #{
