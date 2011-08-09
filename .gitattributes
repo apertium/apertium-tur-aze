@@ -12,7 +12,6 @@
 /az-tr.prob -text svneol=unset#unset
 /configure.ac -text
 dev/bidix/bidix-with-context.sh -text
-dev/bidix/context_nouns.txt -text
 dev/bidix/pending_adjectives.txt -text
 dev/bidix/pending_adverbs.txt -text
 dev/bidix/pending_conjunctions.txt -text
