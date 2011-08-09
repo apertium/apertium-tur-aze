@@ -5626,7 +5626,7 @@
     <e><p><l>Ingiltere<s n="np"/><s n="top"/></l><r>İngiltərə<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Irak<s n="np"/><s n="top"/></l><r>İraq<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Iran<s n="np"/><s n="top"/></l><r>İran<s n="np"/></r></p></e> <!-- Top -->
-    <e><p><l>Ispanya<s n="n"/></l><r>İspaniya<s n="n"/></r></p></e> <!-- Top -->
+    <e><p><l>Ispanya<s n="np"/></l><r>İspaniya<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Israil<s n="np"/><s n="top"/></l><r>İsrail<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Istanbul<s n="np"/><s n="top"/></l><r>İstanbul<s n="np"/></r></p></e> <!-- Top -->
     <e><p><l>Jakarta<s n="np"/><s n="top"/></l><r>Cakarta<s n="np"/></r></p></e> <!-- Top -->
@@ -5795,7 +5795,6 @@
     <e><p><l>George<s n="np"/></l><r>George<s n="np"/></r></p></e>
     <e><p><l>Kürdistan<s n="np"/></l><r>Kürdistan<s n="np"/></r></p></e>
     <e><p><l>Fransız<s n="np"/></l><r>Fransız<s n="np"/></r></p></e>
-    <e><p><l>LAHEY<s n="np"/></l><r>LAHEY<s n="np"/></r></p></e>
     <e><p><l>Lahey<s n="np"/></l><r>Lahey<s n="np"/></r></p></e>
     <e><p><l>Viyana<s n="np"/></l><r>Viyana<s n="np"/></r></p></e>
     <e><p><l>Talat<s n="np"/></l><r>Talat<s n="np"/></r></p></e>
@@ -5805,7 +5804,6 @@
     <e><p><l>Karadeniz<s n="np"/></l><r>Karadeniz<s n="np"/></r></p></e>
     <e><p><l>Arnavut<s n="np"/></l><r>Arnavut<s n="np"/></r></p></e>
     <e><p><l>Arnavutluk<s n="np"/></l><r>Arnavutluk<s n="np"/></r></p></e>
-    <e><p><l>WASHINGTON<s n="np"/></l><r>WASHINGTON<s n="np"/></r></p></e>
     <e><p><l>Mehmet<s n="np"/></l><r>Mehmet<s n="np"/></r></p></e>
     <e><p><l>Macar<s n="np"/></l><r>Macar<s n="np"/></r></p></e>
     <e><p><l>İran<s n="np"/></l><r>İran<s n="np"/></r></p></e>
@@ -5836,7 +5834,6 @@
     <e><p><l>Ermeni<s n="np"/></l><r>Ermeni<s n="np"/></r></p></e>
     <e><p><l>Richard<s n="np"/></l><r>Richard<s n="np"/></r></p></e>
     <e><p><l>İstanbul<s n="np"/></l><r>İstanbul<s n="np"/></r></p></e>
-    <e><p><l>İSTANBUL<s n="np"/></l><r>İSTANBUL<s n="np"/></r></p></e>
     <e><p><l>Saraybosna<s n="np"/></l><r>Saraybosna<s n="np"/></r></p></e>
     <e><p><l>İslami<s n="np"/></l><r>İslami<s n="np"/></r></p></e>
     <e><p><l>Verdi<s n="np"/></l><r>Verdi<s n="np"/></r></p></e>
@@ -5906,7 +5903,6 @@
     <e><p><l>Jan<s n="np"/></l><r>Jan<s n="np"/></r></p></e>
     <e><p><l>Çinli<s n="np"/></l><r>Çinli<s n="np"/></r></p></e>
     <e><p><l>Arjantin<s n="np"/></l><r>Arjantin<s n="np"/></r></p></e>
-    <e><p><l>ROMA<s n="np"/></l><r>ROMA<s n="np"/></r></p></e>
     <e><p><l>Özgür<s n="np"/></l><r>Özgür<s n="np"/></r></p></e>
     <e><p><l>Mısır<s n="np"/></l><r>Mısır<s n="np"/></r></p></e>
     <e><p><l>Slovak<s n="np"/></l><r>Slovak<s n="np"/></r></p></e>
@@ -5941,7 +5937,6 @@
     <e><p><l>Nokia<s n="np"/></l><r>Nokia<s n="np"/></r></p></e>
     <e><p><l>Barzani<s n="np"/></l><r>Barzani<s n="np"/></r></p></e>
     <e><p><l>Ordu<s n="np"/></l><r>Ordu<s n="np"/></r></p></e>
-    <e><p><l>MOSTAR<s n="np"/></l><r>MOSTAR<s n="np"/></r></p></e>
     <e><p><l>Konstantin<s n="np"/></l><r>Konstantin<s n="np"/></r></p></e>
     <e><p><l>Fiat<s n="np"/></l><r>Fiat<s n="np"/></r></p></e>
     <e><p><l>Fin<s n="np"/></l><r>Fin<s n="np"/></r></p></e>
@@ -6055,11 +6050,9 @@
     <e><p><l>Karabağ<s n="np"/></l><r>Karabağ<s n="np"/></r></p></e>
     <e><p><l>İlker<s n="np"/></l><r>İlker<s n="np"/></r></p></e>
     <e><p><l>Hasan<s n="np"/></l><r>Hasan<s n="np"/></r></p></e>
-    <e><p><l>Ebu<s n="np"/></l><r>Ebu<s n="np"/></r></p></e>
     <e><p><l>Davos<s n="np"/></l><r>Davos<s n="np"/></r></p></e>
     <e><p><l>Askeri<s n="np"/></l><r>Askeri<s n="np"/></r></p></e>
     <e><p><l>Amerikan<s n="np"/></l><r>Amerikan<s n="np"/></r></p></e>
-    <e><p><l>AKEL<s n="np"/></l><r>AKEL<s n="np"/></r></p></e>
     <e><p><l>Abbas<s n="np"/></l><r>Abbas<s n="np"/></r></p></e>
     <e><p><l>Zorlu<s n="np"/></l><r>Zorlu<s n="np"/></r></p></e>
     <e><p><l>Rıdvan<s n="np"/></l><r>Rıdvan<s n="np"/></r></p></e>
@@ -6088,7 +6081,6 @@
     <e><p><l>Brezilyalı<s n="np"/></l><r>Brezilyalı<s n="np"/></r></p></e>
     <e><p><l>Turkcell<s n="np"/></l><r>Turkcell<s n="np"/></r></p></e>
     <e><p><l>Mehmed<s n="np"/></l><r>Mehmed<s n="np"/></r></p></e>
-    <e><p><l>KALKANDERE<s n="np"/></l><r>KALKANDERE<s n="np"/></r></p></e>
     <e><p><l>Erbakan<s n="np"/></l><r>Erbakan<s n="np"/></r></p></e>
     <e><p><l>Doğan<s n="np"/></l><r>Doğan<s n="np"/></r></p></e>
     <e><p><l>Çanakkale<s n="np"/></l><r>Çanakkale<s n="np"/></r></p></e>
@@ -6124,7 +6116,7 @@
     <e><p><l>Şili<s n="np"/></l><r>Şili<s n="np"/></r></p></e>
     <e><p><l>Şam<s n="np"/></l><r>Şam<s n="np"/></r></p></e>
     <e><p><l>Ramiz<s n="np"/></l><r>Ramiz<s n="np"/></r></p></e>
-    <e><p><l><s n="np"/></l><r><s n="np"/></r></p></e>
+    <e><p><l><s n="np"/></l><r><s n="np"/></r></p></e> <!-- ??? -->
     <e><p><l>Marmaris<s n="np"/></l><r>Marmaris<s n="np"/></r></p></e>
     <e><p><l>Gönül<s n="np"/></l><r>Gönül<s n="np"/></r></p></e>
     <e><p><l>Genelkurmay<s n="np"/></l><r>Genelkurmay<s n="np"/></r></p></e>
@@ -6170,7 +6162,6 @@
     <e><p><l>Şişli<s n="np"/></l><r>Şişli<s n="np"/></r></p></e>
     <e><p><l>Serdar<s n="np"/></l><r>Serdar<s n="np"/></r></p></e>
     <e><p><l>Sarıgül<s n="np"/></l><r>Sarıgül<s n="np"/></r></p></e>
-    <e><p><l>Oxford<s n="np"/></l><r>Oxford<s n="np"/></r></p></e>
     <e><p><l><s n="np"/></l><r><s n="np"/></r></p></e>
     <e><p><l>Mevlana<s n="np"/></l><r>Mevlana<s n="np"/></r></p></e>
     <e><p><l>Metin<s n="np"/></l><r>Metin<s n="np"/></r></p></e>
@@ -6254,11 +6245,9 @@
     <e><p><l>Bala<s n="np"/></l><r>Bala<s n="np"/></r></p></e>
     <e><p><l>Attila<s n="np"/></l><r>Attila<s n="np"/></r></p></e>
     <e><p><l>Aslan<s n="np"/></l><r>Aslan<s n="np"/></r></p></e>
-    <e><p><l>ANTALYA<s n="np"/></l><r>ANTALYA<s n="np"/></r></p></e>
     <e><p><l>Alparslan<s n="np"/></l><r>Alparslan<s n="np"/></r></p></e>
     <e><p><l>Aksu<s n="np"/></l><r>Aksu<s n="np"/></r></p></e>
     <e><p><l>Akdağ<s n="np"/></l><r>Akdağ<s n="np"/></r></p></e>
-    <e><p><l>WASHİNGTON<s n="np"/></l><r>WASHİNGTON<s n="np"/></r></p></e>
     <e><p><l>Samir<s n="np"/></l><r>Samir<s n="np"/></r></p></e>
     <e><p><l>Olgaç<s n="np"/></l><r>Olgaç<s n="np"/></r></p></e>
     <e><p><l>Oktay<s n="np"/></l><r>Oktay<s n="np"/></r></p></e>
@@ -6282,7 +6271,6 @@
     <e><p><l>Erzincan<s n="np"/></l><r>Erzincan<s n="np"/></r></p></e>
     <e><p><l>Elif<s n="np"/></l><r>Elif<s n="np"/></r></p></e>
     <e><p><l>Elazığ<s n="np"/></l><r>Elazığ<s n="np"/></r></p></e>
-    <e><p><l>DAVOS<s n="np"/></l><r>DAVOS<s n="np"/></r></p></e>
     <e><p><l>Cemal<s n="np"/></l><r>Cemal<s n="np"/></r></p></e>
     <e><p><l>Çağrı<s n="np"/></l><r>Çağrı<s n="np"/></r></p></e>
     <e><p><l>Caddesi<s n="np"/></l><r>Caddesi<s n="np"/></r></p></e>
@@ -6306,7 +6294,6 @@
     <e><p><l>Tola<s n="np"/></l><r>Tola<s n="np"/></r></p></e>
     <e><p><l>Tarkan<s n="np"/></l><r>Tarkan<s n="np"/></r></p></e>
     <e><p><l>Tara<s n="np"/></l><r>Tara<s n="np"/></r></p></e>
-    <e><p><l>TAHRAN<s n="np"/></l><r>TAHRAN<s n="np"/></r></p></e>
     <e><p><l>Süreyya<s n="np"/></l><r>Süreyya<s n="np"/></r></p></e>
     <e><p><l>Sivas<s n="np"/></l><r>Sivas<s n="np"/></r></p></e>
     <e><p><l>Sinop<s n="np"/></l><r>Sinop<s n="np"/></r></p></e>
@@ -6322,7 +6309,6 @@
     <e><p><l>Polat<s n="np"/></l><r>Polat<s n="np"/></r></p></e>
     <e><p><l>Pazar<s n="np"/></l><r>Pazar<s n="np"/></r></p></e>
     <e><p><l>Öymen<s n="np"/></l><r>Öymen<s n="np"/></r></p></e>
-    <e><p><l>MINA<s n="np"/></l><r>MINA<s n="np"/></r></p></e>
     <e><p><l>Mesud<s n="np"/></l><r>Mesud<s n="np"/></r></p></e>
     <e><p><l>Meryem<s n="np"/></l><r>Meryem<s n="np"/></r></p></e>
     <e><p><l>Manchester<s n="np"/></l><r>Manchester<s n="np"/></r></p></e>
@@ -6382,7 +6368,6 @@
     <e><p><l>Kuşadası<s n="np"/></l><r>Kuşadası<s n="np"/></r></p></e>
     <e><p><l>Kuran<s n="np"/></l><r>Kuran<s n="np"/></r></p></e>
     <e><p><l>Körfez<s n="np"/></l><r>Körfez<s n="np"/></r></p></e>
-    <e><p><l>KONYA<s n="np"/></l><r>KONYA<s n="np"/></r></p></e>
     <e><p><l>Kerim<s n="np"/></l><r>Kerim<s n="np"/></r></p></e>
     <e><p><l>İrfan<s n="np"/></l><r>İrfan<s n="np"/></r></p></e>
     <e><p><l>İmam<s n="np"/></l><r>İmam<s n="np"/></r></p></e>
@@ -6403,7 +6388,6 @@
     <e><p><l>Çevik<s n="np"/></l><r>Çevik<s n="np"/></r></p></e>
     <e><p><l>Cevdet<s n="np"/></l><r>Cevdet<s n="np"/></r></p></e>
     <e><p><l>Cevat<s n="np"/></l><r>Cevat<s n="np"/></r></p></e>
-    <e><p><l>CENEVRE<s n="np"/></l><r>CENEVRE<s n="np"/></r></p></e>
     <e><p><l>Çek<s n="np"/></l><r>Çek<s n="np"/></r></p></e>
     <e><p><l>Çankaya<s n="np"/></l><r>Çankaya<s n="np"/></r></p></e>
     <e><p><l>Cafer<s n="np"/></l><r>Cafer<s n="np"/></r></p></e>
@@ -6459,7 +6443,6 @@
     <e><p><l>Levent<s n="np"/></l><r>Levent<s n="np"/></r></p></e>
     <e><p><l>Kuvvet<s n="np"/></l><r>Kuvvet<s n="np"/></r></p></e>
     <e><p><l>Kuveyt<s n="np"/></l><r>Kuveyt<s n="np"/></r></p></e>
-    <e><p><l>KUDÜS<s n="np"/></l><r>KUDÜS<s n="np"/></r></p></e>
     <e><p><l>Koç<s n="np"/></l><r>Koç<s n="np"/></r></p></e>
     <e><p><l>Kennedy<s n="np"/></l><r>Kennedy<s n="np"/></r></p></e>
     <e><p><l>Kennedy<s n="np"/></l><r>Kennedy<s n="np"/></r></p></e>
@@ -6494,7 +6477,6 @@
     <e><p><l>Dede<s n="np"/></l><r>Dede<s n="np"/></r></p></e>
     <e><p><l>Ceylan<s n="np"/></l><r>Ceylan<s n="np"/></r></p></e>
     <e><p><l>Cevad<s n="np"/></l><r>Cevad<s n="np"/></r></p></e>
-    <e><p><l>BURGAZ<s n="np"/></l><r>BURGAZ<s n="np"/></r></p></e>
     <e><p><l>Belge<s n="np"/></l><r>Belge<s n="np"/></r></p></e>
     <e><p><l>Belene<s n="np"/></l><r>Belene<s n="np"/></r></p></e>
     <e><p><l>Bağcılar<s n="np"/></l><r>Bağcılar<s n="np"/></r></p></e>
@@ -6520,7 +6502,6 @@
     <e><p><l>Veysel<s n="np"/></l><r>Veysel<s n="np"/></r></p></e>
     <e><p><l>Vekil<s n="np"/></l><r>Vekil<s n="np"/></r></p></e>
     <e><p><l>Van<s n="np"/></l><r>Van<s n="np"/></r></p></e>
-    <e><p><l>VAN<s n="np"/></l><r>VAN<s n="np"/></r></p></e>
     <e><p><l>Uygur<s n="np"/></l><r>Uygur<s n="np"/></r></p></e>
     <e><p><l>Ulu<s n="np"/></l><r>Ulu<s n="np"/></r></p></e>
     <e><p><l>Ülkem<s n="np"/></l><r>Ülkem<s n="np"/></r></p></e>
@@ -6712,7 +6693,6 @@
     <e><p><l>Saray<s n="np"/></l><r>Saray<s n="np"/></r></p></e>
     <e><p><l>Sanat<s n="np"/></l><r>Sanat<s n="np"/></r></p></e>
     <e><p><l>Samsun<s n="np"/></l><r>Samsun<s n="np"/></r></p></e>
-    <e><p><l>ŞAM<s n="np"/></l><r>ŞAM<s n="np"/></r></p></e>
     <e><p><l>Şakir<s n="np"/></l><r>Şakir<s n="np"/></r></p></e>
     <e><p><l>Sadri<s n="np"/></l><r>Sadri<s n="np"/></r></p></e>
     <e><p><l>Sadak<s n="np"/></l><r>Sadak<s n="np"/></r></p></e>
@@ -6825,13 +6805,10 @@
     <e><p><l>Datça<s n="np"/></l><r>Datça<s n="np"/></r></p></e>
     <e><p><l>Coşkun<s n="np"/></l><r>Coşkun<s n="np"/></r></p></e>
     <e><p><l>Çoğun<s n="np"/></l><r>Çoğun<s n="np"/></r></p></e>
-    <e><p><l>CEM<s n="np"/></l><r>CEM<s n="np"/></r></p></e>
     <e><p><l>Celaleddin<s n="np"/></l><r>Celaleddin<s n="np"/></r></p></e>
     <e><p><l>Cebeci<s n="np"/></l><r>Cebeci<s n="np"/></r></p></e>
     <e><p><l>Cavid<s n="np"/></l><r>Cavid<s n="np"/></r></p></e>
-    <e><p><l>ÇANAKKALE<s n="np"/></l><r>ÇANAKKALE<s n="np"/></r></p></e>
     <e><p><l>Bursa<s n="np"/></l><r>Bursa<s n="np"/></r></p></e>
-    <e><p><l>BURSA<s n="np"/></l><r>BURSA<s n="np"/></r></p></e>
     <e><p><l>Burak<s n="np"/></l><r>Burak<s n="np"/></r></p></e>
     <e><p><l>Brandenburg<s n="np"/></l><r>Brandenburg<s n="np"/></r></p></e>
     <e><p><l>Bostancı<s n="np"/></l><r>Bostancı<s n="np"/></r></p></e>
@@ -6877,7 +6854,6 @@
     <e><p><l>Abasıyanık<s n="np"/></l><r>Abasıyanık<s n="np"/></r></p></e>
     <e><p><l>Zürih<s n="np"/></l><r>Zürih<s n="np"/></r></p></e>
     <e><p><l>Zülküf<s n="np"/></l><r>Zülküf<s n="np"/></r></p></e>
-    <e><p><l>ZONGULDAK<s n="np"/></l><r>ZONGULDAK<s n="np"/></r></p></e>
     <e><p><l>Zirve<s n="np"/></l><r>Zirve<s n="np"/></r></p></e>
     <e><p><l>Zeytinburnu<s n="np"/></l><r>Zeytinburnu<s n="np"/></r></p></e>
     <e><p><l>Zehra<s n="np"/></l><r>Zehra<s n="np"/></r></p></e>
@@ -6946,7 +6922,6 @@
     <e><p><l>Tan<s n="np"/></l><r>Tan<s n="np"/></r></p></e>
     <e><p><l>Tanır<s n="np"/></l><r>Tanır<s n="np"/></r></p></e>
     <e><p><l>Tail<s n="np"/></l><r>Tail<s n="np"/></r></p></e>
-    <e><p><l>Tahran<s n="np"/></l><r>Tahran<s n="np"/></r></p></e>
     <e><p><l>Süveyş<s n="np"/></l><r>Süveyş<s n="np"/></r></p></e>
     <e><p><l>Susurluk<s n="np"/></l><r>Susurluk<s n="np"/></r></p></e>
     <e><p><l>Süryani<s n="np"/></l><r>Süryani<s n="np"/></r></p></e>
@@ -7030,7 +7005,7 @@
     <e><p><l>Öztrak<s n="np"/></l><r>Öztrak<s n="np"/></r></p></e>
     <e><p><l>Özlem<s n="np"/></l><r>Özlem<s n="np"/></r></p></e>
     <e><p><l>Özkaya<s n="np"/></l><r>Özkaya<s n="np"/></r></p></e>
-    <e><p><l>OXFORD<s n="np"/></l><r>OXFORD<s n="np"/></r></p></e>
+    <e><p><l>Oxford<s n="np"/></l><r>Oxford<s n="np"/></r></p></e>
     <e><p><l>Ovacık<s n="np"/></l><r>Ovacık<s n="np"/></r></p></e>
     <e><p><l>Otosan<s n="np"/></l><r>Otosan<s n="np"/></r></p></e>
     <e><p><l>Osmaniye<s n="np"/></l><r>Osmaniye<s n="np"/></r></p></e>
@@ -7305,7 +7280,8 @@
     <e><p><l>Edibe<s n="np"/></l><r>Edibe<s n="np"/></r></p></e>
     <e><p><l>Ecmel<s n="np"/></l><r>Ecmel<s n="np"/></r></p></e>
     <e><p><l>Ecemiş<s n="np"/></l><r>Ecemiş<s n="np"/></r></p></e>
-    <e><p><l>EBU<s n="np"/></l><r>EBU<s n="np"/></r></p></e>
+    <!--<e><p><l>EBU<s n="np"/></l><r>EBU<s n="np"/></r></p></e>-->
+    <e><p><l>Ebu<s n="np"/></l><r>Ebu<s n="np"/></r></p></e>
     <e><p><l>Düzgün<s n="np"/></l><r>Düzgün<s n="np"/></r></p></e>
     <e><p><l>Durul<s n="np"/></l><r>Durul<s n="np"/></r></p></e>
     <e><p><l>Durukan<s n="np"/></l><r>Durukan<s n="np"/></r></p></e>
@@ -7327,7 +7303,6 @@
     <e><p><l>Çiller<s n="np"/></l><r>Çiller<s n="np"/></r></p></e>
     <e><p><l>Çilingiroğlu<s n="np"/></l><r>Çilingiroğlu<s n="np"/></r></p></e>
     <e><p><l>Cezmi<s n="np"/></l><r>Cezmi<s n="np"/></r></p></e>
-    <e><p><l>CEYHAN<s n="np"/></l><r>CEYHAN<s n="np"/></r></p></e>
     <e><p><l>Çevrim<s n="np"/></l><r>Çevrim<s n="np"/></r></p></e>
     <e><p><l>Çeşme<s n="np"/></l><r>Çeşme<s n="np"/></r></p></e>
     <e><p><l>Cesaret<s n="np"/></l><r>Cesaret<s n="np"/></r></p></e>
@@ -7400,7 +7375,6 @@
     <e><p><l>Arman<s n="np"/></l><r>Arman<s n="np"/></r></p></e>
     <e><p><l>Arkan<s n="np"/></l><r>Arkan<s n="np"/></r></p></e>
     <e><p><l>Arjantin<s n="np"/></l><r>Arjantin<s n="np"/></r></p></e>
-    <e><p><l>ARIS<s n="np"/></l><r>ARIS<s n="np"/></r></p></e>
     <e><p><l>Aris<s n="np"/></l><r>Aris<s n="np"/></r></p></e>
     <e><p><l>Ardahan<s n="np"/></l><r>Ardahan<s n="np"/></r></p></e>
     <e><p><l>Araç<s n="np"/></l><r>Araç<s n="np"/></r></p></e>
@@ -7430,7 +7404,6 @@
     <e><p><l>Afyon<s n="np"/></l><r>Afyon<s n="np"/></r></p></e>
     <e><p><l>Afyonkarahisar<s n="np"/></l><r>Afyonkarahisar<s n="np"/></r></p></e>
     <e><p><l>Adem<s n="np"/></l><r>Adem<s n="np"/></r></p></e>
-    <e><p><l>ADANA<s n="np"/></l><r>ADANA<s n="np"/></r></p></e>
     <e><p><l>Aca<s n="np"/></l><r>Aca<s n="np"/></r></p></e>
     <e><p><l>AB<s n="np"/></l><r>AB<s n="np"/></r></p></e>
     <e><p><l>Abdülrahman<s n="np"/></l><r>Abdülrahman<s n="np"/></r></p></e>

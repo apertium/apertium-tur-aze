@@ -9,6 +9,7 @@
     
     <def-cat n="np_apos">
       <cat-item tags="np.apos.*"/>
+      <cat-item tags="np.*.apos.*"/>
     </def-cat>
 
 <def-cat n="v_pres">
@@ -59,14 +60,27 @@
       <attr-item tags="np.top"/>
       <attr-item tags="np.al"/>
       <attr-item tags="np.org"/>
+      <attr-item tags="np.cog"/>
       <attr-item tags="np.ant"/>
       <attr-item tags="np.apos"/>
     </def-attr>
     
-    <def-attr n="pers">
-      <attr-item tags="p1"/>
-      <attr-item tags="p2"/>
-      <attr-item tags="p3"/>
+    <def-attr n="poss_pers">
+      <attr-item tags="p1s"/>
+      <attr-item tags="p2s"/>
+      <attr-item tags="p3s"/>
+      <attr-item tags="p1p"/>
+      <attr-item tags="p2p"/>
+      <attr-item tags="p3p"/>
+    </def-attr>
+ 
+    <def-attr n="cop_pers">
+      <attr-item tags="1s"/>
+      <attr-item tags="2s"/>
+      <attr-item tags="3s"/>
+      <attr-item tags="1p"/>
+      <attr-item tags="2p"/>
+      <attr-item tags="3p"/>
     </def-attr>
     
   </section-def-attrs>
