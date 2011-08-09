@@ -60,6 +60,10 @@ LIST Plu = pl ;
 LIST Neg = neg ;
 LIST Cm = cm ("," pnct);
 
+LIST Cog = cog;
+LIST Ant = ant;
+LIST Top = top;
+
 LIST Conju = cm ("," pnct)  (cnjcoo) ;
 
 ##THIS IS USEFUL FOR ENUMERATION (ex. Gianluca, Francis and Jonathan drink too much beer)
@@ -646,3 +650,6 @@ REMOVE Aor IF (1 CV/dik);
 
 #REMOVE Post IF (-1C 
 ## Bir sabah oralardan geçmekte olan bir prens tabutu ve [0]içindeki güzel kızı görmüş.
+
+REMOVE N IF (0C N OR NP) (1C Cog);
+##[0]Murat Arafat geldi
