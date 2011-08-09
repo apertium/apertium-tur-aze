@@ -24,6 +24,7 @@
     <sdef n="ij"       c="Interjection"/>
     <sdef n="pers"       c="Personal"/>
     <sdef n="dem"       c="Demonstrative"/>
+    <sdef n="qst"       c="Interrogative"/>
 
     <sdef n="top"       c="Toponym"/>
     <sdef n="acr"       c="Acronym"/>
