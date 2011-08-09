@@ -13,26 +13,26 @@ sys.stdout = codecs.getwriter('utf-8')(sys.stdout);
 sys.stderr = codecs.getwriter('utf-8')(sys.stderr);
 
 tag_files = {
-	'adjectives': '<adj>',
-	'adverbs': '<adv>',
-	'cnjadv': '<cnjadv>',
-	'cnjcoo': '<cnjcoo>',
-	'cnjsub': '<cnjsub>',
-	'det': '<det>',
-	'interjections': '<ij>',
-	'nouns': '<n>',
-	'pn_acr': '<np><acr>',
-	'pn_ant': '<np><ant>',
-	'pn_cog': '<np><cog>',
-	'pn_org': '<np><org>',
-	'postpositions': '<postp>',
-	'postpositions_infl': '<postp>',
-	'pronouns': '<prn>',
-	'proper_nouns': '<np>',
-	'toponyms': '<np><top>',
-	'verbs': '<v>',
-	'verbs_iv': '<v><iv>',
-	'verbs_tv': '<v><tv>'
+	'adjectives': ['<adj>'],
+	'adverbs': ['<adv>'],
+	'cnjadv': ['<cnjadv>'],
+	'cnjcoo': ['<cnjcoo>'],
+	'cnjsub': ['<cnjsub>'],
+	'det': ['<det>'],
+	'interjections': ['<ij>'],
+	'nouns': ['<n>'],
+	'pn_acr': ['<np><acr>'],
+	'pn_ant': ['<np><ant>'],
+	'pn_cog': ['<np><cog>'],
+	'pn_org': ['<np><org>'],
+	'postpositions': ['<postp>'],
+	'postpositions_infl': ['<postp>'],
+	'pronouns': ['<prn>', '<prn><dem>', '<prn><pers>', '<prn><locp>', '<prn><qst>'],
+	'proper_nouns': ['<np>'],
+	'toponyms': ['<np><top>'],
+	'verbs': ['<v>'],
+	'verbs_iv': ['<v><iv>'],
+	'verbs_tv': ['<v><tv>']
 };
 
 tags_stems = {};
@@ -71,31 +71,36 @@ for f in tag_files.keys(): #{
 	print '\n*' , f.decode('utf-8') + ':';
 	# Read lexicon file and check to see if there is an entry for each line in the bidix	
 
-	if tag_files[f] not in tags_stems: #{
-		continue;
-	#}
 
 	outfile = file(trout + '/lexicon/' + f, 'w+');
-	for line in file(trmorph + '/lexicon/' + f).read().split('\n'): #{
-		if line == '': #{
+	outfile.close();
+	for tag in tag_files[f]: #{
+		if tag not in tags_stems: #{
 			continue;
 		#}
-		lema = '';
-		if line.count('#') > 0: #{
-			lema = line.split('#')[1].strip();
-		else: #{
-			lema = line.strip();
-		#}
-		if lema in tags_stems[tag_files[f]]: #{
-			print '+' , f.decode('utf-8') , lema.decode('utf-8') , line.decode('utf-8');
-			if line.count('\t') > 0: #{
-				outfile.write(line.split('\t')[0] + '\n');
-			else: #{
-				outfile.write(line + '\n');
+
+		outfile = file(trout + '/lexicon/' + f, 'a+');
+		for line in file(trmorph + '/lexicon/' + f).read().split('\n'): #{
+			if line == '': #{
+				continue;
 			#}
-		else: #{
-			print '-' , f.decode('utf-8') , lema.decode('utf-8') , line.decode('utf-8');
+			lema = '';
+			if line.count('#') > 0: #{
+				lema = line.split('#')[1].strip();
+			else: #{
+				lema = line.strip();
+			#}
+			if lema in tags_stems[tag]: #{
+				print '+' , f.decode('utf-8') , lema.decode('utf-8') , line.decode('utf-8');
+				if line.count('\t') > 0: #{
+					outfile.write(line.split('\t')[0] + '\n');
+				else: #{
+					outfile.write(line + '\n');
+				#}
+			else: #{
+				print '-' , f.decode('utf-8') , lema.decode('utf-8') , line.decode('utf-8');
+			#}
 		#}
+		outfile.close();
 	#}
-	outfile.close();
 #}
