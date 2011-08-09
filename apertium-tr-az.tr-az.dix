@@ -175,8 +175,7 @@
     <e><p><l>böyle<s n="prn"/></l><r>belə<s n="prn"/></r></p></e>
     <e><p><l>nere<s n="prn"/></l><r>hara<s n="prn"/></r></p></e>
     <e><p><l>hangi<s n="prn"/></l><r>hansı<s n="prn"/></r></p></e>
-    <e><p><l>şöyle<s n="prn"/></l><r>belə<s n="prn"/></r></p></e>
-    <e><p><l>öyle<s n="prn"/></l><r>elə<s n="prn"/></r></p></e>
+    
 
     <e><p><l>bura<s n="prn"/></l><r>bura<s n="prn"/></r></p></e> <!-- This is dirty as fuck, remove -->
     
@@ -216,9 +215,7 @@
     <e><p><l>bir<s n="det"/></l><r>bir<s n="det"/></r></p></e> <!-- Det -->
 
 
-    <e><p><l>şey<s n="prn"/></l><r>şey<s n="prn"/></r></p></e> <!-- Ind -->
     <e><p><l>bu<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/></r></p></e> <!-- Det -->
-    <e><p><l>başka<s n="prn"/></l><r>başqa<s n="prn"/></r></p></e> <!-- ? -->
 
     <e><p><l>kim<s n="prn"/></l><r>kim<s n="prn"/></r></p></e> <!-- Itg -->
     <e><p><l>ne<s n="prn"/></l><r>nə<s n="prn"/></r></p></e>
@@ -226,12 +223,9 @@
     <e><p><l>şu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e> <!-- Dem -->
 
 
-    <e><p><l>böyle<s n="prn"/></l><r>böyle<s n="prn"/></r></p></e>
     <e><p><l>hangi<s n="prn"/></l><r>hangi<s n="prn"/></r></p></e>
 
     <e><p><l>nere<s n="prn"/></l><r>nere<s n="prn"/></r></p></e>
-    <e><p><l>öyle<s n="prn"/></l><r>belə<s n="prn"/></r></p></e>
-    <e><p><l>şöyle<s n="prn"/></l><r>belə<s n="prn"/></r></p></e>
 
 
 
