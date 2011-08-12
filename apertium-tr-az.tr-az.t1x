@@ -15,6 +15,7 @@
     <def-cat n="np_apos">
       <cat-item tags="np.apos"/>
       <cat-item tags="np.apos.*"/>
+      <cat-item tags="np.*.apos"/>
       <cat-item tags="np.*.apos.*"/>
     </def-cat>
 
