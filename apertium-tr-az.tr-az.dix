@@ -20,11 +20,11 @@
     <sdef n="nexist"   c="nexıst"/>
     <sdef n="not"      c="IS NOT"/>
     <sdef n="q"        c="Question"/>
+    <sdef n="qst"        c="Question"/>
     <sdef n="det"      c="Determinative"/>
     <sdef n="ij"       c="Interjection"/>
     <sdef n="pers"       c="Personal"/>
     <sdef n="dem"       c="Demonstrative"/>
-    <sdef n="qst"       c="Interrogative"/>
     <sdef n="locp"       c="Locative pron"/>
 
     <sdef n="top"       c="Toponym"/>
@@ -46,11 +46,11 @@
     <e><p><l>var<s n="exist"/></l><r>var<s n="exist"/></r></p></e> 
     <e><p><l>değil<s n="not"/></l><r>deyil<s n="not"/></r></p></e>
     <e><p><l>yok<s n="nexist"/></l><r>yox<s n="nexist"/></r></p></e>
-    <e><p><l><s n="q"/></l><r><s n="q"/></r></p></e>
-    <e><p><l>mi<s n="q"/></l><r>mi<s n="q"/></r></p></e>
-    <e><p><l>mu<s n="q"/></l><r>mu<s n="q"/></r></p></e>
-    <e><p><l>mı<s n="q"/></l><r>mı<s n="q"/></r></p></e>
-    <e><p><l>mü<s n="q"/></l><r>mü<s n="q"/></r></p></e>
+    <e><p><l><s n="q"/></l><r><s n="qst"/></r></p></e>
+    <e><p><l>mi<s n="q"/></l><r>mi<s n="qst"/></r></p></e>
+    <e><p><l>mu<s n="q"/></l><r>mu<s n="qst"/></r></p></e>
+    <e><p><l>mı<s n="q"/></l><r>mı<s n="qst"/></r></p></e>
+    <e><p><l>mü<s n="q"/></l><r>mü<s n="qst"/></r></p></e>
     
     
     <!-- SECTION: Interjections -->
