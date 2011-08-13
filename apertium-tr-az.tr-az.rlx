@@ -199,6 +199,7 @@ LIST POST-TEM = ("sırasında"i N PxSg3 loc *3s) ;
 LIST POST-MAK = ("için"i postp) ;
 LIST POST-GEN = ("yakında"i postp) ("ortasında" postp) ("üstünde" postp) ("altında" postp) ;
 
+LIST V-REPORTED-SPEECH = ("aç" v) ;
 
 LIST Aor = t_aor ;
 LIST Past = t_past ;
@@ -652,3 +653,6 @@ REMOVE Aor IF (1 CV/dik);
 
 REMOVE N IF (0C N OR NP) (1C Cog);
 ##[0]Murat Arafat geldi
+
+REMOVE CA IF (0 ("ki"i)) (0 CA OR CS) (-1 V-REPORTED-SPEECH);
+## Gözlerimi açtım [0]ki hastanedeyim.
