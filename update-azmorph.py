@@ -70,7 +70,7 @@ for line in retval[1].split('\n'): #{
 		tags_stems[tags] = [];
 	#}
 	tags_stems[tags].append(lema);
-	print '~' , lema ; 
+	print '~' , lema.decode('utf-8') ; 
 #}
 
 for tags in tags_stems.keys(): #{
