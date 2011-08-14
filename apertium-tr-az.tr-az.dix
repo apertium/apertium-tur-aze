@@ -174,11 +174,11 @@
 
     <e><p><l>kendi<s n="prn"/></l><r>öz<s n="prn"/></r></p></e> <!-- Reflexive -->
 
-    <e><p><l>nere<s n="prn"/><s n="locp"/></l><r>hara<s n="prn"/><s n="locp"/></r></p></e>
-    <e><p><l>hangi<s n="prn"/><s n="qst"/></l><r>hansı<s n="prn"/><s n="qst"/></r></p></e>
+    <e><p><l>nere<s n="prn"/><s n="locp"/></l><r>hara<s n="prn"/></r></p></e>
+    <e><p><l>hangi<s n="prn"/><s n="qst"/></l><r>hansı<s n="prn"/></r></p></e>
     
 
-    <e><p><l>bura<s n="prn"/><s n="locp"/></l><r>bura<s n="prn"/><s n="locp"/></r></p></e> <!-- This is dirty as fuck, remove -->
+    <e><p><l>bura<s n="prn"/><s n="locp"/></l><r>bura<s n="prn"/></r></p></e> 
     
     <e><p><l>bu<s n="det"/></l><r>bu<s n="det"/></r></p></e> <!-- Dem -->
     <e><p><l>bazı<s n="det"/></l><r>bəzi<s n="det"/></r></p></e>  <!-- Dem -->
@@ -205,27 +205,27 @@
 
 
 
-    <e><p><l>ben<s n="prn"/><s n="pers"/></l><r>mən<s n="prn"/><s n="pers"/></r></p></e> <!-- Pers -->
-    <e><p><l>sen<s n="prn"/><s n="pers"/></l><r>sən<s n="prn"/><s n="pers"/></r></p></e> <!-- Pers -->
-    <e><p><l>o<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e> <!-- Pers -->
-    <e><p><l>biz<s n="prn"/><s n="pers"/></l><r>biz<s n="prn"/><s n="pers"/></r></p></e> <!-- Pers -->
-    <e><p><l>siz<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e> <!-- Pers -->
-    <e><p><l>onlar<s n="prn"/><s n="pers"/></l><r>onlar<s n="prn"/><s n="pers"/></r></p></e> <!-- Pers -->
+    <e><p><l>ben<s n="prn"/><s n="pers"/></l><r>mən<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>sen<s n="prn"/><s n="pers"/></l><r>sən<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>o<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>biz<s n="prn"/><s n="pers"/></l><r>biz<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>siz<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/></r></p></e> <!-- Pers -->
+    <e><p><l>onlar<s n="prn"/><s n="pers"/></l><r>onlar<s n="prn"/></r></p></e> <!-- Pers -->
 
 
     <e><p><l>bir<s n="det"/></l><r>bir<s n="det"/></r></p></e> <!-- Det -->
 
 
-    <e><p><l>bu<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e> <!-- Det -->
+    <e><p><l>bu<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/></r></p></e> <!-- Det -->
 
-    <e><p><l>kim<s n="prn"/><s n="qst"/></l><r>kim<s n="prn"/><s n="qst"/></r></p></e> <!-- Itg -->
+    <e><p><l>kim<s n="prn"/><s n="qst"/></l><r>kim<s n="prn"/></r></p></e> <!-- Itg -->
     <e><p><l>ne<s n="prn"/></l><r>nə<s n="prn"/></r></p></e>
     <e><p><l>öteki<s n="prn"/></l><r>digər<s n="prn"/></r></p></e> <!-- Ind 'other' -->
-    <e><p><l>şu<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e> <!-- Dem -->
+    <e><p><l>şu<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/></r></p></e> <!-- Dem -->
 
 
 
-    <e><p><l>nere<s n="prn"/><s n="locp"/></l><r>nere<s n="prn"/><s n="locp"/></r></p></e>
+    <e><p><l>nere<s n="prn"/><s n="locp"/></l><r>nere<s n="prn"/></r></p></e>
 
 
 
