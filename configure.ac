@@ -29,7 +29,7 @@ AC_DEFUN([PKG_CHECK_APERTIUM], [
                           
 PKG_CHECK_APERTIUM
 
-PKG_CHECK_MODULES(HFST, hfst >= 3.0.0)
+#PKG_CHECK_MODULES(HFST, hfst >= 3.0.0)
 
 AC_PATH_PROG(HFSTCALC, hfst-calculate, no)
 if test x$ac_cv_path_HFSTCALC = x
