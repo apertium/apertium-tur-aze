@@ -7,8 +7,14 @@ Multiple surface forms for a single lexical form
 ===============================================================================
    2133 den/denil	^de<v><pass><t_imp><2s>$
     931 yaşanan/yaşanılan	^yaşa<v><pass><part_yan>$
+    603 müstəqilliki/müstəqilliği	^müstəqillik<n><acc>$
+    353 təhlükəsizliki/təhlükəsizliği	^təhlükəsizlik<n><acc>$
+    326 cavabdehliki/cavabdehliği	^cavabdehlik<n><acc>$
+    229 müstəqillikə/müstəqilliğə	^müstəqillik<n><dat>$
+    188 cavabdehlikə/cavabdehliğə	^cavabdehlik<n><dat>$
     160 qəbul ediləbilməz/qəbul ediləməz	^qəbul et<v><pass><abil><neg><t_aor><3s>$
     125 çağran/çağıran	^çağır<v><part_yan>$
+    113 təhlükəsizlikə/təhlükəsizliğə	^təhlükəsizlik<n><dat>$
     110 yendi/yenildi	^ye<v><pass><t_past><3s>$
      93 çağrır/çağırır	^çağır<v><t_cont><3s>$
      86 yaşandı/yaşanıldı	^yaşa<v><pass><t_past><3s>$
@@ -24,6 +30,7 @@ Multiple surface forms for a single lexical form
      28 yaşandığı/yaşanıldığı	^yaşa<v><pass><part_dik><acc>$
      28 yaşandığı/yaşanıldığı	^yaşa<v><pass><cv_dik><p3s>$
      27 yaşandığını/yaşanıldığını	^yaşa<v><pass><cv_dik><p3s><acc>$
+     27 Təhlükəsizliki/Təhlükəsizliği	^Təhlükəsizlik<n><acc>$
      25 yaşandığını/yaşanıldığını	^yaşa<v><pass><part_dik><p3s><acc>$
      22 yenilən/yenən	^ye<v><pass><part_yan>$
      22 ediləbilməz/ediləməz	^et<v><pass><abil><neg><t_aor><3s>$
@@ -37,6 +44,7 @@ Multiple surface forms for a single lexical form
      17 çağrırık/çağırırık	^çağır<v><t_cont><1p>$
      15 çevirilmiş/çevrilmiş	^çevir<v><pass><t_narr><3s>$
      13 yaşanmış/yaşanılmış	^yaşa<v><pass><cv_mis>$
+     13 Müstəqilliki/Müstəqilliği	^Müstəqillik<n><acc>$
      13 çevirilən/çevrilən	^çevir<v><pass><part_yan>$
      13 çevirilməsi/çevrilməsi	^çevir<v><pass><cv_ma><p3s>$
      13 çevirərək/çevrərək	^çevir<v><cv_erek>$
@@ -69,11 +77,13 @@ Multiple surface forms for a single lexical form
       6 yaşananlar/yaşanılanlar	^yaşa<v><pass><part_yan><3p>$
       6 verəbilməik/verəməik	^ver<v><abil><neg><t_aor><1p>$
       6 tərəfdar olabilməz/tərəfdar olamaz	^tərəfdar ol<v><abil><neg><t_aor><3s>$
+      6 Təhlükəsizlikə/Təhlükəsizliğə	^Təhlükəsizlik<n><dat>$
       6 saxlanabilmədən/saxlanamadan	^saxla<v><pass><abil><neg><cv_dan>$
       6 edəbilməm/edəməm	^et<v><abil><neg><t_aor><1s>$
       6 danılabilməz/danılamaz	^dan<v><pass><abil><neg><t_aor><3s>$
       6 çeviriləbilməz/çeviriləməz/çevriləbilməz/çevriləməz	^çevir<v><pass><abil><neg><t_aor><3s>$
       6 çevirənin/çevrənin	^çevir<v><part_yan><gen>$
+      6 Cavabdehlikə/Cavabdehliğə	^Cavabdehlik<n><dat>$
       6 çağrarkən/çağırarkən	^çağır<v><t_aor><3s><cpl_ken>$
       6 çağrılır/çağırılır	^çağır<v><pass><t_cont><3s>$
       6 çağrılan/çağırılan	^çağır<v><pass><part_yan>$
@@ -86,7 +96,9 @@ Multiple surface forms for a single lexical form
       5 verəbilməz/verəməz	^ver<v><abil><neg><t_aor><3s>$
       5 tərəfdar olunabilməz/tərəfdar olunamaz	^tərəfdar ol<v><pass><abil><neg><t_aor><3s>$
       5 söyləyəbilməik/söyləyəməik	^söylə<v><abil><neg><t_aor><1p>$
+      5 Müstəqillikə/Müstəqilliğə	^Müstəqillik<n><dat>$
       5 çevirə/çevrə	^çevir<v><t_opt><3s>$
+      5 Cavabdehliki/Cavabdehliği	^Cavabdehlik<n><acc>$
       5 çağrılması/çağırılması	^çağır<v><pass><cv_ma><p3s>$
       5 burultulabilməz/burultulamaz	^burul<v><caus><pass><abil><neg><t_aor><3s>$
       5 alınabilməz/alınamaz	^al<v><pass><abil><neg><t_aor><3s>$
@@ -133,14 +145,12 @@ Multiple surface forms for a single lexical form
       3 gözləyəbilməik/gözləyəməik	^gözlə<v><abil><neg><t_aor><1p>$
       3 göstəriləbilməz/göstəriləməz	^göstər<v><pass><abil><neg><t_aor><3s>$
       3 ediləbilmədən/ediləmədən	^et<v><pass><abil><neg><cv_dan>$
-	^Elastik<adj>/Əyilgən<adj>$
 
 ===============================================================================
 Multiple bidix entries for a single source language lexical form
 ===============================================================================
     125 #illərdir\<adv\>\/onsuz da\<adv\>	^illərdir<adv>/onsuz da<adv>$
     102 #qeyri\<adv\>\/qeyri az\<adv\>	^qeyri<adv>/qeyri az<adv>$
-     47 #elastik\<adj\>\/əyilgən\<adj\>	^elastik<adj>/əyilgən<adj>$
      25 #başdan\<adv\>\/ümumiyyətlə\<adv\>	^başdan<adv>/ümumiyyətlə<adv>$
      12 #dünən\<adv\>\/nadir hallarda\<adv\>	^dünən<adv>/nadir hallarda<adv>$
      10 #Yeter\<adj\>\/Bəzi\<adj\>	^Yeter<adj>/Bəzi<adj>$
@@ -154,1267 +164,250 @@ Multiple bidix entries for a single source language lexical form
 ===============================================================================
 Tag mismatch between transfer and generation
 ===============================================================================
-   9960 #Serbiya\<np\>	^Serbiya<np>$
-   9238 #Sırp\<np\>	^Sırp<np>$
-   7633 #Avropa\<np\>	^Avropa<np>$
-   5251 #Türkiyə\<np\>	^Türkiyə<np>$
-   5060 #Arnavutluk\<np\>	^Arnavutluk<np>$
-   5057 #Çernoqoriya\<np\>	^Çernoqoriya<np>$
-   4934 #Makedonya\<np\>	^Makedonya<np>$
-   4912 #Xorvatiya\<np\>	^Xorvatiya<np>$
-   4772 #Bolqarıstan\<np\>	^Bolqarıstan<np>$
-   4491 #Türk\<np\>	^Türk<np>$
-   3844 #Hırvat\<np\>	^Hırvat<np>$
-   3126 #Kipr\<np\>	^Kipr<np>$
-   2933 #Türkiyə\<np\>\<gen\>	^Türkiyə<np><gen>$
-   2805 #Bulgar\<np\>	^Bulgar<np>$
-   2504 #Serbiya\<np\>\<gen\>	^Serbiya<np><gen>$
-   2314 #Makedon\<np\>	^Makedon<np>$
-   2106 #Bosnalı\<np\>	^Bosnalı<np>$
-   2047 #Xorvatiya\<np\>\<gen\>	^Xorvatiya<np><gen>$
-   1955 #Belqrad\<np\>	^Belqrad<np>$
-   1782 #SARAYBOSNA\<np\>	^SARAYBOSNA<np>$
-   1758 #Makedonya\<np\>\<gen\>	^Makedonya<np><gen>$
-   1694 #BELQRAD\<np\>	^BELQRAD<np>$
+   2911 #bu\<prn\>	^bu<prn>$
+   1720 #bu\<prn\>\<gen\>	^bu<prn><gen>$
+   1682 #Bu\<prn\>	^Bu<prn>$
    1577 #gün\<adv\>\<ki\>	^gün<adv><ki>$
-   1504 #ANKARA\<np\>	^ANKARA<np>$
-   1415 #Ərdoğan\<np\>	^Ərdoğan<np>$
-   1366 #Bolqarıstan\<np\>\<gen\>	^Bolqarıstan<np><gen>$
-   1314 #BUXAREST\<np\>	^BUXAREST<np>$
-   1298 #müstəqillik\<n\>	^müstəqillik<n>$
-   1296 #Çernoqoriya\<np\>\<gen\>	^Çernoqoriya<np><gen>$
-   1268 #Arnavutluk\<np\>\<gen\>	^Arnavutluk<np><gen>$
-   1229 #Rum\<np\>	^Rum<np>$
-   1189 #Rumen\<np\>	^Rumen<np>$
-   1095 #Romen\<np\>	^Romen<np>$
-   1063 #Boris\<np\>	^Boris<np>$
    1047 #Demokratik\<n\>	^Demokratik<n>$
-    981 #IMF\<np\>	^IMF<np>$
-    947 #Lahey\<np\>	^Lahey<np>$
-    931 #Belçika\<np\>	^Belçika<np>$
-    887 #İraq\<np\>	^İraq<np>$
-    874 #Serbiya\<np\>\<loc\>	^Serbiya<np><loc>$
-    869 #Atlantik\<np\>	^Atlantik<np>$
-    848 #Tayyib\<np\>	^Tayyib<np>$
-    819 #Fransa\<np\>	^Fransa<np>$
     805 #sonra\<adv\>\<ki\>	^sonra<adv><ki>$
-    801 #Almanya\<np\>	^Almanya<np>$
-    800 #Niderland\<np\>	^Niderland<np>$
-    777 #BRÜSSEL\<np\>	^BRÜSSEL<np>$
-    734 #Atina\<np\>	^Atina<np>$
-    711 #Belqrad\<np\>\<gen\>	^Belqrad<np><gen>$
-    699 #İtalya\<np\>	^İtalya<np>$
-    686 #Türkiyə\<np\>\<loc\>	^Türkiyə<np><loc>$
-    685 #Brüssel\<np\>\<loc\>	^Brüssel<np><loc>$
-    676 #Belqrad\<np\>\<loc\>	^Belqrad<np><loc>$
+    799 #bura\<prn\>\<loc\>	^bura<prn><loc>$
     661 #Qalx\<v\>\<ref\>\<cv_ma\>	^Qalx<v><ref><cv_ma>$
-    654 #İngiltere\<np\>	^İngiltere<np>$
     645 #öncə\<adv\>\<ki\>	^öncə<adv><ki>$
-    644 #Yugoslav\<np\>	^Yugoslav<np>$
-    644 #Nikola\<np\>	^Nikola<np>$
-    631 #Türkiyə\<np\>\<dat\>	^Türkiyə<np><dat>$
-    630 #Müslüman\<np\>	^Müslüman<np>$
-    630 #Abdullah\<np\>	^Abdullah<np>$
-    615 #Sırp\<np\>\<3p\>	^Sırp<np><3p>$
-    615 #Makedonya\<np\>\<loc\>	^Makedonya<np><loc>$
-    603 #müstəqillik\<n\>\<acc\>	^müstəqillik<n><acc>$
-    596 #İngiliz\<np\>	^İngiliz<np>$
     581 #demokratik\<n\>	^demokratik<n>$
-    579 #Saraybosna\<np\>	^Saraybosna<np>$
-    569 #İraq\<np\>\<loc\>\<ki\>	^İraq<np><loc><ki>$
-    568 #Rus\<np\>	^Rus<np>$
-    547 #İnternet\<np\>	^İnternet<np>$
-    545 #Belqrad\<np\>\<abl\>	^Belqrad<np><abl>$
-    533 #Avropa\<np\>\<gen\>	^Avropa<np><gen>$
-    531 #Xorvatiya\<np\>\<loc\>	^Xorvatiya<np><loc>$
-    516 #Saraybosna\<np\>\<loc\>	^Saraybosna<np><loc>$
-    509 #Avstriya\<np\>	^Avstriya<np>$
-    506 #İtalyan\<np\>	^İtalyan<np>$
-    499 #Kostas\<np\>	^Kostas<np>$
-    498 #Boşnak\<np\>	^Boşnak<np>$
-    497 #Makedonya\<np\>\<loc\>\<ki\>	^Makedonya<np><loc><ki>$
-    495 #George\<np\>	^George<np>$
-    488 #Arnavutluk\<np\>\<loc\>	^Arnavutluk<np><loc>$
-    486 #Kürdistan\<np\>	^Kürdistan<np>$
-    468 #Fransız\<np\>	^Fransız<np>$
-    463 #LAHEY\<np\>	^LAHEY<np>$
-    459 #Ankara\<np\>	^Ankara<np>$
-    452 #İraq\<np\>\<dat\>	^İraq<np><dat>$
-    445 #Adriyatik\<np\>	^Adriyatik<np>$
-    438 #Lahey\<np\>\<loc\>\<ki\>	^Lahey<np><loc><ki>$
-    435 #Bush\<np\>	^Bush<np>$
-    424 #Lahey\<np\>\<dat\>	^Lahey<np><dat>$
-    416 #Bolqarıstan\<np\>\<loc\>	^Bolqarıstan<np><loc>$
-    412 #Ocak\<np\>\<loc\>	^Ocak<np><loc>$
-    408 #Nisan\<np\>\<loc\>	^Nisan<np><loc>$
+    571 #bu\<prn\>\<acc\>	^bu<prn><acc>$
+    505 #bu\<prn\>\<dat\>	^bu<prn><dat>$
+    425 #bu\<prn\>\<pl\>\<gen\>	^bu<prn><pl><gen>$
     408 #il\<adv\>\<ki\>	^il<adv><ki>$
-    398 #Serbiya\<np\>\<dat\>	^Serbiya<np><dat>$
-    398 #Balkanlar\<np\>\<loc\>	^Balkanlar<np><loc>$
-    395 #Avropa\<np\>\<loc\>	^Avropa<np><loc>$
-    386 #Aralık\<np\>\<loc\>	^Aralık<np><loc>$
-    385 #Balkanlar\<np\>\<loc\>\<ki\>	^Balkanlar<np><loc><ki>$
-    381 #Serbiya\<np\>\<loc\>\<ki\>	^Serbiya<np><loc><ki>$
-    381 #Ekim\<np\>\<loc\>	^Ekim<np><loc>$
-    376 #Buxarest\<np\>	^Buxarest<np>$
-    372 #Atina\<np\>\<loc\>	^Atina<np><loc>$
-    372 #Ankara\<np\>\<gen\>	^Ankara<np><gen>$
-    371 #İraq\<np\>\<loc\>	^İraq<np><loc>$
-    370 #İstanbul\<np\>	^İstanbul<np>$
-    364 #Ortodoks\<np\>	^Ortodoks<np>$
-    359 #İstanbul\<np\>\<loc\>	^İstanbul<np><loc>$
-    350 #Annan\<np\>	^Annan<np>$
-    348 #Xorvatiya\<np\>\<dat\>	^Xorvatiya<np><dat>$
-    346 #Belqrad\<np\>\<dat\>	^Belqrad<np><dat>$
-    326 #Çernoqoriya\<np\>\<loc\>	^Çernoqoriya<np><loc>$
-    325 #Makedonya\<np\>\<dat\>	^Makedonya<np><dat>$
-    324 #Türkiyə\<np\>\<acc\>	^Türkiyə<np><acc>$
-    321 #Arnavutluk\<np\>\<loc\>\<ki\>	^Arnavutluk<np><loc><ki>$
-    318 #Washington\<np\>	^Washington<np>$
-    312 #WASHINGTON\<np\>	^WASHINGTON<np>$
-    311 #Macarıstan\<np\>	^Macarıstan<np>$
-    306 #Talat\<np\>	^Talat<np>$
-    305 #Mehmet\<np\>	^Mehmet<np>$
-    304 #Buxarest\<np\>\<loc\>	^Buxarest<np><loc>$
-    302 #Kipr\<np\>\<gen\>	^Kipr<np><gen>$
-    302 #Brüssel\<np\>	^Brüssel<np>$
-    301 #Ərdoğan\<np\>\<gen\>	^Ərdoğan<np><gen>$
+    348 #o\<prn\>	^o<prn>$
+    331 #bu\<prn\>\<abl\>	^bu<prn><abl>$
+    316 #Bu\<prn\>\<gen\>	^Bu<prn><gen>$
     300 #qalx\<v\>\<ref\>\<cv_ma\>	^qalx<v><ref><cv_ma>$
-    295 #Ahmet\<np\>	^Ahmet<np>$
-    294 #Bolqarıstan\<np\>\<dat\>	^Bolqarıstan<np><dat>$
-    293 #Washington\<np\>\<gen\>	^Washington<np><gen>$
-    293 #Arnavutluk\<np\>\<dat\>	^Arnavutluk<np><dat>$
-    292 #Kasım\<np\>\<loc\>	^Kasım<np><loc>$
-    291 #Türkiyə\<np\>\<loc\>\<ki\>	^Türkiyə<np><loc><ki>$
-    291 #Çernoqoriya\<np\>\<dat\>	^Çernoqoriya<np><dat>$
-    291 #Avropa\<np\>\<dat\>	^Avropa<np><dat>$
-    287 #Avropa\<np\>\<loc\>\<ki\>	^Avropa<np><loc><ki>$
-    286 #Belqrad\<np\>\<loc\>\<ki\>	^Belqrad<np><loc><ki>$
-    277 #Sloven\<np\>	^Sloven<np>$
-    276 #Serbiya\<np\>\<abl\>	^Serbiya<np><abl>$
-    276 #Macar\<np\>	^Macar<np>$
-    272 #İraq\<np\>\<gen\>	^İraq<np><gen>$
-    270 #Viyana\<np\>\<loc\>	^Viyana<np><loc>$
-    269 #Karadeniz\<np\>	^Karadeniz<np>$
-    246 #İngiltere\<np\>\<gen\>	^İngiltere<np><gen>$
-    242 #Liviya\<np\>	^Liviya<np>$
-    240 #İspanya\<np\>	^İspanya<np>$
-    231 #Yönet\<np\>\<1s\>	^Yönet<np><1s>$
-    229 #müstəqillik\<n\>\<dat\>	^müstəqillik<n><dat>$
-    225 #Almanya\<np\>\<gen\>	^Almanya<np><gen>$
-    221 #Xorvatiya\<np\>\<loc\>\<ki\>	^Xorvatiya<np><loc><ki>$
-    220 #Haşim\<np\>	^Haşim<np>$
-    215 #Ankara\<np\>\<loc\>	^Ankara<np><loc>$
-    213 #Eylül\<np\>\<loc\>	^Eylül<np><loc>$
-    209 #Rasim\<np\>	^Rasim<np>$
-    207 #Atina\<np\>\<gen\>	^Atina<np><gen>$
-    206 #Washington\<np\>\<loc\>	^Washington<np><loc>$
-    204 #Türkiyə\<np\>\<abl\>	^Türkiyə<np><abl>$
-    202 #Əfqanıstan\<np\>\<loc\>\<ki\>	^Əfqanıstan<np><loc><ki>$
-    200 #Adnan\<np\>	^Adnan<np>$
-    199 #Sezer\<np\>	^Sezer<np>$
-    196 #Fransa\<np\>\<gen\>	^Fransa<np><gen>$
-    195 #Lahey\<np\>\<loc\>	^Lahey<np><loc>$
-    192 #Necdet\<np\>	^Necdet<np>$
-    192 #Finlandiya\<np\>	^Finlandiya<np>$
-    190 #Saraybosna\<np\>\<abl\>	^Saraybosna<np><abl>$
-    185 #Bolqarıstan\<np\>\<loc\>\<ki\>	^Bolqarıstan<np><loc><ki>$
-    184 #İran\<np\>	^İran<np>$
+    284 #Bu\<prn\>\<dat\>	^Bu<prn><dat>$
+    272 #bu\<prn\>\<pl\>\<acc\>	^bu<prn><pl><acc>$
+    244 #o\<prn\>\<gen\>	^o<prn><gen>$
+    230 #o\<prn\>\<acc\>	^o<prn><acc>$
+    214 #bu\<prn\>\<p2s\>\<ins\>	^bu<prn><p2s><ins>$
+    203 #Bu\<prn\>\<3p\>	^Bu<prn><3p>$
     182 #tä'minat\<n\>	^tä'minat<n>$
-    180 #İslam\<np\>	^İslam<np>$
-    179 #Balkanlar\<np\>\<gen\>	^Balkanlar<np><gen>$
-    177 #Süleyman\<np\>	^Süleyman<np>$
-    174 #Tuna\<np\>	^Tuna<np>$
-    174 #Brüssel\<np\>\<loc\>\<ki\>	^Brüssel<np><loc><ki>$
-    170 #Richard\<np\>	^Richard<np>$
-    170 #İbrahim\<np\>	^İbrahim<np>$
-    169 #Taci\<np\>	^Taci<np>$
-    169 #İstanbul\<np\>\<loc\>\<ki\>	^İstanbul<np><loc><ki>$
-    167 #İtalya\<np\>\<gen\>	^İtalya<np><gen>$
-    164 #İSTANBUL\<np\>	^İSTANBUL<np>$
-    164 #Annan\<np\>\<gen\>	^Annan<np><gen>$
-    160 #Akdeniz\<np\>	^Akdeniz<np>$
-    159 #Makedonya\<np\>\<acc\>	^Makedonya<np><acc>$
-    158 #Çernoqoriya\<np\>\<loc\>\<ki\>	^Çernoqoriya<np><loc><ki>$
-    156 #Saraybosna\<np\>\<loc\>\<ki\>	^Saraybosna<np><loc><ki>$
-    155 #Ankara\<np\>\<dat\>	^Ankara<np><dat>$
-    154 #Serbiya\<np\>\<acc\>	^Serbiya<np><acc>$
-    154 #Danimarka\<np\>	^Danimarka<np>$
-    154 #Buxarest\<np\>\<abl\>	^Buxarest<np><abl>$
-    153 #Xorvatiya\<np\>\<acc\>	^Xorvatiya<np><acc>$
-    150 #Brüssel\<np\>\<dat\>	^Brüssel<np><dat>$
-    148 #Gül\<np\>\<gen\>	^Gül<np><gen>$
-    147 #Əfqanıstan\<np\>	^Əfqanıstan<np>$
-    144 #Putin\<np\>	^Putin<np>$
-    144 #Çernoqoriya\<np\>\<abl\>	^Çernoqoriya<np><abl>$
-    142 #Mostar\<np\>	^Mostar<np>$
-    142 #İspanyol\<np\>	^İspanyol<np>$
-    142 #Çernoqoriya\<np\>\<acc\>	^Çernoqoriya<np><acc>$
-    141 #İslami\<np\>	^İslami<np>$
-    140 #Ermeni\<np\>	^Ermeni<np>$
+    182 #O\<prn\>	^O<prn>$
+    182 #Bu\<prn\>\<abl\>	^Bu<prn><abl>$
+    168 #bu\<prn\>\<p3s\>	^bu<prn><p3s>$
+    163 #onlar\<prn\>\<acc\>	^onlar<prn><acc>$
+    148 #biz\<prn\>\<1s\>	^biz<prn><1s>$
+    147 #bura\<prn\>\<loc\>\<ki\>	^bura<prn><loc><ki>$
+    143 #onlar\<prn\>\<dat\>	^onlar<prn><dat>$
+    141 #bu\<prn\>\<3p\>	^bu<prn><3p>$
     138 #mi\<qst\>\<3s\>	^mi<qst><3s>$
-    138 #Filistinli\<np\>	^Filistinli<np>$
-    137 #Atina\<np\>\<loc\>\<ki\>	^Atina<np><loc><ki>$
-    135 #Anadolu\<np\>	^Anadolu<np>$
-    130 #Brüssel\<np\>\<gen\>	^Brüssel<np><gen>$
-    129 #Suriye\<np\>	^Suriye<np>$
-    127 #Üniversitesi\<np\>	^Üniversitesi<np>$
+    131 #onlar\<prn\>\<gen\>	^onlar<prn><gen>$
     127 #mı\<qst\>\<3s\>	^mı<qst><3s>$
-    126 #Kipr\<np\>\<acc\>	^Kipr<np><acc>$
-    126 #Hırvat\<np\>\<3p\>	^Hırvat<np><3p>$
-    125 #Daniel\<np\>	^Daniel<np>$
-    123 #Kipr\<np\>\<loc\>	^Kipr<np><loc>$
-    122 #Yunan\<np\>	^Yunan<np>$
-    122 #Balkanlar\<np\>\<ins\>	^Balkanlar<np><ins>$
-    118 #Avstraliya\<np\>	^Avstraliya<np>$
-    115 #Mustafa\<np\>	^Mustafa<np>$
-    115 #Buxarest\<np\>\<gen\>	^Buxarest<np><gen>$
-    115 #Belqrad\<np\>\<acc\>	^Belqrad<np><acc>$
-    114 #Noel\<np\>	^Noel<np>$
-    112 #Gürcistan\<np\>	^Gürcistan<np>$
-    112 #Buxarest\<np\>\<loc\>\<ki\>	^Buxarest<np><loc><ki>$
-    111 #Burgaz\<np\>	^Burgaz<np>$
-    111 #Alexander\<np\>	^Alexander<np>$
-    108 #Taki\<np\>	^Taki<np>$
-    108 #Atina\<np\>\<abl\>	^Atina<np><abl>$
-    107 #Katolik\<np\>	^Katolik<np>$
-    106 #Viyana\<np\>	^Viyana<np>$
-    106 #Makedonya\<np\>\<abl\>	^Makedonya<np><abl>$
-    106 #Kipr\<np\>\<loc\>\<ki\>	^Kipr<np><loc><ki>$
-    106 #Jacques\<np\>	^Jacques<np>$
-    106 #Bolqarıstan\<np\>\<abl\>	^Bolqarıstan<np><abl>$
+    117 #Bura\<prn\>\<loc\>	^Bura<prn><loc>$
+    113 #Bu\<prn\>\<pl\>\<gen\>	^Bu<prn><pl><gen>$
     105 #əzginlik\<n\>\<dat\>	^əzginlik<n><dat>$
-    105 #Əfqanıstan\<np\>\<dat\>	^Əfqanıstan<np><dat>$
-    104 #Yunanlı\<np\>	^Yunanlı<np>$
-    103 #Saraybosna\<np\>\<dat\>	^Saraybosna<np><dat>$
-    102 #Sırp\<np\>\<gen\>	^Sırp<np><gen>$
-    102 #Roma\<np\>	^Roma<np>$
-    101 #Osmanlı\<np\>	^Osmanlı<np>$
-    101 #Ermənistan\<np\>	^Ermənistan<np>$
-    101 #Arnavutluk\<np\>\<acc\>	^Arnavutluk<np><acc>$
-    100 #Xorvatiya\<np\>\<abl\>	^Xorvatiya<np><abl>$
-    100 #Arnavutluk\<np\>\<abl\>	^Arnavutluk<np><abl>$
-     99 #London\<np\>\<loc\>	^London<np><loc>$
-     99 #London\<np\>	^London<np>$
-     99 #Əfqanıstan\<np\>\<loc\>	^Əfqanıstan<np><loc>$
-     98 #İstanbul\<np\>\<abl\>	^İstanbul<np><abl>$
-     97 #Stankoviç\<np\>	^Stankoviç<np>$
-     97 #LONDON\<np\>	^LONDON<np>$
-     97 #İrlanda\<np\>	^İrlanda<np>$
-     97 #Avstriya\<np\>\<gen\>	^Avstriya<np><gen>$
-     96 #Van\<np\>	^Van<np>$
-     96 #Radovanoviç\<np\>	^Radovanoviç<np>$
-     96 #İtalya\<np\>\<dat\>	^İtalya<np><dat>$
-     95 #Yaşar\<np\>	^Yaşar<np>$
-     95 #İraq\<np\>\<abl\>	^İraq<np><abl>$
-     95 #Bolqarıstan\<np\>\<acc\>	^Bolqarıstan<np><acc>$
-     95 #Almanya\<np\>\<loc\>	^Almanya<np><loc>$
-     94 #Liviya\<np\>\<loc\>	^Liviya<np><loc>$
-     93 #Buxarest\<np\>\<dat\>	^Buxarest<np><dat>$
-     93 #Belqrad\<np\>\<p3s\>	^Belqrad<np><p3s>$
-     93 #Atina\<np\>\<dat\>	^Atina<np><dat>$
+    102 #kim\<prn\>\<gen\>	^kim<prn><gen>$
+     94 #biz\<prn\>\<dat\>	^biz<prn><dat>$
      90 #hidroelektrik\<n\>	^hidroelektrik<n>$
-     90 #Büyükanıt\<np\>	^Büyükanıt<np>$
-     89 #Yaponiya\<np\>	^Yaponiya<np>$
-     89 #Bush\<np\>\<gen\>	^Bush<np><gen>$
-     87 #Microsoft\<np\>	^Microsoft<np>$
-     87 #Azərbaycan\<np\>	^Azərbaycan<np>$
      87 #Asiya\<np\>	^Asiya<np>$
-     86 #Avropa\<np\>\<ins\>	^Avropa<np><ins>$
-     86 #Ankara\<np\>\<loc\>\<ki\>	^Ankara<np><loc><ki>$
-     85 #Schröder\<np\>	^Schröder<np>$
-     85 #Ocak\<np\>\<abl\>	^Ocak<np><abl>$
-     84 #Suudi\<np\>	^Suudi<np>$
-     84 #NIKOSIYA\<np\>	^NIKOSIYA<np>$
-     83 #Nobel\<np\>	^Nobel<np>$
-     82 #Ankara\<np\>\<acc\>	^Ankara<np><acc>$
-     81 #Aralık\<np\>\<dat\>	^Aralık<np><dat>$
-     80 #Saraybosna\<np\>\<gen\>	^Saraybosna<np><gen>$
-     80 #Gazprom\<np\>	^Gazprom<np>$
-     80 #Cemil\<np\>	^Cemil<np>$
-     79 #Washington\<np\>\<dat\>	^Washington<np><dat>$
-     78 #Türk\<np\>\<3p\>	^Türk<np><3p>$
-     78 #Lüksemburq\<np\>	^Lüksemburq<np>$
-     77 #Afrika\<np\>	^Afrika<np>$
-     76 #Arnavut\<np\>	^Arnavut<np>$
-     75 #Ortadoğu\<np\>	^Ortadoğu<np>$
-     74 #Kipr\<np\>\<dat\>	^Kipr<np><dat>$
-     73 #Talat\<np\>\<gen\>	^Talat<np><gen>$
-     73 #Niderland\<np\>\<gen\>	^Niderland<np><gen>$
-     73 #Litva\<np\>	^Litva<np>$
-     73 #Arnavutça\<np\>	^Arnavutça<np>$
-     72 #Rauf\<np\>	^Rauf<np>$
-     72 #Japon\<np\>	^Japon<np>$
-     72 #Ayhan\<np\>	^Ayhan<np>$
-     72 #Aralık\<np\>\<abl\>	^Aralık<np><abl>$
-     72 #Amerika\<np\>	^Amerika<np>$
-     71 #Kopenhagen\<np\>	^Kopenhagen<np>$
-     71 #Jan\<np\>\<cpl_sa\>\<3s\>	^Jan<np><cpl_sa><3s>$
-     70 #Vasile\<np\>	^Vasile<np>$
-     70 #Lüksemburq\<np\>\<loc\>	^Lüksemburq<np><loc>$
-     70 #Kürtçe\<np\>	^Kürtçe<np>$
-     69 #Müslüman\<np\>\<3p\>	^Müslüman<np><3p>$
-     69 #İngilizce\<np\>	^İngilizce<np>$
-     69 #Arnavut\<np\>\<gen\>	^Arnavut<np><gen>$
-     68 #Hilmi\<np\>	^Hilmi<np>$
-     67 #Şimşek\<np\>\<gen\>	^Şimşek<np><gen>$
-     67 #Öcalan\<np\>\<gen\>	^Öcalan<np><gen>$
-     67 #Müstəqillik\<n\>	^Müstəqillik<n>$
-     67 #Gerhard\<np\>	^Gerhard<np>$
-     67 #Dünya\<np\>	^Dünya<np>$
-     66 #Avropa\<np\>\<abl\>	^Avropa<np><abl>$
-     65 #İstanbul\<np\>\<gen\>	^İstanbul<np><gen>$
-     65 #Diyarbakır\<np\>	^Diyarbakır<np>$
-     64 #Serbiya\<np\>\<p3s\>	^Serbiya<np><p3s>$
-     63 #Özkök\<np\>	^Özkök<np>$
+     85 #o\<prn\>\<dat\>	^o<prn><dat>$
+     85 #hansı\<prn\>	^hansı<prn>$
+     83 #Bu\<prn\>\<p2s\>\<ins\>	^Bu<prn><p2s><ins>$
+     82 #Bu\<prn\>\<acc\>	^Bu<prn><acc>$
+     79 #bura\<prn\>\<abl\>	^bura<prn><abl>$
+     73 #bu\<prn\>\<pl\>\<dat\>	^bu<prn><pl><dat>$
+     70 #biz\<prn\>	^biz<prn>$
+     68 #Bu\<prn\>\<pl\>\<abl\>	^Bu<prn><pl><abl>$
      63 #Öncə\<adv\>\<ki\>	^Öncə<adv><ki>$
-     63 #Nehri\<np\>	^Nehri<np>$
-     63 #Berlin\<np\>\<loc\>	^Berlin<np><loc>$
-     62 #Yusuf\<np\>	^Yusuf<np>$
-     62 #Helsinki\<np\>	^Helsinki<np>$
-     61 #Balkanlar\<np\>\<dat\>	^Balkanlar<np><dat>$
-     60 #Sovyet\<np\>	^Sovyet<np>$
-     60 #Sezer\<np\>\<gen\>	^Sezer<np><gen>$
      60 #nə\<prn\>\<qst\>\<3p\>	^nə<prn><qst><3p>$
-     60 #İtalya\<np\>\<loc\>	^İtalya<np><loc>$
-     59 #Orta\<np\>	^Orta<np>$
-     59 #müstəqillik\<n\>\<abl\>	^müstəqillik<n><abl>$
-     59 #Latviya\<np\>	^Latviya<np>$
-     59 #Jan\<np\>	^Jan<np>$
-     59 #Clinton\<np\>	^Clinton<np>$
-     58 #ROMA\<np\>	^ROMA<np>$
-     58 #Lübnan\<np\>	^Lübnan<np>$
-     58 #Ekim\<np\>\<abl\>	^Ekim<np><abl>$
-     58 #Berlin\<np\>	^Berlin<np>$
-     57 #Xorvatiya\<np\>\<p3s\>	^Xorvatiya<np><p3s>$
-     57 #Hüseyin\<np\>	^Hüseyin<np>$
-     57 #Çinli\<np\>	^Çinli<np>$
-     56 #Verdi\<np\>	^Verdi<np>$
-     56 #Üniversitesi\<np\>\<p2s\>\<loc\>	^Üniversitesi<np><p2s><loc>$
+     58 #Biz\<prn\>\<1s\>	^Biz<prn><1s>$
+     57 #bu\<prn\>\<pl\>\<abl\>	^bu<prn><pl><abl>$
      56 #qalx\<v\>\<ref\>\<vn_mak\>\<acc\>	^qalx<v><ref><vn_mak><acc>$
-     56 #Muammer\<np\>	^Muammer<np>$
-     55 #Madrid\<np\>\<loc\>	^Madrid<np><loc>$
-     55 #Lübnan\<np\>\<loc\>\<ki\>	^Lübnan<np><loc><ki>$
-     55 #Kasım\<np\>\<abl\>	^Kasım<np><abl>$
-     55 #Güler\<np\>	^Güler<np>$
-     55 #Baran\<np\>\<gen\>	^Baran<np><gen>$
+     55 #bura\<prn\>\<dat\>	^bura<prn><dat>$
      54 #SPECIAL\<v\>\<pass\>\<part_dik\>\<p3s\>\<acc\>	^SPECIAL<v><pass><part_dik><p3s><acc>$
-     54 #Slovak\<np\>	^Slovak<np>$
-     54 #Nisan\<np\>\<dat\>	^Nisan<np><dat>$
-     54 #Dink\<np\>	^Dink<np>$
-     54 #Almanya\<np\>\<abl\>	^Almanya<np><abl>$
-     53 #Orhan\<np\>	^Orhan<np>$
-     52 #Vecdi\<np\>	^Vecdi<np>$
-     52 #Nisan\<np\>\<abl\>	^Nisan<np><abl>$
      52 #əzginlik\<n\>\<acc\>	^əzginlik<n><acc>$
-     52 #Baykal\<np\>	^Baykal<np>$
-     51 #LÜKSEMBURQ\<np\>	^LÜKSEMBURQ<np>$
-     51 #Ərdoğan\<np\>\<dat\>	^Ərdoğan<np><dat>$
-     50 #Serbiya\<np\>\<ins\>	^Serbiya<np><ins>$
      50 #otomatik\<n\>	^otomatik<n>$
-     50 #İngiltere\<np\>\<dat\>	^İngiltere<np><dat>$
-     50 #Bülent\<np\>	^Bülent<np>$
-     50 #Alman\<np\>	^Alman<np>$
-     49 #Saraybosna\<np\>\<acc\>	^Saraybosna<np><acc>$
+     50 #biz\<prn\>\<acc\>	^biz<prn><acc>$
      49 #əzginlik\<n\>	^əzginlik<n>$
-     49 #Atina\<np\>\<acc\>	^Atina<np><acc>$
      48 #Tap\<v\>\<rec\>\<t_past\>\<3s\>	^Tap<v><rec><t_past><3s>$
-     48 #Mostar\<np\>\<loc\>	^Mostar<np><loc>$
-     48 #İzmir\<np\>	^İzmir<np>$
-     48 #İraq\<np\>\<ins\>	^İraq<np><ins>$
-     48 #Boucher\<np\>	^Boucher<np>$
-     48 #Afgan\<np\>	^Afgan<np>$
-     47 #Lissabon\<np\>	^Lissabon<np>$
-     47 #İran\<np\>\<gen\>	^İran<np><gen>$
-     47 #Fələstin\<np\>	^Fələstin<np>$
-     47 #Caferi\<np\>	^Caferi<np>$
+     47 #mən\<prn\>\<dat\>	^mən<prn><dat>$
+     47 #əyilgən\<adj\>	^əyilgən<adj>$
      47 #ay\<adv\>\<ki\>	^ay<adv><ki>$
-     47 #Ankara\<np\>\<abl\>	^Ankara<np><abl>$
-     46 #Saddam\<np\>	^Saddam<np>$
-     46 #İspanya\<np\>\<gen\>	^İspanya<np><gen>$
-     45 #Trakya\<np\>	^Trakya<np>$
-     45 #Finlandiya\<np\>\<gen\>	^Finlandiya<np><gen>$
-     45 #Çek\<np\>	^Çek<np>$
-     45 #Bulgar\<np\>\<3p\>	^Bulgar<np><3p>$
-     45 #Avropa\<np\>\<acc\>	^Avropa<np><acc>$
-     45 #Arnavutluk\<np\>\<p3s\>	^Arnavutluk<np><p3s>$
-     45 #Almanya\<np\>\<dat\>	^Almanya<np><dat>$
-     45 #Adriyatik\<np\>\<loc\>	^Adriyatik<np><loc>$
-     44 #Xorvatiya\<np\>\<ins\>	^Xorvatiya<np><ins>$
-     44 #Roma\<np\>\<loc\>	^Roma<np><loc>$
-     44 #Osman\<np\>	^Osman<np>$
-     44 #Nikola\<np\>\<3s\>	^Nikola<np><3s>$
+     45 #Mən\<prn\>	^Mən<prn>$
      44 #dörd\<n\>\<loc\>	^dörd<n><loc>$
-     43 #Kipr\<np\>\<p3s\>	^Kipr<np><p3s>$
-     43 #Hindistan\<np\>	^Hindistan<np>$
-     43 #Ekim\<np\>\<dat\>	^Ekim<np><dat>$
-     43 #Brüssel\<np\>\<abl\>	^Brüssel<np><abl>$
      42 #turistik\<n\>	^turistik<n>$
-     42 #Pekin\<np\>\<loc\>	^Pekin<np><loc>$
-     42 #Nazi\<np\>	^Nazi<np>$
-     42 #Kalkandere\<np\>	^Kalkandere<np>$
-     42 #Ərəbistan\<np\>	^Ərəbistan<np>$
-     41 #Şırnak\<np\>	^Şırnak<np>$
-     41 #Obama\<np\>	^Obama<np>$
-     41 #MOSTAR\<np\>	^MOSTAR<np>$
-     41 #Macarıstan\<np\>\<gen\>	^Macarıstan<np><gen>$
-     41 #Fransa\<np\>\<loc\>	^Fransa<np><loc>$
+     42 #onlar\<prn\>\<ca\>	^onlar<prn><ca>$
+     42 #Mən\<prn\>\<1s\>	^Mən<prn><1s>$
      41 #axtar\<v\>\<rec\>\<caus\>\<vn_mak\>\<dat\>	^axtar<v><rec><caus><vn_mak><dat>$
-     40 #Hizbullah\<np\>	^Hizbullah<np>$
-     40 #Girit\<np\>	^Girit<np>$
-     40 #Amerika\<np\>\<gen\>	^Amerika<np><gen>$
-     39 #Muhammed\<np\>	^Muhammed<np>$
-     39 #Kasım\<np\>\<dat\>	^Kasım<np><dat>$
-     39 #İzlanda\<np\>	^İzlanda<np>$
-     39 #İstanbul\<np\>\<dat\>	^İstanbul<np><dat>$
-     39 #Fin\<np\>	^Fin<np>$
-     39 #Eylül\<np\>\<dat\>	^Eylül<np><dat>$
-     39 #Çernoqoriya\<np\>\<p3s\>	^Çernoqoriya<np><p3s>$
-     39 #Braziliya\<np\>	^Braziliya<np>$
-     39 #Boşnak\<np\>\<3p\>	^Boşnak<np><3p>$
-     39 #Arınç\<np\>	^Arınç<np>$
-     39 #Abdülkadir\<np\>	^Abdülkadir<np>$
+     40 #o\<prn\>\<3p\>	^o<prn><3p>$
+     39 #o\<prn\>\<p3s\>	^o<prn><p3s>$
+     39 #mən\<prn\>\<1s\>	^mən<prn><1s>$
      38 #sistematik\<n\>	^sistematik<n>$
-     38 #Sırp\<np\>\<dat\>	^Sırp<np><dat>$
-     38 #Niderland\<np\>\<dat\>	^Niderland<np><dat>$
-     38 #Nehri\<np\>\<gen\>	^Nehri<np><gen>$
-     38 #Konstantin\<np\>	^Konstantin<np>$
-     38 #İngiltere\<np\>\<loc\>	^İngiltere<np><loc>$
-     38 #Hırvat\<np\>\<gen\>	^Hırvat<np><gen>$
-     38 #Danimarkalı\<np\>	^Danimarkalı<np>$
-     38 #Ahmed\<np\>	^Ahmed<np>$
+     38 #mən\<prn\>	^mən<prn>$
      37 #SPECIAL\<v\>\<pass\>\<part_yan\>	^SPECIAL<v><pass><part_yan>$
-     37 #Sırpça\<np\>	^Sırpça<np>$
-     37 #Putin\<np\>\<gen\>	^Putin<np><gen>$
-     37 #Pekin\<np\>	^Pekin<np>$
-     37 #Lahey\<np\>\<ins\>	^Lahey<np><ins>$
+     37 #kim\<prn\>	^kim<prn>$
      37 #dörd\<n\>	^dörd<n>$
-     37 #Bolqarıstan\<np\>\<p3s\>	^Bolqarıstan<np><p3s>$
-     37 #Atatürk\<np\>\<gen\>	^Atatürk<np><gen>$
-     36 #Üniversitesi\<np\>\<p2s\>\<abl\>	^Üniversitesi<np><p2s><abl>$
-     36 #Sırp\<np\>\<acc\>	^Sırp<np><acc>$
+     37 #Biz\<prn\>	^Biz<prn>$
      36 #qalx\<v\>\<ref\>\<cv_ma\>\<p3s\>	^qalx<v><ref><cv_ma><p3s>$
-     36 #Nuri\<np\>	^Nuri<np>$
-     36 #Mostar\<np\>\<loc\>\<ki\>	^Mostar<np><loc><ki>$
-     36 #Liviya\<np\>\<dat\>	^Liviya<np><dat>$
-     36 #Lawrence\<np\>	^Lawrence<np>$
-     36 #İtalya\<np\>\<abl\>	^İtalya<np><abl>$
-     36 #Eylül\<np\>\<abl\>	^Eylül<np><abl>$
-     36 #Dink\<np\>\<gen\>	^Dink<np><gen>$
-     35 #Washington\<np\>\<loc\>\<ki\>	^Washington<np><loc><ki>$
-     35 #Viyana\<np\>\<loc\>\<ki\>	^Viyana<np><loc><ki>$
-     35 #Serb Ordusu\<np\>	^Serb Ordusu<np>$
-     35 #Mostar\<np\>\<gen\>	^Mostar<np><gen>$
-     35 #Madrid\<np\>	^Madrid<np>$
-     35 #İngiltere\<np\>\<abl\>	^İngiltere<np><abl>$
-     35 #Hakkari\<np\>	^Hakkari<np>$
-     35 #Fransa\<np\>\<abl\>	^Fransa<np><abl>$
-     34 #Talabani\<np\>	^Talabani<np>$
-     34 #Şener\<np\>	^Şener<np>$
-     34 #Nokia\<np\>	^Nokia<np>$
-     34 #Gürcistan\<np\>\<gen\>	^Gürcistan<np><gen>$
      34 #dörd\<n\>\<acc\>	^dörd<n><acc>$
      34 #bürokratik\<n\>	^bürokratik<n>$
-     34 #Bizans\<np\>	^Bizans<np>$
-     34 #Belqrad\<np\>\<ins\>	^Belqrad<np><ins>$
-     33 #Yunanlı\<np\>\<3p\>	^Yunanlı<np><3p>$
-     33 #Türkiyə\<np\>\<ins\>	^Türkiyə<np><ins>$
-     33 #Tito\<np\>	^Tito<np>$
-     33 #Taci\<np\>\<gen\>	^Taci<np><gen>$
-     33 #Nejat\<np\>	^Nejat<np>$
+     33 #siz\<prn\>\<gen\>	^siz<prn><gen>$
+     33 #o\<prn\>\<abl\>	^o<prn><abl>$
      32 #SPECIAL\<v\>\<caus\>\<t_past\>\<3s\>	^SPECIAL<v><caus><t_past><3s>$
-     32 #Öner\<np\>\<cpl_di\>\<3s\>	^Öner<np><cpl_di><3s>$
-     32 #Makedon\<np\>\<3p\>	^Makedon<np><3p>$
-     32 #Lüksemburq\<np\>\<gen\>	^Lüksemburq<np><gen>$
-     32 #Liviya\<np\>\<gen\>	^Liviya<np><gen>$
      32 #klassik\<n\>	^klassik<n>$
-     32 #Genç\<np\>\<3p\>	^Genç<np><3p>$
-     32 #Genc\<np\>	^Genc<np>$
-     32 #Bolqarıstan\<np\>\<ins\>	^Bolqarıstan<np><ins>$
-     32 #Batı\<np\>	^Batı<np>$
-     32 #Arjantin\<np\>	^Arjantin<np>$
-     31 #Stankoviç\<np\>\<gen\>	^Stankoviç<np><gen>$
-     31 #Sovyet\<np\>\<3p\>	^Sovyet<np><3p>$
-     31 #Qazaxıstan\<np\>	^Qazaxıstan<np>$
-     31 #London\<np\>\<loc\>\<ki\>	^London<np><loc><ki>$
-     31 #Lahey\<np\>\<abl\>	^Lahey<np><abl>$
-     31 #Diyarbakır\<np\>\<loc\>	^Diyarbakır<np><loc>$
-     31 #Cenevre\<np\>	^Cenevre<np>$
-     31 #Bağdad\<np\>	^Bağdad<np>$
-     30 #Renault\<np\>	^Renault<np>$
+     31 #o\<prn\>\<p3p\>	^o<prn><p3p>$
+     31 #bu\<prn\>\<p3p\>	^bu<prn><p3p>$
      30 #qalx\<v\>\<ref\>\<vn_mak\>\<dat\>	^qalx<v><ref><vn_mak><dat>$
-     30 #Öcalan\<np\>	^Öcalan<np>$
-     30 #Latin\<np\>	^Latin<np>$
-     30 #Kore\<np\>	^Kore<np>$
-     30 #Kopenhagen\<np\>\<loc\>	^Kopenhagen<np><loc>$
-     30 #İsmail\<np\>	^İsmail<np>$
-     30 #Ərdoğan\<np\>\<abl\>	^Ərdoğan<np><abl>$
-     30 #Erdi\<np\>	^Erdi<np>$
-     30 #Belene\<np\>	^Belene<np>$
-     30 #Belçika\<np\>\<gen\>	^Belçika<np><gen>$
-     30 #Arnavutluk\<np\>\<ins\>	^Arnavutluk<np><ins>$
-     30 #Almanya\<np\>\<loc\>\<ki\>	^Almanya<np><loc><ki>$
-     29 #Türkçe\<np\>	^Türkçe<np>$
-     29 #Müslüman\<np\>\<gen\>	^Müslüman<np><gen>$
+     30 #bu\<prn\>\<3s\>\<dir\>	^bu<prn><3s><dir>$
      29 #indi\<adv\>\<ki\>	^indi<adv><ki>$
-     29 #Denktaş\<np\>\<gen\>	^Denktaş<np><gen>$
-     29 #Brüssel\<np\>\<acc\>	^Brüssel<np><acc>$
-     29 #Brown\<np\>	^Brown<np>$
-     29 #BAĞDAD\<np\>	^BAĞDAD<np>$
-     29 #Avrasya\<np\>\<abl\>	^Avrasya<np><abl>$
      29 #Asiya\<np\>\<abl\>	^Asiya<np><abl>$
-     29 #Adriyatik\<np\>\<loc\>\<ki\>	^Adriyatik<np><loc><ki>$
-     28 #Romen\<np\>\<3p\>	^Romen<np><3p>$
-     28 #Ocak\<np\>\<dat\>	^Ocak<np><dat>$
      28 #mu\<qst\>\<3s\>	^mu<qst><3s>$
-     28 #Macarıstan\<np\>\<abl\>	^Macarıstan<np><abl>$
-     28 #Kaide\<np\>\<gen\>	^Kaide<np><gen>$
-     28 #Kafkas\<np\>\<3p\>	^Kafkas<np><3p>$
-     28 #Budapeşt\<np\>\<loc\>	^Budapeşt<np><loc>$
-     28 #Barzani\<np\>	^Barzani<np>$
-     27 #Washington\<np\>\<abl\>	^Washington<np><abl>$
      27 #termoelektrik\<n\>	^termoelektrik<n>$
-     27 #Qəzzafi\<np\>	^Qəzzafi<np>$
-     27 #Lübnan\<np\>\<dat\>	^Lübnan<np><dat>$
-     27 #Cenevre\<np\>\<loc\>	^Cenevre<np><loc>$
-     27 #Avstriya\<np\>\<loc\>	^Avstriya<np><loc>$
-     26 #Yalçınkaya\<np\>	^Yalçınkaya<np>$
-     26 #Yakup\<np\>	^Yakup<np>$
-     26 #Türk\<np\>\<gen\>	^Türk<np><gen>$
+     27 #Bu\<prn\>\<p3s\>	^Bu<prn><p3s>$
      26 #tragik\<n\>	^tragik<n>$
-     26 #Musa\<np\>	^Musa<np>$
-     26 #Louis\<np\>	^Louis<np>$
-     26 #Kuveyt\<np\>	^Kuveyt<np>$
-     26 #Güney\<np\>	^Güney<np>$
-     26 #Celal\<np\>	^Celal<np>$
-     26 #Bağdad\<np\>\<gen\>	^Bağdad<np><gen>$
      26 #avtomatik\<n\>	^avtomatik<n>$
-     26 #Avrasya\<np\>	^Avrasya<np>$
-     26 #Arnavut\<np\>\<p3s\>	^Arnavut<np><p3s>$
-     25 #Ürdünlü\<np\>	^Ürdünlü<np>$
-     25 #Ömer\<np\>	^Ömer<np>$
-     25 #Meri\<np\>	^Meri<np>$
-     25 #İzmir\<np\>\<loc\>	^İzmir<np><loc>$
-     25 #Gazprom\<np\>\<gen\>	^Gazprom<np><gen>$
-     25 #Fiat\<np\>	^Fiat<np>$
-     25 #Enver\<np\>	^Enver<np>$
-     25 #Buxarest\<np\>\<acc\>	^Buxarest<np><acc>$
-     25 #Balkanlar\<np\>\<abl\>	^Balkanlar<np><abl>$
-     25 #Avstriya\<np\>\<abl\>	^Avstriya<np><abl>$
-     25 #Antalya\<np\>	^Antalya<np>$
-     24 #Sami\<np\>	^Sami<np>$
-     24 #Salih\<np\>	^Salih<np>$
-     24 #Macar\<np\>\<3p\>	^Macar<np><3p>$
-     24 #London\<np\>\<dat\>	^London<np><dat>$
-     24 #İslam\<np\>\<gen\>	^İslam<np><gen>$
-     24 #Helsinki\<np\>\<loc\>	^Helsinki<np><loc>$
-     24 #Gürcistan\<np\>\<loc\>\<ki\>	^Gürcistan<np><loc><ki>$
-     24 #Fransa\<np\>\<dat\>	^Fransa<np><dat>$
+     25 #Bura\<prn\>\<loc\>\<ki\>	^Bura<prn><loc><ki>$
+     24 #mən\<prn\>\<acc\>	^mən<prn><acc>$
      24 #dramatik\<n\>	^dramatik<n>$
-     24 #Ceyhan\<np\>	^Ceyhan<np>$
-     24 #Buxarest\<np\>\<p3s\>	^Buxarest<np><p3s>$
-     24 #Bush\<np\>\<dat\>	^Bush<np><dat>$
-     24 #Baltık\<np\>	^Baltık<np>$
-     24 #Bakı\<np\>	^Bakı<np>$
      23 #Sonra\<adv\>\<ki\>	^Sonra<adv><ki>$
-     23 #Siirt\<np\>	^Siirt<np>$
-     23 #müstəqillik\<n\>\<ins\>	^müstəqillik<n><ins>$
-     23 #Miro\<np\>	^Miro<np>$
-     23 #Lütfi\<np\>	^Lütfi<np>$
-     23 #Lahey\<np\>\<gen\>	^Lahey<np><gen>$
-     23 #Kipr\<np\>\<abl\>	^Kipr<np><abl>$
-     23 #Kafkas\<np\>	^Kafkas<np>$
-     23 #İrlanda\<np\>\<gen\>	^İrlanda<np><gen>$
-     23 #İraq\<np\>\<p3s\>	^İraq<np><p3s>$
-     23 #Ecevit\<np\>	^Ecevit<np>$
-     23 #Çarşamba\<np\>	^Çarşamba<np>$
-     23 #Bingöl\<np\>	^Bingöl<np>$
-     23 #Balkanlar\<np\>\<p3s\>	^Balkanlar<np><p3s>$
-     23 #Antalya\<np\>\<loc\>	^Antalya<np><loc>$
-     23 #Annan\<np\>\<dat\>	^Annan<np><dat>$
-     22 #Üniversitesi\<np\>\<gen\>	^Üniversitesi<np><gen>$
-     22 #Tüzmen\<np\>	^Tüzmen<np>$
-     22 #Sırp\<np\>\<p3s\>	^Sırp<np><p3s>$
-     22 #Obama\<np\>\<gen\>	^Obama<np><gen>$
-     22 #Niderland\<np\>\<loc\>	^Niderland<np><loc>$
-     22 #Macarıstan\<np\>\<dat\>	^Macarıstan<np><dat>$
-     22 #Karadeniz\<np\>\<gen\>	^Karadeniz<np><gen>$
-     22 #İraq\<np\>\<acc\>	^İraq<np><acc>$
-     22 #Gül\<np\>\<dat\>	^Gül<np><dat>$
-     22 #Gül\<np\>\<acc\>	^Gül<np><acc>$
-     22 #BUDAPEŞT\<np\>	^BUDAPEŞT<np>$
-     22 #Bekir\<np\>	^Bekir<np>$
-     22 #Atalay\<np\>	^Atalay<np>$
-     22 #Abdurrahman\<np\>	^Abdurrahman<np>$
-     21 #Yıldır\<np\>\<1s\>	^Yıldır<np><1s>$
-     21 #Trabzon\<np\>	^Trabzon<np>$
+     23 #O\<prn\>\<gen\>	^O<prn><gen>$
+     23 #bu\<prn\>\<loc\>	^bu<prn><loc>$
+     23 #biz\<prn\>\<pl\>\<dat\>	^biz<prn><pl><dat>$
+     23 #biz\<prn\>\<3p\>	^biz<prn><3p>$
+     22 #onlar\<prn\>\<abl\>	^onlar<prn><abl>$
      21 #SPECIAL\<v\>\<pass\>\<part_dik\>\<pl\>\<p3s\>\<acc\>	^SPECIAL<v><pass><part_dik><pl><p3s><acc>$
-     21 #Rum\<np\>\<3p\>	^Rum<np><3p>$
-     21 #Rumen\<np\>\<3p\>	^Rumen<np><3p>$
+     21 #Onlar\<prn\>\<dat\>	^Onlar<prn><dat>$
      21 #nə\<prn\>\<qst\>\<3s\>\<dir\>	^nə<prn><qst><3s><dir>$
-     21 #Mersin\<np\>	^Mersin<np>$
-     21 #Mahmud\<np\>	^Mahmud<np>$
-     21 #Ford\<np\>	^Ford<np>$
-     21 #Faruk\<np\>	^Faruk<np>$
-     21 #Çavuşesku\<np\>	^Çavuşesku<np>$
-     21 #Büyükanıt\<np\>\<gen\>	^Büyükanıt<np><gen>$
-     21 #Başer\<np\>	^Başer<np>$
-     21 #Abdül\<np\>	^Abdül<np>$
-     20 #Viyana\<np\>\<dat\>	^Viyana<np><dat>$
-     20 #Tokyo\<np\>\<loc\>	^Tokyo<np><loc>$
-     20 #Suriye\<np\>\<dat\>	^Suriye<np><dat>$
+     21 #Biz\<prn\>\<dat\>	^Biz<prn><dat>$
      20 #qrafik\<n\>	^qrafik<n>$
-     20 #Nejad\<np\>	^Nejad<np>$
-     20 #Madrid\<np\>\<loc\>\<ki\>	^Madrid<np><loc><ki>$
-     20 #Leyla\<np\>	^Leyla<np>$
-     20 #Karadeniz\<np\>\<loc\>\<ki\>	^Karadeniz<np><loc><ki>$
-     20 #Kanada\<np\>\<gen\>	^Kanada<np><gen>$
-     20 #Hintli\<np\>	^Hintli<np>$
-     20 #Gürcü\<np\>	^Gürcü<np>$
-     20 #Esad\<np\>	^Esad<np>$
-     20 #Eroğlu\<np\>	^Eroğlu<np>$
-     20 #Döndü\<np\>	^Döndü<np>$
-     20 #Danıştay\<np\>	^Danıştay<np>$
-     20 #Bağdad\<np\>\<loc\>	^Bağdad<np><loc>$
+     20 #Bura\<prn\>\<dat\>	^Bura<prn><dat>$
      20 #axtar\<v\>\<rec\>\<caus\>\<t_cont\>\<3s\>	^axtar<v><rec><caus><t_cont><3s>$
      20 #Asiya\<np\>\<loc\>	^Asiya<np><loc>$
-     20 #Aralık\<np\>\<loc\>\<ki\>	^Aralık<np><loc><ki>$
-     19 #Washington\<np\>\<acc\>	^Washington<np><acc>$
-     19 #Pentagon\<np\>	^Pentagon<np>$
-     19 #Pekin\<np\>\<dat\>	^Pekin<np><dat>$
-     19 #Ortadoğu\<np\>\<loc\>	^Ortadoğu<np><loc>$
-     19 #Meksika\<np\>	^Meksika<np>$
-     19 #Malta\<np\>	^Malta<np>$
-     19 #Malayziya\<np\>	^Malayziya<np>$
-     19 #Lübnan\<np\>\<loc\>	^Lübnan<np><loc>$
-     19 #Lübnan\<np\>\<abl\>	^Lübnan<np><abl>$
-     19 #Liviya\<np\>\<loc\>\<ki\>	^Liviya<np><loc><ki>$
-     19 #İtalya\<np\>\<loc\>\<ki\>	^İtalya<np><loc><ki>$
-     19 #İran\<np\>\<dat\>	^İran<np><dat>$
-     19 #İngiltere\<np\>\<loc\>\<ki\>	^İngiltere<np><loc><ki>$
-     19 #Hamid\<np\>	^Hamid<np>$
-     19 #Fransa\<np\>\<loc\>\<ki\>	^Fransa<np><loc><ki>$
-     19 #Ərdoğan\<np\>\<ins\>	^Ərdoğan<np><ins>$
-     19 #Balkan\<np\>	^Balkan<np>$
-     19 #Azərbaycan\<np\>\<gen\>	^Azərbaycan<np><gen>$
-     18 #Tunceli\<np\>	^Tunceli<np>$
+     19 #onlar\<prn\>\<ins\>	^onlar<prn><ins>$
+     19 #Mən\<prn\>\<dat\>	^Mən<prn><dat>$
+     19 #bu\<prn\>\<pl\>\<ins\>	^bu<prn><pl><ins>$
      18 #sintetik\<n\>	^sintetik<n>$
-     18 #Siemens\<np\>	^Siemens<np>$
-     18 #Şefi\<np\>	^Şefi<np>$
-     18 #Qəzzafi\<np\>\<gen\>	^Qəzzafi<np><gen>$
      18 #nə\<prn\>\<qst\>\<abl\>\<3p\>	^nə<prn><qst><abl><3p>$
-     18 #Namık\<np\>	^Namık<np>$
-     18 #Naim\<np\>	^Naim<np>$
-     18 #Microsoft\<np\>\<gen\>	^Microsoft<np><gen>$
-     18 #Macarıstan\<np\>\<loc\>	^Macarıstan<np><loc>$
-     18 #İtalya\<np\>\<acc\>	^İtalya<np><acc>$
-     18 #İslam\<np\>\<dat\>	^İslam<np><dat>$
-     18 #İran\<np\>\<abl\>	^İran<np><abl>$
-     18 #İlker\<np\>	^İlker<np>$
-     18 #Gazze\<np\>	^Gazze<np>$
-     18 #Fas\<np\>	^Fas<np>$
-     18 #Emin\<np\>	^Emin<np>$
-     18 #Ebu\<np\>	^Ebu<np>$
-     18 #Çernoqoriya\<np\>\<ins\>	^Çernoqoriya<np><ins>$
+     18 #Bu\<prn\>\<pl\>\<dat\>	^Bu<prn><pl><dat>$
      18 #bu gün\<adv\>\<ki\>	^bu gün<adv><ki>$
-     18 #Berlin\<np\>\<gen\>	^Berlin<np><gen>$
-     18 #Bağdad\<np\>\<loc\>\<ki\>	^Bağdad<np><loc><ki>$
-     18 #Bağdad\<np\>\<dat\>	^Bağdad<np><dat>$
-     18 #AKEL\<np\>	^AKEL<np>$
-     18 #Afrikalı\<np\>	^Afrikalı<np>$
-     17 #Tarık\<np\>	^Tarık<np>$
-     17 #Rıdvan\<np\>	^Rıdvan<np>$
-     17 #Ortadoğu\<np\>\<loc\>\<ki\>	^Ortadoğu<np><loc><ki>$
-     17 #Molotof\<np\>	^Molotof<np>$
-     17 #Mısır\<np\>	^Mısır<np>$
-     17 #Maksim\<np\>	^Maksim<np>$
-     17 #Maastricht\<np\>	^Maastricht<np>$
-     17 #Lüksemburq\<np\>\<loc\>\<ki\>	^Lüksemburq<np><loc><ki>$
-     17 #London\<np\>\<gen\>	^London<np><gen>$
-     17 #Köprüsü\<np\>	^Köprüsü<np>$
-     17 #Köksal\<np\>	^Köksal<np>$
-     17 #Kanada\<np\>	^Kanada<np>$
-     17 #Işık\<np\>	^Işık<np>$
-     17 #İliç\<np\>	^İliç<np>$
-     17 #Hasan\<np\>	^Hasan<np>$
-     17 #Ərdoğan\<np\>\<acc\>	^Ərdoğan<np><acc>$
-     17 #Enes\<np\>	^Enes<np>$
-     17 #Cezayir\<np\>	^Cezayir<np>$
-     17 #BERLIN\<np\>	^BERLIN<np>$
-     17 #Batman\<np\>	^Batman<np>$
-     17 #Avstriya\<np\>\<dat\>	^Avstriya<np><dat>$
+     17 #O\<prn\>\<3p\>	^O<prn><3p>$
+     17 #biz\<prn\>\<p3s\>	^biz<prn><p3s>$
      17 #artistik\<n\>	^artistik<n>$
-     17 #Abxaziya\<np\>	^Abxaziya<np>$
-     17 #Abdüllatif\<np\>	^Abdüllatif<np>$
-     16 #Zorlu\<np\>	^Zorlu<np>$
-     16 #Yunanca\<np\>	^Yunanca<np>$
-     16 #Yasin\<np\>	^Yasin<np>$
-     16 #Üniversitesi\<np\>\<p2s\>\<dat\>	^Üniversitesi<np><p2s><dat>$
-     16 #Ulaş\<np\>\<1s\>	^Ulaş<np><1s>$
      16 #SPECIAL\<v\>\<caus\>\<pass\>\<t_fut\>\<3s\>	^SPECIAL<v><caus><pass><t_fut><3s>$
      16 #SPECIAL\<v\>\<caus\>\<pass\>\<part_yan\>	^SPECIAL<v><caus><pass><part_yan>$
      16 #SPECIAL\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>	^SPECIAL<v><caus><pass><cv_ma><p3s>$
-     16 #Roma\<np\>\<loc\>\<ki\>	^Roma<np><loc><ki>$
      16 #qalx\<v\>\<ref\>\<cv_ma\>\<p3s\>\<dat\>	^qalx<v><ref><cv_ma><p3s><dat>$
-     16 #Oscar\<np\>	^Oscar<np>$
-     16 #Nikosiya\<np\>\<loc\>	^Nikosiya<np><loc>$
+     16 #Onlar\<prn\>\<gen\>	^Onlar<prn><gen>$
      16 #mu\<qst\>\<2p\>	^mu<qst><2p>$
-     16 #Karadeniz\<np\>\<loc\>	^Karadeniz<np><loc>$
-     16 #Karabağ\<np\>	^Karabağ<np>$
-     16 #İspanya\<np\>\<abl\>	^İspanya<np><abl>$
-     16 #İndoneziya\<np\>	^İndoneziya<np>$
-     16 #Hüseyin\<np\>\<gen\>	^Hüseyin<np><gen>$
-     16 #Ermeni\<np\>\<gen\>	^Ermeni<np><gen>$
-     16 #Bush\<np\>\<abl\>	^Bush<np><abl>$
-     16 #Boşnak\<np\>\<gen\>	^Boşnak<np><gen>$
-     16 #Binali\<np\>	^Binali<np>$
      16 #axtar\<v\>\<rec\>\<caus\>\<part_yan\>	^axtar<v><rec><caus><part_yan>$
      16 #Asiya\<np\>\<loc\>\<ki\>	^Asiya<np><loc><ki>$
-     16 #Akdeniz\<np\>\<loc\>	^Akdeniz<np><loc>$
-     16 #Adana\<np\>	^Adana<np>$
-     15 #Unakıtan\<np\>	^Unakıtan<np>$
-     15 #Tito\<np\>\<gen\>	^Tito<np><gen>$
      15 #tap\<v\>\<rec\>\<t_past\>\<3s\>	^tap<v><rec><t_past><3s>$
      15 #SPECIAL\<v\>\<pass\>\<cv_dik\>\<p3s\>\<acc\>	^SPECIAL<v><pass><cv_dik><p3s><acc>$
      15 #SPECIAL\<v\>\<pass\>\<cv_acak\>	^SPECIAL<v><pass><cv_acak>$
-     15 #Slav\<np\>	^Slav<np>$
-     15 #Selmani\<np\>	^Selmani<np>$
-     15 #Roma\<np\>\<dat\>	^Roma<np><dat>$
+     15 #siz\<prn\>	^siz<prn>$
      15 #praktik\<n\>\<loc\>	^praktik<n><loc>$
-     15 #Niderland\<np\>\<acc\>	^Niderland<np><acc>$
-     15 #Münih\<np\>	^Münih<np>$
-     15 #Kore\<np\>\<gen\>	^Kore<np><gen>$
-     15 #Kipr\<np\>\<ins\>	^Kipr<np><ins>$
-     15 #İnternet\<np\>\<loc\>	^İnternet<np><loc>$
-     15 #Gürcistan\<np\>\<loc\>	^Gürcistan<np><loc>$
-     15 #Avstraliya\<np\>\<gen\>	^Avstraliya<np><gen>$
-     15 #Arkan\<np\>	^Arkan<np>$
-     14 #Yaponiya\<np\>\<gen\>	^Yaponiya<np><gen>$
-     14 #Washington\<np\>\<ins\>	^Washington<np><ins>$
+     15 #o\<prn\>\<p2s\>\<ins\>	^o<prn><p2s><ins>$
+     15 #O\<prn\>\<dat\>	^O<prn><dat>$
+     15 #bura\<prn\>\<pl\>\<loc\>	^bura<prn><pl><loc>$
      14 #tap\<v\>\<rec\>\<cv_ma\>	^tap<v><rec><cv_ma>$
      14 #SPECIAL\<v\>\<pass\>\<cv_ma\>\<p3s\>	^SPECIAL<v><pass><cv_ma><p3s>$
-     14 #Siirt\<np\>\<loc\>	^Siirt<np><loc>$
-     14 #Şemdinli\<np\>	^Şemdinli<np>$
-     14 #Sandra\<np\>	^Sandra<np>$
-     14 #Nehri\<np\>\<p2s\>\<dat\>	^Nehri<np><p2s><dat>$
-     14 #Mostar\<np\>\<dat\>	^Mostar<np><dat>$
-     14 #Mehmed\<np\>	^Mehmed<np>$
-     14 #KOPENHAGEN\<np\>	^KOPENHAGEN<np>$
-     14 #KALKANDERE\<np\>	^KALKANDERE<np>$
-     14 #İspanya\<np\>\<loc\>	^İspanya<np><loc>$
-     14 #Fırat\<np\>	^Fırat<np>$
-     14 #Ermənistan\<np\>\<gen\>	^Ermənistan<np><gen>$
-     14 #Əfqanıstan\<np\>\<gen\>	^Əfqanıstan<np><gen>$
-     14 #Doğu\<np\>	^Doğu<np>$
-     14 #Beşir\<np\>	^Beşir<np>$
-     14 #Besim\<np\>	^Besim<np>$
-     14 #Banqladeş\<np\>	^Banqladeş<np>$
-     14 #Avstraliya\<np\>\<loc\>	^Avstraliya<np><loc>$
-     14 #Atatürk\<np\>	^Atatürk<np>$
-     14 #Askeri\<np\>	^Askeri<np>$
-     14 #Alman\<np\>\<3p\>	^Alman<np><3p>$
-     14 #Akdeniz\<np\>\<loc\>\<ki\>	^Akdeniz<np><loc><ki>$
-     13 #Yaponiya\<np\>\<loc\>	^Yaponiya<np><loc>$
-     13 #Washington\<np\>\<p3s\>	^Washington<np><p3s>$
-     13 #Tokyo\<np\>	^Tokyo<np>$
-     13 #Saray\<np\>\<loc\>	^Saray<np><loc>$
+     13 #siz\<prn\>\<dat\>	^siz<prn><dat>$
      13 #qalx\<v\>\<ref\>\<caus\>\<cv_ma\>	^qalx<v><ref><caus><cv_ma>$
-     13 #Pascal\<np\>	^Pascal<np>$
-     13 #Ortadoğu\<np\>\<dat\>	^Ortadoğu<np><dat>$
-     13 #Ogün\<np\>	^Ogün<np>$
-     13 #Ocak\<np\>	^Ocak<np>$
-     13 #Nisan\<np\>\<loc\>\<ki\>	^Nisan<np><loc><ki>$
-     13 #Niderland\<np\>\<abl\>	^Niderland<np><abl>$
-     13 #Müstəqillik\<n\>\<acc\>	^Müstəqillik<n><acc>$
-     13 #Mihalis\<np\>	^Mihalis<np>$
-     13 #Lissabon\<np\>\<loc\>	^Lissabon<np><loc>$
-     13 #Konqo\<np\>	^Konqo<np>$
-     13 #Kərkük\<np\>	^Kərkük<np>$
-     13 #Kasım\<np\>\<loc\>\<ki\>	^Kasım<np><loc><ki>$
-     13 #Kabil\<np\>\<dat\>	^Kabil<np><dat>$
-     13 #İngiltere\<np\>\<acc\>	^İngiltere<np><acc>$
-     13 #İmar\<np\>	^İmar<np>$
-     13 #İlham\<np\>	^İlham<np>$
-     13 #Hüsnü\<np\>	^Hüsnü<np>$
-     13 #Hamza\<np\>	^Hamza<np>$
-     13 #Gürsel\<np\>	^Gürsel<np>$
-     13 #Ertuğrul\<np\>	^Ertuğrul<np>$
-     13 #Doğu\<np\>\<loc\>\<ki\>	^Doğu<np><loc><ki>$
-     13 #Danimarka\<np\>\<gen\>	^Danimarka<np><gen>$
-     13 #Cenevre\<np\>\<loc\>\<ki\>	^Cenevre<np><loc><ki>$
-     13 #Cem\<np\>	^Cem<np>$
-     13 #Çanakkale\<np\>	^Çanakkale<np>$
-     13 #Brüssel\<np\>\<ins\>	^Brüssel<np><ins>$
-     13 #Brezilyalı\<np\>	^Brezilyalı<np>$
-     13 #Bosnalı\<np\>\<3p\>	^Bosnalı<np><3p>$
-     13 #Balkanlar\<np\>\<acc\>	^Balkanlar<np><acc>$
+     13 #O\<prn\>\<acc\>	^O<prn><acc>$
+     13 #mən\<prn\>\<p3s\>	^mən<prn><p3s>$
+     13 #Mən\<prn\>\<ca\>	^Mən<prn><ca>$
+     13 #mən\<prn\>\<ca\>	^mən<prn><ca>$
+     13 #kim\<prn\>\<dat\>	^kim<prn><dat>$
      13 #avtoritar\<n\>	^avtoritar<n>$
-     13 #Arda\<np\>	^Arda<np>$
-     13 #Almanya\<np\>\<acc\>	^Almanya<np><acc>$
-     13 #Adriyatik\<np\>\<gen\>	^Adriyatik<np><gen>$
-     12 #Yaponiya\<np\>\<dat\>	^Yaponiya<np><dat>$
-     12 #Turkcell\<np\>	^Turkcell<np>$
-     12 #Tunus\<np\>	^Tunus<np>$
-     12 #Tuna\<np\>\<gen\>	^Tuna<np><gen>$
-     12 #Suriye\<np\>\<gen\>	^Suriye<np><gen>$
-     12 #Saray\<np\>\<abl\>	^Saray<np><abl>$
-     12 #Ramiz\<np\>	^Ramiz<np>$
-     12 #Radovanoviç\<np\>\<gen\>	^Radovanoviç<np><gen>$
+     12 #Siz\<prn\>\<dat\>	^Siz<prn><dat>$
+     12 #Sən\<prn\>\<dat\>	^Sən<prn><dat>$
      12 #praqmatik\<n\>	^praqmatik<n>$
-     12 #Perşembe\<np\>	^Perşembe<np>$
      12 #Olimpik\<n\>	^Olimpik<n>$
-     12 #Nikosiya\<np\>\<loc\>\<ki\>	^Nikosiya<np><loc><ki>$
      12 #narkotik\<n\>	^narkotik<n>$
-     12 #Müslüman\<np\>\<acc\>	^Müslüman<np><acc>$
-     12 #Münih\<np\>\<loc\>	^Münih<np><loc>$
      12 #Komandan\<n\>	^Komandan<n>$
-     12 #Kanada\<np\>\<abl\>	^Kanada<np><abl>$
-     12 #Kalkandere\<np\>\<loc\>	^Kalkandere<np><loc>$
-     12 #İspanya\<np\>\<dat\>	^İspanya<np><dat>$
-     12 #İspanya\<np\>\<acc\>	^İspanya<np><acc>$
-     12 #Gürcistan\<np\>\<abl\>	^Gürcistan<np><abl>$
-     12 #Gazprom\<np\>\<dat\>	^Gazprom<np><dat>$
-     12 #Gaziantep\<np\>	^Gaziantep<np>$
-     12 #Frankfurt\<np\>	^Frankfurt<np>$
-     12 #Finlandiya\<np\>\<abl\>	^Finlandiya<np><abl>$
-     12 #Ekrem\<np\>	^Ekrem<np>$
-     12 #Edirne\<np\>	^Edirne<np>$
-     12 #Dimitri\<np\>	^Dimitri<np>$
-     12 #Danimarka\<np\>\<loc\>	^Danimarka<np><loc>$
-     12 #Çavuşesku\<np\>\<gen\>	^Çavuşesku<np><gen>$
-     12 #Bora\<np\>\<gen\>	^Bora<np><gen>$
-     12 #Belene\<np\>\<loc\>	^Belene<np><loc>$
-     12 #Balkan\<np\>\<3p\>	^Balkan<np><3p>$
-     12 #Avni\<np\>	^Avni<np>$
+     12 #bu\<prn\>\<pl\>\<loc\>	^bu<prn><pl><loc>$
+     12 #biz\<prn\>\<p1s\>\<ins\>	^biz<prn><p1s><ins>$
+     12 #Biz\<prn\>\<acc\>	^Biz<prn><acc>$
+     12 #biz\<prn\>\<abl\>	^biz<prn><abl>$
      12 #asimmetrik\<n\>	^asimmetrik<n>$
      12 #antidemokratik\<n\>	^antidemokratik<n>$
-     12 #Abbas\<np\>	^Abbas<np>$
-     11 #Yahudi\<np\>	^Yahudi<np>$
      11 #tap\<v\>\<rec\>\<vn_mak\>\<dat\>	^tap<v><rec><vn_mak><dat>$
      11 #Tap\<v\>\<rec\>\<cv_ma\>	^Tap<v><rec><cv_ma>$
      11 #SPECIAL\<v\>\<pass\>\<t_cont\>\<3s\>	^SPECIAL<v><pass><t_cont><3s>$
      11 #SPECIAL\<v\>\<caus\>\<pass\>\<t_past\>\<3s\>	^SPECIAL<v><caus><pass><t_past><3s>$
-     11 #Rus\<np\>\<3p\>	^Rus<np><3p>$
-     11 #Ocak\<np\>\<loc\>\<ki\>	^Ocak<np><loc><ki>$
-     11 #Nihat\<np\>	^Nihat<np>$
-     11 #Murad\<np\>	^Murad<np>$
-     11 #Marksist\<np\>	^Marksist<np>$
-     11 #Makedonya\<np\>\<ins\>	^Makedonya<np><ins>$
-     11 #Mahmut\<np\>	^Mahmut<np>$
-     11 #Kuveyt\<np\>\<loc\>	^Kuveyt<np><loc>$
-     11 #Kuveyt\<np\>\<dat\>	^Kuveyt<np><dat>$
-     11 #Kürşat\<np\>	^Kürşat<np>$
-     11 #Katolik\<np\>\<3p\>	^Katolik<np><3p>$
-     11 #Kaide\<np\>\<dat\>	^Kaide<np><dat>$
-     11 #Kabil\<np\>\<loc\>	^Kabil<np><loc>$
-     11 #İskandinav\<np\>	^İskandinav<np>$
-     11 #İncirlik\<np\>	^İncirlik<np>$
-     11 #Hırvat\<np\>\<acc\>	^Hırvat<np><acc>$
-     11 #Gürcistan\<np\>\<dat\>	^Gürcistan<np><dat>$
-     11 #Gül\<np\>\<abl\>	^Gül<np><abl>$
-     11 #Fiat\<np\>\<gen\>	^Fiat<np><gen>$
-     11 #Ermeni\<np\>\<3p\>	^Ermeni<np><3p>$
-     11 #Ekim\<np\>\<loc\>\<ki\>	^Ekim<np><loc><ki>$
-     11 #Dicle\<np\>	^Dicle<np>$
+     11 #o\<prn\>\<loc\>	^o<prn><loc>$
+     11 #o\<prn\>\<ca\>	^o<prn><ca>$
+     11 #kim\<prn\>\<pl\>\<abl\>	^kim<prn><pl><abl>$
      11 #demoqrafik\<n\>	^demoqrafik<n>$
-     11 #Cuma\<np\>	^Cuma<np>$
-     11 #Cemal\<np\>	^Cemal<np>$
-     11 #Brüssel\<np\>\<p3s\>	^Brüssel<np><p3s>$
-     11 #Bor\<np\>	^Bor<np>$
-     11 #Berlin\<np\>\<dat\>	^Berlin<np><dat>$
-     11 #Bektaşi\<np\>	^Bektaşi<np>$
-     11 #Azra\<np\>	^Azra<np>$
-     11 #Azeri\<np\>	^Azeri<np>$
-     11 #Atilla\<np\>	^Atilla<np>$
-     11 #Atatürk\<np\>\<dat\>	^Atatürk<np><dat>$
-     11 #Arnavutça\<np\>\<gen\>	^Arnavutça<np><gen>$
-     11 #Annan\<np\>\<abl\>	^Annan<np><abl>$
-     11 #Amsterdam\<np\>\<loc\>	^Amsterdam<np><loc>$
-     11 #Abdulah\<np\>	^Abdulah<np>$
-     10 #Vardar\<np\>	^Vardar<np>$
-     10 #Tut\<np\>\<cpl_di\>\<3s\>	^Tut<np><cpl_di><3s>$
+     11 #Bura\<prn\>\<p3s\>	^Bura<prn><p3s>$
      10 #tap\<v\>\<rec\>\<t_past\>\<3p\>	^tap<v><rec><t_past><3p>$
-     10 #Taliban\<np\>	^Taliban<np>$
-     10 #Stankoviç\<np\>\<acc\>	^Stankoviç<np><acc>$
-     10 #Schröder\<np\>\<gen\>	^Schröder<np><gen>$
+     10 #Siz\<prn\>\<ca\>	^Siz<prn><ca>$
      10 #Qalx\<v\>\<ref\>\<caus\>\<cv_ma\>	^Qalx<v><ref><caus><cv_ma>$
-     10 #Pentagon\<np\>\<gen\>	^Pentagon<np><gen>$
-     10 #Nemanja\<np\>	^Nemanja<np>$
-     10 #Nehri\<np\>\<p2s\>\<loc\>	^Nehri<np><p2s><loc>$
-     10 #Meriç\<np\>	^Meriç<np>$
-     10 #Marmara\<np\>	^Marmara<np>$
-     10 #Mardin\<np\>	^Mardin<np>$
-     10 #Liviya\<np\>\<acc\>	^Liviya<np><acc>$
-     10 #Konya\<np\>	^Konya<np>$
-     10 #Keniya\<np\>	^Keniya<np>$
-     10 #Kanadoğlu\<np\>	^Kanadoğlu<np>$
-     10 #İtalyan\<np\>\<3p\>	^İtalyan<np><3p>$
      10 #Indi\<adv\>\<ki\>	^Indi<adv><ki>$
-     10 #Hindistan\<np\>\<gen\>	^Hindistan<np><gen>$
-     10 #Haşimi\<np\>	^Haşimi<np>$
-     10 #Halil\<np\>	^Halil<np>$
      10 #genetik\<n\>	^genetik<n>$
-     10 #Fransa\<np\>\<acc\>	^Fransa<np><acc>$
-     10 #Etem\<np\>	^Etem<np>$
-     10 #Eskişehir\<np\>	^Eskişehir<np>$
-     10 #Erzurum\<np\>	^Erzurum<np>$
-     10 #Dubay\<np\>	^Dubay<np>$
-     10 #Diyarbakır\<np\>\<loc\>\<ki\>	^Diyarbakır<np><loc><ki>$
-     10 #Davutoğlu\<np\>	^Davutoğlu<np>$
-     10 #Davos\<np\>\<loc\>	^Davos<np><loc>$
-     10 #Danimarka\<np\>\<abl\>	^Danimarka<np><abl>$
-     10 #Clinton\<np\>\<gen\>	^Clinton<np><gen>$
-     10 #Cihad\<np\>	^Cihad<np>$
-     10 #Çeçen\<np\>	^Çeçen<np>$
-     10 #Caferi\<np\>\<gen\>	^Caferi<np><gen>$
-     10 #Budapeşt\<np\>	^Budapeşt<np>$
-     10 #Brüssel\<np\>\<loc\>\<cpl_di\>\<3s\>	^Brüssel<np><loc><cpl_di><3s>$
+     10 #Bu\<prn\>\<loc\>	^Bu<prn><loc>$
      10 #axtar\<v\>\<rec\>\<caus\>\<t_cont\>\<3p\>	^axtar<v><rec><caus><t_cont><3p>$
-     10 #Arnavut\<np\>\<acc\>	^Arnavut<np><acc>$
-     10 #Arjantin\<np\>\<loc\>	^Arjantin<np><loc>$
-     10 #Arınç\<np\>\<gen\>	^Arınç<np><gen>$
-     10 #Arapça\<np\>	^Arapça<np>$
-     10 #Aralık\<np\>	^Aralık<np>$
-     10 #Andrey\<np\>	^Andrey<np>$
-     10 #Ana\<np\>\<gen\>	^Ana<np><gen>$
-     10 #Afrika\<np\>\<loc\>\<ki\>	^Afrika<np><loc><ki>$
       9 #zaman\<adv\>\<ki\>	^zaman<adv><ki>$
       9 #vahşî\<adj\>	^vahşî<adj>$
-      9 #Tuzla\<np\>\<loc\>\<ki\>	^Tuzla<np><loc><ki>$
-      9 #Türk\<np\>\<dat\>	^Türk<np><dat>$
-      9 #TOKYO\<np\>	^TOKYO<np>$
       9 #Tap\<v\>\<rec\>\<cv_acak\>	^Tap<v><rec><cv_acak>$
-      9 #Talat\<np\>\<p3s\>	^Talat<np><p3s>$
       9 #SPECIAL\<v\>\<pass\>\<part_dik\>\<acc\>	^SPECIAL<v><pass><part_dik><acc>$
-      9 #Şii\<np\>	^Şii<np>$
-      9 #Serb Ordusu\<np\>\<gen\>	^Serb Ordusu<np><gen>$
-      9 #Roma\<np\>\<gen\>	^Roma<np><gen>$
-      9 #Reşat\<np\>	^Reşat<np>$
       9 #Qalx\<v\>\<ref\>\<cv_ma\>\<p3s\>	^Qalx<v><ref><cv_ma><p3s>$
-      9 #Perrin\<np\>	^Perrin<np>$
-      9 #Panama\<np\>	^Panama<np>$
-      9 #Oxford\<np\>	^Oxford<np>$
-      9 #Niderland\<np\>\<loc\>\<ki\>	^Niderland<np><loc><ki>$
-      9 #Musevi\<np\>	^Musevi<np>$
       9 #MI\<qst\>\<3s\>	^MI<qst><3s>$
-      9 #Marmaris\<np\>	^Marmaris<np>$
-      9 #Lüksemburq\<np\>\<dat\>	^Lüksemburq<np><dat>$
-      9 #Kabil\<np\>\<loc\>\<ki\>	^Kabil<np><loc><ki>$
-      9 #İzlanda\<np\>\<gen\>	^İzlanda<np><gen>$
-      9 #İsmet\<np\>	^İsmet<np>$
-      9 #İslami\<np\>\<gen\>	^İslami<np><gen>$
-      9 #Güler\<np\>\<gen\>	^Güler<np><gen>$
-      9 #Fransızca\<np\>	^Fransızca<np>$
-      9 #Finlandiya\<np\>\<loc\>	^Finlandiya<np><loc>$
-      9 #Ethem\<np\>	^Ethem<np>$
-      9 #Ermenice\<np\>	^Ermenice<np>$
-      9 #Ərəbistan\<np\>\<gen\>	^Ərəbistan<np><gen>$
+      9 #Kim\<prn\>	^Kim<prn>$
       9 #Elif\<n\>	^Elif<n>$
-      9 #Eker\<np\>	^Eker<np>$
-      9 #Dink\<np\>\<acc\>	^Dink<np><acc>$
-      9 #Danimarka\<np\>\<dat\>	^Danimarka<np><dat>$
-      9 #Cephesi\<np\>	^Cephesi<np>$
-      9 #Belqrad\<np\>\<loc\>\<cpl_di\>\<3s\>	^Belqrad<np><loc><cpl_di><3s>$
-      9 #Belçika\<np\>\<loc\>	^Belçika<np><loc>$
-      9 #Barzani\<np\>\<gen\>	^Barzani<np><gen>$
+      9 #Bura\<prn\>\<abl\>	^Bura<prn><abl>$
+      9 #Bu\<prn\>\<pl\>\<acc\>	^Bu<prn><pl><acc>$
       9 #Axtar\<v\>\<rec\>\<caus\>\<vn_mak\>\<dat\>	^Axtar<v><rec><caus><vn_mak><dat>$
       9 #axtar\<v\>\<rec\>\<caus\>\<cv_mak\>	^axtar<v><rec><caus><cv_mak>$
-      9 #Avstraliya\<np\>\<abl\>	^Avstraliya<np><abl>$
       9 #analitik\<n\>	^analitik<n>$
-      9 #Anadolu\<np\>\<loc\>\<ki\>	^Anadolu<np><loc><ki>$
-      8 #Zürih\<np\>	^Zürih<np>$
-      8 #Yeşil\<np\>\<3p\>	^Yeşil<np><3p>$
-      8 #Yahya\<np\>	^Yahya<np>$
-      8 #Vahabi\<np\>	^Vahabi<np>$
       8 #tap\<v\>\<rec\>\<vn_mak\>\<acc\>	^tap<v><rec><vn_mak><acc>$
       8 #tap\<v\>\<rec\>\<cv_ma\>\<p3s\>	^tap<v><rec><cv_ma><p3s>$
-      8 #Taner\<np\>	^Taner<np>$
-      8 #Talat\<np\>\<dat\>	^Talat<np><dat>$
-      8 #Suriye\<np\>\<acc\>	^Suriye<np><acc>$
-      8 #Sünni\<np\>	^Sünni<np>$
-      8 #Silvan\<np\>	^Silvan<np>$
-      8 #Şili\<np\>	^Şili<np>$
-      8 #Siirt\<np\>\<loc\>\<ki\>	^Siirt<np><loc><ki>$
-      8 #Sezer\<np\>\<dat\>	^Sezer<np><dat>$
       8 #Şevket\<n\>	^Şevket<n>$
-      8 #Savaş\<np\>	^Savaş<np>$
-      8 #Şanlıurfa\<np\>	^Şanlıurfa<np>$
-      8 #Qazaxıstan\<np\>\<gen\>	^Qazaxıstan<np><gen>$
-      8 #Qana\<np\>	^Qana<np>$
-      8 #Pazar\<np\>	^Pazar<np>$
-      8 #Nikosiya\<np\>	^Nikosiya<np>$
-      8 #Necmettin\<np\>	^Necmettin<np>$
-      8 #müstəqillik\<n\>\<pl\>\<acc\>	^müstəqillik<n><pl><acc>$
-      8 #Mustafa\<np\>\<gen\>	^Mustafa<np><gen>$
-      8 #Muhammed\<np\>\<gen\>	^Muhammed<np><gen>$
-      8 #Mısır\<np\>\<gen\>	^Mısır<np><gen>$
-      8 #Mevlana\<np\>	^Mevlana<np>$
-      8 #Mercedes\<np\>	^Mercedes<np>$
-      8 #Liviya\<np\>\<abl\>	^Liviya<np><abl>$
-      8 #Kennedy\<np\>	^Kennedy<np>$
-      8 #Kasım\<np\>\<gen\>	^Kasım<np><gen>$
-      8 #Karadeniz\<np\>\<dat\>	^Karadeniz<np><dat>$
-      8 #Kanada\<np\>\<dat\>	^Kanada<np><dat>$
-      8 #İzmir\<np\>\<loc\>\<ki\>	^İzmir<np><loc><ki>$
-      8 #İstanbul\<np\>\<p3s\>	^İstanbul<np><p3s>$
-      8 #İskoç\<np\>	^İskoç<np>$
-      8 #İlhan\<np\>	^İlhan<np>$
-      8 #Ermənistan\<np\>\<dat\>	^Ermənistan<np><dat>$
-      8 #Ege\<np\>\<loc\>\<ki\>	^Ege<np><loc><ki>$
-      8 #Efes\<np\>	^Efes<np>$
+      8 #Onlar\<prn\>\<acc\>	^Onlar<prn><acc>$
       8 #dörd\<n\>\<dat\>	^dörd<n><dat>$
-      8 #Denktaş\<np\>\<dat\>	^Denktaş<np><dat>$
-      8 #Denizli\<np\>	^Denizli<np>$
-      8 #Davut\<np\>	^Davut<np>$
-      8 #Cavit\<np\>	^Cavit<np>$
-      8 #Bulgarca\<np\>	^Bulgarca<np>$
-      8 #Bilkent\<np\>	^Bilkent<np>$
-      8 #Baykal\<np\>\<gen\>	^Baykal<np><gen>$
-      8 #Batı\<np\>\<gen\>	^Batı<np><gen>$
-      8 #Avstriya\<np\>\<loc\>\<ki\>	^Avstriya<np><loc><ki>$
-      8 #Avstriya\<np\>\<acc\>	^Avstriya<np><acc>$
-      8 #Attila\<np\>	^Attila<np>$
+      8 #bura\<prn\>\<p3s\>	^bura<prn><p3s>$
+      8 #Biz\<prn\>\<3p\>	^Biz<prn><3p>$
       8 #Asiya\<np\>\<dat\>	^Asiya<np><dat>$
-      8 #Arnavut\<np\>\<3p\>	^Arnavut<np><3p>$
-      8 #ANTALYA\<np\>	^ANTALYA<np>$
-      8 #Amerika\<np\>\<abl\>	^Amerika<np><abl>$
-      8 #Alparslan\<np\>	^Alparslan<np>$
-      8 #Akdağ\<np\>	^Akdağ<np>$
-      8 #Afrika\<np\>\<loc\>	^Afrika<np><loc>$
-      7 #Yazıcıoğlu\<np\>	^Yazıcıoğlu<np>$
       7 #YANDIR\<v\>\<t_imp\>\<2s\>	^YANDIR<v><t_imp><2s>$
-      7 #Viyana\<np\>\<gen\>	^Viyana<np><gen>$
-      7 #Verdi\<np\>\<gen\>	^Verdi<np><gen>$
-      7 #Tuzla\<np\>\<loc\>	^Tuzla<np><loc>$
-      7 #Telsim\<np\>	^Telsim<np>$
-      7 #Tayland\<np\>	^Tayland<np>$
       7 #tap\<v\>\<rec\>\<part_yan\>	^tap<v><rec><part_yan>$
       7 #tap\<v\>\<rec\>\<neg\>\<t_imp\>\<2s\>	^tap<v><rec><neg><t_imp><2s>$
       7 #Tä'minat\<n\>	^Tä'minat<n>$
-      7 #Tahran\<np\>	^Tahran<np>$
-      7 #Taci\<np\>\<acc\>	^Taci<np><acc>$
       7 #SPECIAL\<v\>\<caus\>\<vn_mak\>\<acc\>	^SPECIAL<v><caus><vn_mak><acc>$
       7 #SPECIAL\<v\>\<caus\>\<t_fut\>\<3s\>	^SPECIAL<v><caus><t_fut><3s>$
       7 #SPECIAL\<v\>\<caus\>\<pass\>\<cv_acak\>	^SPECIAL<v><caus><pass><cv_acak>$
-      7 #Şişli\<np\>	^Şişli<np>$
-      7 #Sayıştay\<np\>	^Sayıştay<np>$
-      7 #Radovanoviç\<np\>\<acc\>	^Radovanoviç<np><acc>$
-      7 #Qəzzafi\<np\>\<dat\>	^Qəzzafi<np><dat>$
-      7 #Özkök\<np\>\<gen\>	^Özkök<np><gen>$
-      7 #Özkan\<np\>	^Özkan<np>$
-      7 #Öcalan\<np\>\<dat\>	^Öcalan<np><dat>$
-      7 #Noel\<np\>\<abl\>	^Noel<np><abl>$
-      7 #Nehri\<np\>\<p2s\>\<acc\>	^Nehri<np><p2s><acc>$
-      7 #Müslüman\<np\>\<p3s\>	^Müslüman<np><p3s>$
-      7 #Müslim\<np\>	^Müslim<np>$
-      7 #Mısır\<np\>\<loc\>\<ki\>	^Mısır<np><loc><ki>$
-      7 #Mısır\<np\>\<loc\>	^Mısır<np><loc>$
-      7 #Mısır\<np\>\<dat\>	^Mısır<np><dat>$
-      7 #Malta\<np\>\<gen\>	^Malta<np><gen>$
-      7 #Makedon\<np\>\<gen\>	^Makedon<np><gen>$
-      7 #Madrid\<np\>\<gen\>	^Madrid<np><gen>$
-      7 #Macarıstan\<np\>\<loc\>\<ki\>	^Macarıstan<np><loc><ki>$
-      7 #Macarıstan\<np\>\<acc\>	^Macarıstan<np><acc>$
-      7 #Lockerbie\<np\>	^Lockerbie<np>$
-      7 #Litva\<np\>\<gen\>	^Litva<np><gen>$
-      7 #Kürşad\<np\>	^Kürşad<np>$
-      7 #Kudüs\<np\>\<loc\>	^Kudüs<np><loc>$
-      7 #Kuba\<np\>	^Kuba<np>$
-      7 #Kenan\<np\>	^Kenan<np>$
-      7 #Kahire\<np\>\<loc\>	^Kahire<np><loc>$
-      7 #Kadı\<np\>\<gen\>	^Kadı<np><gen>$
-      7 #İrəvan\<np\>\<loc\>	^İrəvan<np><loc>$
-      7 #İpek\<np\>	^İpek<np>$
-      7 #İnternet\<np\>\<gen\>	^İnternet<np><gen>$
-      7 #İnternet\<np\>\<dat\>	^İnternet<np><dat>$
-      7 #İngiliz\<np\>\<3p\>	^İngiliz<np><3p>$
-      7 #İngilizce\<np\>\<dat\>	^İngilizce<np><dat>$
-      7 #İmer\<np\>	^İmer<np>$
-      7 #İliç\<np\>\<gen\>	^İliç<np><gen>$
-      7 #Hizbullah\<np\>\<gen\>	^Hizbullah<np><gen>$
-      7 #Hırvatça\<np\>	^Hırvatça<np>$
-      7 #Hazar\<np\>	^Hazar<np>$
-      7 #Günay\<np\>	^Günay<np>$
-      7 #Gül\<np\>\<p3s\>	^Gül<np><p3s>$
-      7 #Genelkurmay\<np\>	^Genelkurmay<np>$
-      7 #Gazze\<np\>\<loc\>	^Gazze<np><loc>$
-      7 #Galatasaray\<np\>	^Galatasaray<np>$
-      7 #Filipinler\<np\>	^Filipinler<np>$
-      7 #Erzincan\<np\>	^Erzincan<np>$
-      7 #Erbakan\<np\>\<gen\>	^Erbakan<np><gen>$
-      7 #Erbakan\<np\>	^Erbakan<np>$
-      7 #Ege\<np\>\<loc\>	^Ege<np><loc>$
-      7 #Ege\<np\>	^Ege<np>$
-      7 #Ecevit\<np\>\<gen\>	^Ecevit<np><gen>$
-      7 #Doğubeyazıt\<np\>	^Doğubeyazıt<np>$
-      7 #Dink\<np\>\<dat\>	^Dink<np><dat>$
-      7 #DAVOS\<np\>	^DAVOS<np>$
-      7 #Davos\<np\>	^Davos<np>$
-      7 #Cizre\<np\>	^Cizre<np>$
+      7 #siz\<prn\>\<acc\>	^siz<prn><acc>$
+      7 #O\<prn\>\<abl\>	^O<prn><abl>$
+      7 #Hansı\<prn\>	^Hansı<prn>$
       7 #Çar\<n\>	^Çar<n>$
-      7 #Caddesi\<np\>\<p2s\>\<loc\>\<ki\>	^Caddesi<np><p2s><loc><ki>$
-      7 #Buluç\<np\>	^Buluç<np>$
+      7 #bura\<prn\>\<loc\>\<3s\>\<dir\>	^bura<prn><loc><3s><dir>$
+      7 #bu\<prn\>\<cpl_di\>\<3s\>	^bu<prn><cpl_di><3s>$
+      7 #bu\<prn\>\<ca\>	^bu<prn><ca>$
       7 #Bu gün\<adv\>\<ki\>	^Bu gün<adv><ki>$
-      7 #Budapeşt\<np\>\<loc\>\<ki\>	^Budapeşt<np><loc><ki>$
-      7 #Budapeşt\<np\>\<gen\>	^Budapeşt<np><gen>$
-      7 #Braziliya\<np\>\<acc\>	^Braziliya<np><acc>$
-      7 #Bitlis\<np\>	^Bitlis<np>$
-      7 #Bəsrə\<np\>	^Bəsrə<np>$
-      7 #Berlin\<np\>\<loc\>\<ki\>	^Berlin<np><loc><ki>$
-      7 #Bavyera\<np\>	^Bavyera<np>$
-      7 #Batı\<np\>\<dat\>	^Batı<np><dat>$
       7 #ballistik\<n\>	^ballistik<n>$
-      7 #Azərbaycan\<np\>\<dat\>	^Azərbaycan<np><dat>$
       7 #axtar\<v\>\<rec\>\<caus\>\<vn_mak\>\<loc\>	^axtar<v><rec><caus><vn_mak><loc>$
       7 #Artistik\<n\>	^Artistik<n>$
-      7 #Arnavut\<np\>\<dat\>	^Arnavut<np><dat>$
-      7 #Annan\<np\>\<ins\>	^Annan<np><ins>$
-      7 #Amerikan\<np\>	^Amerikan<np>$
-      7 #Akdeniz\<np\>\<dat\>	^Akdeniz<np><dat>$
-      7 #Ağar\<np\>	^Ağar<np>$
-      7 #Afrika\<np\>\<dat\>	^Afrika<np><dat>$
-      7 #Afrika\<np\>\<abl\>	^Afrika<np><abl>$
-      7 #Adriyatik\<np\>\<dat\>	^Adriyatik<np><dat>$
-      6 #Ziyal\<np\>	^Ziyal<np>$
       6 #xunta\<n\>	^xunta<n>$
-      6 #Velid\<np\>	^Velid<np>$
-      6 #Üniversitesi\<np\>\<p2s\>\<loc\>\<ki\>	^Üniversitesi<np><p2s><loc><ki>$
-      6 #Türkmen\<np\>	^Türkmen<np>$
-      6 #Tüpraş\<np\>	^Tüpraş<np>$
-      6 #Tayvan\<np\>	^Tayvan<np>$
       6 #tax\<v\>\<ref\>\<t_past\>\<3s\>	^tax<v><ref><t_past><3s>$
-      6 #Tara\<np\>	^Tara<np>$
       6 #tä'minat\<n\>\<pl\>	^tä'minat<n><pl>$
       6 #tä'minat\<n\>\<dat\>	^tä'minat<n><dat>$
-      6 #TAHRAN\<np\>	^TAHRAN<np>$
-      6 #Taci\<np\>\<dat\>	^Taci<np><dat>$
-      6 #Süreyya\<np\>	^Süreyya<np>$
       6 #SPECIAL\<v\>\<pass\>\<t_cont\>\<1p\>	^SPECIAL<v><pass><t_cont><1p>$
       6 #SPECIAL\<v\>\<pass\>\<cv_iyor\>	^SPECIAL<v><pass><cv_iyor>$
       6 #SPECIAL\<v\>\<caus\>\<cv_ma\>	^SPECIAL<v><caus><cv_ma>$
-      6 #Sinop\<np\>	^Sinop<np>$
-      6 #Sinan\<np\>	^Sinan<np>$
-      6 #Semiha\<np\>	^Semiha<np>$
-      6 #Selman\<np\>	^Selman<np>$
-      6 #Sedat\<np\>	^Sedat<np>$
-      6 #Schröder\<np\>\<abl\>	^Schröder<np><abl>$
-      6 #Saray\<np\>\<dat\>	^Saray<np><dat>$
-      6 #Şam\<np\>	^Şam<np>$
-      6 #Samir\<np\>	^Samir<np>$
-      6 #Rüstem\<np\>	^Rüstem<np>$
-      6 #Reyqan\<np\>\<gen\>	^Reyqan<np><gen>$
-      6 #Remzi\<np\>	^Remzi<np>$
-      6 #Radovanoviç\<np\>\<dat\>	^Radovanoviç<np><dat>$
-      6 #Qırğızıstan\<np\>	^Qırğızıstan<np>$
-      6 #Qazaxıstan\<np\>\<dat\>	^Qazaxıstan<np><dat>$
-      6 #Pentagon\<np\>\<dat\>	^Pentagon<np><dat>$
-      6 #Pazar\<np\>\<loc\>\<ki\>	^Pazar<np><loc><ki>$
-      6 #Pazar\<np\>\<loc\>	^Pazar<np><loc>$
+      6 #siz\<prn\>\<pl\>\<dat\>	^siz<prn><pl><dat>$
+      6 #siz\<prn\>\<p3s\>	^siz<prn><p3s>$
+      6 #Siz\<prn\>\<gen\>	^Siz<prn><gen>$
       6 #Patriarxiya\<n\>	^Patriarxiya<n>$
-      6 #Öymen\<np\>	^Öymen<np>$
-      6 #Ordu\<np\>\<gen\>	^Ordu<np><gen>$
-      6 #Olgaç\<np\>	^Olgaç<np>$
-      6 #Nokia\<np\>\<gen\>	^Nokia<np><gen>$
-      6 #Nikosiya\<np\>\<gen\>	^Nikosiya<np><gen>$
-      6 #Müslüman\<np\>\<dat\>	^Müslüman<np><dat>$
-      6 #Motorola\<np\>	^Motorola<np>$
-      6 #Mısır\<np\>\<acc\>	^Mısır<np><acc>$
-      6 #MINA\<np\>	^MINA<np>$
-      6 #Mesud\<np\>	^Mesud<np>$
-      6 #Meryem\<np\>	^Meryem<np>$
-      6 #Manchester\<np\>	^Manchester<np>$
-      6 #Maliki\<np\>\<gen\>	^Maliki<np><gen>$
-      6 #Lübnan\<np\>\<gen\>	^Lübnan<np><gen>$
-      6 #London\<np\>\<acc\>	^London<np><acc>$
-      6 #London\<np\>\<abl\>	^London<np><abl>$
       6 #kosmetik\<n\>	^kosmetik<n>$
-      6 #Konya\<np\>\<loc\>	^Konya<np><loc>$
-      6 #Konrad\<np\>	^Konrad<np>$
-      6 #Köln\<np\>	^Köln<np>$
-      6 #Keniya\<np\>\<loc\>	^Keniya<np><loc>$
-      6 #Kars\<np\>	^Kars<np>$
-      6 #Karin\<np\>	^Karin<np>$
-      6 #Karadeniz\<np\>\<acc\>	^Karadeniz<np><acc>$
-      6 #Karadeniz\<np\>\<abl\>	^Karadeniz<np><abl>$
-      6 #Kanada\<np\>\<loc\>	^Kanada<np><loc>$
+      6 #kim\<prn\>\<pl\>\<gen\>	^kim<prn><pl><gen>$
       6 #Jeodinamik\<n\>	^Jeodinamik<n>$
-      6 #İzmir\<np\>\<gen\>	^İzmir<np><gen>$
-      6 #İran\<np\>\<loc\>	^İran<np><loc>$
-      6 #İran\<np\>\<ins\>	^İran<np><ins>$
-      6 #İnternet\<np\>\<acc\>	^İnternet<np><acc>$
-      6 #Hizbullah\<np\>\<dat\>	^Hizbullah<np><dat>$
-      6 #Hindistan\<np\>\<dat\>	^Hindistan<np><dat>$
-      6 #Helen\<np\>	^Helen<np>$
-      6 #Hamburq\<np\>	^Hamburq<np>$
-      6 #Hakkari\<np\>\<loc\>	^Hakkari<np><loc>$
-      6 #Gürcistan\<np\>\<acc\>	^Gürcistan<np><acc>$
-      6 #Güler\<np\>\<dat\>	^Güler<np><dat>$
-      6 #Gazze\<np\>\<loc\>\<ki\>	^Gazze<np><loc><ki>$
-      6 #Gazze\<np\>\<dat\>	^Gazze<np><dat>$
-      6 #Gani\<np\>	^Gani<np>$
-      6 #Frankfurt\<np\>\<loc\>	^Frankfurt<np><loc>$
-      6 #Filistinli\<np\>\<3p\>	^Filistinli<np><3p>$
-      6 #Fehmi\<np\>	^Fehmi<np>$
-      6 #Faslı\<np\>	^Faslı<np>$
-      6 #Eyüp\<np\>	^Eyüp<np>$
-      6 #Eylül\<np\>\<loc\>\<ki\>	^Eylül<np><loc><ki>$
-      6 #Etiyopyalı\<np\>	^Etiyopyalı<np>$
-      6 #Ergün\<np\>	^Ergün<np>$
-      6 #Erdemir\<np\>	^Erdemir<np>$
-      6 #Ercan\<np\>	^Ercan<np>$
-      6 #Əfqanıstan\<np\>\<abl\>	^Əfqanıstan<np><abl>$
-      6 #Efiopiya\<np\>	^Efiopiya<np>$
-      6 #Doğu\<np\>\<loc\>	^Doğu<np><loc>$
-      6 #Dino\<np\>	^Dino<np>$
-      6 #Derviş\<np\>\<gen\>	^Derviş<np><gen>$
-      6 #Demirel\<np\>	^Demirel<np>$
-      6 #Danıştay\<np\>\<dat\>	^Danıştay<np><dat>$
-      6 #Çexoslovakiya\<np\>	^Çexoslovakiya<np>$
-      6 #Burgaz\<np\>\<loc\>\<ki\>	^Burgaz<np><loc><ki>$
-      6 #Bingöl\<np\>\<loc\>	^Bingöl<np><loc>$
-      6 #Berlin\<np\>\<acc\>	^Berlin<np><acc>$
-      6 #Başesgioğlu\<np\>	^Başesgioğlu<np>$
-      6 #Barselona\<np\>	^Barselona<np>$
-      6 #BAKI\<np\>	^BAKI<np>$
+      6 #hansı\<prn\>\<p3s\>\<gen\>	^hansı<prn><p3s><gen>$
+      6 #biz\<prn\>\<pl\>\<gen\>	^biz<prn><pl><gen>$
+      6 #biz\<prn\>\<pl\>\<acc\>	^biz<prn><pl><acc>$
       6 #axtar\<v\>\<rec\>\<caus\>\<vn_mak\>	^axtar<v><rec><caus><vn_mak>$
       6 #axtar\<v\>\<rec\>\<caus\>\<cv_mak\>\<ins\>	^axtar<v><rec><caus><cv_mak><ins>$
-      6 #Avstraliya\<np\>\<dat\>	^Avstraliya<np><dat>$
-      6 #Avrupai\<np\>	^Avrupai<np>$
       6 #atma\<n\>	^atma<n>$
-      6 #Atlanta\<np\>	^Atlanta<np>$
       6 #Asiya\<np\>\<gen\>	^Asiya<np><gen>$
-      6 #Aristo\<np\>	^Aristo<np>$
-      6 #Ari\<np\>	^Ari<np>$
-      6 #Arap\<np\>	^Arap<np>$
-      6 #Aralık\<np\>\<acc\>	^Aralık<np><acc>$
-      6 #Arab\<np\>	^Arab<np>$
-      6 #Antarktida\<np\>	^Antarktida<np>$
-      6 #Annan\<np\>\<acc\>	^Annan<np><acc>$
-      6 #Almanca\<np\>	^Almanca<np>$
-      6 #Akel\<np\>\<gen\>	^Akel<np><gen>$
-      6 #Akdeniz\<np\>\<gen\>	^Akdeniz<np><gen>$
-      6 #Afrika\<np\>\<gen\>	^Afrika<np><gen>$
-      6 #Adana\<np\>\<loc\>\<ki\>	^Adana<np><loc><ki>$
-      6 #Adalet\<np\>	^Adalet<np>$
-      5 #Zaim\<np\>	^Zaim<np>$
-      5 #Yeşil\<np\>	^Yeşil<np>$
-      5 #Yaponiya\<np\>\<abl\>	^Yaponiya<np><abl>$
-      5 #Viyana\<np\>\<abl\>	^Viyana<np><abl>$
-      5 #Vera\<np\>	^Vera<np>$
       5 #vaşaq\<n\>	^vaşaq<n>$
       5 #Vahşî\<adj\>	^Vahşî<adj>$
-      5 #Vahid\<np\>	^Vahid<np>$
-      5 #Tuzla\<np\>	^Tuzla<np>$
-      5 #Türk\<np\>\<acc\>	^Türk<np><acc>$
-      5 #Tuncay\<np\>	^Tuncay<np>$
-      5 #Tuğcu\<np\>	^Tuğcu<np>$
-      5 #Toyota\<np\>	^Toyota<np>$
-      5 #Tezcan\<np\>	^Tezcan<np>$
-      5 #Telsim\<np\>\<gen\>	^Telsim<np><gen>$
-      5 #Technologies\<np\>	^Technologies<np>$
       5 #Tap\<v\>\<rec\>\<cv_iyor\>	^Tap<v><rec><cv_iyor>$
-      5 #Tahran\<np\>\<loc\>	^Tahran<np><loc>$
       5 #tabel\<n\>	^tabel<n>$
-      5 #Sufi\<np\>	^Sufi<np>$
       5 #SPECIAL\<v\>\<pass\>\<t_cont\>\<3p\>	^SPECIAL<v><pass><t_cont><3p>$
       5 #SPECIAL\<v\>\<pass\>\<part_dik\>\<pl\>\<acc\>	^SPECIAL<v><pass><part_dik><pl><acc>$
       5 #SPECIAL\<v\>\<pass\>\<neg\>\<part_dik\>\<p3s\>\<acc\>	^SPECIAL<v><pass><neg><part_dik><p3s><acc>$
@@ -1422,136 +415,33 @@ Tag mismatch between transfer and generation
       5 #SPECIAL\<v\>\<caus\>\<pass\>\<cv_mis\>	^SPECIAL<v><caus><pass><cv_mis>$
       5 #SPECIAL\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^SPECIAL<v><caus><pass><cv_ma><p3s><dat>$
       5 #SPECIAL\<v\>\<caus\>\<part_yan\>	^SPECIAL<v><caus><part_yan>$
-      5 #Slav\<np\>\<3p\>	^Slav<np><3p>$
-      5 #Sivas\<np\>	^Sivas<np>$
-      5 #Şırnak\<np\>\<loc\>	^Şırnak<np><loc>$
-      5 #Silopi\<np\>	^Silopi<np>$
-      5 #Sezer\<np\>\<ins\>	^Sezer<np><ins>$
-      5 #Selmani\<np\>\<gen\>	^Selmani<np><gen>$
+      5 #siz\<prn\>\<p2s\>\<ins\>	^siz<prn><p2s><ins>$
+      5 #Siz\<prn\>	^Siz<prn>$
+      5 #sən\<prn\>\<dat\>	^sən<prn><dat>$
+      5 #SƏN\<prn\>\<cpl_sa\>\<3s\>	^SƏN<prn><cpl_sa><3s>$
+      5 #Sən\<prn\>\<cpl_sa\>\<3s\>	^Sən<prn><cpl_sa><3s>$
       5 #SARI\<v\>\<t_imp\>\<2s\>	^SARI<v><t_imp><2s>$
-      5 #Sarıgül\<np\>	^Sarıgül<np>$
-      5 #Said\<np\>	^Said<np>$
-      5 #Sadak\<np\>	^Sadak<np>$
-      5 #Sabih\<np\>	^Sabih<np>$
-      5 #Saad\<np\>	^Saad<np>$
-      5 #Raşid\<np\>	^Raşid<np>$
-      5 #Qəzzafi\<np\>\<acc\>	^Qəzzafi<np><acc>$
-      5 #Qazaxıstan\<np\>\<abl\>	^Qazaxıstan<np><abl>$
       5 #qabıq\<n\>	^qabıq<n>$
       5 #piroq\<n\>	^piroq<n>$
-      5 #Picasso\<np\>\<gen\>	^Picasso<np><gen>$
-      5 #Pentagon\<np\>\<loc\>	^Pentagon<np><loc>$
-      5 #Pentagon\<np\>\<abl\>	^Pentagon<np><abl>$
-      5 #Pekin\<np\>\<loc\>\<ki\>	^Pekin<np><loc><ki>$
-      5 #Öz\<np\>\<gen\>	^Öz<np><gen>$
-      5 #Ordu\<np\>	^Ordu<np>$
-      5 #Oktay\<np\>	^Oktay<np>$
-      5 #Obama\<np\>\<dat\>	^Obama<np><dat>$
-      5 #Noel\<np\>\<acc\>	^Noel<np><acc>$
+      5 #Onlar\<prn\>\<abl\>	^Onlar<prn><abl>$
       5 #nə\<prn\>\<qst\>\<acc\>	^nə<prn><qst><acc>$
-      5 #Müstəqillik\<n\>\<dat\>	^Müstəqillik<n><dat>$
       5 #Mü\<qst\>\<3s\>\<dir\>	^Mü<qst><3s><dir>$
-      5 #Mostar\<np\>\<abl\>	^Mostar<np><abl>$
-      5 #Meksika\<np\>\<dat\>	^Meksika<np><dat>$
-      5 #Medar\<np\>	^Medar<np>$
-      5 #Manisa\<np\>	^Manisa<np>$
-      5 #Manhetten\<np\>	^Manhetten<np>$
-      5 #Malatya\<np\>	^Malatya<np>$
-      5 #Latviya\<np\>\<gen\>	^Latviya<np><gen>$
-      5 #Köprüsü\<np\>\<gen\>	^Köprüsü<np><gen>$
-      5 #KONYA\<np\>	^KONYA<np>$
       5 #Klassik\<n\>	^Klassik<n>$
       5 #karvan\<n\>	^karvan<n>$
-      5 #Kanada\<np\>\<acc\>	^Kanada<np><acc>$
-      5 #Kahire\<np\>	^Kahire<np>$
-      5 #Kadı\<np\>\<dat\>	^Kadı<np><dat>$
-      5 #İslam\<np\>\<acc\>	^İslam<np><acc>$
-      5 #İslami\<np\>\<dat\>	^İslami<np><dat>$
-      5 #İrfan\<np\>	^İrfan<np>$
-      5 #İran\<np\>\<acc\>	^İran<np><acc>$
-      5 #İndoneziya\<np\>\<loc\>	^İndoneziya<np><loc>$
-      5 #İmam\<np\>	^İmam<np>$
-      5 #Ilıca\<np\>	^Ilıca<np>$
-      5 #İlgi\<np\>	^İlgi<np>$
-      5 #Hindistan\<np\>\<abl\>	^Hindistan<np><abl>$
-      5 #Haydar\<np\>	^Haydar<np>$
-      5 #Harvard\<np\>	^Harvard<np>$
-      5 #Harun\<np\>	^Harun<np>$
       5 #Gün\<adv\>\<ki\>	^Gün<adv><ki>$
-      5 #Girit\<np\>\<gen\>	^Girit<np><gen>$
-      5 #Gelibolu\<np\>	^Gelibolu<np>$
-      5 #Fevzi\<np\>	^Fevzi<np>$
-      5 #Ferhat\<np\>	^Ferhat<np>$
-      5 #Fenerbahçe\<np\>	^Fenerbahçe<np>$
-      5 #Fehim\<np\>	^Fehim<np>$
-      5 #Faysal\<np\>	^Faysal<np>$
-      5 #Fadıl\<np\>	^Fadıl<np>$
-      5 #Evrensel\<np\>	^Evrensel<np>$
-      5 #Ermənistan\<np\>\<acc\>	^Ermənistan<np><acc>$
-      5 #Elazığ\<np\>	^Elazığ<np>$
-      5 #Ekim\<np\>	^Ekim<np>$
-      5 #Əfqanıstan\<np\>\<acc\>	^Əfqanıstan<np><acc>$
-      5 #Doğu\<np\>\<abl\>	^Doğu<np><abl>$
       5 #disko\<n\>	^disko<n>$
-      5 #Dink\<np\>\<p3s\>	^Dink<np><p3s>$
-      5 #Denktaş\<np\>\<acc\>	^Denktaş<np><acc>$
       5 #demografiya\<n\>	^demografiya<n>$
-      5 #Demirtaş\<np\>	^Demirtaş<np>$
       5 #coğrafiya\<n\>	^coğrafiya<n>$
       5 #cip\<n\>	^cip<n>$
-      5 #Cevdet\<np\>	^Cevdet<np>$
-      5 #Cevat\<np\>	^Cevat<np>$
-      5 #CENEVRE\<np\>	^CENEVRE<np>$
-      5 #Çeçenistan\<np\>	^Çeçenistan<np>$
       5 #çatdırılma\<n\>	^çatdırılma<n>$
-      5 #Çankaya\<np\>	^Çankaya<np>$
-      5 #Cafer\<np\>	^Cafer<np>$
-      5 #Caddesi\<np\>\<gen\>	^Caddesi<np><gen>$
-      5 #Burgaz\<np\>\<loc\>	^Burgaz<np><loc>$
-      5 #Brüssel\<np\>\<loc\>\<cpl_di\>\<3p\>	^Brüssel<np><loc><cpl_di><3p>$
-      5 #Braziliya\<np\>\<abl\>	^Braziliya<np><abl>$
-      5 #Bölümü\<np\>	^Bölümü<np>$
-      5 #Boliviya\<np\>	^Boliviya<np>$
       5 #bioloq\<n\>	^bioloq<n>$
-      5 #Bilan\<np\>	^Bilan<np>$
-      5 #Belçika\<np\>\<dat\>	^Belçika<np><dat>$
-      5 #Belçika\<np\>\<abl\>	^Belçika<np><abl>$
-      5 #Behçet\<np\>	^Behçet<np>$
-      5 #Batı\<np\>\<acc\>	^Batı<np><acc>$
       5 #baş redaktor\<n\>	^baş redaktor<n>$
       5 #baron\<n\>\<acc\>	^baron<n><acc>$
-      5 #Barak\<np\>	^Barak<np>$
-      5 #Bala\<np\>\<gen\>	^Bala<np><gen>$
-      5 #Bakı\<np\>\<loc\>	^Bakı<np><loc>$
       5 #axtar\<v\>\<rec\>\<caus\>\<part_dik\>\<p3s\>\<acc\>	^axtar<v><rec><caus><part_dik><p3s><acc>$
       5 #axtar\<v\>\<rec\>\<caus\>\<cv_iyor\>	^axtar<v><rec><caus><cv_iyor>$
-      5 #Atlantik\<np\>\<gen\>	^Atlantik<np><gen>$
-      5 #Atina\<np\>\<loc\>\<cpl_di\>\<3s\>	^Atina<np><loc><cpl_di><3s>$
-      5 #Atatürkçü\<np\>	^Atatürkçü<np>$
-      5 #Arslan\<np\>\<gen\>	^Arslan<np><gen>$
-      5 #AMSTERDAM\<np\>	^AMSTERDAM<np>$
-      5 #Amsterdam\<np\>	^Amsterdam<np>$
-      5 #Amerika\<np\>\<dat\>	^Amerika<np><dat>$
-      5 #Afrika\<np\>\<acc\>	^Afrika<np><acc>$
-      4 #Zekeriya\<np\>	^Zekeriya<np>$
-      4 #Yüksel\<np\>	^Yüksel<np>$
-      4 #Yücel\<np\>	^Yücel<np>$
-      4 #Yerel\<np\>	^Yerel<np>$
-      4 #Yargıtay\<np\>\<gen\>	^Yargıtay<np><gen>$
-      4 #Yahudi\<np\>\<3p\>	^Yahudi<np><3p>$
-      4 #Ümraniye\<np\>	^Ümraniye<np>$
-      4 #Ulaş\<np\>\<cpl_di\>\<3s\>	^Ulaş<np><cpl_di><3s>$
-      4 #Tuzla\<np\>\<abl\>	^Tuzla<np><abl>$
-      4 #Tuncel\<np\>	^Tuncel<np>$
       4 #tez\<n\>\<acc\>	^tez<n><acc>$
-      4 #Tarkan\<np\>	^Tarkan<np>$
       4 #tap\<v\>\<rec\>\<cv_ma\>\<p3s\>\<dat\>	^tap<v><rec><cv_ma><p3s><dat>$
       4 #tap\<v\>\<rec\>\<cv_mak\>	^tap<v><rec><cv_mak>$
-      4 #Tanrıkulu\<np\>	^Tanrıkulu<np>$
-      4 #Tahir\<np\>	^Tahir<np>$
-      4 #Suriye\<np\>\<abl\>	^Suriye<np><abl>$
-      4 #Suad\<np\>	^Suad<np>$
-      4 #Stankoviç\<np\>\<dat\>	^Stankoviç<np><dat>$
       4 #SPECIAL\<v\>\<pass\>\<vn_mak\>\<dat\>	^SPECIAL<v><pass><vn_mak><dat>$
       4 #SPECIAL\<v\>\<pass\>\<vn_acak\>\<p3s\>\<acc\>	^SPECIAL<v><pass><vn_acak><p3s><acc>$
       4 #SPECIAL\<v\>\<pass\>\<part_yan\>\<3p\>	^SPECIAL<v><pass><part_yan><3p>$
@@ -1561,236 +451,51 @@ Tag mismatch between transfer and generation
       4 #SPECIAL\<v\>\<caus\>\<part_dik\>\<acc\>	^SPECIAL<v><caus><part_dik><acc>$
       4 #SPECIAL\<v\>\<caus\>\<cv_acak\>	^SPECIAL<v><caus><cv_acak>$
       4 #soyğunçu\<n\>\<pl\>	^soyğunçu<n><pl>$
-      4 #Sloven\<np\>\<3p\>	^Sloven<np><3p>$
+      4 #Siz\<prn\>\<pl\>\<dat\>	^Siz<prn><pl><dat>$
       4 #sıx\<v\>\<rec\>\<cv_mis\>	^sıx<v><rec><cv_mis>$
-      4 #Sırp\<np\>\<abl\>	^Sırp<np><abl>$
-      4 #Sezer\<np\>\<acc\>	^Sezer<np><acc>$
-      4 #Sezer\<np\>\<abl\>	^Sezer<np><abl>$
-      4 #Selçuk\<np\>	^Selçuk<np>$
-      4 #Selahattin\<np\>	^Selahattin<np>$
-      4 #Schröder\<np\>\<dat\>	^Schröder<np><dat>$
-      4 #Saray\<np\>\<gen\>	^Saray<np><gen>$
-      4 #Salvador\<np\>	^Salvador<np>$
-      4 #Salih\<np\>\<gen\>	^Salih<np><gen>$
-      4 #Sait\<np\>	^Sait<np>$
-      4 #Rum\<np\>\<acc\>	^Rum<np><acc>$
-      4 #Rumen\<np\>\<gen\>	^Rumen<np><gen>$
-      4 #Romen\<np\>\<gen\>	^Romen<np><gen>$
-      4 #Riyad\<np\>	^Riyad<np>$
-      4 #Rahman\<np\>	^Rahman<np>$
+      4 #Sən\<prn\>	^Sən<prn>$
       4 #qalx\<v\>\<ref\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>	^qalx<v><ref><caus><pass><cv_ma><p3s>$
-      4 #Putin\<np\>\<dat\>	^Putin<np><dat>$
-      4 #Protestan\<np\>\<3p\>	^Protestan<np><3p>$
-      4 #Polat\<np\>	^Polat<np>$
-      4 #Pekin\<np\>\<gen\>	^Pekin<np><gen>$
-      4 #Öztürk\<np\>	^Öztürk<np>$
-      4 #Özçelik\<np\>	^Özçelik<np>$
-      4 #Özcan\<np\>	^Özcan<np>$
-      4 #Öcalan\<np\>\<acc\>	^Öcalan<np><acc>$
-      4 #Nisan\<np\>\<acc\>	^Nisan<np><acc>$
-      4 #Nehri\<np\>\<p2s\>\<loc\>\<ki\>	^Nehri<np><p2s><loc><ki>$
-      4 #Nedim\<np\>	^Nedim<np>$
-      4 #Nami\<np\>	^Nami<np>$
-      4 #müstəqillik\<n\>\<loc\>	^müstəqillik<n><loc>$
-      4 #Müstəqillik\<n\>\<abl\>	^Müstəqillik<n><abl>$
-      4 #Münih\<np\>\<loc\>\<ki\>	^Münih<np><loc><ki>$
-      4 #Mostar\<np\>\<p3s\>	^Mostar<np><p3s>$
-      4 #Mostar\<np\>\<acc\>	^Mostar<np><acc>$
       4 #Mi\<qst\>\<3s\>	^Mi<qst><3s>$
-      4 #Mersin\<np\>\<loc\>	^Mersin<np><loc>$
-      4 #Meksika\<np\>\<gen\>	^Meksika<np><gen>$
-      4 #Marsilya\<np\>	^Marsilya<np>$
-      4 #Maliki\<np\>	^Maliki<np>$
-      4 #Madrid\<np\>\<dat\>	^Madrid<np><dat>$
-      4 #Macarıstan\<np\>\<p3s\>	^Macarıstan<np><p3s>$
-      4 #Macarca\<np\>	^Macarca<np>$
-      4 #Lüksemburq\<np\>\<acc\>	^Lüksemburq<np><acc>$
-      4 #Lüksemburq\<np\>\<abl\>	^Lüksemburq<np><abl>$
-      4 #London\<np\>\<loc\>\<cpl_di\>\<3s\>	^London<np><loc><cpl_di><3s>$
-      4 #Lahey\<np\>\<p3s\>	^Lahey<np><p3s>$
-      4 #Lahey\<np\>\<acc\>	^Lahey<np><acc>$
-      4 #Kuveyt\<np\>\<loc\>\<ki\>	^Kuveyt<np><loc><ki>$
-      4 #Kuşadası\<np\>	^Kuşadası<np>$
-      4 #Kurucu\<np\>	^Kurucu<np>$
+      4 #mən\<prn\>\<p1s\>\<ins\>	^mən<prn><p1s><ins>$
+      4 #Mən\<prn\>\<gen\>	^Mən<prn><gen>$
+      4 #Mən\<prn\>\<acc\>	^Mən<prn><acc>$
       4 #kult\<n\>	^kult<n>$
-      4 #Kudüs\<np\>\<dat\>	^Kudüs<np><dat>$
-      4 #KUDÜS\<np\>	^KUDÜS<np>$
-      4 #Kuba\<np\>\<loc\>\<ki\>	^Kuba<np><loc><ki>$
       4 #kostyum\<n\>\<pl\>	^kostyum<n><pl>$
-      4 #Körfez\<np\>\<dat\>	^Körfez<np><dat>$
-      4 #Kore\<np\>\<abl\>	^Kore<np><abl>$
-      4 #Kopenhagen\<np\>\<loc\>\<ki\>	^Kopenhagen<np><loc><ki>$
-      4 #Kızılay\<np\>	^Kızılay<np>$
-      4 #Kişinev\<np\>\<loc\>	^Kişinev<np><loc>$
-      4 #Kemal\<np\>	^Kemal<np>$
-      4 #Kayseri\<np\>	^Kayseri<np>$
-      4 #Kartal\<np\>\<gen\>	^Kartal<np><gen>$
-      4 #Karaburun\<np\>	^Karaburun<np>$
-      4 #Kandilli\<np\>	^Kandilli<np>$
-      4 #Kanada\<np\>\<loc\>\<ki\>	^Kanada<np><loc><ki>$
-      4 #Kalkandere\<np\>\<loc\>\<ki\>	^Kalkandere<np><loc><ki>$
-      4 #Kalkandere\<np\>\<gen\>	^Kalkandere<np><gen>$
-      4 #Kaide\<np\>\<acc\>	^Kaide<np><acc>$
-      4 #Kahramanmaraş\<np\>	^Kahramanmaraş<np>$
+      4 #KIM\<prn\>	^KIM<prn>$
       4 #jübile\<n\>	^jübile<n>$
-      4 #İzmir\<np\>\<dat\>	^İzmir<np><dat>$
-      4 #İspanyolca\<np\>	^İspanyolca<np>$
-      4 #İspanya\<np\>\<loc\>\<ki\>	^İspanya<np><loc><ki>$
-      4 #İskoçya\<np\>\<gen\>	^İskoçya<np><gen>$
-      4 #İrlanda\<np\>\<dat\>	^İrlanda<np><dat>$
-      4 #İrlanda\<np\>\<acc\>	^İrlanda<np><acc>$
-      4 #İrəvan\<np\>\<gen\>	^İrəvan<np><gen>$
-      4 #İran\<np\>\<loc\>\<ki\>	^İran<np><loc><ki>$
-      4 #İnternet\<np\>\<abl\>	^İnternet<np><abl>$
-      4 #İmad\<np\>	^İmad<np>$
-      4 #İlic\<np\>	^İlic<np>$
-      4 #Hüseyin\<np\>\<acc\>	^Hüseyin<np><acc>$
-      4 #Hürriyet\<np\>\<gen\>	^Hürriyet<np><gen>$
-      4 #HELSINKI\<np\>	^HELSINKI<np>$
-      4 #Hamit\<np\>	^Hamit<np>$
-      4 #Hamdi\<np\>	^Hamdi<np>$
-      4 #Hacettepe\<np\>	^Hacettepe<np>$
-      4 #Gül\<np\>	^Gül<np>$
-      4 #Güldal\<np\>	^Güldal<np>$
-      4 #Gönül\<np\>\<gen\>	^Gönül<np><gen>$
-      4 #Göksel\<np\>	^Göksel<np>$
-      4 #Girit\<np\>\<loc\>	^Girit<np><loc>$
-      4 #Gazprom\<np\>\<abl\>	^Gazprom<np><abl>$
-      4 #Fuad\<np\>	^Fuad<np>$
-      4 #Fransız\<np\>\<3p\>	^Fransız<np><3p>$
-      4 #Ford\<np\>\<dat\>	^Ford<np><dat>$
       4 #fəğan\<n\>	^fəğan<n>$
-      4 #Fatma\<np\>	^Fatma<np>$
-      4 #Faik\<np\>	^Faik<np>$
-      4 #Ervin\<np\>	^Ervin<np>$
-      4 #Ersöz\<np\>	^Ersöz<np>$
-      4 #Erol\<np\>	^Erol<np>$
-      4 #Erhan\<np\>	^Erhan<np>$
-      4 #Erdemir\<np\>\<gen\>	^Erdemir<np><gen>$
-      4 #Erdal\<np\>	^Erdal<np>$
-      4 #Ensar\<np\>	^Ensar<np>$
-      4 #Enis\<np\>	^Enis<np>$
       4 #Əlvan\<adj\>	^Əlvan<adj>$
-      4 #Ekvador\<np\>	^Ekvador<np>$
-      4 #Ekmeleddin\<np\>	^Ekmeleddin<np>$
-      4 #Ekim\<np\>\<acc\>	^Ekim<np><acc>$
-      4 #Doğan\<np\>\<gen\>	^Doğan<np><gen>$
       4 #dırnaq\<n\>	^dırnaq<n>$
-      4 #Daniel\<np\>\<gen\>	^Daniel<np><gen>$
       4 #cümlə\<n\>	^cümlə<n>$
-      4 #Columbia\<np\>	^Columbia<np>$
       4 #çit\<n\>\<pl\>	^çit<n><pl>$
-      4 #Çiçek\<np\>\<gen\>	^Çiçek<np><gen>$
-      4 #Cevad\<np\>	^Cevad<np>$
-      4 #Cesur\<np\>\<gen\>	^Cesur<np><gen>$
-      4 #Cengiz\<np\>	^Cengiz<np>$
-      4 #Caddesi\<np\>	^Caddesi<np>$
-      4 #Buxarest\<np\>\<loc\>\<cpl_di\>\<3s\>	^Buxarest<np><loc><cpl_di><3s>$
-      4 #Bush\<np\>\<acc\>	^Bush<np><acc>$
-      4 #BURGAZ\<np\>	^BURGAZ<np>$
-      4 #Boşnak\<np\>\<acc\>	^Boşnak<np><acc>$
-      4 #Boşnakça\<np\>	^Boşnakça<np>$
-      4 #Bora\<np\>	^Bora<np>$
+      4 #bura\<prn\>\<pl\>\<loc\>\<ki\>	^bura<prn><pl><loc><ki>$
+      4 #bura\<prn\>\<pl\>\<dat\>	^bura<prn><pl><dat>$
+      4 #bu\<prn\>\<loc\>\<ki\>	^bu<prn><loc><ki>$
+      4 #Biz\<prn\>\<p3s\>	^Biz<prn><p3s>$
+      4 #Biz\<prn\>\<p1s\>\<ins\>	^Biz<prn><p1s><ins>$
       4 #birlikdəlik\<n\>	^birlikdəlik<n>$
       4 #Bildirmə\<n\>	^Bildirmə<n>$
-      4 #Beyaz\<np\>	^Beyaz<np>$
-      4 #Beta\<np\>\<gen\>	^Beta<np><gen>$
-      4 #Belene\<np\>\<loc\>\<ki\>	^Belene<np><loc><ki>$
-      4 #Batı\<np\>\<loc\>	^Batı<np><loc>$
-      4 #Başbuğ\<np\>\<gen\>	^Başbuğ<np><gen>$
-      4 #Barzani\<np\>\<acc\>	^Barzani<np><acc>$
       4 #baqaj\<n\>	^baqaj<n>$
       4 #Balo\<n\>	^Balo<n>$
       4 #balkon\<n\>\<loc\>	^balkon<n><loc>$
       4 #bakteriya\<n\>	^bakteriya<n>$
-      4 #Baki\<np\>	^Baki<np>$
-      4 #Bağdad\<np\>\<abl\>	^Bağdad<np><abl>$
-      4 #Bağcılar\<np\>	^Bağcılar<np>$
-      4 #Ayhan\<np\>\<gen\>	^Ayhan<np><gen>$
       4 #axtar\<v\>\<rec\>\<caus\>\<vn_mak\>\<acc\>	^axtar<v><rec><caus><vn_mak><acc>$
       4 #axtar\<v\>\<rec\>\<caus\>\<pass\>\<t_cont\>\<3s\>	^axtar<v><rec><caus><pass><t_cont><3s>$
       4 #axtar\<v\>\<rec\>\<caus\>\<cv_acak\>	^axtar<v><rec><caus><cv_acak>$
-      4 #Avstraliya\<np\>\<loc\>\<ki\>	^Avstraliya<np><loc><ki>$
-      4 #Avropa\<np\>\<p3s\>\<loc\>	^Avropa<np><p3s><loc>$
       4 #Asiya\<np\>\<acc\>	^Asiya<np><acc>$
-      4 #Artuç\<np\>	^Artuç<np>$
-      4 #Arkan\<np\>\<gen\>	^Arkan<np><gen>$
-      4 #Arjantin\<np\>\<gen\>	^Arjantin<np><gen>$
-      4 #Arjantin\<np\>\<dat\>	^Arjantin<np><dat>$
-      4 #Arjantin\<np\>\<abl\>	^Arjantin<np><abl>$
-      4 #Anqola\<np\>	^Anqola<np>$
-      4 #Ankara\<np\>\<ins\>	^Ankara<np><ins>$
-      4 #Anka\<np\>	^Anka<np>$
-      4 #Anja\<np\>	^Anja<np>$
-      4 #Anadolu\<np\>\<loc\>	^Anadolu<np><loc>$
-      4 #Amr\<np\>	^Amr<np>$
-      4 #Amerika\<np\>\<acc\>	^Amerika<np><acc>$
-      4 #Allah\<np\>\<gen\>	^Allah<np><gen>$
-      4 #Ali\<np\>\<gen\>	^Ali<np><gen>$
-      4 #Algan\<np\>	^Algan<np>$
-      4 #Akşit\<np\>	^Akşit<np>$
-      4 #Adidas\<np\>	^Adidas<np>$
-      4 #Abeylegesse\<np\>	^Abeylegesse<np>$
-      4 #Abdul\<np\>	^Abdul<np>$
-      3 #Zonguldak\<np\>	^Zonguldak<np>$
-      3 #Ziyad\<np\>	^Ziyad<np>$
-      3 #Zeki\<np\>	^Zeki<np>$
-      3 #Yunanlı\<np\>\<abl\>	^Yunanlı<np><abl>$
-      3 #Yüksekova\<np\>	^Yüksekova<np>$
       3 #yönüm\<n\>\<dat\>	^yönüm<n><dat>$
       3 #yönüm\<n\>\<acc\>	^yönüm<n><acc>$
       3 #yönüm\<n\>	^yönüm<n>$
-      3 #Yıldır\<np\>	^Yıldır<np>$
-      3 #Yener\<np\>	^Yener<np>$
-      3 #Yeltsin\<np\>\<gen\>	^Yeltsin<np><gen>$
-      3 #Yaponiya\<np\>\<acc\>	^Yaponiya<np><acc>$
-      3 #Yale\<np\>	^Yale<np>$
-      3 #Yalçınkaya\<np\>\<gen\>	^Yalçınkaya<np><gen>$
       3 #xərək\<n\>	^xərək<n>$
-      3 #Vural\<np\>	^Vural<np>$
       3 #vitrin\<n\>	^vitrin<n>$
-      3 #Veysel\<np\>	^Veysel<np>$
       3 #vaqon\<n\>	^vaqon<n>$
-      3 #Van\<np\>\<loc\>\<ki\>	^Van<np><loc><ki>$
-      3 #Van\<np\>\<loc\>	^Van<np><loc>$
-      3 #VAN\<np\>	^VAN<np>$
-      3 #Uygur\<np\>	^Uygur<np>$
       3 #üstəgəl\<n\>\<dat\>	^üstəgəl<n><dat>$
-      3 #Üniversitesi\<np\>\<p2s\>\<acc\>	^Üniversitesi<np><p2s><acc>$
-      3 #Ulu\<np\>\<2s\>	^Ulu<np><2s>$
-      3 #Übeyde\<np\>	^Übeyde<np>$
-      3 #Tut\<np\>\<1s\>	^Tut<np><1s>$
-      3 #Türkolog\<np\>	^Türkolog<np>$
-      3 #Türkiyə\<np\>\<loc\>\<cpl_di\>\<3s\>	^Türkiyə<np><loc><cpl_di><3s>$
-      3 #Turcan\<np\>	^Turcan<np>$
-      3 #Turan\<np\>	^Turan<np>$
-      3 #Tüpraş\<np\>\<gen\>	^Tüpraş<np><gen>$
-      3 #Tunus\<np\>\<abl\>	^Tunus<np><abl>$
-      3 #Tuncer\<np\>	^Tuncer<np>$
-      3 #Tuna\<np\>\<acc\>	^Tuna<np><acc>$
-      3 #Tülay\<np\>	^Tülay<np>$
-      3 #Topkapı\<np\>	^Topkapı<np>$
-      3 #Tola\<np\>	^Tola<np>$
-      3 #Temizöz\<np\>	^Temizöz<np>$
-      3 #Taylan\<np\>	^Taylan<np>$
-      3 #Tayland\<np\>\<loc\>	^Tayland<np><loc>$
       3 #tax\<v\>\<ref\>\<vn_acak\>\<acc\>	^tax<v><ref><vn_acak><acc>$
       3 #tax\<v\>\<ref\>\<cv_erek\>	^tax<v><ref><cv_erek>$
-      3 #Tatar\<np\>	^Tatar<np>$
-      3 #Tarım\<np\>	^Tarım<np>$
       3 #tap\<v\>\<rec\>\<vn_mak\>	^tap<v><rec><vn_mak>$
       3 #tap\<v\>\<rec\>\<t_fut\>\<3p\>	^tap<v><rec><t_fut><3p>$
       3 #tap\<v\>\<rec\>\<part_dik\>\<acc\>	^tap<v><rec><part_dik><acc>$
       3 #tap\<v\>\<rec\>\<neg\>\<cv_dan\>	^tap<v><rec><neg><cv_dan>$
-      3 #Taner\<np\>\<gen\>	^Taner<np><gen>$
-      3 #Taliban\<np\>\<dat\>	^Taliban<np><dat>$
-      3 #Talabani\<np\>\<gen\>	^Talabani<np><gen>$
-      3 #Taib\<np\>	^Taib<np>$
-      3 #Tahran\<np\>\<dat\>	^Tahran<np><dat>$
-      3 #Suud\<np\>	^Suud<np>$
-      3 #Suriye\<np\>\<loc\>	^Suriye<np><loc>$
-      3 #Sultanahmet\<np\>	^Sultanahmet<np>$
-      3 #Şükrü\<np\>	^Şükrü<np>$
       3 #SPECIAL\<v\>\<pass\>\<cv_ip\>	^SPECIAL<v><pass><cv_ip>$
       3 #SPECIAL\<v\>\<pass\>\<cv_acak\>\<p3s\>\<dat\>	^SPECIAL<v><pass><cv_acak><p3s><dat>$
       3 #SPECIAL\<v\>\<caus\>\<vn_acak\>\<p3s\>\<acc\>	^SPECIAL<v><caus><vn_acak><p3s><acc>$
@@ -1800,170 +505,46 @@ Tag mismatch between transfer and generation
       3 #SPECIAL\<v\>\<caus\>\<cv_ma\>\<p3s\>	^SPECIAL<v><caus><cv_ma><p3s>$
       3 #SPECIAL\<v\>\<caus\>\<cv_mak\>	^SPECIAL<v><caus><cv_mak>$
       3 #SPECIAL\<v\>\<caus\>\<cv_erek\>	^SPECIAL<v><caus><cv_erek>$
+      3 #Siz\<prn\>\<pl\>\<acc\>	^Siz<prn><pl><acc>$
+      3 #siz\<prn\>\<loc\>	^siz<prn><loc>$
       3 #sıx\<v\>\<rec\>\<t_past\>\<3s\>	^sıx<v><rec><t_past><3s>$
-      3 #Şişecam\<np\>	^Şişecam<np>$
       3 #Sindrom\<n\>	^Sindrom<n>$
       3 #sindrom\<n\>	^sindrom<n>$
       3 #sindikat\<n\>	^sindikat<n>$
-      3 #Silivri\<np\>	^Silivri<np>$
-      3 #Server\<np\>	^Server<np>$
-      3 #Serbiya\<np\>\<loc\>\<cpl_di\>\<3s\>	^Serbiya<np><loc><cpl_di><3s>$
-      3 #Şensoy\<np\>	^Şensoy<np>$
-      3 #Şener\<np\>\<gen\>	^Şener<np><gen>$
+      3 #sən\<prn\>	^sən<prn>$
       3 #şəhidlik\<n\>	^şəhidlik<n>$
-      3 #Sarıgül\<np\>\<acc\>	^Sarıgül<np><acc>$
-      3 #Saraybosna\<np\>\<loc\>\<cpl_di\>\<3s\>	^Saraybosna<np><loc><cpl_di><3s>$
-      3 #Sani\<np\>	^Sani<np>$
-      3 #Salman\<np\>	^Salman<np>$
-      3 #Sakıp\<np\>	^Sakıp<np>$
-      3 #Sakarya\<np\>	^Sakarya<np>$
-      3 #Saddam\<np\>\<dat\>	^Saddam<np><dat>$
-      3 #Sabri\<np\>	^Sabri<np>$
-      3 #Rusça\<np\>	^Rusça<np>$
-      3 #Rum\<np\>\<gen\>	^Rum<np><gen>$
-      3 #Rumi\<np\>	^Rumi<np>$
-      3 #Rumence\<np\>	^Rumence<np>$
-      3 #Roma\<np\>\<loc\>\<cpl_di\>\<3s\>	^Roma<np><loc><cpl_di><3s>$
-      3 #Riyad\<np\>\<loc\>	^Riyad<np><loc>$
-      3 #Rıfat\<np\>	^Rıfat<np>$
-      3 #Reyqan\<np\>	^Reyqan<np>$
-      3 #Rafet\<np\>	^Rafet<np>$
-      3 #Qvatemala\<np\>	^Qvatemala<np>$
       3 #Qrafik\<n\>	^Qrafik<n>$
-      3 #Qırğızıstan\<np\>\<loc\>\<ki\>	^Qırğızıstan<np><loc><ki>$
       3 #Qalx\<v\>\<ref\>\<vn_mak\>\<dat\>	^Qalx<v><ref><vn_mak><dat>$
       3 #qalx\<v\>\<ref\>\<neg\>\<t_imp\>\<2s\>	^qalx<v><ref><neg><t_imp><2s>$
       3 #Qalx\<v\>\<ref\>\<neg\>\<cv_dan\>	^Qalx<v><ref><neg><cv_dan>$
       3 #Qalx\<v\>\<ref\>\<cv_ma\>\<p3s\>\<dat\>	^Qalx<v><ref><cv_ma><p3s><dat>$
-      3 #Putin\<np\>\<ins\>	^Putin<np><ins>$
-      3 #Portekizce\<np\>	^Portekizce<np>$
-      3 #Picasso\<np\>	^Picasso<np>$
-      3 #Petkim\<np\>	^Petkim<np>$
-      3 #Pera\<np\>	^Pera<np>$
-      3 #Pazarcık\<np\>	^Pazarcık<np>$
-      3 #Panasonic\<np\>	^Panasonic<np>$
-      3 #Paksüt\<np\>	^Paksüt<np>$
-      3 #Özince\<np\>	^Özince<np>$
-      3 #Özer\<np\>	^Özer<np>$
-      3 #Özdemir\<np\>	^Özdemir<np>$
-      3 #Özcan\<np\>\<dat\>	^Özcan<np><dat>$
-      3 #Özbek\<np\>	^Özbek<np>$
-      3 #Özal\<np\>\<gen\>	^Özal<np><gen>$
-      3 #Özak\<np\>	^Özak<np>$
-      3 #Ortadoğu\<np\>\<abl\>	^Ortadoğu<np><abl>$
-      3 #Onursal\<np\>	^Onursal<np>$
-      3 #Nurcan\<np\>	^Nurcan<np>$
-      3 #Nuh\<np\>\<gen\>	^Nuh<np><gen>$
-      3 #Nokia\<np\>\<dat\>	^Nokia<np><dat>$
-      3 #Noel\<np\>\<p3s\>	^Noel<np><p3s>$
-      3 #Noel\<np\>\<loc\>	^Noel<np><loc>$
-      3 #Niyazi\<np\>	^Niyazi<np>$
-      3 #Nisan\<np\>\<gen\>	^Nisan<np><gen>$
-      3 #Nisan\<np\>	^Nisan<np>$
+      3 #O\<prn\>\<p3s\>	^O<prn><p3s>$
+      3 #o\<prn\>\<ins\>	^o<prn><ins>$
+      3 #Onlar\<prn\>\<ca\>	^Onlar<prn><ca>$
       3 #nə\<prn\>\<qst\>\<pl\>\<gen\>	^nə<prn><qst><pl><gen>$
-      3 #Nehri\<np\>\<p2s\>\<abl\>	^Nehri<np><p2s><abl>$
-      3 #Neda\<np\>	^Neda<np>$
-      3 #Necip\<np\>	^Necip<np>$
-      3 #Nazi\<np\>\<3p\>	^Nazi<np><3p>$
       3 #Narkotik\<n\>	^Narkotik<n>$
       3 #mü\<qst\>\<3s\>\<dir\>	^mü<qst><3s><dir>$
       3 #mü\<qst\>\<3s\>	^mü<qst><3s>$
-      3 #Muhsin\<np\>	^Muhsin<np>$
-      3 #Muharrem\<np\>	^Muharrem<np>$
       3 #mi\<qst\>\<1s\>	^mi<qst><1s>$
       3 #mi\<qst\>\<1p\>	^mi<qst><1p>$
-      3 #Microsoft\<np\>\<abl\>	^Microsoft<np><abl>$
-      3 #Melih\<np\>	^Melih<np>$
-      3 #Meksika\<np\>\<loc\>	^Meksika<np><loc>$
-      3 #Marmaris\<np\>\<loc\>	^Marmaris<np><loc>$
-      3 #Mardin\<np\>\<loc\>\<ki\>	^Mardin<np><loc><ki>$
-      3 #Maliki\<np\>\<acc\>	^Maliki<np><acc>$
-      3 #Macarıstan\<np\>\<ins\>	^Macarıstan<np><ins>$
-      3 #Maastricht\<np\>\<loc\>	^Maastricht<np><loc>$
-      3 #Litva\<np\>\<dat\>	^Litva<np><dat>$
-      3 #Latife\<np\>	^Latife<np>$
-      3 #Kuveyt\<np\>\<gen\>	^Kuveyt<np><gen>$
-      3 #Kuveyt\<np\>\<abl\>	^Kuveyt<np><abl>$
-      3 #Kütahya\<np\>	^Kütahya<np>$
-      3 #Kuşadası\<np\>\<p2s\>\<loc\>	^Kuşadası<np><p2s><loc>$
-      3 #Kurucu\<np\>\<3p\>	^Kurucu<np><3p>$
-      3 #Kuran\<np\>\<acc\>	^Kuran<np><acc>$
       3 #kripto\<n\>\<acc\>	^kripto<n><acc>$
-      3 #Kopenhagen\<np\>\<dat\>	^Kopenhagen<np><dat>$
-      3 #Konqo\<np\>\<loc\>	^Konqo<np><loc>$
-      3 #Kırgız\<np\>	^Kırgız<np>$
-      3 #Kərkük\<np\>\<gen\>	^Kərkük<np><gen>$
-      3 #Kərkük\<np\>\<dat\>	^Kərkük<np><dat>$
-      3 #Kərkük\<np\>\<abl\>	^Kərkük<np><abl>$
-      3 #Kasım\<np\>\<acc\>	^Kasım<np><acc>$
-      3 #Kaplan\<np\>\<gen\>	^Kaplan<np><gen>$
-      3 #Kam\<np\>	^Kam<np>$
-      3 #Kaide\<np\>	^Kaide<np>$
-      3 #İzzet\<np\>	^İzzet<np>$
-      3 #İtalyanca\<np\>	^İtalyanca<np>$
+      3 #kim\<prn\>\<loc\>	^kim<prn><loc>$
+      3 #Kim\<prn\>\<gen\>	^Kim<prn><gen>$
+      3 #kim\<prn\>\<cpl_sa\>\<3s\>	^kim<prn><cpl_sa><3s>$
+      3 #Kim\<prn\>\<cpl_sa\>\<3p\>	^Kim<prn><cpl_sa><3p>$
       3 #istə\<v\>\<t_aor\>\<cv_cesine\>	^istə<v><t_aor><cv_cesine>$
-      3 #İstanbul\<np\>\<acc\>	^İstanbul<np><acc>$
-      3 #İslam\<np\>\<p3s\>	^İslam<np><p3s>$
-      3 #İslam\<np\>\<loc\>	^İslam<np><loc>$
-      3 #İslam\<np\>\<ins\>	^İslam<np><ins>$
-      3 #İskenderiye\<np\>	^İskenderiye<np>$
-      3 #İskandinavya\<np\>	^İskandinavya<np>$
-      3 #İrlanda\<np\>\<loc\>	^İrlanda<np><loc>$
-      3 #İrəvan\<np\>	^İrəvan<np>$
-      3 #İngiltere\<np\>\<ins\>	^İngiltere<np><ins>$
-      3 #İngilizce\<np\>\<gen\>	^İngilizce<np><gen>$
-      3 #İndoneziya\<np\>\<gen\>	^İndoneziya<np><gen>$
-      3 #İncil\<np\>\<abl\>	^İncil<np><abl>$
-      3 #İncil\<np\>	^İncil<np>$
-      3 #İlke\<np\>\<3p\>	^İlke<np><3p>$
-      3 #İliç\<np\>\<acc\>	^İliç<np><acc>$
-      3 #İklim\<np\>	^İklim<np>$
-      3 #Iğdır\<np\>	^Iğdır<np>$
-      3 #İbiş\<np\>	^İbiş<np>$
-      3 #Honduras\<np\>	^Honduras<np>$
-      3 #Hitler\<np\>	^Hitler<np>$
-      3 #Hırvat\<np\>\<dat\>	^Hırvat<np><dat>$
       3 #hərəkətsiz\<n\>	^hərəkətsiz<n>$
-      3 #Helsinki\<np\>\<dat\>	^Helsinki<np><dat>$
-      3 #Helsinki\<np\>\<acc\>	^Helsinki<np><acc>$
-      3 #Haya\<np\>	^Haya<np>$
-      3 #Hayal\<np\>	^Hayal<np>$
-      3 #Hatay\<np\>	^Hatay<np>$
-      3 #Harris\<np\>	^Harris<np>$
-      3 #Hamburq\<np\>\<loc\>\<ki\>	^Hamburq<np><loc><ki>$
-      3 #Haluk\<np\>	^Haluk<np>$
-      3 #Hakkari\<np\>\<gen\>	^Hakkari<np><gen>$
-      3 #Habur\<np\>	^Habur<np>$
-      3 #Güneş\<np\>	^Güneş<np>$
-      3 #Güce\<np\>	^Güce<np>$
-      3 #Girit\<np\>\<dat\>	^Girit<np><dat>$
-      3 #Genelkurmay\<np\>\<abl\>	^Genelkurmay<np><abl>$
-      3 #Gelibolu\<np\>\<loc\>	^Gelibolu<np><loc>$
-      3 #Frankfurt\<np\>\<loc\>\<ki\>	^Frankfurt<np><loc><ki>$
-      3 #FRANKFURT\<np\>	^FRANKFURT<np>$
-      3 #François\<np\>	^François<np>$
+      3 #hansı\<prn\>\<pl\>\<p3s\>\<gen\>	^hansı<prn><pl><p3s><gen>$
       3 #fiqur\<n\>	^fiqur<n>$
-      3 #Finlandiya\<np\>\<acc\>	^Finlandiya<np><acc>$
-      3 #Fikret\<np\>	^Fikret<np>$
-      3 #Ferid\<np\>	^Ferid<np>$
       3 #fədakarlıq\<n\>\<pl\>	^fədakarlıq<n><pl>$
       3 #əzginlik\<n\>\<ins\>	^əzginlik<n><ins>$
       3 #Əzginlik\<n\>\<dat\>	^Əzginlik<n><dat>$
-      3 #Esma\<np\>	^Esma<np>$
-      3 #Erzurum\<np\>\<loc\>	^Erzurum<np><loc>$
-      3 #Eruh\<np\>	^Eruh<np>$
-      3 #Eroğlu\<np\>\<gen\>	^Eroğlu<np><gen>$
-      3 #Ermənistan\<np\>\<abl\>	^Ermənistan<np><abl>$
-      3 #Ergezen\<np\>	^Ergezen<np>$
-      3 #Erener\<np\>	^Erener<np>$
-      3 #Ərəbistan\<np\>\<abl\>	^Ərəbistan<np><abl>$
-      3 #Ərbil\<np\>	^Ərbil<np>$
       3 #Epik\<n\>	^Epik<n>$
 
 ===============================================================================
 Summary
 ===============================================================================
-  129 /tmp/tr-az.multiform
-   12 /tmp/tr-az.multibidix
- 1805 /tmp/tr-az.tagmismatch
- 1946 total
+  140 /tmp/tr-az.multiform
+   11 /tmp/tr-az.multibidix
+  376 /tmp/tr-az.tagmismatch
+  527 total
