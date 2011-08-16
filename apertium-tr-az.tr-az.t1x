@@ -27,6 +27,10 @@
       <cat-item tags="v.t_cont.2p"/>
       <cat-item tags="v.t_cont.3p"/>
     </def-cat>
+
+<def-cat n="abilitative">
+      <cat-item tags="v.abil.*"/>
+  </def-cat>
     
   </section-def-cats>
   
