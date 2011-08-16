@@ -28,7 +28,7 @@
       <cat-item tags="v.t_cont.3p"/>
     </def-cat>
 
-<def-cat n="abilitative">
+<def-cat n="abil">
       <cat-item tags="v.abil.*"/>
   </def-cat>
     
@@ -42,10 +42,12 @@
       <attr-item tags="GD"/>
     </def-attr>
 
-<def-attr n="tense">
+<def-attr n="temps">
       <attr-item tags="t_cont"/>
       <attr-item tags="t_aor"/>
       <attr-item tags="t_fut"/>
+      <attr-item tags="t_imp"/>
+      <attr-item tags="t_past"/>
     </def-attr>
  
     <def-attr n="cas">
@@ -149,6 +151,34 @@
         <out>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+<!-- <v><t_opt> _ bil<X><Y><Z><...> -->
+
+    <rule comment="regla: abil">
+      <pattern>
+        <pattern-item n="abil"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" side="tl" part="a_nom"/>
+          <lit-tag v="np"/>
+        </let>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <lit-tag v="v.t_opt"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+          <b/>
+          <lu>
+            <lit v="bil"/>
+            <lit-tag v="v"/>
+            <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="cop_pers"/>
           </lu>
         </out>
       </action>
