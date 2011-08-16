@@ -170,7 +170,7 @@
         <out>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
-            <lit-tag v="v.t_opt"/>
+            <lit-tag v="v.t_opt.3s"/>
             <clip pos="1" side="tl" part="lemq"/>
           </lu>
           <b/>
