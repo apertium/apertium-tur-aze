@@ -333,7 +333,7 @@
     <e><p><l>afet</l><r>afət</r></p><par n="nominal"/></e>
     <e><p><l>yılki</l><r>ilki</r></p><par n="nominal"/></e>
     <e><p><l>sonraki</l><r>sonraki</r></p><par n="nominal"/></e>
-    <e><p><l>önceki</l><r>önceki</r></p><par n="nominal"/></e>
+    <e><p><l>önceki</l><r>öncəki</r></p><par n="nominal"/></e>
     <e><p><l>ayki</l><r>ayki</r></p><par n="nominal"/></e>
     <e><p><l>zamanki</l><r>zamanki</r></p><par n="nominal"/></e>
     <e><p><l>bu<b/>günkü</l><r>bu<b/>günkü</r></p><par n="nominal"/></e>
