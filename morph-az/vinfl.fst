@@ -9,9 +9,6 @@
 %%% stems that are lexically marked, and deal with them in deriv.fst.
 %%%
 
-
-
-
 %%% Causative 
 %
 % TODO: handling of (truely?) irregular forms such as gir/sok,
@@ -32,7 +29,9 @@ $caus_Art$ = <caus>:{<A>rt} <MB>
 % ends with `l', otherwise `n'. <bI> is the buffer vowel, which is
 % dropped or realized as <I>
 
-$passive$ = <pass>:{<bI><LN>} <MB>
+$passive$ = <pass>:{<bI>l} <MB>
+
+%%TO BE FIXED%%
 
 %%%%%%%%%%%%%%%% End of voice suffixes
 
