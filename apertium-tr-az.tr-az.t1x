@@ -102,10 +102,18 @@
       <attr-item tags="cv_cesine"/>
       <attr-item tags="cv_ip"/>
 
-
-
-    </def-attr>
+  </def-attr>
     
+      <def-attr n="part">
+        <attr-item tags="part_dik"/>
+        <attr-item tags="part_yan"/>
+        <attr-item tags="part_acak"/>
+
+        </def-attr>
+
+    
+
+
     <def-attr n="poss_pers">
       <attr-item tags="p1s"/>
       <attr-item tags="p2s"/>
