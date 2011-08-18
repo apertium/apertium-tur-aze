@@ -9,6 +9,9 @@
 %%% stems that are lexically marked, and deal with them in deriv.fst.
 %%%
 
+
+
+
 %%% Causative 
 %
 % TODO: handling of (truely?) irregular forms such as gir/sok,
