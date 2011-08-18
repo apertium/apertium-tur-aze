@@ -514,6 +514,8 @@ SELECT Dat if (0 N) (1 POST-DAT) ;
  ## Same as rule 29
  
 
+REMOVE (v rec caus) IF (0 ("araştır"i)) ;
+
 
 REMOVE A IF (0 A) (0 Det) (-1 A) (1 N) ;
 
