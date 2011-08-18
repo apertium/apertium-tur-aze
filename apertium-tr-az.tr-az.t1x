@@ -44,11 +44,17 @@
     </def-attr>
 
 <def-attr n="temps">
-      <attr-item tags="t_cont"/>
-      <attr-item tags="t_aor"/>
-      <attr-item tags="t_fut"/>
-      <attr-item tags="t_imp"/>
-      <attr-item tags="t_past"/>
+    <attr-item tags="t_aor"/>
+    <attr-item tags="t_cond"/>
+    <attr-item tags="t_cont"/>
+    <attr-item tags="t_fut"/>
+    <attr-item tags="t_imp"/>
+    <attr-item tags="t_makta"/>
+    <attr-item tags="t_narr"/>
+    <attr-item tags="t_obl"/>
+    <attr-item tags="t_opt"/>
+    <attr-item tags="t_past"/>
+
     </def-attr>
  
     <def-attr n="cas">
@@ -79,11 +85,13 @@
       <attr-item tags="np.apos"/>
     </def-attr>
     
-    <def-attr n="converbs">
+    <def-attr n="nonfin">
       <attr-item tags="cv_mak"/>
       <attr-item tags="vn_dik"/>
       <attr-item tags="vn_ma"/>
       <attr-item tags="vn_mak"/>
+      <attr-item tags="vn_acak"/>
+      <attr-item tags="cv_acak"/>
       <attr-item tags="vn_yis"/>
       <attr-item tags="cv_dik"/>
       <attr-item tags="cv_ma"/>
@@ -102,15 +110,14 @@
       <attr-item tags="cv_cesine"/>
       <attr-item tags="cv_ip"/>
 
-  </def-attr>
-    
-      <def-attr n="part">
         <attr-item tags="part_dik"/>
         <attr-item tags="part_yan"/>
         <attr-item tags="part_acak"/>
-
         </def-attr>
 
+    <def-attr n="dir">
+        <attr-item tags="dir"/>
+        </def-attr>
     
 
 
@@ -214,7 +221,10 @@
             <lit v="bil"/>
             <lit-tag v="v"/>
             <clip pos="1" side="tl" part="temps"/>
+            <clip pos="1" side="tl" part="nonfin"/>
+            <clip pos="1" side="tl" part="poss_pers"/>
             <clip pos="1" side="tl" part="cop_pers"/>
+            <clip pos="1" side="tl" part="dir"/>
           </lu>
         </out>
       </action>
