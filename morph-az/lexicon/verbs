@@ -16,7 +16,7 @@ min
 gülümsə
 davam e<t>
 atlan
-tap
+tap<rec>
 unut
 qarşılaş
 çalış
@@ -108,7 +108,6 @@ an<aor_ar>
 as<aor_ar>
 aş<caus_ir><aor_ar>
 bat<caus_ir><aor_ar>
-çev<del>ir
 çevir
 yaz<rcp><aor_ar>
 yen<aor_ar>
@@ -123,7 +122,6 @@ sön<aor_ar>
 öt<aor_ar>
 art<caus_ir><aor_ar>
 seç<aor_ar>
-çağ<del>ır<rcp>
 çağır<rcp>
 çarp<rfl><rcp><aor_ar>
 doğ<caus_ir><aor_ar>
@@ -151,7 +149,7 @@ asanlaşdır
 atıl
 atmaq
 ax
-axtar
+axtar<rec><ref>
 azal
 bağışla
 bağla
@@ -502,7 +500,7 @@ zəiflə
 zəifləşdir
 zəncirlə
 zidd ol
-qalx
+qalx<rec><ref>
 zorla
 zülm e<t>
 SPECIAL
