@@ -263,6 +263,6 @@ $cv_mis$    = <cv_mis>:{<bY>m<I>ş} <MB>
 $cv_anda$    = <cv_anda>:{<bY><A>nd<A>} <MB>
 $cv_iyor$    = <cv_iyor>:{<bI>yor} <MB>
 % -cesine comes after A/Ir and mIş:
-$cv_cesine$ = <cv_cesine>:{<C><A>s<I>n<A>} <MB>
+$cv_cesine$ = <cv_cesine>:{c<A>s<I>n<A>} <MB>
 
 $cv_ip$     = <cv_ip>:{<bY><I>b} <MB>
