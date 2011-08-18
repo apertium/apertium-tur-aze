@@ -79,6 +79,33 @@
       <attr-item tags="np.apos"/>
     </def-attr>
     
+    <def-attr n="converbs">
+      <attr-item tags="cv_mak"/>
+      <attr-item tags="vn_dik"/>
+      <attr-item tags="vn_ma"/>
+      <attr-item tags="vn_mak"/>
+      <attr-item tags="vn_yis"/>
+      <attr-item tags="cv_dik"/>
+      <attr-item tags="cv_ma"/>
+      <attr-item tags="cv_dan"/>
+      <attr-item tags="cv_zdan"/>
+      <attr-item tags="cv_ince"/>
+      <attr-item tags="cv_erek"/>
+      <attr-item tags="cv_eli"/>
+      <attr-item tags="cv_ene"/>
+      <attr-item tags="cv_ir"/>
+      <attr-item tags="cv_ar"/>
+      <attr-item tags="cv_ecek"/>
+      <attr-item tags="cv_mis"/>
+      <attr-item tags="cv_anda"/>
+      <attr-item tags="cv_iyor"/>
+      <attr-item tags="cv_cesine"/>
+      <attr-item tags="cv_ip"/>
+
+
+
+    </def-attr>
+    
     <def-attr n="poss_pers">
       <attr-item tags="p1s"/>
       <attr-item tags="p2s"/>
