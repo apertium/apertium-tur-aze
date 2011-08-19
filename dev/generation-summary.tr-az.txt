@@ -1,2 +1,3 @@
-Not enough arguments to generation-test.sh
-bash generation-test.sh <corpus>
+Corpus in: /home/fran/corpora/turkish
+Processing corpus for generation test... done.
+Translating corpus for generation test (this could take some time)... 
