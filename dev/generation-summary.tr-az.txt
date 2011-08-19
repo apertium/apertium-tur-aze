@@ -1,2 +1,111 @@
-Not enough arguments to generation-test.sh
-bash generation-test.sh <corpus>
+Corpus in: /home/fran/corpora/turkish
+Processing corpus for generation test... done.
+Translating corpus for generation test (this could take some time)... done.
+
+===============================================================================
+Multiple surface forms for a single lexical form
+===============================================================================
+      5 burultulabilməz/burultulamaz	^burul<v><caus><pass><abil><neg><t_aor><3s>$
+      4 qaltabilməik/qaltamaık	^qal<v><caus><abil><neg><t_aor><1p>$
+      4 dəyişdiriləbilməz/dəyişdiriləməz	^dəyiş<v><caus><pass><abil><neg><t_aor><3s>$
+      3 qaltabilməz/qaltamaz	^qal<v><caus><abil><neg><t_aor><3s>$
+
+===============================================================================
+Multiple bidix entries for a single source language lexical form
+===============================================================================
+
+===============================================================================
+Tag mismatch between transfer and generation
+===============================================================================
+   1005 #Rusiya\<np\>	^Rusiya<np>$
+    805 #sonra\<adv\>\<ki\>	^sonra<adv><ki>$
+    348 #Rusiya\<np\>\<gen\>	^Rusiya<np><gen>$
+    140 #nere\<prn\>\<loc\>	^nere<prn><loc>$
+    138 #mi\<qst\>\<3s\>	^mi<qst><3s>$
+    127 #mı\<qst\>\<3s\>	^mı<qst><3s>$
+     83 #Rusiya\<np\>\<abl\>	^Rusiya<np><abl>$
+     77 #Rusiya\<np\>\<loc\>	^Rusiya<np><loc>$
+     73 #Rusiya\<np\>\<dat\>	^Rusiya<np><dat>$
+     54 #SPECIAL\<v\>\<pass\>\<part_dik\>\<p3s\>\<acc\>	^SPECIAL<v><pass><part_dik><p3s><acc>$
+     50 #otomatik\<n\>	^otomatik<n>$
+     44 #gün\<adv\>\<ki\>	^gün<adv><ki>$
+     42 #Rusiya\<np\>\<acc\>	^Rusiya<np><acc>$
+     37 #SPECIAL\<v\>\<pass\>\<part_yan\>	^SPECIAL<v><pass><part_yan>$
+     32 #SPECIAL\<v\>\<caus\>\<t_past\>\<3s\>	^SPECIAL<v><caus><t_past><3s>$
+     29 #indi\<adv\>\<ki\>	^indi<adv><ki>$
+     28 #mu\<qst\>\<3s\>	^mu<qst><3s>$
+     23 #Sonra\<adv\>\<ki\>	^Sonra<adv><ki>$
+     21 #SPECIAL\<v\>\<pass\>\<part_dik\>\<pl\>\<p3s\>\<acc\>	^SPECIAL<v><pass><part_dik><pl><p3s><acc>$
+     18 #bu gün\<adv\>\<ki\>	^bu gün<adv><ki>$
+     16 #SPECIAL\<v\>\<caus\>\<pass\>\<t_fut\>\<3s\>	^SPECIAL<v><caus><pass><t_fut><3s>$
+     16 #SPECIAL\<v\>\<caus\>\<pass\>\<part_yan\>	^SPECIAL<v><caus><pass><part_yan>$
+     16 #SPECIAL\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>	^SPECIAL<v><caus><pass><cv_ma><p3s>$
+     16 #mu\<qst\>\<2p\>	^mu<qst><2p>$
+     15 #SPECIAL\<v\>\<pass\>\<cv_dik\>\<p3s\>\<acc\>	^SPECIAL<v><pass><cv_dik><p3s><acc>$
+     15 #SPECIAL\<v\>\<pass\>\<cv_acak\>	^SPECIAL<v><pass><cv_acak>$
+     15 #nere\<prn\>\<dat\>	^nere<prn><dat>$
+     14 #SPECIAL\<v\>\<pass\>\<cv_ma\>\<p3s\>	^SPECIAL<v><pass><cv_ma><p3s>$
+     13 #avtoritar\<n\>	^avtoritar<n>$
+     11 #SPECIAL\<v\>\<pass\>\<t_cont\>\<3s\>	^SPECIAL<v><pass><t_cont><3s>$
+     11 #SPECIAL\<v\>\<caus\>\<pass\>\<t_past\>\<3s\>	^SPECIAL<v><caus><pass><t_past><3s>$
+     11 #il\<adv\>\<ki\>	^il<adv><ki>$
+     10 #nere\<prn\>\<abl\>	^nere<prn><abl>$
+     10 #Indi\<adv\>\<ki\>	^Indi<adv><ki>$
+      9 #zaman\<adv\>\<ki\>	^zaman<adv><ki>$
+      9 #MI\<qst\>\<3s\>	^MI<qst><3s>$
+      8 #SPECIAL\<v\>\<pass\>\<part_dik\>\<acc\>	^SPECIAL<v><pass><part_dik><acc>$
+      7 #YANDIR\<v\>\<t_imp\>\<2s\>	^YANDIR<v><t_imp><2s>$
+      7 #SPECIAL\<v\>\<caus\>\<vn_mak\>\<acc\>	^SPECIAL<v><caus><vn_mak><acc>$
+      7 #SPECIAL\<v\>\<caus\>\<t_fut\>\<3s\>	^SPECIAL<v><caus><t_fut><3s>$
+      7 #SPECIAL\<v\>\<caus\>\<pass\>\<cv_acak\>	^SPECIAL<v><caus><pass><cv_acak>$
+      7 #Rusiya\<np\>\<loc\>\<ki\>	^Rusiya<np><loc><ki>$
+      7 #Nere\<prn\>\<loc\>	^Nere<prn><loc>$
+      7 #Bu gün\<adv\>\<ki\>	^Bu gün<adv><ki>$
+      6 #tax\<v\>\<ref\>\<t_past\>\<3s\>	^tax<v><ref><t_past><3s>$
+      6 #SPECIAL\<v\>\<pass\>\<t_cont\>\<1p\>	^SPECIAL<v><pass><t_cont><1p>$
+      6 #SPECIAL\<v\>\<pass\>\<cv_iyor\>	^SPECIAL<v><pass><cv_iyor>$
+      6 #SPECIAL\<v\>\<caus\>\<cv_ma\>	^SPECIAL<v><caus><cv_ma>$
+      6 #Rusiya\<np\>\<ins\>	^Rusiya<np><ins>$
+      5 #SPECIAL\<v\>\<pass\>\<t_cont\>\<3p\>	^SPECIAL<v><pass><t_cont><3p>$
+      5 #SPECIAL\<v\>\<pass\>\<part_dik\>\<pl\>\<acc\>	^SPECIAL<v><pass><part_dik><pl><acc>$
+      5 #SPECIAL\<v\>\<pass\>\<neg\>\<part_dik\>\<p3s\>\<acc\>	^SPECIAL<v><pass><neg><part_dik><p3s><acc>$
+      5 #SPECIAL\<v\>\<pass\>\<neg\>\<cv_dik\>\<p3s\>\<acc\>	^SPECIAL<v><pass><neg><cv_dik><p3s><acc>$
+      5 #SPECIAL\<v\>\<caus\>\<pass\>\<cv_mis\>	^SPECIAL<v><caus><pass><cv_mis>$
+      5 #SPECIAL\<v\>\<caus\>\<pass\>\<cv_ma\>\<p3s\>\<dat\>	^SPECIAL<v><caus><pass><cv_ma><p3s><dat>$
+      5 #SPECIAL\<v\>\<caus\>\<part_yan\>	^SPECIAL<v><caus><part_yan>$
+      5 #SARI\<v\>\<t_imp\>\<2s\>	^SARI<v><t_imp><2s>$
+      5 #Mü\<qst\>\<3s\>\<dir\>	^Mü<qst><3s><dir>$
+      4 #SPECIAL\<v\>\<pass\>\<vn_mak\>\<dat\>	^SPECIAL<v><pass><vn_mak><dat>$
+      4 #SPECIAL\<v\>\<pass\>\<vn_acak\>\<p3s\>\<acc\>	^SPECIAL<v><pass><vn_acak><p3s><acc>$
+      4 #SPECIAL\<v\>\<pass\>\<part_yan\>\<3p\>	^SPECIAL<v><pass><part_yan><3p>$
+      4 #SPECIAL\<v\>\<pass\>\<cv_mak\>	^SPECIAL<v><pass><cv_mak>$
+      4 #SPECIAL\<v\>\<pass\>\<cv_ma\>	^SPECIAL<v><pass><cv_ma>$
+      4 #SPECIAL\<v\>\<caus\>\<vn_mak\>\<dat\>	^SPECIAL<v><caus><vn_mak><dat>$
+      4 #SPECIAL\<v\>\<caus\>\<part_dik\>\<acc\>	^SPECIAL<v><caus><part_dik><acc>$
+      4 #SPECIAL\<v\>\<caus\>\<cv_acak\>	^SPECIAL<v><caus><cv_acak>$
+      4 #Mi\<qst\>\<3s\>	^Mi<qst><3s>$
+      3 #tax\<v\>\<ref\>\<vn_acak\>\<acc\>	^tax<v><ref><vn_acak><acc>$
+      3 #tax\<v\>\<ref\>\<cv_erek\>	^tax<v><ref><cv_erek>$
+      3 #SPECIAL\<v\>\<pass\>\<cv_ip\>	^SPECIAL<v><pass><cv_ip>$
+      3 #SPECIAL\<v\>\<pass\>\<cv_acak\>\<p3s\>\<dat\>	^SPECIAL<v><pass><cv_acak><p3s><dat>$
+      3 #SPECIAL\<v\>\<caus\>\<vn_acak\>\<p3s\>\<acc\>	^SPECIAL<v><caus><vn_acak><p3s><acc>$
+      3 #SPECIAL\<v\>\<caus\>\<pass\>\<vn_acak\>\<p3s\>\<acc\>	^SPECIAL<v><caus><pass><vn_acak><p3s><acc>$
+      3 #SPECIAL\<v\>\<caus\>\<pass\>\<part_dik\>\<acc\>	^SPECIAL<v><caus><pass><part_dik><acc>$
+      3 #SPECIAL\<v\>\<caus\>\<pass\>\<cv_mak\>	^SPECIAL<v><caus><pass><cv_mak>$
+      3 #SPECIAL\<v\>\<caus\>\<cv_ma\>\<p3s\>	^SPECIAL<v><caus><cv_ma><p3s>$
+      3 #SPECIAL\<v\>\<caus\>\<cv_mak\>	^SPECIAL<v><caus><cv_mak>$
+      3 #SPECIAL\<v\>\<caus\>\<cv_erek\>	^SPECIAL<v><caus><cv_erek>$
+      3 #nere\<prn\>\<pl\>\<loc\>	^nere<prn><pl><loc>$
+      3 #mü\<qst\>\<3s\>\<dir\>	^mü<qst><3s><dir>$
+      3 #mü\<qst\>\<3s\>	^mü<qst><3s>$
+      3 #mi\<qst\>\<1s\>	^mi<qst><1s>$
+      3 #mi\<qst\>\<1p\>	^mi<qst><1p>$
+      3 #keçin\<v\>\<t_opt\>\<3s\>	^keçin<v><t_opt><3s>$
+
+===============================================================================
+Summary
+===============================================================================
+   4 /tmp/tr-az.multiform
+   0 /tmp/tr-az.multibidix
+  84 /tmp/tr-az.tagmismatch
+  88 total
