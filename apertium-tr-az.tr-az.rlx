@@ -44,6 +44,7 @@ LIST V/SP = (exist) (nexist) ;
 
 LIST PUNCT = pnct ;
 LIST A = adj ;
+LIST KI = ki ;
 LIST Adv = adv ;
 LIST Prop = np ;
 LIST Det = det ;
@@ -164,6 +165,7 @@ LIST CV/dik = (cv_dik) ;
 ##DERIVATIVES
 
 LIST Der/0/Adv→N = (adv Dan_0 n) ;
+LIST Der/ki = (adv ki) ;
 LIST Der/0/A→N = (adj Djn_0 n) ;
 LIST Der/lAn = (n D_lAn v) ;
 LIST Der/CI = (v D_CI n) ;
@@ -665,3 +667,5 @@ REMOVE CA IF (0 ("ki"i)) (0 CA OR CS) (-1 V-REPORTED-SPEECH);
 
 REMOVE CS IF (0 ("ki"i)) (0 CA OR CS) (NOT -1 V-REPORTED-SPEECH);
 ## Gözlerimi açtım [0]ki hastanedeyim.
+
+REMOVE Adv IF (0 A) (0 (adv ki)) ;
