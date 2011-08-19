@@ -3752,7 +3752,6 @@
     <e><p><l>kraliyet</l><r>krallıq</r></p><par n="nominal"/></e>
     <e><p><l>hazar</l><r>sülh</r></p><par n="nominal"/></e>
     <e><p><l>tutukev</l><r>dustaqxana</r></p><par n="nominal"/></e>
-    <e><p><l>otomatik</l><r>otomatik</r></p><par n="nominal"/></e>
     <e><p><l>organizatör</l><r>təşkilatçı</r></p><par n="nominal"/></e>
     <e><p><l>haç</l><r>xaç</r></p><par n="nominal"/></e>
     <e><p><l>yedi</l><r>yeddi</r></p><par n="nominal"/></e>
@@ -4546,7 +4545,7 @@
     <e><p><l>trajik</l><r>tragik</r></p><par n="nominal"/></e>
     <e><p><l>stat</l><r>stadion</r></p><par n="nominal"/></e>
     <e><p><l>reel</l><r>əsl</r></p><par n="nominal"/></e>
-    <e><p><l>otomatikman</l><r>avtomatik</r></p><par n="nominal"/></e>
+    <e><p><l>otomatik</l><r>avtomatik</r></p><par n="nominal"/></e>
     <e><p><l>önşart</l><r>ilkin<b/>şərt</r></p><par n="nominal"/></e>
     <e><p><l>muhtıra</l><r>memorandum</r></p><par n="nominal"/></e>
     <e><p><l>koloni</l><r>koloniya</r></p><par n="nominal"/></e>
@@ -7998,7 +7997,7 @@
     <e><p><l>kanıtla<s n="v"/></l><r>isbat<b/>et<s n="v"/></r></p></e>
     <e><p><l>bas<s n="v"/></l><r>bas<s n="v"/></r></p></e>
     <e><p><l>denetle<s n="v"/></l><r>təftiş<b/>et<s n="v"/></r></p></e>
-    <e><p><l>gerekse<s n="v"/></l><r>SPECIAL<s n="v"/></r></p></e>
+    <e><p><l>gerekse<s n="v"/></l><r>gerekse<s n="v"/></r></p></e>
     <e><p><l>sakla<s n="v"/></l><r>gizlət<s n="v"/></r></p></e>
     <e><p><l>kavuş<s n="v"/></l><r>qovuş<s n="v"/></r></p></e>
     <e><p><l>anlaş<s n="v"/></l><r>anlaş<s n="v"/></r></p></e>
@@ -8009,7 +8008,7 @@
     <e><p><l>ona<s n="v"/></l><r>bəyən<s n="v"/></r></p></e>
     <e><p><l>san<s n="v"/></l><r>san<s n="v"/></r></p></e>
     <e><p><l>boz<s n="v"/></l><r>poz<s n="v"/></r></p></e>
-    <e><p><l>ilgile<s n="v"/></l><r>SPECIAL<s n="v"/></r></p></e>
+    <e><p><l>ilgile<s n="v"/></l><r>ilgile<s n="v"/></r></p></e>
     <e><p><l>tekrarla<s n="v"/></l><r>təkrar<b/>et<s n="v"/></r></p></e>
     <e><p><l>edin<s n="v"/></l><r>qazan<s n="v"/></r></p></e>
     <e><p><l>bit<s n="v"/></l><r>bit<s n="v"/></r></p></e>
@@ -8022,7 +8021,7 @@
     <e><p><l>odakla<s n="v"/></l><r>fokusa<b/>yığ<s n="v"/></r></p></e>
     <e><p><l>dinle<s n="v"/></l><r>dinlə<s n="v"/></r></p></e>
     <e><p><l>yayımla<s n="v"/></l><r>çap<b/>et<s n="v"/></r></p></e>
-    <e><p><l>görevlen<s n="v"/></l><r>SPECIAL<s n="v"/></r></p></e>
+    <e><p><l>görevlen<s n="v"/></l><r>görevlen<s n="v"/></r></p></e>
     <e><p><l>uyar<s n="v"/></l><r>xəbərdarlıq<b/>et<s n="v"/></r></p></e>
     <e><p><l>bulaş<s n="v"/></l><r>bulaş<s n="v"/></r></p></e>
     <e><p><l>yararlan<s n="v"/></l><r>xeyir<b/>gətir<s n="v"/></r></p></e>
