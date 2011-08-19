@@ -156,10 +156,10 @@ $cpl$ = $cpl_di$ |  $cpl_mis$ | $cpl_sa$
 % These come after most t/a/m markers
 
 $p2_1s$ = <1s>:{<bY><A>m} <MB>
-$p2_2s$ = <2s>:{s<A>n} <MB>
+$p2_2s$ = <2s>:{s<I>n} <MB>
 $p2_2sf$ = <2sf>:{s<I>n<I>z} <MB>
 $p2_3s$ = <3s>:{} <MB>
-$p2_1p$ = <1p>:{<I><Q>} <MB>
+$p2_1p$ = <1p>:{<bY><I>z} <MB>
 $p2_2p$ = <2p>:{s<I>n<I>z} <MB>
 $p2_3p$ = <3p>:{l<A>r} <MB>
 
