@@ -18,7 +18,7 @@ ALPHABET = [#Ssym#] [#pos##infl_feat##BM#]\
            <C><D> \
            <LN> \
            <p>   <t>   <c>   <g>   <k>   \
-           <p>:b <t>:d <c>:c <g>:ğ <k>:ğ <k>:g <K>:k <K>:y <q>:q <q>:y 
+           <p>:b <t>:d <c>:c <g>:ğ <k>:ğ <k>:g <K>:k <K>:y <x>:q <x>:y 
 %
 % realize root final <p>,<t> as b,d if flooowed by a vowel, p,t otherwise
 %% k->ğ, nk -> ng
@@ -36,7 +36,7 @@ $FSD_kG$ = ([^n]) <k> <=> ğ ([#pos##infl_feat##BM#]* [#V#<A><I>])
 $FSD_kg$ = (n)    <k> <=> g ([#pos##infl_feat##BM#]* [#V#<A><I>])
 $FSD_pb$ =        <p> <=> b ([#pos##infl_feat##BM#]* [#V#<A><I>])
 $FSD_td$ =        <t> <=> d ([#pos##infl_feat##BM#]* [#V#<A><I>])
-$FSD_qy$ =        <q> <=> y ([#pos##infl_feat##BM#]* [#V#<A><I>])
+$FSD_qy$ =        <x> <=> y ([#pos##infl_feat##BM#]* [#V#<A><I>])
 
 
 $FSD$ = $FSD_cc$ & $FSD_gG$ & $FSD_kG$ & $FSD_KG$ & $FSD_kg$ &\

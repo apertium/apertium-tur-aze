@@ -7,11 +7,11 @@
 ALPHABET = [#Ssym#] [#pos##BM##infl_feat#]\
            <Q>:<q> <Q>:<k> <A> <I> [#V_Pal#] \
            <C><D><K> \
-           <c><p><t><k><g><q> \
+           <c><p><t><k><g><x> \
            <LN> \
            <dup>
            
-$CH_Qk$ = (.:[#V_b#]  [#Non_V#]*) <Q> <=> <q>
+$CH_Qk$ = (.:[#V_b#]  [#Non_V#]*) <Q> <=> <x>
 
 
 $CH_Qk$
