@@ -2,7 +2,7 @@
 #C_v# =  bdcgvzjfğlmnrwyBDCGVZJFĞLMNRWY
 #C_uv# = ptçkqfsşhPTÇKQFSŞH
 #C_Buff# = <bY><bS><bSS><bN>
-#C_xx# = <c><p><t><k><g><K><D><C><Q><q>
+#C_xx# = <c><p><t><k><g><K><D><C><Q><x>
 #C_all# = #C##C_xx##C_Buff#
 
 #V# = aeəıioöuüAEIİOÖUÜƏ
@@ -21,7 +21,7 @@
 
 % POS tags
 %#pos# = <Adj><Adv><Noun><Prop><Pron><Postp><Interj><Conj><Verb><Num><Punct>
-#pos# = <adj><adv><n><np><prn><postp><ij><cnjcoo><cnjsub><cnjadv><v><vaux><num><det><pnct><exist><nexist><not><q>
+#pos# = <adj><adv><n><np><prn><postp><ij><cnjcoo><cnjsub><cnjadv><v><vaux><num><det><pnct><exist><nexist><not><x>
 #subcat# = <pers><dem><locp><qst>
 #BM#  = <RB><MB>    % Boundary markers
 
