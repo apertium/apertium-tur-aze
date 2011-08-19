@@ -5,7 +5,7 @@
 
 
 ALPHABET = [#Ssym#] [#pos##BM##infl_feat#]\
-           <Q>:<q> <Q>:<k> <A> <I> [#V_Pal#] \
+           <Q>:<x> <Q>:<k> <A> <I> [#V_Pal#] \
            <C><D><K> \
            <c><p><t><k><g><x> \
            <LN> \

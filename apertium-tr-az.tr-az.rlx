@@ -549,7 +549,7 @@ REMOVE PxPl3 IF (NOT -1 Gen OR ABS) ;
 
 REMOVE FINITE IF (1 ("lazım"i)) ;
 
-REMOVE PxSg3 IF (NOT -1 Gen OR ABS OR BOS) ;
+REMOVE PxSg3 IF ((NOT -1 Gen OR ABS OR BOS) OR (NOT -2 Gen OR ABS OR BOS));
 
 ## These rules are used to remove possessives when we are "almost"
 ## certain that it cannot be so. It doesn't remove Poss in case of -1 ABS 
