@@ -842,7 +842,7 @@
     <e><p><l>elmas</l><r>almaz</r></p><par n="nominal"/></e>  
     <e><p><l>emanet</l><r>əmanət</r></p><par n="nominal"/></e>  
     <e><p><l>emek</l><r>pensiya</r></p><par n="nominal"/></e>  
-    <e><p><l>emin</l><r>əmin</r></p><par n="nominal"/></e>  
+    <!--<e><p><l>emin</l><r>əmin</r></p><par n="nominal"/></e>-->
     <e><p><l>emir</l><r>əmr</r></p><par n="nominal"/></e>  
     <e><p><l>emniyet</l><r>asayiş</r></p><par n="nominal"/></e>  
     <e><p><l>endişe</l><r>əndişə</r></p><par n="nominal"/></e>  
@@ -7417,7 +7417,7 @@
     <e><p><l>aslında<s n="adv"/></l><r>əslində<s n="adv"/></r></p></e>
     <e><p><l>daha<s n="adv"/></l><r>daha<s n="adv"/></r></p></e>
     <e><p><l>ancak<s n="adv"/></l><r>ancaq<s n="adv"/></r></p></e>
-    <e><p><l>önce<s n="adv"/></l><r>öncə<s n="adv"/></r></p></e>
+    <!--<e><p><l>önce<s n="adv"/></l><r>öncə<s n="adv"/></r></p></e>-->
     <e><p><l>birlikte<s n="adv"/></l><r>birlikdə<s n="adv"/></r></p></e>
     <e><p><l>karşı<s n="adv"/></l><r>qarşı<s n="adv"/></r></p></e>
     <e><p><l>ilk<s n="adv"/></l><r>ilk<s n="adv"/></r></p></e>
@@ -8366,7 +8366,7 @@
     <e><p><l>yakış<s n="v"/></l><r>yakış<s n="v"/></r></p></e>
     <e><p><l>yağla<s n="v"/></l><r>yağla<s n="v"/></r></p></e>
     <e><p><l>tökezle<s n="v"/></l><r>çaş<s n="v"/></r></p></e>
-    <e><p><l>terket<s n="v"/></l><r>tərk<b/>et<s n="v"/></r></p></e>
+    <!--<e><p><l>terket<s n="v"/></l><r>tərk<b/>et<s n="v"/></r></p></e>-->
     <e><p><l>tekmele<s n="v"/></l><r>zərbə<b/>endir<s n="v"/></r></p></e>
     <e><p><l>tat<s n="v"/></l><r>dad<s n="v"/></r></p></e>
     <e><p><l>sinirle<s n="v"/></l><r>əsəbləş<s n="v"/></r></p></e>
