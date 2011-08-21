@@ -242,6 +242,8 @@ REMOVE Imper IF (0 ("değil"i)) ;
 # We don't want them in the transfer though, cause they are problematic to handle
 #
 
+REMOVE Adv IF (0 A) (0 (adv ki)) ;
+
 REMOVE NP/Sal ;
 
 REMOVE N/Sal ;
@@ -668,4 +670,4 @@ REMOVE CA IF (0 ("ki"i)) (0 CA OR CS) (-1 V-REPORTED-SPEECH);
 REMOVE CS IF (0 ("ki"i)) (0 CA OR CS) (NOT -1 V-REPORTED-SPEECH);
 ## Gözlerimi açtım [0]ki hastanedeyim.
 
-REMOVE Adv IF (0 A) (0 (adv ki)) ;
+
