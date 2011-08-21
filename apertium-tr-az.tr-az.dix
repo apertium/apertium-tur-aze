@@ -210,7 +210,7 @@
     <e><p><l>biz<s n="prn"/><s n="pers"/></l><r>biz<s n="prn"/></r></p></e> <!-- Pers -->
     <e><p><l>siz<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/></r></p></e> <!-- Pers -->
     <e><p><l>onlar<s n="prn"/><s n="pers"/></l><r>onlar<s n="prn"/></r></p></e> <!-- Pers -->
-
+    
 
     <e><p><l>bir<s n="det"/></l><r>bir<s n="det"/></r></p></e> <!-- Det -->
 
@@ -221,6 +221,7 @@
     <e><p><l>ne<s n="prn"/><s n="qst"/></l><r>nə<s n="prn"/></r></p></e>
     <e><p><l>öteki<s n="prn"/></l><r>digər<s n="prn"/></r></p></e> <!-- Ind 'other' -->
     <e><p><l>şu<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/></r></p></e> <!-- Dem -->
+    <e><p><l>birisi<s n="prn"/><s n="dem"/></l><r>birisi<s n="prn"/></r></p></e>
 
     <e><p><l>nere<s n="prn"/><s n="qst"/></l><r>nere<s n="prn"/></r></p></e>
 
@@ -3639,7 +3640,6 @@
     <e><p><l>biri</l><r>biri</r></p><par n="nominal"/></e>
     <e><p><l>söylem</l><r>ifadə</r></p><par n="nominal"/></e>
     <e><p><l>sayım</l><r>sayma</r></p><par n="nominal"/></e>
-    <e><p><l>birisi</l><r>birisi</r></p><par n="nominal"/></e>
     <e><p><l>kıyas</l><r>müqayisə</r></p><par n="nominal"/></e>
     <e><p><l>sürücü</l><r>sürücü</r></p><par n="nominal"/></e>
     <e><p><l>hep</l><r>həmişə</r></p><par n="nominal"/></e>
