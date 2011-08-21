@@ -31,6 +31,7 @@
 <def-cat n="abil">
       <cat-item tags="v.abil.*"/>
       <cat-item tags="v.pass.abil.*"/>
+      <cat-item tags="v.caus.pass.abil.*"/>
   </def-cat>
     
   </section-def-cats>
