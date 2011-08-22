@@ -32,6 +32,7 @@
       <cat-item tags="v.abil.*"/>
       <cat-item tags="v.pass.abil.*"/>
       <cat-item tags="v.caus.pass.abil.*"/>
+      <cat-item tags="v.caus.abil.*"/>
   </def-cat>
     
   </section-def-cats>
