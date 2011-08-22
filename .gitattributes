@@ -27,8 +27,8 @@ dev/corpus-inconsistency.sh -text
 dev/disambiguation_rules.txt -text
 dev/evaluation/README -text
 dev/evaluation/setimes.bulgar.tr.txt -text
-dev/evaluation/setimes.kosova.plate.az -text
 dev/evaluation/setimes.kosova.tr.txt -text
+dev/evaluation/setimes.kosova_plate.az.txt -text
 dev/evaluation/setimes.kosova_plate.tr.txt -text
 dev/evaluation/wikipedia.kadinlar_askerler.tr.txt -text
 dev/extract-translations.sh -text
