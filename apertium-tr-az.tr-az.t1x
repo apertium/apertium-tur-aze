@@ -160,6 +160,7 @@
             <clip pos="1" side="tl" part="a_nom"/>
             <clip pos="1" side="tl" part="gen"/>
             <clip pos="1" side="tl" part="nbr"/>
+            <clip pos="1" side="tl" part="poss_pers"/>
             <clip pos="1" side="tl" part="cas"/>
             <clip pos="1" side="tl" part="lemq"/>
           </lu>
