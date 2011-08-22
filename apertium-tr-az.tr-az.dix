@@ -279,6 +279,10 @@
 
  <!-- SECTION: Nouns -->
      <e><p><l>havacılık</l><r>aviasiya</r></p><par n="nominal"/></e>
+     <e><p><l>şimdiki</l><r>indiki</r></p><par n="nominal"/></e>
+     <e><p><l>bu<b/>günkü</l><r>bugünkü</r></p><par n="nominal"/></e>   
+          
+
 
     <e><p><l>yer</l><r>yer</r></p><par n="nominal"/></e>
     <e><p><l>ön</l><r>ön</r></p><par n="nominal"/></e>
