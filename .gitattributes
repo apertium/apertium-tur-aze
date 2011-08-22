@@ -153,6 +153,7 @@ morph-tr/version.fst -text
 morph-tr/vinfl.fst -text
 /pending-tests.sh -text
 /regression-tests.sh -text
+/setimes.kosova.plate.az -text
 tests/0000.dis.txt -text
 tests/0000.txt -text
 tests/0001.dis.txt -text
