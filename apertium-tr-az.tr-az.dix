@@ -5759,6 +5759,8 @@
     <e><p><l>Ekim<s n="np"/></l><r>Ekim<s n="np"/></r></p></e>
     <e><p><l>Batı<s n="np"/></l><r>Batı<s n="np"/></r></p></e>
     <e><p><l>IMF<s n="np"/><s n="acr"/></l><r>IMF<s n="np"/></r></p></e>
+    <e><p><l>YAK<s n="np"/><s n="acr"/></l><r>YAK<s n="np"/></r></p></e>
+    <e><p><l>SAR<s n="np"/><s n="acr"/></l><r>SAR<s n="np"/></r></p></e>
     <e><p><l>Müslüman<s n="np"/></l><r>Müslüman<s n="np"/></r></p></e>
     <e><p><l>Kasım<s n="np"/></l><r>Kasım<s n="np"/></r></p></e>
     <e><p><l>Yugoslav<s n="np"/></l><r>Yugoslav<s n="np"/></r></p></e>
@@ -7441,7 +7443,7 @@
     <e><p><l>beri<s n="adv"/></l><r>bəri<s n="adv"/></r></p></e>
 
     <e><p><l>neden<s n="adv"/></l><r>niyə<s n="adv"/></r></p></e>
-    <e><p><l>şimdi<s n="adv"/></l><r>indi<s n="adv"/></r></p></e>
+    <!--<e><p><l>şimdi<s n="adv"/></l><r>indi<s n="adv"/></r></p></e>-->
     <e><p><l>sürekli<s n="adv"/></l><r>daimi<s n="adv"/></r></p></e>
     <e><p><l>tamamen<s n="adv"/></l><r>tamamilə<s n="adv"/></r></p></e>
     <e><p><l>şöyle<s n="adv"/></l><r>belə<s n="adv"/></r></p></e>
@@ -7651,7 +7653,7 @@
     <e><p><l>neredeyse<s n="adv"/></l><r>az<b/>qala<s n="adv"/></r></p></e>  <!-- CHECK -->
     <e><p><l>nerdeyse<s n="adv"/></l><r>az<b/>qala<s n="adv"/></r></p></e>  <!-- CHECK -->
     <e><p><l>zaten<s n="adv"/></l><r>onsuz<b/>da<s n="adv"/></r></p></e>  <!-- CHECK -->
-    <e><p><l>bugün<s n="adv"/></l><r>bu<b/>gün<s n="adv"/></r></p></e>  <!-- CHECK -->
+    <!--<e><p><l>bugün<s n="adv"/></l><r>bu<b/>gün<s n="adv"/></r></p></e>-->  <!-- CHECK -->
     <e><p><l>biraz<s n="adv"/></l><r>bir<b/>az<s n="adv"/></r></p></e>  <!-- CHECK -->
 
 

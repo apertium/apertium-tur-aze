@@ -670,4 +670,4 @@ REMOVE CA IF (0 ("ki"i)) (0 CA OR CS) (-1 V-REPORTED-SPEECH);
 REMOVE CS IF (0 ("ki"i)) (0 CA OR CS) (NOT -1 V-REPORTED-SPEECH);
 ## Gözlerimi açtım [0]ki hastanedeyim.
 
-
+REMOVE (t_imp) (0 (t_mp) OR (acr)) (0 ("<[A-Z]\+>"r));
