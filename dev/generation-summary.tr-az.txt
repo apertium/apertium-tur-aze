@@ -5,9 +5,7 @@ Translating corpus for generation test (this could take some time)... done.
 ===============================================================================
 Multiple surface forms for a single lexical form
 ===============================================================================
-      5 burultulabilməz/burultulamaz	^burul<v><caus><pass><abil><neg><t_aor><3s>$
       4 qaltabilməyiz/qaltamayız	^qal<v><caus><abil><neg><t_aor><1p>$
-      4 dəyişdiriləbilməz/dəyişdiriləməz	^dəyiş<v><caus><pass><abil><neg><t_aor><3s>$
       3 qaltabilməz/qaltamaz	^qal<v><caus><abil><neg><t_aor><3s>$
 
 ===============================================================================
@@ -17,12 +15,8 @@ Multiple bidix entries for a single source language lexical form
 ===============================================================================
 Tag mismatch between transfer and generation
 ===============================================================================
-     44 #gün\<adv\>\<ki\>	^gün<adv><ki>$
      29 #indi\<adv\>\<ki\>	^indi<adv><ki>$
-     20 #sonra\<adv\>\<ki\>	^sonra<adv><ki>$
      18 #bu gün\<adv\>\<ki\>	^bu gün<adv><ki>$
-     13 #avtoritar\<n\>	^avtoritar<n>$
-     11 #il\<adv\>\<ki\>	^il<adv><ki>$
      10 #Indi\<adv\>\<ki\>	^Indi<adv><ki>$
       7 #YANDIR\<v\>\<t_imp\>\<2s\>	^YANDIR<v><t_imp><2s>$
       7 #Bu gün\<adv\>\<ki\>	^Bu gün<adv><ki>$
@@ -31,7 +25,7 @@ Tag mismatch between transfer and generation
 ===============================================================================
 Summary
 ===============================================================================
-  4 /tmp/tr-az.multiform
+  2 /tmp/tr-az.multiform
   0 /tmp/tr-az.multibidix
- 10 /tmp/tr-az.tagmismatch
- 14 total
+  6 /tmp/tr-az.tagmismatch
+  8 total
