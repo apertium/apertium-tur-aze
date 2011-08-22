@@ -5,8 +5,6 @@ Translating corpus for generation test (this could take some time)... done.
 ===============================================================================
 Multiple surface forms for a single lexical form
 ===============================================================================
-      4 qaltabilməyiz/qaltamayız	^qal<v><caus><abil><neg><t_aor><1p>$
-      3 qaltabilməz/qaltamaz	^qal<v><caus><abil><neg><t_aor><3s>$
 
 ===============================================================================
 Multiple bidix entries for a single source language lexical form
@@ -15,17 +13,14 @@ Multiple bidix entries for a single source language lexical form
 ===============================================================================
 Tag mismatch between transfer and generation
 ===============================================================================
-     29 #indi\<adv\>\<ki\>	^indi<adv><ki>$
-     18 #bu gün\<adv\>\<ki\>	^bu gün<adv><ki>$
-     10 #Indi\<adv\>\<ki\>	^Indi<adv><ki>$
-      7 #YANDIR\<v\>\<t_imp\>\<2s\>	^YANDIR<v><t_imp><2s>$
-      7 #Bu gün\<adv\>\<ki\>	^Bu gün<adv><ki>$
-      5 #SARI\<v\>\<t_imp\>\<2s\>	^SARI<v><t_imp><2s>$
+     29 #indiki\<adj\>	^indiki<adj>$
+     10 #Indiki\<adj\>	^Indiki<adj>$
+      4 #bil\<v\>\<cv_dik\>	^bil<v><cv_dik>$
 
 ===============================================================================
 Summary
 ===============================================================================
-  2 /tmp/tr-az.multiform
+  0 /tmp/tr-az.multiform
   0 /tmp/tr-az.multibidix
-  6 /tmp/tr-az.tagmismatch
-  8 total
+  3 /tmp/tr-az.tagmismatch
+  3 total
