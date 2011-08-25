@@ -27,6 +27,7 @@ dev/bilingual-summary.txt -text
 dev/corpus-inconsistency.sh -text
 dev/disambiguation_rules.txt -text
 dev/evaluation/README -text
+dev/evaluation/asker-kadin.az.postedit -text
 dev/evaluation/setimes.bulgar.tr.txt -text
 dev/evaluation/setimes.kosova.tr.txt -text
 dev/evaluation/setimes.kosova_plate.az.txt -text
