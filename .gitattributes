@@ -24,6 +24,10 @@ dev/bidix/pending_pronouns.txt -text
 dev/bidix/pending_proper_nouns.txt -text
 dev/bidix/pending_verbs.txt -text
 dev/bilingual-summary.txt -text
+dev/comparative/undhr.az.txt -text
+dev/comparative/undhr.tr-az.apertium.txt -text
+dev/comparative/undhr.tr-az.google.txt -text
+dev/comparative/undhr.tr.txt -text
 dev/corpus-inconsistency.sh -text
 dev/disambiguation_rules.txt -text
 dev/evaluation/README -text
