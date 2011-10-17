@@ -7,7 +7,7 @@ FSTFILES = 010-exception_deye.fst 020-compn.fst \
 FSAFILES=$(FSTFILES:.fst=.a)
 SOURCES = $(LEXFILES) $(FSTFILES)
 
-.PHONY: all
+.PHONY: all install
 
 %.a: %.fst
 	hfst-calculate -w -v -i $< -o $@	
