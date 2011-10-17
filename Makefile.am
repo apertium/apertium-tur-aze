@@ -70,7 +70,8 @@ EXTRA_DIST=$(PREFIX1).prob $(PREFIX2).prob \
 
 apertium_tr_azmodesdir=$(prefix)/share/apertium/modes/
 apertium_tr_azdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_tr_az_DATA=$(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
+apertium_tr_az_DATA=$(PREFIX1).autobil.bin \
+                    $(PREFIX1).automorf.hfst \
                     $(PREFIX1).prob $(PREFIX2).prob \
 		    $(PREFIX1).t1x.bin  \
 		    $(PREFIX1).rlx.bin  \
