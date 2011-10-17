@@ -84,7 +84,7 @@ install-data-local:
 	$(prefix)/bin/apertium-gen-modes modes.xml $(BASENAME)
 	rm -rf modes
 	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_sme_modesdir) || mkdir $(DESTDIR)$(apertium_tr_azmodesdir)
+	test -d $(DESTDIR)$(apertium_tr_azmodesdir) || mkdir $(DESTDIR)$(apertium_tr_azmodesdir)
 	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_tr_azmodesdir)
 	rm $(PREFIX1).mode
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_tr_azdir)
