@@ -3,14 +3,14 @@
 ###############################################################################
 
 VERSION=0.2.0
-LANG1=tr
-LANG2=az
+LANG1=tur
+LANG2=aze
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX2=$(LANG2)-$(LANG1)
 
 BASENAME=apertium-$(PREFIX1)
 
-SUBDIRS = morph-tr morph-az .
+SUBDIRS = morph-tur morph-aze .
 
 TARGETS_COMMON = $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin  \
 	$(PREFIX1).t1x.bin $(PREFIX1).rlx.bin \
@@ -68,9 +68,9 @@ EXTRA_DIST=$(PREFIX1).prob $(PREFIX2).prob \
            $(BASENAME).$(PREFIX2).t1x \
            modes.xml
 
-apertium_tr_azmodesdir=$(prefix)/share/apertium/modes/
-apertium_tr_azdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_tr_az_DATA=$(PREFIX1).autobil.bin \
+apertium_tur_azemodesdir=$(prefix)/share/apertium/modes/
+apertium_tur_azedir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
+apertium_tur_aze_DATA=$(PREFIX1).autobil.bin \
                     $(PREFIX1).automorf.hfst \
                     $(PREFIX1).prob $(PREFIX2).prob \
 		    $(PREFIX1).t1x.bin  \
@@ -85,9 +85,9 @@ install-data-local:
 	$(prefix)/bin/apertium-gen-modes modes.xml $(BASENAME)
 	rm -rf modes
 	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_tr_azmodesdir) || mkdir $(DESTDIR)$(apertium_tr_azmodesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_tr_azmodesdir)
+	test -d $(DESTDIR)$(apertium_tur_azemodesdir) || mkdir $(DESTDIR)$(apertium_tur_azemodesdir)
+	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_tur_azemodesdir)
 	rm $(PREFIX1).mode
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_tr_azdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_tur_azedir)
 
 CLEANFILES = -r $(TARGETS_COMMON) 
