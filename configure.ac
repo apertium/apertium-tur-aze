@@ -1,14 +1,12 @@
-
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-tur-aze], [0.1.0], [ggrossi@gmail.com])
-AM_INIT_AUTOMAKE([apertium-tur-aze], [0.1.0], no-define)
+AC_INIT([apertium-tur-aze], [0.2.0], [ggrossi@gmail.com])
+AM_INIT_AUTOMAKE([apertium-tur-aze], [0.2.0], no-define)
 AC_PROG_LN_S
 AC_PROG_AWK
 
 m4_define([required_apertium_version], [3.2.0])
 PKG_CHECK_MODULES(APERTIUM,   apertium >= required_apertium_version, [], [PKG_CHECK_MODULES(APERTIUM,   apertium-3.2 >= required_apertium_version)])
-                          
 
 #PKG_CHECK_MODULES(HFST, hfst >= 3.0.0)
 
@@ -32,4 +30,6 @@ then
   AC_MSG_ERROR([You don't have cg-proc installed.])
 fi
 
-AC_OUTPUT([Makefile morph-az/Makefile morph-tr/Makefile])
+AP_MKINCLUDE
+
+AC_OUTPUT([Makefile morph-aze/Makefile morph-tur/Makefile])
